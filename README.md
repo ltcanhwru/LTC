@@ -96,11 +96,11 @@ Muốn sửa trang giới thiệu: mở `about.html`, nội dung nằm giữa ha
 
 Làm một lần duy nhất, sau đó mỗi lần đăng bài chỉ cần 3 câu lệnh.
 
-Địa chỉ đích: **https://ltcanh.github.io/LTC/**
+Địa chỉ đích: **https://ltcanhwru-afk.github.io/LTC/**
 
 ### Lần đầu
 
-Kho git ở máy đã được khởi tạo sẵn, đã commit, và đã trỏ remote về `https://github.com/ltcanh/LTC.git`. Chỉ còn 3 việc:
+Kho git ở máy đã được khởi tạo sẵn, đã commit, và đã trỏ remote về `https://github.com/ltcanhwru-afk/LTC.git`. Chỉ còn 3 việc:
 
 **a.** Vào [github.com/new](https://github.com/new) tạo repository mới:
 
@@ -122,7 +122,7 @@ Lần đầu chạy, một cửa sổ trình duyệt sẽ tự bật lên — b�
 - Branch: **main**, thư mục **/ (root)**
 - Bấm **Save**
 
-Đợi khoảng 1–2 phút, website sẽ chạy tại `https://ltcanh.github.io/LTC/`.
+Đợi khoảng 1–2 phút, website sẽ chạy tại `https://ltcanhwru-afk.github.io/LTC/`.
 
 ### Những lần sau, mỗi khi đăng bài mới
 
