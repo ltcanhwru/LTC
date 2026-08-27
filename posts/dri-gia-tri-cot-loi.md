@@ -2,7 +2,7 @@
 
 Ngày 27/08/2026, cổ phiếu DRI của Công ty CP Đầu tư Cao su Đắk Lắk đóng cửa quanh 14.200 đồng trên sàn UPCoM, vốn hóa khoảng 1.039 tỷ đồng. Cũng trong tháng này, công ty công bố một con số hiếm gặp: **sau bảy tháng, lợi nhuận trước thuế đã đạt 134% kế hoạch cả năm**.
 
-Bài này không dự đoán giá cổ phiếu. Nó cố gắng trả lời một câu hỏi khác, chậm hơn: *thứ mà người mua DRI đang thực sự mua là gì, và nó đáng bao nhiêu theo chính những con số công ty công bố.*
+Câu hỏi đáng đặt ra không phải giá cổ phiếu sẽ đi đâu, mà là thứ nằm sau mã DRI đáng bao nhiêu theo chính những con số công ty công bố.
 
 ## 1. Doanh nghiệp này thực chất là gì
 
@@ -167,7 +167,7 @@ Nói cách khác, **một nửa lợi nhuận kế toán không đi tới túi c
 - Tôi quy đổi USD sang VND ở mức 26.000 đồng, lấy từ chính báo cáo tháng 7 của công ty. Tỷ giá biến động sẽ làm mọi phép tính lệch đi.
 - Số liệu quý lấy từ báo cáo tài chính hợp nhất chưa kiểm toán, còn số liệu 7 tháng lấy từ báo cáo tự công bố của công ty (là số **ước tính**, và dùng khái niệm "tổng doanh thu hợp nhất" gồm cả thu nhập khác, nên không khớp tuyệt đối với doanh thu thuần trên báo cáo tài chính).
 - Tỷ lệ sở hữu 45% của Dakruco là con số sau đợt thoái vốn đầu 2025; nếu có giao dịch phát sinh sau đó mà tôi chưa cập nhật thì phần rủi ro cung sẽ khác đi.
-- Tôi không có mô hình cung cầu cao su thế giới. Mọi nhận định về giá trong bài chỉ là ghi nhận mức giá đang diễn ra, không phải dự báo.
+- Tôi không có mô hình cung cầu cao su thế giới. Các mức giá nêu trong bài là giá đang diễn ra trên sàn SGX và giá DRI thực bán, không phải kết quả của một mô hình nào.
 
 ## 11. Kết luận
 
@@ -181,4 +181,4 @@ Mức độ chắc chắn của tôi, nói thẳng: **gần như chắc chắn**
 
 ---
 
-*Bài viết là ghi chép cá nhân dựa trên tài liệu công bố công khai của doanh nghiệp tính đến 27/08/2026, không phải khuyến nghị mua bán. Nguồn: báo cáo tài chính hợp nhất theo quý của DRI, tài liệu Đại hội đồng cổ đông thường niên 2026 và báo cáo kết quả sản xuất kinh doanh tháng 07/2026 đăng tại [dri.com.vn](https://dri.com.vn), dữ liệu giá thị trường từ Simplize và VietstockFinance.*
+*Số liệu cập nhật đến 27/08/2026. Nguồn: báo cáo tài chính hợp nhất theo quý của DRI, tài liệu Đại hội đồng cổ đông thường niên 2026 và báo cáo kết quả sản xuất kinh doanh tháng 07/2026 đăng tại [dri.com.vn](https://dri.com.vn), giá thị trường từ Simplize và VietstockFinance.*
