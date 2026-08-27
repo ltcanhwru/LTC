@@ -24,23 +24,15 @@
       </div>
     </section>
 
-    <div class="wrap">
-      <div class="toolbar">
-        <label class="search-field">
-          <span class="visually-hidden">Tìm bài viết</span>
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-            <circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/>
-          </svg>
-          <input type="search" id="searchInput" placeholder="Tìm theo tiêu đề, thẻ..." autocomplete="off">
-        </label>
-        <div class="tag-filters" id="tagFilters"></div>
+    <div class="wrap layout">
+      <div>
+        <div class="post-grid" id="postGrid">
+          <div class="empty-state">Đang tải bài viết…</div>
+        </div>
+        <div id="moreWrap" style="text-align:center; padding-top:32px;"></div>
       </div>
 
-      <div class="post-grid" id="postGrid">
-        <div class="empty-state">Đang tải bài viết…</div>
-      </div>
-
-      <div id="moreWrap" style="text-align:center; padding-bottom:72px;"></div>
+      <aside class="sidebar" id="sidebar"></aside>
     </div>
   </main>
 
@@ -48,6 +40,7 @@
 
   <script src="js/config.js"></script>
   <script src="js/markdown.js"></script>
+  <script src="js/views.js"></script>
   <script src="js/site.js"></script>
   <script src="js/home.js"></script>
 </body>

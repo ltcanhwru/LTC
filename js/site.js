@@ -68,7 +68,8 @@
     search: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>',
     play: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>',
     arrowLeft: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>',
-    link: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg>'
+    link: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg>',
+    eye: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7-10-7-10-7z"/><circle cx="12" cy="12" r="3"/></svg>'
   };
 
   /* ---------- Dựng header ---------- */
@@ -117,7 +118,15 @@
             '<span class="brand-mark">' + escapeHtml(CFG.initials || 'B') + '</span>' +
             '<span>' + escapeHtml(CFG.title || 'Blog') + '</span>' +
           '</a>' +
-          '<nav class="nav-links" id="navLinks">' + linksHtml + '</nav>' +
+          '<nav class="nav-links" id="navLinks">' + linksHtml +
+            // Ô tìm kiếm nằm ngay sau mục cuối của menu.
+            // Trên điện thoại nó nằm gọn trong menu thu gọn.
+            '<label class="search-field">' +
+              '<span class="visually-hidden">Tìm bài viết</span>' +
+              ICONS.search +
+              '<input type="search" id="searchInput" placeholder="Tìm bài viết…" autocomplete="off">' +
+            '</label>' +
+          '</nav>' +
           '<button class="icon-btn" id="themeToggle" type="button" aria-label="Đổi giao diện sáng/tối">' +
             ICONS.sun + ICONS.moon +
           '</button>' +
@@ -147,6 +156,72 @@
           (items.length ? '<nav class="footer-links">' + items.join('') + '</nav>' : '') +
         '</div>' +
       '</footer>';
+  }
+
+  /* ---------- Cột dọc bên phải ---------- */
+
+  /* Ô "Bài xem nhiều" — xếp hạng theo lượt xem, kèm số đếm */
+  function buildPopularWidget(posts) {
+    if (!global.Views || !posts || !posts.length) return '';
+
+    var top = global.Views.rank(posts, CFG.popularCount || 5);
+
+    var items = top.map(function (entry, i) {
+      var p = entry.post;
+      return '<li class="rank-item">' +
+        '<span class="rank-num">' + (i + 1) + '</span>' +
+        '<span class="rank-body">' +
+          '<a href="post.html?p=' + encodeURIComponent(p.slug) + '">' + escapeHtml(p.title) + '</a>' +
+          '<span class="rank-views">' + ICONS.eye +
+            global.Views.format(entry.views) + ' lượt xem' +
+          '</span>' +
+        '</span>' +
+      '</li>';
+    }).join('');
+
+    return '<section class="widget">' +
+      '<h3>Bài xem nhiều</h3>' +
+      '<ol class="rank-list">' + items + '</ol>' +
+      '<p class="widget-note">Đếm theo số lần mở bài trên trình duyệt của bạn.</p>' +
+    '</section>';
+  }
+
+  /* Ô "Sách tiêu biểu" — lấy từ danh sách books trong config.js */
+  function buildBooksWidget() {
+    var books = CFG.books || [];
+    if (!books.length) return '';
+
+    var items = books.map(function (b) {
+      var cover = b.cover
+        ? '<img class="book-cover" src="' + escapeHtml(b.cover) + '" alt="" loading="lazy">'
+        : '<span class="book-cover is-placeholder">' +
+            escapeHtml((b.title || '?').trim().charAt(0).toUpperCase()) + '</span>';
+
+      var title = b.link
+        ? '<a href="' + escapeHtml(b.link) + '">' + escapeHtml(b.title) + '</a>'
+        : escapeHtml(b.title);
+
+      return '<li class="book">' + cover +
+        '<span class="book-body">' +
+          '<span class="book-title">' + title + '</span>' +
+          (b.author ? '<span class="book-author">' + escapeHtml(b.author) + '</span>' : '') +
+          (b.note ? '<span class="book-note">' + escapeHtml(b.note) + '</span>' : '') +
+        '</span>' +
+      '</li>';
+    }).join('');
+
+    return '<section class="widget">' +
+      '<h3>Sách tiêu biểu</h3>' +
+      '<ul class="book-list">' + items + '</ul>' +
+    '</section>';
+  }
+
+  /* Ghép cột phải. Vào mục "Sách" thì ô sách hiện lên trên cùng. */
+  function buildSidebar(posts, activeTag) {
+    var parts = [];
+    if (activeTag === 'Sách') parts.push(buildBooksWidget());
+    parts.push(buildPopularWidget(posts));
+    return parts.filter(Boolean).join('');
   }
 
   /* ---------- Gắn header/footer + sự kiện ---------- */
@@ -217,6 +292,7 @@
   global.Site = {
     config: CFG,
     icons: ICONS,
+    buildSidebar: buildSidebar,
     mountChrome: mountChrome,
     loadPostIndex: loadPostIndex,
     formatDate: formatDate,

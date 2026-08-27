@@ -49,6 +49,35 @@ window.SITE = {
     x: ''
   },
 
+  // Sách tiêu biểu — hiện ở cột phải khi vào mục "Sách".
+  // Ảnh bìa: chép vào posts/assets/ rồi ghi đường dẫn, hoặc để trống thì tự hiện ô chữ cái đầu.
+  books: [
+    {
+      title: 'Tên cuốn sách thứ nhất',
+      author: 'Tên tác giả',
+      cover: '',                 // ví dụ: 'posts/assets/bia-sach-1.jpg'
+      note: 'Một câu vì sao bạn giới thiệu cuốn này.',
+      link: ''                   // để trống, hoặc link tới bài bạn viết về nó
+    },
+    {
+      title: 'Tên cuốn sách thứ hai',
+      author: 'Tên tác giả',
+      cover: '',
+      note: 'Một câu ngắn về cuốn sách.',
+      link: ''
+    },
+    {
+      title: 'Tên cuốn sách thứ ba',
+      author: 'Tên tác giả',
+      cover: '',
+      note: 'Một câu ngắn về cuốn sách.',
+      link: ''
+    }
+  ],
+
+  // Số bài hiện trong ô "Bài xem nhiều" ở cột phải
+  popularCount: 5,
+
   // Ngôn ngữ trang (dùng cho thẻ <html lang>)
   lang: 'vi',
 

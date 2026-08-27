@@ -86,6 +86,10 @@ Chép ảnh vào `posts/assets/` rồi viết trong bài:
 
 Mở `js/config.js` — tên blog, mô tả, tên bạn, email, link mạng xã hội đều nằm gọn trong đó. Sửa xong lưu lại là xong, không phải đụng tới file nào khác.
 
+Muốn đổi tông màu: mở `css/style.css`, sửa dòng `--accent: #2e7d43;` ở gần đầu file thành mã màu bạn thích. Có hai bảng màu — một cho chế độ sáng, một cho chế độ tối.
+
+Muốn sửa trang giới thiệu: mở `about.html`, nội dung nằm giữa hai dòng đánh dấu `SỬA NỘI DUNG GIỚI THIỆU CỦA BẠN Ở ĐÂY`.
+
 ### Thanh menu đầu trang
 
 Cũng nằm trong `js/config.js`, ở mục `nav`. Mỗi dòng là một mục menu:
@@ -104,13 +108,49 @@ nav: [
 
 Một mục menu chưa có bài nào vẫn hiện ra, nhưng bấm vào sẽ báo "chưa có bài nào" — bình thường, cứ gắn thẻ cho bài viết là nó tự đầy lên.
 
-Muốn đổi tông màu: mở `css/style.css`, sửa dòng `--accent: #2e7d43;` ở gần đầu file thành mã màu bạn thích. Có hai bảng màu — một cho chế độ sáng, một cho chế độ tối.
+### Sách tiêu biểu
 
-Muốn sửa trang giới thiệu: mở `about.html`, nội dung nằm giữa hai dòng đánh dấu `SỬA NỘI DUNG GIỚI THIỆU CỦA BẠN Ở ĐÂY`.
+Danh sách sách hiện ở cột phải **khi vào mục Sách**. Sửa ở mục `books` trong `js/config.js`:
+
+```js
+books: [
+  {
+    title: 'Nhà giả kim',
+    author: 'Paulo Coelho',
+    cover: 'posts/assets/bia-nha-gia-kim.jpg',  // để trống thì hiện ô chữ cái đầu
+    note: 'Một câu vì sao bạn giới thiệu cuốn này.',
+    link: 'post.html?p=doc-nha-gia-kim'         // để trống nếu chưa viết bài
+  }
+]
+```
+
+Ảnh bìa chép vào `posts/assets/` rồi ghi đường dẫn. Thêm bao nhiêu cuốn cũng được.
 
 ---
 
-## 4. Đưa lên mạng miễn phí (GitHub Pages)
+## 4. Đếm lượt xem — điều bạn cần biết
+
+Số lượt xem hiện ở ba chỗ: đầu mỗi bài viết, trên thẻ bài ngoài trang chủ, và trong ô "Bài xem nhiều" ở cột phải.
+
+**Nhưng con số đó chỉ là của riêng từng người đọc.**
+
+Website này là web tĩnh — không có máy chủ, không có cơ sở dữ liệu, nên không có chỗ nào để cộng dồn lượt xem của tất cả mọi người. Bộ đếm lưu trong trình duyệt của từng người (localStorage), nên nó đếm số lần **chính người đó** mở bài viết. Bạn thấy "12 lượt xem" thì đó là bạn đã mở bài đó 12 lần; người khác vào sẽ thấy con số của riêng họ. Mỗi bài chỉ được cộng một lần trong mỗi phiên duyệt web, tải lại trang không cộng thêm.
+
+### Muốn lượt xem thật của tất cả mọi người?
+
+Cần một dịch vụ đếm bên ngoài. Vài lựa chọn miễn phí:
+
+| Cách | Ưu | Nhược |
+|---|---|---|
+| **GoatCounter** | Miễn phí cho blog cá nhân, tôn trọng quyền riêng tư, không theo dõi người dùng | Phải đăng ký tài khoản |
+| **Firebase / Supabase** | Số liệu hoàn toàn của bạn, gói free rộng rãi | Phải đăng ký, và khoá API nằm lộ trong mã nguồn công khai |
+| **Dịch vụ đếm không cần đăng ký** | Gắn vào là chạy | Phụ thuộc bên thứ ba, có thể ngừng hoạt động bất kỳ lúc nào |
+
+Khi chuyển sang cách nào, **chỉ cần sửa phần thân ba hàm** `getCount`, `recordView`, `getAll` trong `js/views.js`. Toàn bộ giao diện — ô xếp hạng, con số ở đầu bài, thẻ ngoài trang chủ — không phải sửa một dòng nào.
+
+---
+
+## 5. Đưa lên mạng miễn phí (GitHub Pages)
 
 Làm một lần duy nhất, sau đó mỗi lần đăng bài chỉ cần 3 câu lệnh.
 
@@ -139,7 +179,7 @@ Mua tên miền (khoảng 200–300k/năm), rồi vào **Settings → Pages → 
 
 ---
 
-## 5. Cấu trúc thư mục
+## 6. Cấu trúc thư mục
 
 ```
 index.html          Trang chủ - danh sách bài viết
@@ -151,6 +191,7 @@ css/style.css       Toàn bộ giao diện. Đổi màu ở phần :root đầu 
 
 js/config.js        <- File bạn sửa nhiều nhất: tên blog, mạng xã hội
 js/markdown.js      Bộ chuyển Markdown sang HTML
+js/views.js         Bộ đếm lượt xem (đọc mục 4 để hiểu con số)
 js/site.js          Header, footer, nút sáng/tối, hàm dùng chung
 js/home.js          Logic trang chủ: tìm kiếm, lọc thẻ, xem thêm
 js/post.js          Logic trang bài viết
@@ -165,7 +206,7 @@ serve.ps1           Máy chủ xem thử tại chỗ
 
 ---
 
-## 6. Gặp trục trặc?
+## 7. Gặp trục trặc?
 
 **Trang chủ trống, báo "Không đọc được danh sách bài viết"**
 Bạn đang mở bằng `file://`. Chạy `serve.ps1` rồi vào `http://localhost:8080`.

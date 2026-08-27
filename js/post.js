@@ -26,9 +26,13 @@
       '<p><a href="index.html">← Về trang chủ</a></p></div>';
   }
 
-  function renderHead(post) {
+  function renderHead(post, views) {
     var meta = [S.formatDate(post.date)];
     if (post.readingTime) meta.push(post.readingTime + ' phút đọc');
+    if (views > 0) {
+      meta.push('<span class="meta-views">' + S.icons.eye +
+        window.Views.format(views) + ' lượt xem</span>');
+    }
     if (post.author || (CFG.author && CFG.author.name)) {
       meta.unshift(S.escapeHtml(post.author || CFG.author.name));
     }
@@ -122,7 +126,10 @@
 
       if (!post.readingTime) post.readingTime = S.readingTime(MD.toPlainText(md));
 
-      renderHead(post);
+      // Tính lượt xem này rồi hiện luôn con số vừa cập nhật
+      var views = window.Views ? window.Views.recordView(post.slug) : 0;
+
+      renderHead(post, views);
       bodyEl.innerHTML = leadVideo(post) + MD.render(md);
       renderFooter(post);
 

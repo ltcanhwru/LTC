@@ -1,5 +1,6 @@
 /* ============================================================
-   home.js — Trang chủ: danh sách bài viết, tìm kiếm, lọc theo thẻ.
+   home.js — Trang chủ: danh sách bài viết, tìm kiếm, lọc theo chủ đề,
+   và cột dọc bên phải.
    ============================================================ */
 (function () {
   'use strict';
@@ -8,9 +9,9 @@
   var CFG = S.config;
 
   var grid = document.getElementById('postGrid');
-  var searchInput = document.getElementById('searchInput');
-  var tagBar = document.getElementById('tagFilters');
   var moreWrap = document.getElementById('moreWrap');
+  var sidebar = document.getElementById('sidebar');
+  var searchInput;   // nằm trong thanh menu, lấy sau khi dựng header
 
   var allPosts = [];
   var activeTag = '';
@@ -38,7 +39,7 @@
     });
   }
 
-  function cardMedia(post, featured) {
+  function cardMedia(post) {
     var badge = post.video
       ? '<span class="badge-video">' + S.icons.play + 'VLOG</span>'
       : '';
@@ -65,14 +66,18 @@
 
   function cardHtml(post, featured) {
     var tags = (post.tags || []).slice(0, 3).map(function (t) {
-      return '<span class="tag-pill">' + S.escapeHtml(t) + '</span>';
+      return '<a class="tag-pill" href="index.html?tag=' + encodeURIComponent(t) + '">' +
+        S.escapeHtml(t) + '</a>';
     }).join('');
+
+    var views = window.Views ? window.Views.getCount(post.slug) : 0;
 
     var meta = [S.formatDate(post.date)];
     if (post.readingTime) meta.push(post.readingTime + ' phút đọc');
+    if (views > 0) meta.push(window.Views.format(views) + ' lượt xem');
 
     return '<article class="post-card' + (featured ? ' is-featured' : '') + '">' +
-      cardMedia(post, featured) +
+      cardMedia(post) +
       '<div class="post-card-body">' +
         '<div class="post-meta">' +
           meta.filter(Boolean).join('<span class="dot">·</span>') +
@@ -98,13 +103,13 @@
             'Bài viết sẽ hiện ở đây khi bạn gắn thẻ <code>' + S.escapeHtml(activeTag) +
             '</code> cho nó trong <code>posts.json</code>.'
           : '<strong>Chưa có bài nào khớp</strong>' +
-            'Thử xoá bớt từ khoá hoặc chọn thẻ khác.') +
+            'Thử xoá bớt từ khoá, hoặc chọn mục khác trên thanh menu.') +
         '</div>';
       moreWrap.innerHTML = '';
       return;
     }
 
-    // Bài mới nhất được làm nổi bật, nhưng chỉ khi không đang lọc
+    // Bài mới nhất được làm nổi bật, nhưng chỉ khi không lọc và không tìm kiếm
     var featuredFirst = !query && !activeTag;
 
     grid.innerHTML = list.slice(0, shown).map(function (p, i) {
@@ -120,42 +125,32 @@
     if (more) more.addEventListener('click', function () { render(false); });
   }
 
-  function buildTagBar() {
-    var counts = {};
-    allPosts.forEach(function (p) {
-      (p.tags || []).forEach(function (t) { counts[t] = (counts[t] || 0) + 1; });
-    });
-    var tags = Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a]; });
+  /* Đổi phần mở đầu theo chủ đề đang xem */
+  function renderHero() {
+    var hero = CFG.hero || {};
+    var setText = function (id, val) {
+      var el = document.getElementById(id);
+      if (el) el.textContent = val || '';
+    };
 
-    // Thẻ đến từ menu đầu trang có thể chưa có bài nào — vẫn hiện nút để người đọc thấy
-    if (activeTag && tags.indexOf(activeTag) === -1) tags.push(activeTag);
-    if (!tags.length) return;
-
-    tagBar.innerHTML =
-      '<button class="tag-chip' + (activeTag ? '' : ' is-active') + '" data-tag="" type="button">Tất cả</button>' +
-      tags.map(function (t) {
-        return '<button class="tag-chip' + (t === activeTag ? ' is-active' : '') +
-          '" data-tag="' + S.escapeHtml(t) + '" type="button">' + S.escapeHtml(t) + '</button>';
-      }).join('');
-
-    tagBar.addEventListener('click', function (e) {
-      var btn = e.target.closest('.tag-chip');
-      if (!btn) return;
-      activeTag = btn.getAttribute('data-tag') || '';
-      Array.prototype.forEach.call(tagBar.children, function (c) {
-        c.classList.toggle('is-active', c === btn);
-      });
-      // Ghi thẻ đang lọc lên địa chỉ để chia sẻ được, và để menu đầu trang sáng đúng mục
-      if (history.replaceState) {
-        history.replaceState(null, '',
-          activeTag ? 'index.html?tag=' + encodeURIComponent(activeTag) : 'index.html');
-      }
-      render(true);
-    });
+    if (activeTag) {
+      var count = allPosts.filter(function (p) {
+        return (p.tags || []).indexOf(activeTag) !== -1;
+      }).length;
+      setText('heroEyebrow', 'Chủ đề');
+      setText('heroHeading', activeTag);
+      setText('heroIntro', count
+        ? count + ' bài viết trong mục này.'
+        : 'Mục này chưa có bài nào.');
+    } else {
+      setText('heroEyebrow', hero.eyebrow);
+      setText('heroHeading', hero.heading);
+      setText('heroIntro', hero.intro);
+    }
   }
 
   /* ---------- Khởi động ---------- */
-  // Lọc sẵn theo thẻ nếu địa chỉ có dạng index.html?tag=Cổ phiếu
+  // Lọc sẵn theo chủ đề nếu địa chỉ có dạng index.html?tag=Cổ phiếu
   activeTag = new URLSearchParams(location.search).get('tag') || '';
 
   S.mountChrome();
@@ -164,26 +159,21 @@
     CFG.description
   );
 
-  // Đổ nội dung phần mở đầu từ config
-  var hero = CFG.hero || {};
-  var setText = function (id, val) {
-    var el = document.getElementById(id);
-    if (el && val) el.textContent = val;
-  };
-  setText('heroEyebrow', hero.eyebrow);
-  setText('heroHeading', hero.heading);
-  setText('heroIntro', hero.intro);
-
-  searchInput.addEventListener('input', function () {
-    query = searchInput.value.trim();
-    render(true);
-  });
+  // Ô tìm kiếm do site.js dựng ra cùng thanh menu, nên lấy sau mountChrome
+  searchInput = document.getElementById('searchInput');
+  if (searchInput) {
+    searchInput.addEventListener('input', function () {
+      query = searchInput.value.trim();
+      render(true);
+    });
+  }
 
   S.loadPostIndex()
     .then(function (posts) {
       allPosts = posts;
-      buildTagBar();
+      renderHero();
       render(true);
+      if (sidebar) sidebar.innerHTML = S.buildSidebar(posts, activeTag);
     })
     .catch(function (err) {
       grid.innerHTML = '<div class="empty-state">' +
