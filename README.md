@@ -100,7 +100,7 @@ Làm một lần duy nhất, sau đó mỗi lần đăng bài chỉ cần 3 câu
 
 **a.** Tạo tài khoản tại [github.com](https://github.com) nếu chưa có.
 
-**b.** Tạo một repository mới, đặt tên là `ten-tai-khoan.github.io` (thay `ten-tai-khoan` bằng tên tài khoản GitHub của bạn). Chọn **Public**, không tích thêm ô nào.
+**b.** Tạo một repository mới, đặt tên là `ltcanh.github.io` (thay `ltcanh` bằng tên tài khoản GitHub của bạn). Chọn **Public**, không tích thêm ô nào.
 
 **c.** Mở PowerShell tại thư mục này và chạy lần lượt:
 
@@ -117,7 +117,7 @@ git commit -m "Khoi tao blog"
 ```
 
 ```bash
-git remote add origin https://github.com/ten-tai-khoan/ten-tai-khoan.github.io.git
+git remote add origin https://github.com/ltcanh/ltcanh.github.io.git
 ```
 
 ```bash
@@ -126,7 +126,7 @@ git push -u origin main
 
 **d.** Vào repository trên GitHub → tab **Settings** → mục **Pages** ở cột trái → phần **Build and deployment**, chọn Source là **Deploy from a branch**, branch **main**, thư mục **/ (root)** → bấm **Save**.
 
-Đợi khoảng 1–2 phút, website của bạn sẽ chạy tại `https://ten-tai-khoan.github.io`.
+Đợi khoảng 1–2 phút, website của bạn sẽ chạy tại `https://ltcanh.github.io`.
 
 ### Những lần sau, mỗi khi đăng bài mới
 
