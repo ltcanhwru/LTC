@@ -96,37 +96,33 @@ Muốn sửa trang giới thiệu: mở `about.html`, nội dung nằm giữa ha
 
 Làm một lần duy nhất, sau đó mỗi lần đăng bài chỉ cần 3 câu lệnh.
 
+Địa chỉ đích: **https://ltcanh.github.io/LTC/**
+
 ### Lần đầu
 
-**a.** Tạo tài khoản tại [github.com](https://github.com) nếu chưa có.
+Kho git ở máy đã được khởi tạo sẵn, đã commit, và đã trỏ remote về `https://github.com/ltcanh/LTC.git`. Chỉ còn 3 việc:
 
-**b.** Tạo một repository mới, đặt tên là `ltcanh.github.io` (thay `ltcanh` bằng tên tài khoản GitHub của bạn). Chọn **Public**, không tích thêm ô nào.
+**a.** Vào [github.com/new](https://github.com/new) tạo repository mới:
 
-**c.** Mở PowerShell tại thư mục này và chạy lần lượt:
+- **Repository name**: `LTC` — viết hoa đúng như vậy, vì tên này nằm luôn trong đường link
+- Chọn **Public** (Pages trên repo Private là tính năng trả phí)
+- **Không tích** ô nào ở phần "Initialize this repository" — sẽ xung đột với commit đã có sẵn
 
-```bash
-git init -b main
-```
-
-```bash
-git add .
-```
-
-```bash
-git commit -m "Khoi tao blog"
-```
-
-```bash
-git remote add origin https://github.com/ltcanh/ltcanh.github.io.git
-```
+**b.** Mở PowerShell tại thư mục này và đẩy code lên:
 
 ```bash
 git push -u origin main
 ```
 
-**d.** Vào repository trên GitHub → tab **Settings** → mục **Pages** ở cột trái → phần **Build and deployment**, chọn Source là **Deploy from a branch**, branch **main**, thư mục **/ (root)** → bấm **Save**.
+Lần đầu chạy, một cửa sổ trình duyệt sẽ tự bật lên — bấm *Sign in with your browser*. Đừng gõ mật khẩu vào cửa sổ dòng lệnh, GitHub đã bỏ cách đó từ 2021.
 
-Đợi khoảng 1–2 phút, website của bạn sẽ chạy tại `https://ltcanh.github.io`.
+**c.** Vào repo trên GitHub → tab **Settings** → mục **Pages** ở cột trái → phần **Build and deployment**:
+
+- Source: **Deploy from a branch**
+- Branch: **main**, thư mục **/ (root)**
+- Bấm **Save**
+
+Đợi khoảng 1–2 phút, website sẽ chạy tại `https://ltcanh.github.io/LTC/`.
 
 ### Những lần sau, mỗi khi đăng bài mới
 
