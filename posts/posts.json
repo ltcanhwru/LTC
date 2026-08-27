@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "cach-dang-bai",
+    "title": "Cách đăng bài lên trang này",
+    "date": "2026-08-27",
+    "excerpt": "Toàn bộ cú pháp bạn cần: viết chữ, chèn ảnh, nhúng video, làm bảng, trích dẫn. Đọc một lần là đăng bài được ngay.",
+    "tags": ["Hướng dẫn"],
+    "cover": "",
+    "video": "",
+    "file": "cach-dang-bai.md"
+  },
+  {
+    "slug": "vlog-mau",
+    "title": "Vlog mẫu: một ngày làm việc",
+    "date": "2026-08-20",
+    "excerpt": "Bài mẫu cho dạng vlog — video nằm ngay đầu bài, phần chữ bên dưới là ghi chú và những điều tôi không kịp nói trong video.",
+    "tags": ["Vlog", "Đời sống"],
+    "cover": "",
+    "video": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+    "file": "vlog-mau.md"
+  },
+  {
+    "slug": "phan-tich-mau",
+    "title": "Phân tích mẫu: đọc một con số cho đúng",
+    "date": "2026-08-12",
+    "excerpt": "Bài mẫu cho dạng phân tích — có bảng số liệu, trích dẫn nguồn, và phần tự chỉ ra chỗ lập luận còn yếu.",
+    "tags": ["Phân tích", "Ghi chú"],
+    "cover": "",
+    "video": "",
+    "file": "phan-tich-mau.md"
+  }
+]
