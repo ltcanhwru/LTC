@@ -93,8 +93,12 @@
 
     if (!list.length) {
       grid.innerHTML = '<div class="empty-state">' +
-        '<strong>Chưa có bài nào khớp</strong>' +
-        'Thử xoá bớt từ khoá hoặc chọn thẻ khác.' +
+        (activeTag && !query
+          ? '<strong>Mục “' + S.escapeHtml(activeTag) + '” chưa có bài nào</strong>' +
+            'Bài viết sẽ hiện ở đây khi bạn gắn thẻ <code>' + S.escapeHtml(activeTag) +
+            '</code> cho nó trong <code>posts.json</code>.'
+          : '<strong>Chưa có bài nào khớp</strong>' +
+            'Thử xoá bớt từ khoá hoặc chọn thẻ khác.') +
         '</div>';
       moreWrap.innerHTML = '';
       return;
@@ -122,13 +126,16 @@
       (p.tags || []).forEach(function (t) { counts[t] = (counts[t] || 0) + 1; });
     });
     var tags = Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a]; });
+
+    // Thẻ đến từ menu đầu trang có thể chưa có bài nào — vẫn hiện nút để người đọc thấy
+    if (activeTag && tags.indexOf(activeTag) === -1) tags.push(activeTag);
     if (!tags.length) return;
 
     tagBar.innerHTML =
-      '<button class="tag-chip is-active" data-tag="" type="button">Tất cả</button>' +
+      '<button class="tag-chip' + (activeTag ? '' : ' is-active') + '" data-tag="" type="button">Tất cả</button>' +
       tags.map(function (t) {
-        return '<button class="tag-chip" data-tag="' + S.escapeHtml(t) + '" type="button">' +
-          S.escapeHtml(t) + '</button>';
+        return '<button class="tag-chip' + (t === activeTag ? ' is-active' : '') +
+          '" data-tag="' + S.escapeHtml(t) + '" type="button">' + S.escapeHtml(t) + '</button>';
       }).join('');
 
     tagBar.addEventListener('click', function (e) {
@@ -138,13 +145,24 @@
       Array.prototype.forEach.call(tagBar.children, function (c) {
         c.classList.toggle('is-active', c === btn);
       });
+      // Ghi thẻ đang lọc lên địa chỉ để chia sẻ được, và để menu đầu trang sáng đúng mục
+      if (history.replaceState) {
+        history.replaceState(null, '',
+          activeTag ? 'index.html?tag=' + encodeURIComponent(activeTag) : 'index.html');
+      }
       render(true);
     });
   }
 
   /* ---------- Khởi động ---------- */
-  S.mountChrome('home');
-  S.setMeta(CFG.title, CFG.description);
+  // Lọc sẵn theo thẻ nếu địa chỉ có dạng index.html?tag=Cổ phiếu
+  activeTag = new URLSearchParams(location.search).get('tag') || '';
+
+  S.mountChrome();
+  S.setMeta(
+    activeTag ? activeTag + ' — ' + CFG.title : CFG.title,
+    CFG.description
+  );
 
   // Đổ nội dung phần mở đầu từ config
   var hero = CFG.hero || {};

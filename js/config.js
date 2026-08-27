@@ -21,10 +21,23 @@ window.SITE = {
     intro: 'Tôi ghi lại ở đây những gì mình đọc, xem, làm và rút ra được — dưới dạng bài viết dài, vlog và các bài phân tích.'
   },
 
+  // Các mục trên thanh menu đầu trang.
+  // - Mục có "tag": bấm vào sẽ lọc trang chủ theo thẻ đó.
+  //   Chữ trong "tag" phải TRÙNG KHỚP với thẻ bạn ghi ở posts.json (có dấu, đúng hoa thường).
+  // - Mục có "href": mở thẳng một trang.
+  // Muốn thêm/bớt/đổi thứ tự thì sửa ngay danh sách này.
+  nav: [
+    { label: 'Trang chủ',  href: 'index.html' },
+    { label: 'Kiến thức',  tag: 'Kiến thức' },
+    { label: 'Cổ phiếu',   tag: 'Cổ phiếu' },
+    { label: 'Sách',       tag: 'Sách' },
+    { label: 'Giới thiệu', href: 'about.html' }
+  ],
+
   // Tác giả
   author: {
     name: 'Canhlt03',
-    email: '',          // để trống nếu không muốn hiện
+    email: 'ltcanh.wru@gmail.com',   // để trống nếu không muốn hiện
     bio: 'Một người thích viết và phân tích.'
   },
 

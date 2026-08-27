@@ -44,7 +44,7 @@
 
   function renderFooter(post) {
     var tags = (post.tags || []).map(function (t) {
-      return '<a class="tag-pill" href="index.html">' + S.escapeHtml(t) + '</a>';
+      return '<a class="tag-pill" href="index.html?tag=' + encodeURIComponent(t) + '">' + S.escapeHtml(t) + '</a>';
     }).join('');
 
     footEl.innerHTML =
@@ -91,7 +91,7 @@
   }
 
   /* ---------- Khởi động ---------- */
-  S.mountChrome('');
+  S.mountChrome();
 
   var slug = getSlug();
   if (!slug) {

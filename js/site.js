@@ -72,19 +72,41 @@
   };
 
   /* ---------- Dựng header ---------- */
-  function buildHeader(activePage) {
-    var links = [
-      { href: 'index.html', label: 'Bài viết', key: 'home' },
-      { href: 'about.html', label: 'Giới thiệu', key: 'about' }
-    ];
+  /* Trang và thẻ đang xem — dùng để tô đậm mục menu tương ứng */
+  function currentPage() {
+    var file = location.pathname.split('/').pop();
+    return file || 'index.html';
+  }
+  function currentTag() {
+    return new URLSearchParams(location.search).get('tag') || '';
+  }
+
+  function buildHeader() {
+    var links = (CFG.nav || []).slice();
+
+    // Kênh YouTube tự thêm vào cuối nếu có khai báo trong config
     if (CFG.social && CFG.social.youtube) {
-      links.push({ href: CFG.social.youtube, label: 'Kênh YouTube', key: 'yt', external: true });
+      links.push({ label: 'Kênh YouTube', href: CFG.social.youtube, external: true });
     }
 
+    var page = currentPage();
+    var tag = currentTag();
+
     var linksHtml = links.map(function (l) {
-      return '<a href="' + l.href + '"' +
+      var href, active;
+
+      if (l.tag) {
+        href = 'index.html?tag=' + encodeURIComponent(l.tag);
+        active = (page === 'index.html' && tag === l.tag);
+      } else {
+        href = l.href;
+        // "Trang chủ" chỉ sáng khi đang ở trang chủ và không lọc theo thẻ nào
+        active = (page === l.href) && (page !== 'index.html' || !tag);
+      }
+
+      return '<a href="' + href + '"' +
         (l.external ? ' target="_blank" rel="noopener noreferrer"' : '') +
-        (l.key === activePage ? ' class="is-active"' : '') +
+        (active ? ' class="is-active"' : '') +
         '>' + escapeHtml(l.label) + '</a>';
     }).join('');
 
@@ -115,7 +137,7 @@
     if (s.github)   items.push('<a href="' + s.github + '" target="_blank" rel="noopener noreferrer">GitHub</a>');
     if (s.x)        items.push('<a href="' + s.x + '" target="_blank" rel="noopener noreferrer">X</a>');
     if (CFG.author && CFG.author.email) {
-      items.push('<a href="mailto:' + CFG.author.email + '">Email</a>');
+      items.push('<a href="mailto:' + CFG.author.email + '">' + escapeHtml(CFG.author.email) + '</a>');
     }
 
     return '' +
@@ -128,10 +150,10 @@
   }
 
   /* ---------- Gắn header/footer + sự kiện ---------- */
-  function mountChrome(activePage) {
+  function mountChrome() {
     var head = document.getElementById('siteHeader');
     var foot = document.getElementById('siteFooter');
-    if (head) head.outerHTML = buildHeader(activePage);
+    if (head) head.outerHTML = buildHeader();
     if (foot) foot.outerHTML = buildFooter();
 
     var toggle = document.getElementById('themeToggle');

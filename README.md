@@ -86,7 +86,25 @@ Chép ảnh vào `posts/assets/` rồi viết trong bài:
 
 Mở `js/config.js` — tên blog, mô tả, tên bạn, email, link mạng xã hội đều nằm gọn trong đó. Sửa xong lưu lại là xong, không phải đụng tới file nào khác.
 
-Muốn đổi tông màu: mở `css/style.css`, sửa dòng `--accent: #b8452e;` ở gần đầu file thành mã màu bạn thích. Có hai bảng màu — một cho chế độ sáng, một cho chế độ tối.
+### Thanh menu đầu trang
+
+Cũng nằm trong `js/config.js`, ở mục `nav`. Mỗi dòng là một mục menu:
+
+```js
+nav: [
+  { label: 'Trang chủ',  href: 'index.html' },   // mở thẳng một trang
+  { label: 'Cổ phiếu',   tag: 'Cổ phiếu' },      // lọc trang chủ theo thẻ
+  { label: 'Giới thiệu', href: 'about.html' }
+]
+```
+
+- Mục dùng `tag` sẽ lọc danh sách bài theo thẻ đó. Chữ trong `tag` phải **trùng khớp từng ký tự** với thẻ bạn ghi ở `posts.json` — có dấu, đúng hoa thường. Ghi `"Cổ phiếu"` ở đây mà `posts.json` ghi `"Cổ Phiếu"` thì mục đó sẽ trống.
+- Mục dùng `href` mở thẳng một trang.
+- Thêm, bớt hay đổi thứ tự thì sửa ngay danh sách này, không phải đụng vào HTML.
+
+Một mục menu chưa có bài nào vẫn hiện ra, nhưng bấm vào sẽ báo "chưa có bài nào" — bình thường, cứ gắn thẻ cho bài viết là nó tự đầy lên.
+
+Muốn đổi tông màu: mở `css/style.css`, sửa dòng `--accent: #2e7d43;` ở gần đầu file thành mã màu bạn thích. Có hai bảng màu — một cho chế độ sáng, một cho chế độ tối.
 
 Muốn sửa trang giới thiệu: mở `about.html`, nội dung nằm giữa hai dòng đánh dấu `SỬA NỘI DUNG GIỚI THIỆU CỦA BẠN Ở ĐÂY`.
 
@@ -98,20 +116,14 @@ Làm một lần duy nhất, sau đó mỗi lần đăng bài chỉ cần 3 câu
 
 Địa chỉ đích: **https://ltcanhwru.github.io/LTC/**
 
-### Thiết lập ban đầu — đã xong
+### Thiết lập ban đầu — đã xong hết
 
 - [x] Kho git khởi tạo, remote trỏ về `https://github.com/ltcanhwru/LTC.git`
 - [x] Repo `LTC` tạo trên GitHub, để chế độ **Public**
 - [x] Code đã đẩy lên nhánh `main`
-- [ ] **Bật GitHub Pages** ← bước cuối, làm một lần
+- [x] GitHub Pages đã bật, trang đã sống
 
-Bật Pages: vào [github.com/ltcanhwru/LTC/settings/pages](https://github.com/ltcanhwru/LTC/settings/pages), mục **Build and deployment**:
-
-- Source: **Deploy from a branch**
-- Branch: **main**, thư mục **/ (root)**
-- Bấm **Save**
-
-Đợi 1–2 phút, website sẽ chạy tại `https://ltcanhwru.github.io/LTC/`.
+Không phải làm lại bước nào nữa. Từ giờ chỉ cần `git push` là bài mới lên mạng.
 
 ### Những lần sau, mỗi khi đăng bài mới
 
