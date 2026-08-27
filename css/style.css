@@ -25,8 +25,10 @@
 
   --radius: 10px;
   --radius-lg: 16px;
-  --wrap: 1120px;
-  --measure: 46rem;
+  --wrap: 1120px;        /* khung thường: phần mở đầu, chân trang */
+  --wrap-wide: 1320px;   /* khung bố cục hai cột, rộng hơn cho cân đối */
+  --rail: 300px;         /* bề ngang cột dọc bên phải */
+  --measure: 46rem;      /* khổ chữ hẹp, dùng khi bài viết đứng một mình */
 }
 
 /* ---------- Bảng màu (chế độ tối) ---------- */
@@ -67,6 +69,8 @@ a { color: var(--accent-text); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 .wrap { width: 100%; max-width: var(--wrap); margin: 0 auto; padding: 0 24px; }
+/* Khung rộng — dùng cho header, phần mở đầu, chân trang, để thẳng hàng với bố cục hai cột */
+.wrap-wide { max-width: var(--wrap-wide); }
 
 .visually-hidden {
   position: absolute; width: 1px; height: 1px; overflow: hidden;
@@ -151,13 +155,18 @@ a:hover { text-decoration: underline; }
 }
 
 /* ---------- Bố cục hai cột: nội dung trái, cột dọc phải ---------- */
-.layout {
+/* Khung rộng hơn .wrap thường, để cột phải đẩy hẳn ra sát mép cho cân đối */
+.wrap.layout {
+  max-width: var(--wrap-wide);
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 296px;
-  gap: 44px;
+  grid-template-columns: minmax(0, 1fr) var(--rail);
+  gap: 72px;
   align-items: start;
-  padding: 30px 0 72px;
+  padding: 30px 24px 80px;
 }
+/* Cho phép cột co lại nhỏ hơn bề ngang tối thiểu của nội dung bên trong.
+   Thiếu dòng này thì bảng hoặc khối mã dài sẽ đẩy cả trang tràn ngang. */
+.wrap.layout > * { min-width: 0; }
 
 .sidebar {
   position: sticky; top: 88px;
@@ -427,6 +436,73 @@ a:hover { text-decoration: underline; }
 }
 .article-body th { font-weight: 600; background: var(--bg-inset); }
 
+/* ---------- Bài viết khi nằm trong bố cục hai cột ---------- */
+/* Bỏ trần khổ chữ để bài viết dùng hết bề ngang cột trái */
+.layout .article-head,
+.layout .article-lead,
+.layout .article-footer,
+.layout .state-box { max-width: none; }
+
+.layout .article-head { padding: 26px 0 24px; }
+.layout .article-head h1 { max-width: 22ch; }
+.layout .article-body {
+  max-width: none;
+  font-size: 1.13rem;
+  line-height: 1.82;
+}
+.layout .article-body h2 { font-size: 1.72rem; }
+.layout .article-body h3 { font-size: 1.34rem; }
+
+/* ---------- Bài liên quan (cuối bài viết) ---------- */
+.related {
+  border-top: 1px solid var(--border);
+  padding-top: 32px;
+}
+.related h2 {
+  font-family: var(--font-serif);
+  font-size: 1.32rem; font-weight: 600; letter-spacing: -.012em;
+  margin: 0 0 20px;
+}
+.related-grid {
+  display: grid; gap: 18px;
+  grid-template-columns: repeat(auto-fill, minmax(232px, 1fr));
+}
+.related-card {
+  display: flex; flex-direction: column; gap: 8px;
+  padding: 17px 19px 18px;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: border-color .18s ease, box-shadow .18s ease, transform .18s ease;
+}
+.related-card:hover {
+  border-color: var(--border-strong);
+  box-shadow: var(--shadow);
+  transform: translateY(-2px);
+}
+.related-tag {
+  font-size: .69rem; font-weight: 600;
+  letter-spacing: .07em; text-transform: uppercase;
+  color: var(--accent-text);
+}
+.related-card h3 {
+  font-family: var(--font-serif);
+  font-size: 1.02rem; line-height: 1.34; font-weight: 600;
+  margin: 0;
+}
+.related-card h3 a { color: var(--text); }
+.related-card h3 a:hover { color: var(--accent-text); text-decoration: none; }
+.related-card p {
+  font-size: .83rem; line-height: 1.5; color: var(--text-muted); margin: 0;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+}
+.related-meta {
+  font-size: .73rem; color: var(--text-faint);
+  margin-top: auto; padding-top: 6px;
+  display: flex; align-items: center; gap: 7px;
+}
+.related-meta svg { width: 12px; height: 12px; }
+
 /* Khung video nhúng */
 .video-embed {
   position: relative; aspect-ratio: 16 / 9;
@@ -479,10 +555,17 @@ a:hover { text-decoration: underline; }
 .footer-links a:hover { color: var(--accent-text); }
 
 /* ---------- Màn hình nhỏ ---------- */
+/* Khung vừa: thu hẹp khoảng cách hai cột trước khi phải xếp chồng */
+@media (max-width: 1180px) {
+  .wrap.layout { gap: 44px; }
+}
+
 /* Dưới 1040px: cột phải tụt xuống dưới nội dung */
 @media (max-width: 1040px) {
-  .layout { grid-template-columns: 1fr; gap: 34px; }
+  .wrap.layout { grid-template-columns: minmax(0, 1fr); gap: 36px; }
   .sidebar { position: static; }
+  .layout .article-body { max-width: var(--measure); font-size: 1.09rem; }
+  .layout .article-head h1 { max-width: 24ch; }
 }
 
 /* Trên màn hình vừa, cột phải xếp hai ô cạnh nhau cho đỡ dài */

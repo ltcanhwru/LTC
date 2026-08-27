@@ -115,7 +115,7 @@
           if (!r.ok) throw new Error('Không mở được ' + file + ' (HTTP ' + r.status + ')');
           return r.text();
         })
-        .then(function (md) { return { post: post, md: md }; });
+        .then(function (md) { return { post: post, md: md, posts: posts }; });
     })
     .then(function (data) {
       var post = data.post;
@@ -132,6 +132,20 @@
       renderHead(post, views);
       bodyEl.innerHTML = leadVideo(post) + MD.render(md);
       renderFooter(post);
+
+      // Cột dọc bên phải — cùng ô "Bài xem nhiều" như ở trang chủ
+      var sidebar = document.getElementById('sidebar');
+      if (sidebar) sidebar.innerHTML = S.buildSidebar(data.posts, '');
+
+      // Gợi ý bài liên quan ở cuối bài
+      var relatedEl = document.getElementById('relatedPosts');
+      if (relatedEl) {
+        var html = S.buildRelated(data.posts, post, 3);
+        if (html) {
+          relatedEl.innerHTML = html;
+          relatedEl.hidden = false;
+        }
+      }
 
       S.setMeta(
         post.title + ' — ' + CFG.title,

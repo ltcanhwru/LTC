@@ -113,7 +113,7 @@
 
     return '' +
       '<header class="site-header">' +
-        '<div class="wrap nav">' +
+        '<div class="wrap wrap-wide nav">' +
           '<a class="brand" href="index.html">' +
             '<span class="brand-mark">' + escapeHtml(CFG.initials || 'B') + '</span>' +
             '<span>' + escapeHtml(CFG.title || 'Blog') + '</span>' +
@@ -151,7 +151,7 @@
 
     return '' +
       '<footer class="site-footer">' +
-        '<div class="wrap footer-inner">' +
+        '<div class="wrap wrap-wide footer-inner">' +
           '<span>© ' + new Date().getFullYear() + ' ' + escapeHtml(CFG.title || '') + '</span>' +
           (items.length ? '<nav class="footer-links">' + items.join('') + '</nav>' : '') +
         '</div>' +
@@ -214,6 +214,53 @@
       '<h3>Sách tiêu biểu</h3>' +
       '<ul class="book-list">' + items + '</ul>' +
     '</section>';
+  }
+
+  /* ---------- Bài liên quan ----------
+     Cách chọn: bài nào trùng nhiều thẻ nhất thì đứng trước.
+     Bằng điểm nhau thì bài mới hơn thắng. Không có bài nào trùng thẻ
+     thì lấy tạm mấy bài mới nhất, để cuối bài không bị trống trơn. */
+  function pickRelated(posts, current, limit) {
+    limit = limit || 3;
+    var myTags = (current.tags || []);
+
+    var scored = posts
+      .filter(function (p) { return p.slug !== current.slug; })
+      .map(function (p) {
+        var shared = (p.tags || []).filter(function (t) {
+          return myTags.indexOf(t) !== -1;
+        });
+        return { post: p, score: shared.length, sharedTag: shared[0] || (p.tags || [])[0] || '' };
+      })
+      .sort(function (a, b) {
+        if (b.score !== a.score) return b.score - a.score;
+        return String(b.post.date).localeCompare(String(a.post.date));
+      });
+
+    return scored.slice(0, limit);
+  }
+
+  function buildRelated(posts, current, limit) {
+    var picks = pickRelated(posts, current, limit);
+    if (!picks.length) return '';
+
+    var cards = picks.map(function (entry) {
+      var p = entry.post;
+      var views = global.Views ? global.Views.getCount(p.slug) : 0;
+
+      var meta = [formatDate(p.date)];
+      if (views > 0) meta.push(global.Views.format(views) + ' lượt xem');
+
+      return '<article class="related-card">' +
+        (entry.sharedTag ? '<span class="related-tag">' + escapeHtml(entry.sharedTag) + '</span>' : '') +
+        '<h3><a href="post.html?p=' + encodeURIComponent(p.slug) + '">' +
+          escapeHtml(p.title) + '</a></h3>' +
+        (p.excerpt ? '<p>' + escapeHtml(p.excerpt) + '</p>' : '') +
+        '<span class="related-meta">' + meta.join(' · ') + '</span>' +
+      '</article>';
+    }).join('');
+
+    return '<h2>Bài liên quan</h2><div class="related-grid">' + cards + '</div>';
   }
 
   /* Ghép cột phải. Vào mục "Sách" thì ô sách hiện lên trên cùng. */
@@ -293,6 +340,7 @@
     config: CFG,
     icons: ICONS,
     buildSidebar: buildSidebar,
+    buildRelated: buildRelated,
     mountChrome: mountChrome,
     loadPostIndex: loadPostIndex,
     formatDate: formatDate,
