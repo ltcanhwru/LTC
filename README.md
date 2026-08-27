@@ -96,33 +96,22 @@ Muốn sửa trang giới thiệu: mở `about.html`, nội dung nằm giữa ha
 
 Làm một lần duy nhất, sau đó mỗi lần đăng bài chỉ cần 3 câu lệnh.
 
-Địa chỉ đích: **https://ltcanhwru-afk.github.io/LTC/**
+Địa chỉ đích: **https://ltcanhwru.github.io/LTC/**
 
-### Lần đầu
+### Thiết lập ban đầu — đã xong
 
-Kho git ở máy đã được khởi tạo sẵn, đã commit, và đã trỏ remote về `https://github.com/ltcanhwru-afk/LTC.git`. Chỉ còn 3 việc:
+- [x] Kho git khởi tạo, remote trỏ về `https://github.com/ltcanhwru/LTC.git`
+- [x] Repo `LTC` tạo trên GitHub, để chế độ **Public**
+- [x] Code đã đẩy lên nhánh `main`
+- [ ] **Bật GitHub Pages** ← bước cuối, làm một lần
 
-**a.** Vào [github.com/new](https://github.com/new) tạo repository mới:
-
-- **Repository name**: `LTC` — viết hoa đúng như vậy, vì tên này nằm luôn trong đường link
-- Chọn **Public** (Pages trên repo Private là tính năng trả phí)
-- **Không tích** ô nào ở phần "Initialize this repository" — sẽ xung đột với commit đã có sẵn
-
-**b.** Mở PowerShell tại thư mục này và đẩy code lên:
-
-```bash
-git push -u origin main
-```
-
-Lần đầu chạy, một cửa sổ trình duyệt sẽ tự bật lên — bấm *Sign in with your browser*. Đừng gõ mật khẩu vào cửa sổ dòng lệnh, GitHub đã bỏ cách đó từ 2021.
-
-**c.** Vào repo trên GitHub → tab **Settings** → mục **Pages** ở cột trái → phần **Build and deployment**:
+Bật Pages: vào [github.com/ltcanhwru/LTC/settings/pages](https://github.com/ltcanhwru/LTC/settings/pages), mục **Build and deployment**:
 
 - Source: **Deploy from a branch**
 - Branch: **main**, thư mục **/ (root)**
 - Bấm **Save**
 
-Đợi khoảng 1–2 phút, website sẽ chạy tại `https://ltcanhwru-afk.github.io/LTC/`.
+Đợi 1–2 phút, website sẽ chạy tại `https://ltcanhwru.github.io/LTC/`.
 
 ### Những lần sau, mỗi khi đăng bài mới
 
