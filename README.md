@@ -250,10 +250,12 @@ Không phải làm lại bước nào nữa. Từ giờ chỉ cần `git push` l
 ### Những lần sau, mỗi khi đăng bài mới
 
 ```bash
-git add . ; git commit -m "Them bai moi" ; git push
+powershell -ExecutionPolicy Bypass -File build.ps1 ; git add . ; git commit -m "Them bai moi" ; git push
 ```
 
 Khoảng một phút sau bài mới sẽ xuất hiện trên mạng.
+
+`build.ps1` phải chạy **trước** `git add`, vì nó sinh ra trang tĩnh cho bài mới (xem mục 6). Nếu lỡ quên: `serve.ps1` tự chạy nó mỗi lần bạn xem thử, và `404.html` cũng có lưới an toàn đưa người đọc về đúng bài — nhưng công cụ tìm kiếm sẽ không thấy bài đó, nên vẫn nên chạy cho đúng.
 
 ### Muốn dùng tên miền riêng?
 
@@ -261,13 +263,52 @@ Mua tên miền (khoảng 200–300k/năm), rồi vào **Settings → Pages → 
 
 ---
 
-## 6. Cấu trúc thư mục
+## 6. Để người ta tìm được trang
+
+Website này dựng nội dung bằng JavaScript. Trình duyệt thì không sao, nhưng **công cụ tìm kiếm và ô xem trước khi chia sẻ link phần lớn không chạy JavaScript** — chúng chỉ đọc HTML thô. Trước khi có `build.ps1`, mọi bài viết đều trả về `<title>Đang tải…</title>` và không còn gì khác: Google không có gì để lập chỉ mục, và link dán lên Facebook hay Zalo hiện ra chữ "Đang tải…".
+
+### `build.ps1` giải quyết việc đó
+
+Chạy `.\build.ps1`, script đọc `posts/posts.json` rồi sinh ra:
+
+| Sinh ra | Nội dung |
+|---|---|
+| `bai/<slug>.html` | Mỗi bài một file, có sẵn tiêu đề, mô tả, ảnh bìa và thẻ `og:` ngay trong HTML |
+| `sitemap.xml` | Danh sách địa chỉ để khai báo với công cụ tìm kiếm |
+| `robots.txt` | Trỏ tới sitemap |
+| Khối trong `index.html` | Danh sách bài dạng `<noscript>` — cho công cụ tìm kiếm một đường đi từ trang chủ vào từng bài |
+
+Các file trong `bai/` chính là **địa chỉ công khai** của bài viết. Trang chủ, cột bên phải và mục "bài liên quan" đều tự trỏ vào đó. `post.html?p=ten-bai` vẫn chạy cho các link cũ, nhưng được đánh dấu `noindex` để không trùng nội dung với bản chính.
+
+### Đừng quên chạy lại
+
+Đăng bài mới mà quên chạy `build.ps1` thì bài đó không có file trong `bai/`. Có ba lớp đỡ:
+
+1. `serve.ps1` tự chạy `build.ps1` mỗi lần bạn xem thử trên máy.
+2. Lệnh đăng bài ở mục 5 đã có sẵn `build.ps1` ở đầu.
+3. `404.html` nhận ra địa chỉ dạng `/bai/ten-bai.html` và tự đưa người đọc sang `post.html?p=ten-bai`, nên link vẫn không gãy.
+
+Dù vậy công cụ tìm kiếm sẽ không thấy bài chưa sinh trang, nên vẫn nên chạy cho đúng.
+
+### Đổi tên miền thì sửa ở đâu
+
+Địa chỉ gốc nằm ở dòng `$BaseUrl` đầu `build.ps1`, và ở thẻ `canonical` với `og:url` trong `index.html`. Sửa hai chỗ đó rồi chạy lại script.
+
+### Việc còn phải làm bằng tay
+
+Khai báo trang với Google: vào [Google Search Console](https://search.google.com/search-console), thêm địa chỉ `https://ltcanhwru.github.io/LTC/`, rồi nộp `sitemap.xml`. Đây là việc cần tài khoản Google của bạn nên không tự động hoá được.
+
+---
+
+## 7. Cấu trúc thư mục
 
 ```
 index.html          Trang chủ - danh sách bài viết
 post.html           Trang đọc một bài (post.html?p=slug)
 about.html          Trang giới thiệu - sửa nội dung trực tiếp trong file
-404.html            Trang báo không tìm thấy
+404.html            Trang báo không tìm thấy (kèm lưới an toàn cho /bai/)
+sitemap.xml         <- build.ps1 sinh ra. Khai báo với công cụ tìm kiếm
+robots.txt          <- build.ps1 sinh ra
 
 css/style.css       Toàn bộ giao diện. Đổi màu ở phần :root đầu file
                     (gồm cả bảng màu --cv-* dùng cho biểu đồ)
@@ -283,13 +324,17 @@ posts/posts.json    <- Danh mục bài viết. Thêm bài mới là sửa file n
 posts/*.md          Nội dung từng bài viết
 posts/assets/       Ảnh và biểu đồ .svg dùng trong bài
 
-serve.ps1           Máy chủ xem thử tại chỗ
+bai/                <- build.ps1 sinh ra. Trang tĩnh của từng bài viết,
+                    đây mới là địa chỉ công khai. Đừng sửa tay.
+
+build.ps1           Sinh trang tĩnh + sitemap. Chạy trước mỗi lần push
+serve.ps1           Máy chủ xem thử tại chỗ (tự chạy build.ps1)
 .nojekyll           Báo GitHub Pages phục vụ file nguyên trạng
 ```
 
 ---
 
-## 7. Gặp trục trặc?
+## 8. Gặp trục trặc?
 
 **Trang chủ trống, báo "Không đọc được danh sách bài viết"**
 Bạn đang mở bằng `file://`. Chạy `serve.ps1` rồi vào `http://localhost:8080`.

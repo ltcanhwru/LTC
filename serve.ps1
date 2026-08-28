@@ -18,6 +18,14 @@ $ErrorActionPreference = 'Stop'
 $root = $PSScriptRoot
 if (-not $root) { $root = (Get-Location).Path }
 
+# Sinh lai trang tinh cua tung bai truoc khi xem thu, de ban luon xem dung
+# thu ma nguoi doc se thay. Neu build.ps1 loi thi van chay may chu binh thuong.
+$buildScript = Join-Path $root 'build.ps1'
+if (Test-Path $buildScript) {
+    try { & $buildScript | Out-Null; Write-Host '  Da sinh lai trang tinh trong bai/' }
+    catch { Write-Host ("  Bo qua build.ps1: {0}" -f $_.Exception.Message) }
+}
+
 $mime = @{
     '.html' = 'text/html; charset=utf-8'
     '.css'  = 'text/css; charset=utf-8'

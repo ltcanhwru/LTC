@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ltcanhwru.github.io/LTC/sitemap.xml

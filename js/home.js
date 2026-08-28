@@ -82,7 +82,7 @@
         '<div class="post-meta">' +
           meta.filter(Boolean).join('<span class="dot">·</span>') +
         '</div>' +
-        '<h2><a href="post.html?p=' + encodeURIComponent(post.slug) + '">' +
+        '<h2><a href="' + S.postUrl(post.slug) + '">' +
           S.escapeHtml(post.title) + '</a></h2>' +
         '<p>' + S.escapeHtml(post.excerpt || '') + '</p>' +
         (tags ? '<div class="post-card-tags">' + tags + '</div>' : '') +

@@ -13,7 +13,11 @@
   var bodyEl = document.getElementById('articleBody');
   var footEl = document.getElementById('articleFooter');
 
+  /* Trang tĩnh trong bai/ ghi sẵn slug vào thẻ <body data-slug="...">;
+     post.html thì lấy từ địa chỉ dạng post.html?p=ten-bai-viet. */
   function getSlug() {
+    var fromBody = document.body && document.body.getAttribute('data-slug');
+    if (fromBody) return fromBody;
     var params = new URLSearchParams(location.search);
     return params.get('p') || params.get('slug') || '';
   }

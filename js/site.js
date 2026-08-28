@@ -171,7 +171,7 @@
       return '<li class="rank-item">' +
         '<span class="rank-num">' + (i + 1) + '</span>' +
         '<span class="rank-body">' +
-          '<a href="post.html?p=' + encodeURIComponent(p.slug) + '">' + escapeHtml(p.title) + '</a>' +
+          '<a href="' + postUrl(p.slug) + '">' + escapeHtml(p.title) + '</a>' +
           '<span class="rank-views">' + ICONS.eye +
             global.Views.format(entry.views) + ' lượt xem' +
           '</span>' +
@@ -253,7 +253,7 @@
 
       return '<article class="related-card">' +
         (entry.sharedTag ? '<span class="related-tag">' + escapeHtml(entry.sharedTag) + '</span>' : '') +
-        '<h3><a href="post.html?p=' + encodeURIComponent(p.slug) + '">' +
+        '<h3><a href="' + postUrl(p.slug) + '">' +
           escapeHtml(p.title) + '</a></h3>' +
         (p.excerpt ? '<p>' + escapeHtml(p.excerpt) + '</p>' : '') +
         '<span class="related-meta">' + meta.join(' · ') + '</span>' +
@@ -332,7 +332,9 @@
     set('property', 'og:type', 'article');
     set('name', 'twitter:card', image ? 'summary_large_image' : 'summary');
     if (image) {
-      set('property', 'og:image', new URL(image, location.href).href);
+      // Dùng baseURI chứ không phải location.href: trang trong bai/ có thẻ
+      // <base href="../">, nên đường dẫn ảnh phải tính từ thư mục gốc của site.
+      set('property', 'og:image', new URL(image, document.baseURI).href);
     }
   }
 
@@ -401,9 +403,18 @@
     });
   }
 
+  /* Địa chỉ trang của một bài viết. build.ps1 sinh sẵn mỗi bài một file tĩnh
+     trong thư mục bai/ — có tiêu đề và mô tả nằm ngay trong HTML, nên công cụ
+     tìm kiếm và ô xem trước khi chia sẻ link đọc được mà không cần chạy JS.
+     Muốn đổi cách đặt địa chỉ thì sửa đúng hàm này và biến $BaiDir trong build.ps1. */
+  function postUrl(slug) {
+    return 'bai/' + encodeURIComponent(slug) + '.html';
+  }
+
   global.Site = {
     config: CFG,
     icons: ICONS,
+    postUrl: postUrl,
     buildSidebar: buildSidebar,
     buildRelated: buildRelated,
     mountChrome: mountChrome,

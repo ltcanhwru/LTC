@@ -3,7 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Đang tải…</title>
+  <!-- build:meta -->
+  <!-- Trang này chỉ là bộ khung dùng chung cho mọi bài. Địa chỉ công khai của
+       từng bài là file tĩnh trong bai/ do build.ps1 sinh ra, nên bản này không
+       cần lập chỉ mục. Khi sinh trang, build.ps1 thay toàn bộ khối nằm giữa
+       hai dấu build:meta bằng thẻ tiêu đề và mô tả thật của bài. -->
+  <title>Bài viết — Chia sẻ góc nhìn cá nhân</title>
+  <meta name="robots" content="noindex,follow">
+  <!-- /build:meta -->
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%232e7d43'/><text x='50' y='63' font-size='34' font-family='Georgia,serif' fill='white' text-anchor='middle'>LTC</text></svg>">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,7 +24,7 @@
   <main class="wrap layout">
     <div>
       <div class="article-head" id="articleHead">
-        <p style="color:var(--text-muted)">Đang tải bài viết…</p>
+        <!-- build:head --><p style="color:var(--text-muted)">Đang tải bài viết…</p><!-- /build:head -->
       </div>
       <article class="article-body" id="articleBody"></article>
       <div class="article-footer" id="articleFooter"></div>

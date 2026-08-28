@@ -28,6 +28,19 @@
   <script src="js/config.js"></script>
   <script src="js/views.js"></script>
   <script src="js/site.js"></script>
-  <script>Site.mountChrome();</script>
+  <script>
+    /* Lưới an toàn: nếu địa chỉ có dạng /bai/ten-bai.html mà file đó chưa được
+       sinh ra (quên chạy build.ps1 sau khi đăng bài mới), đưa người đọc sang
+       bộ khung post.html để bài vẫn hiện bình thường. */
+    (function () {
+      var m = location.pathname.match(/\/bai\/([^\/]+)\.html$/);
+      if (m) {
+        var base = location.pathname.slice(0, m.index + 1);
+        location.replace(base + 'post.html?p=' + encodeURIComponent(m[1]));
+        return;
+      }
+      Site.mountChrome();
+    })();
+  </script>
 </body>
 </html>
