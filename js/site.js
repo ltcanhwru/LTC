@@ -336,6 +336,71 @@
     }
   }
 
+  /* ---------- Biểu đồ SVG ----------
+     Đổi thẻ <img src="...svg"> thành SVG nhúng thẳng vào trang. Khi nằm trong
+     trang, biểu đồ dùng chung các biến màu --cv-* của style.css nên đổi màu
+     ngay lúc bấm nút sáng/tối. Tải hỏng, hay trình duyệt quá cũ, thì thẻ ảnh
+     được giữ nguyên — biểu đồ vẫn hiện, chỉ là màu cố định theo file. */
+  var svgText = {};   // nhớ nội dung đã tải: mỗi file chỉ tải một lần
+  var svgSeq = 0;     // số thứ tự để các id bên trong không đụng nhau
+
+  /* Nhiều biểu đồ trên cùng một trang có thể trùng id (đầu mũi tên, gradient…),
+     mà id trùng thì trình duyệt chỉ dùng cái đầu tiên. Thêm số vào sau mỗi id. */
+  function renameSvgIds(svg, seq) {
+    var ids = [];
+    Array.prototype.forEach.call(svg.querySelectorAll('[id]'), function (el) {
+      ids.push(el.getAttribute('id'));
+    });
+    if (!ids.length) return;
+
+    var inner = svg.innerHTML;
+    ids.forEach(function (id) {
+      inner = inner.split('url(#' + id + ')').join('url(#' + id + '-' + seq + ')');
+    });
+    svg.innerHTML = inner;
+
+    Array.prototype.forEach.call(svg.querySelectorAll('[id]'), function (el) {
+      el.setAttribute('id', el.getAttribute('id') + '-' + seq);
+    });
+  }
+
+  function inlineCharts(root) {
+    if (!root || !global.fetch || !global.DOMParser) return;
+
+    Array.prototype.forEach.call(root.querySelectorAll('img[src$=".svg"]'), function (img) {
+      var src = img.getAttribute('src');
+      if (!src) return;
+
+      if (!svgText[src]) {
+        svgText[src] = fetch(src).then(function (r) {
+          if (!r.ok) throw new Error('HTTP ' + r.status);
+          return r.text();
+        });
+      }
+
+      svgText[src].then(function (txt) {
+        var doc = new DOMParser().parseFromString(txt, 'image/svg+xml');
+        if (doc.querySelector('parsererror')) return;
+
+        var svg = doc.documentElement;
+        if (!svg || String(svg.nodeName).toLowerCase() !== 'svg') return;
+        svg = document.importNode(svg, true);
+
+        // Bỏ bề ngang cố định trong file để CSS quyết định kích thước
+        svg.removeAttribute('width');
+        svg.removeAttribute('height');
+        if (img.alt) svg.setAttribute('aria-label', img.alt);
+
+        renameSvgIds(svg, ++svgSeq);
+
+        var host = img.parentNode;
+        if (!host) return;
+        host.replaceChild(svg, img);
+        host.classList.add('chart-host');
+      }).catch(function () { /* giữ nguyên thẻ ảnh */ });
+    });
+  }
+
   global.Site = {
     config: CFG,
     icons: ICONS,
@@ -347,6 +412,7 @@
     parseDate: parseDate,
     readingTime: readingTime,
     escapeHtml: escapeHtml,
-    setMeta: setMeta
+    setMeta: setMeta,
+    inlineCharts: inlineCharts
   };
 })(window);

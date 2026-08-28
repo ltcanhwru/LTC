@@ -34,6 +34,8 @@ Giá đóng cửa ngày 23/08/2026:
 | TCL | HOSE | 29.550 | 891 | 5,46 | 1,31 | 8,46% | +10,2% |
 | MVN | UPCoM | 68.700 | 82.571 | 29,96 | 5,29 | — | +48,7% |
 
+![Bội số P/E của mười một cổ phiếu cảng biển, xếp từ thấp đến cao](posts/assets/cang-bien-pe.svg)
+
 Một ngành, cùng một năm, cùng một chu kỳ sản lượng — mà bội số lợi nhuận trải từ 5,46 lần đến 29,96 lần. Khoảng cách đó không giải thích được bằng "ngành cảng biển đang tốt". Nó phải giải thích bằng từng doanh nghiệp một.
 
 ## 3. Nhóm nước sâu: bằng chứng nằm ở biên lợi nhuận
@@ -119,6 +121,8 @@ Kết quả: P/E 16,69 lần — cao thứ hai ngành, chỉ sau MVN — trên m
 - **PHP** nắm **51%** Cảng Đình Vũ (DVP) — hợp nhất vào báo cáo, phần 49% còn lại hiện ở dòng lợi nhuận cổ đông không kiểm soát.
 - **PHP** nắm **51%** liên doanh HTIT với TIL/MSC, đơn vị khai thác bến 3, 4 Lạch Huyện.
 - **TCL** thuộc hệ sinh thái Tân Cảng Sài Gòn.
+
+![Sơ đồ sở hữu chéo: VIMC nắm các cảng con, Cảng Hải Phòng nắm Cảng Đình Vũ và liên doanh HTIT](posts/assets/cang-bien-so-huu-cheo.svg)
 
 Hai hệ quả thực tế:
 

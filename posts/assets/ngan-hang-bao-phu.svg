@@ -1,0 +1,43 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 450" width="880" height="450" role="img" aria-label="Ty le bao phu no xau cua 27 ngan hang niem yet tai 30 thang 6 nam 2026">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}.cvi .ln{stroke:var(--cv-mu,#4b6551);stroke-width:1.4;fill:none}.cvi .dl{stroke:var(--cv-n1,#a9bfb0);stroke-width:2}</style>
+<rect x="0.5" y="0.5" width="879" height="449" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Tỷ lệ bao phủ nợ xấu, 27 ngân hàng niêm yết tại 30/06/2026</text>
+<text class="s" x="36" y="62">Năm ngân hàng còn dự phòng lớn hơn nợ xấu. Hai mươi mốt ngân hàng đã tiêu hết bộ đệm.</text>
+<rect x="520" y="78" width="11" height="11" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="537" y="88">từ 100% trở lên</text>
+<rect x="642" y="78" width="11" height="11" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="ax" x="659" y="88">70–99%</text>
+<rect x="730" y="78" width="11" height="11" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="747" y="88">dưới 70%</text>
+<line class="gl" x1="172.7" y1="126" x2="172.7" y2="404"/><text class="ax" x="172.7" y="120" text-anchor="middle">50%</text>
+<line class="gl" x1="306" y1="126" x2="306" y2="404"/><text class="ax" x="306" y="120" text-anchor="middle">150%</text>
+<line x1="239.3" y1="126" x2="239.3" y2="404" stroke="var(--cv-neg,#c0562f)" stroke-width="1.4" stroke-dasharray="5 4"/><text class="v" x="239.3" y="120" text-anchor="middle" fill="var(--cv-neg,#c0562f)">100%</text>
+<line class="gl" x1="612.7" y1="126" x2="612.7" y2="384"/><text class="ax" x="612.7" y="120" text-anchor="middle">50%</text>
+<line class="gl" x1="746" y1="126" x2="746" y2="384"/><text class="ax" x="746" y="120" text-anchor="middle">150%</text>
+<line x1="679.3" y1="126" x2="679.3" y2="384" stroke="var(--cv-neg,#c0562f)" stroke-width="1.4" stroke-dasharray="5 4"/><text class="v" x="679.3" y="120" text-anchor="middle" fill="var(--cv-neg,#c0562f)">100%</text>
+<text class="v" x="96" y="142" text-anchor="end">VCB</text><rect x="106" y="132" width="194" height="12" rx="2" fill="var(--cv-a1,#2e7d43)"/><path d="M300,132 L306,138 L300,144" fill="none" stroke="var(--cv-a1,#2e7d43)" stroke-width="2"/><text class="v" x="312" y="142" fill="var(--cv-a1,#2e7d43)">280%</text>
+<text class="v" x="96" y="162" text-anchor="end">BAB</text><rect x="106" y="152" width="180" height="12" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="292" y="162">135%</text>
+<text class="v" x="96" y="182" text-anchor="end">CTG</text><rect x="106" y="172" width="178.7" height="12" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="290.7" y="182">134%</text>
+<text class="v" x="96" y="202" text-anchor="end">TCB</text><rect x="106" y="192" width="168" height="12" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="280" y="202">126%</text>
+<text class="v" x="96" y="222" text-anchor="end">ACB</text><rect x="106" y="212" width="140" height="12" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="252" y="222">105%</text>
+<text class="v" x="96" y="242" text-anchor="end">VAB</text><rect x="106" y="232" width="133.3" height="12" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="245.3" y="242">100%</text>
+<text class="v" x="96" y="262" text-anchor="end">MBB</text><rect x="106" y="252" width="125.3" height="12" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="ax" x="237.3" y="262">94%</text>
+<text class="v" x="96" y="282" text-anchor="end">KLB</text><rect x="106" y="272" width="121.3" height="12" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="ax" x="233.3" y="282">91%</text>
+<text class="v" x="96" y="302" text-anchor="end">ABB</text><rect x="106" y="292" width="116" height="12" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="ax" x="228" y="302">87%</text>
+<text class="v" x="96" y="322" text-anchor="end">SHB</text><rect x="106" y="312" width="110.7" height="12" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="ax" x="222.7" y="322">83%</text>
+<text class="v" x="96" y="342" text-anchor="end">BID</text><rect x="106" y="332" width="101.3" height="12" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="ax" x="213.3" y="342">76%</text>
+<text class="v" x="96" y="362" text-anchor="end">VBB</text><rect x="106" y="352" width="92" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="204" y="362">69%</text>
+<text class="v" x="96" y="382" text-anchor="end">NAB</text><rect x="106" y="372" width="90.7" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="202.7" y="382">68%</text>
+<text class="v" x="96" y="402" text-anchor="end">LPB</text><rect x="106" y="392" width="89.3" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="201.3" y="402">67%</text>
+<text class="v" x="536" y="142" text-anchor="end">TPB</text><rect x="546" y="132" width="88" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="640" y="142">66%</text>
+<text class="v" x="536" y="162" text-anchor="end">SSB</text><rect x="546" y="152" width="88" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="640" y="162">66%</text>
+<text class="v" x="536" y="182" text-anchor="end">OCB</text><rect x="546" y="172" width="76" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="628" y="182">57%</text>
+<text class="v" x="536" y="202" text-anchor="end">STB</text><rect x="546" y="192" width="76" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="628" y="202">57%</text>
+<text class="v" x="536" y="222" text-anchor="end">VPB</text><rect x="546" y="212" width="74.7" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="626.7" y="222">56%</text>
+<text class="v" x="536" y="242" text-anchor="end">MSB</text><rect x="546" y="232" width="69.3" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="621.3" y="242">52%</text>
+<text class="v" x="536" y="262" text-anchor="end">HDB</text><rect x="546" y="252" width="66.7" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="618.7" y="262">50%</text>
+<text class="v" x="536" y="282" text-anchor="end">VIB</text><rect x="546" y="272" width="58.7" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="610.7" y="282">44%</text>
+<text class="v" x="536" y="302" text-anchor="end">PGB</text><rect x="546" y="292" width="57.3" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="609.3" y="302">43%</text>
+<text class="v" x="536" y="322" text-anchor="end">BVB</text><rect x="546" y="312" width="57.3" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="609.3" y="322">43%</text>
+<text class="v" x="536" y="342" text-anchor="end">SGB</text><rect x="546" y="332" width="48" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="600" y="342">36%</text>
+<text class="v" x="536" y="362" text-anchor="end">EIB</text><rect x="546" y="352" width="42.7" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="594.7" y="362">32%</text>
+<text class="v" x="536" y="382" text-anchor="end">NVB</text><rect x="546" y="372" width="25.3" height="12" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="ax" x="577.3" y="382">19%</text>
+<text class="s" x="36" y="428">Vietcombank và VietinBank chiếm 89,4% toàn bộ phần dôi ra của cả ngành. NCB có nợ xấu 6,43% và bao phủ 19%.</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 410" width="880" height="410" role="img" aria-label="Doanh thu, loi nhuan va bien loi nhuan gop theo quy cua DRI">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}.cvi .ln{stroke:var(--cv-mu,#4b6551);stroke-width:1.4;fill:none}.cvi .dl{stroke:var(--cv-n1,#a9bfb0);stroke-width:2}</style>
+<rect x="0.5" y="0.5" width="879" height="409" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Năm quý gần nhất của DRI (tỷ đồng)</text>
+<text class="s" x="36" y="62">Doanh thu quý II lùi so với quý I, nhưng biên lợi nhuận gộp lên mức cao nhất chuỗi.</text>
+<rect x="596" y="30" width="12" height="12" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="614" y="40">Doanh thu thuần</text>
+<rect x="720" y="30" width="12" height="12" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="738" y="40">LNST cổ đông mẹ</text>
+<line class="gl" x1="90" y1="110" x2="836" y2="110"/><text class="ax" x="80" y="114" text-anchor="end">300</text>
+<line class="gl" x1="90" y1="183.3" x2="836" y2="183.3"/><text class="ax" x="80" y="187.3" text-anchor="end">200</text>
+<line class="gl" x1="90" y1="256.7" x2="836" y2="256.7"/><text class="ax" x="80" y="260.7" text-anchor="end">100</text>
+<line class="bl" x1="90" y1="330" x2="836" y2="330"/><text class="ax" x="80" y="334" text-anchor="end">0</text>
+<rect x="114" y="257.8" width="46" height="72.2" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="137" y="251" text-anchor="middle">98,4</text>
+<rect x="168" y="313.9" width="46" height="16.1" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="191" y="307" text-anchor="middle">21,9</text>
+<rect x="262" y="195" width="46" height="135" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="285" y="188" text-anchor="middle">184,1</text>
+<rect x="316" y="301.4" width="46" height="28.6" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="339" y="295" text-anchor="middle">39,0</text>
+<rect x="410" y="185.8" width="46" height="144.2" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="433" y="179" text-anchor="middle">196,7</text>
+<rect x="464" y="300.2" width="46" height="29.8" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="487" y="294" text-anchor="middle">40,6</text>
+<rect x="558" y="124.8" width="46" height="205.2" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="v" x="581" y="118" text-anchor="middle">279,8</text>
+<rect x="612" y="272.5" width="46" height="57.5" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="635" y="266" text-anchor="middle">78,4</text>
+<rect x="706" y="175.9" width="46" height="154.1" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="729" y="169" text-anchor="middle">210,1</text>
+<rect x="760" y="283.2" width="46" height="46.8" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="783" y="277" text-anchor="middle">63,8</text>
+<text class="c" x="164" y="352" text-anchor="middle">Q2/2025</text>
+<text class="c" x="312" y="352" text-anchor="middle">Q3/2025</text>
+<text class="c" x="460" y="352" text-anchor="middle">Q4/2025</text>
+<text class="c" x="608" y="352" text-anchor="middle">Q1/2026</text>
+<text class="c" x="756" y="352" text-anchor="middle">Q2/2026</text>
+<text class="ax" x="36" y="378">Biên gộp</text>
+<text class="v" x="164" y="378" text-anchor="middle" fill="var(--cv-mu,#4b6551)">39,3%</text>
+<text class="v" x="312" y="378" text-anchor="middle" fill="var(--cv-mu,#4b6551)">35,5%</text>
+<text class="v" x="460" y="378" text-anchor="middle" fill="var(--cv-mu,#4b6551)">39,3%</text>
+<text class="v" x="608" y="378" text-anchor="middle" fill="var(--cv-mu,#4b6551)">39,4%</text>
+<text class="v" x="756" y="378" text-anchor="middle" fill="var(--cv-a1,#2e7d43)">42,3%</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="Bien loi nhuan gop cua Vinh Hoan va Nam Viet, nua dau 2025 so voi nua dau 2026">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}.cvi .ln{stroke:var(--cv-mu,#4b6551);stroke-width:1.4;fill:none}.cvi .dl{stroke:var(--cv-n1,#a9bfb0);stroke-width:2}</style>
+<rect x="0.5" y="0.5" width="879" height="419" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Biên lợi nhuận gộp, cùng sáu tháng, cùng một con cá</text>
+<text class="s" x="36" y="62">Nam Việt bán nhiều hàng hơn hẳn — doanh thu tăng 33,4% — mà lợi nhuận gộp giảm 10,1%.</text>
+<line class="gl" x1="120" y1="110" x2="600" y2="110"/><text class="ax" x="110" y="114" text-anchor="end">30%</text>
+<line class="gl" x1="120" y1="183.3" x2="600" y2="183.3"/><text class="ax" x="110" y="187.3" text-anchor="end">20%</text>
+<line class="gl" x1="120" y1="256.7" x2="600" y2="256.7"/><text class="ax" x="110" y="260.7" text-anchor="end">10%</text>
+<line class="bl" x1="120" y1="330" x2="600" y2="330"/><text class="ax" x="110" y="334" text-anchor="end">0</text>
+<line x1="280" y1="110" x2="280" y2="330" stroke="var(--cv-bd,#c8e2bd)" stroke-width="1"/>
+<line x1="560" y1="110" x2="560" y2="330" stroke="var(--cv-bd,#c8e2bd)" stroke-width="1"/>
+<line x1="280" y1="145.9" x2="560" y2="206.1" stroke="var(--cv-neg,#c0562f)" stroke-width="3"/>
+<circle cx="280" cy="145.9" r="6" fill="var(--cv-neg,#c0562f)"/><circle cx="560" cy="206.1" r="6" fill="var(--cv-neg,#c0562f)"/>
+<line x1="280" y1="208.3" x2="560" y2="199.5" stroke="var(--cv-a1,#2e7d43)" stroke-width="3"/>
+<circle cx="280" cy="208.3" r="6" fill="var(--cv-a1,#2e7d43)"/><circle cx="560" cy="199.5" r="6" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="268" y="150" text-anchor="end" fill="var(--cv-neg,#c0562f)">25,1%</text>
+<text class="v" x="268" y="212" text-anchor="end" fill="var(--cv-a1,#2e7d43)">16,6%</text>
+<path d="M566,197 L600,176" stroke="var(--cv-a1,#2e7d43)" stroke-width="1" stroke-dasharray="3 3" fill="none"/>
+<text class="v" x="606" y="168" fill="var(--cv-a1,#2e7d43)">VHC — Vĩnh Hoàn</text>
+<text class="ax" x="606" y="186">16,6% → 17,8%   (+1,2 điểm)</text>
+<text class="ax" x="606" y="203">Thuế POR21: 0,00 USD/kg</text>
+<path d="M566,209 L600,246" stroke="var(--cv-neg,#c0562f)" stroke-width="1" stroke-dasharray="3 3" fill="none"/>
+<text class="v" x="606" y="252" fill="var(--cv-neg,#c0562f)">ANV — Nam Việt</text>
+<text class="ax" x="606" y="270">25,1% → 16,9%   (−8,2 điểm)</text>
+<text class="ax" x="606" y="287">Thuế POR21: 0,84 USD/kg</text>
+<text class="c" x="280" y="356" text-anchor="middle">6 tháng đầu 2025</text>
+<text class="c" x="560" y="356" text-anchor="middle">6 tháng đầu 2026</text>
+<text class="s" x="36" y="396">Riêng quý II/2026: Vĩnh Hoàn đạt 20,6% — cao nhất tám quý; Nam Việt rơi về 16,1%.</text>
+</svg>

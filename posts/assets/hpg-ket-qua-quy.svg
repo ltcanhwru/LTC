@@ -1,0 +1,40 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" width="880" height="500" role="img" aria-label="Doanh thu, bien loi nhuan gop va chi phi lai vay theo quy cua Hoa Phat">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}.cvi .ln{stroke:var(--cv-mu,#4b6551);stroke-width:1.4;fill:none}.cvi .dl{stroke:var(--cv-n1,#a9bfb0);stroke-width:2}</style>
+<rect x="0.5" y="0.5" width="879" height="499" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Năm quý gần nhất của Hòa Phát</text>
+<text class="s" x="36" y="62">Doanh thu và biên gộp cùng đi lên — nhưng chi phí lãi vay đã gấp 3,5 lần cùng kỳ.</text>
+<rect x="596" y="30" width="12" height="12" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="614" y="40">Doanh thu (tỷ đ)</text>
+<line x1="736" y1="36" x2="760" y2="36" stroke="var(--cv-a1,#2e7d43)" stroke-width="2.5"/><circle cx="748" cy="36" r="3.5" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="768" y="40">Biên gộp</text>
+<line class="gl" x1="80" y1="130" x2="830" y2="130"/><text class="ax" x="70" y="134" text-anchor="end">51.000</text>
+<line class="gl" x1="80" y1="215" x2="830" y2="215"/><text class="ax" x="70" y="219" text-anchor="end">34.000</text>
+<line class="bl" x1="80" y1="300" x2="830" y2="300"/><text class="ax" x="70" y="304" text-anchor="end">0</text>
+<rect x="123" y="180.3" width="64" height="119.7" rx="2" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="273" y="178.6" width="64" height="121.4" rx="2" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="423" y="146.1" width="64" height="153.9" rx="2" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="573" y="123.7" width="64" height="176.3" rx="2" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="723" y="116.1" width="64" height="183.9" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="ax" x="155" y="174" text-anchor="middle">35.911</text>
+<text class="ax" x="305" y="172" text-anchor="middle">36.407</text>
+<text class="ax" x="455" y="140" text-anchor="middle">46.176</text>
+<text class="ax" x="605" y="117" text-anchor="middle">52.901</text>
+<text class="v" x="755" y="109" text-anchor="middle">55.159</text>
+<polyline points="155,166.6 305,205.4 455,269.4 605,226 755,152.9" fill="none" stroke="var(--cv-a1,#2e7d43)" stroke-width="2.5"/>
+<circle cx="155" cy="166.6" r="4.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="305" cy="205.4" r="4.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="455" cy="269.4" r="4.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="605" cy="226" r="4.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="755" cy="152.9" r="5.5" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="200" y="163" text-anchor="middle" fill="var(--cv-a1,#2e7d43)">18,4%</text>
+<text class="v" x="305" y="225" text-anchor="middle" fill="var(--cv-a1,#2e7d43)">16,7%</text>
+<text class="v" x="455" y="289" text-anchor="middle" fill="var(--cv-a1,#2e7d43)">13,9%</text>
+<text class="v" x="605" y="246" text-anchor="middle" fill="var(--cv-a1,#2e7d43)">15,8%</text>
+<text class="v" x="800" y="150" text-anchor="middle" fill="var(--cv-a1,#2e7d43)">19,0%</text>
+<text class="c" x="36" y="349">Chi phí lãi vay (tỷ đồng)</text>
+<line class="bl" x1="80" y1="440" x2="830" y2="440"/>
+<rect x="135" y="418" width="40" height="22" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="ax" x="155" y="412" text-anchor="middle">439</text>
+<rect x="285" y="399.4" width="40" height="40.6" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="ax" x="305" y="393" text-anchor="middle">812</text>
+<rect x="435" y="378.1" width="40" height="61.9" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="ax" x="455" y="372" text-anchor="middle">1.237</text>
+<rect x="585" y="373.3" width="40" height="66.7" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="ax" x="605" y="367" text-anchor="middle">1.333</text>
+<rect x="735" y="364" width="40" height="76" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="v" x="755" y="357" text-anchor="middle" fill="var(--cv-wa,#bf860f)">1.520</text>
+<text class="c" x="155" y="463" text-anchor="middle">Q2/2025</text>
+<text class="c" x="305" y="463" text-anchor="middle">Q3/2025</text>
+<text class="c" x="455" y="463" text-anchor="middle">Q4/2025</text>
+<text class="c" x="605" y="463" text-anchor="middle">Q1/2026</text>
+<text class="c" x="755" y="463" text-anchor="middle">Q2/2026</text>
+</svg>

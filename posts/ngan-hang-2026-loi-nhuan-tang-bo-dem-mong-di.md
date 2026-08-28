@@ -71,6 +71,8 @@ Lấy thu nhập lãi thuần nửa đầu năm nhân đôi rồi chia cho tổn
 | BID | 2,35 | 2,01 | 1,98 | +15,0% |
 | NAB | 3,58 | 3,02 | 1,97 | +43,4% |
 
+![Biên lãi thô của mười tám ngân hàng, sáu tháng đầu 2024 so với sáu tháng đầu 2026](posts/assets/ngan-hang-bien-lai.svg)
+
 Mười sáu trong mười tám ngân hàng có biên thấp hơn năm 2024. Không ngân hàng nào trong nhóm này có biên năm 2026 cao hơn biên năm 2024. Vietcombank và VietinBank hồi lại được so với 2025 nhưng vẫn dưới mức 2024.
 
 Vậy thu nhập lãi thuần tăng 17,1% từ đâu ra? Từ cột bên phải. Tổng tài sản VPBank tăng 36,0% trong một năm, MB 34,4%, HDBank 33,1%, Nam A Bank 43,4%. Dư nợ gốc của cả 27 ngân hàng tăng **8,9% chỉ trong sáu tháng**, trong khi mục tiêu tăng trưởng tín dụng toàn hệ thống cả năm 2026 mà Ngân hàng Nhà nước đưa ra là khoảng 15%.
@@ -118,6 +120,8 @@ Chỗ đáng chú ý không phải con số tổng, mà là nó tập trung ở 
 | SGB | 22.205 | 636 | 2,86% | 229 | 36% | −407 | +1,1% |
 | EIB | 188.030 | 5.741 | 3,05% | 1.837 | 32% | −3.904 | +2,1% |
 | NVB | 133.527 | 8.586 | 6,43% | 1.622 | 19% | −6.964 | +36,9% |
+
+![Tỷ lệ bao phủ nợ xấu của 27 ngân hàng niêm yết tại 30/06/2026, xếp từ cao xuống thấp](posts/assets/ngan-hang-bao-phu.svg)
 
 Năm ngân hàng có dự phòng lớn hơn nợ xấu. Tổng phần dôi ra của năm ngân hàng ấy là 31.077 tỷ đồng, trong đó **Vietcombank và VietinBank chiếm 89,4%**. Hai mươi mốt ngân hàng còn lại đã tiêu hết bộ đệm.
 

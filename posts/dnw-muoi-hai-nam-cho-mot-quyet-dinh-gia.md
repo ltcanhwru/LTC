@@ -38,6 +38,8 @@ Kết quả của việc sản lượng tăng đều còn giá đứng yên, l�
 | 2025 | 1.309,6 | 485,8 | 37,1% |
 | 4 quý gần nhất | 1.345,7 | 493,6 | **36,7%** |
 
+![Doanh thu DNW đi lên đều trong khi biên lợi nhuận gộp rơi từ 40,1% xuống 36,7%](posts/assets/dnw-bien-loi-nhuan-gop.svg)
+
 Đọc bảng này theo chiều dọc mới thấy vấn đề. Doanh thu từ 2020 đến 2025 tăng 17,4%. Lợi nhuận gộp trong cùng giai đoạn chỉ tăng **8,6%**. Biên gộp rơi từ đỉnh 40,1% xuống 36,7% ở bốn quý gần nhất — thấp nhất trong cả chuỗi bảy năm.
 
 Nguyên nhân nằm ngay trong cơ cấu chi phí: tỷ trọng khấu hao tăng từ 25,6% năm 2017 lên 33,1% năm 2024, do công ty liên tục đầu tư nâng cấp nhà máy và mở rộng đường ống — phần lớn từ nhà máy Thiện Tân nâng công suất từ 100.000 lên 200.000 m³/ngày đêm giai đoạn 2016–2019. Tỷ trọng nhân công cũng tăng từ 24% lên 28% do thu nhập lao động đi lên.
@@ -83,6 +85,8 @@ Ghép hai con số lại:
 | **+4,9% — phương án DNW đề xuất** | **3.246** | **9,6** |
 | +10% | 3.736 | 8,3 |
 | +15% | 4.216 | 7,4 |
+
+![EPS của DNW theo bốn kịch bản giá bán, kèm tỷ số P/E tại giá 31.000 đồng](posts/assets/dnw-do-nhay-eps.svg)
 
 Nói thẳng: quyết định mà thị trường chờ đợi mười hai năm, theo ước tính của bên phân tích duy nhất phủ sóng mã này, đáng khoảng **+17% lợi nhuận trên mỗi cổ phiếu**. Đó là một mức cải thiện thật và đáng kể — nhưng không phải một cú nhân đôi, và nó đưa P/E từ 11,2 về 9,6 chứ không đưa cổ phiếu sang một hạng định giá khác.
 

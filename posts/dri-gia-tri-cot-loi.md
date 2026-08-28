@@ -35,6 +35,8 @@ Số liệu từ báo cáo tài chính hợp nhất theo quý, đơn vị tỷ �
 | Biên lợi nhuận gộp | 39,3% | 35,5% | 39,3% | 39,4% | 42,3% |
 | Lợi nhuận sau thuế của cổ đông mẹ | 21,9 | 39,0 | 40,6 | 78,4 | 63,8 |
 
+![Doanh thu, lợi nhuận sau thuế và biên lợi nhuận gộp của DRI qua năm quý gần nhất](posts/assets/dri-ket-qua-quy.svg)
+
 Và theo năm:
 
 | Chỉ tiêu | 2023 | 2024 | 2025 | 6T/2026 |
@@ -152,6 +154,8 @@ Cách đọc đáng chú ý nhất là dòng EV: sau khi trừ tiền ròng, th�
 | Trích quỹ khen thưởng, phúc lợi và thưởng người quản lý | −16,2 tỷ |
 | Thuế cổ tức chuyển về chủ sở hữu (10%) | −11,1 tỷ |
 | **Lợi nhuận còn lại để phân phối** | **79,5 tỷ** |
+
+![Đường đi của lợi nhuận sau thuế 2025 từ 158,2 tỷ xuống 79,5 tỷ còn lại để phân phối](posts/assets/dri-loi-nhuan-ve-co-dong.svg)
 
 Nói cách khác, **một nửa lợi nhuận kế toán không đi tới túi cổ đông trong năm phát sinh**. Nó bị giữ lại tại Lào dưới dạng các quỹ bắt buộc, hoặc bị đánh thuế 10% khi chuyển về. Đó là lý do EPS 3.030 đồng chỉ đi kèm cổ tức 1.000 đồng. Khi định giá DRI, dòng tiền thực sự về tay cổ đông thấp hơn đáng kể so với lợi nhuận trên báo cáo — và tỷ lệ hao hụt này mang tính cơ chế, không phải lựa chọn nhất thời của ban lãnh đạo.
 

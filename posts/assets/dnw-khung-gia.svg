@@ -1,0 +1,32 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="Khung gia nuoc sinh hoat Dong Nai: bac thang 2014 so voi phuong an mot gia 11.000 dong">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}.cvi .ln{stroke:var(--cv-mu,#4b6551);stroke-width:1.4;fill:none}.cvi .dl{stroke:var(--cv-n1,#a9bfb0);stroke-width:2}</style>
+<defs><marker id="up" viewBox="0 0 10 10" refX="5" refY="9" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,9 L5,0 L10,9 z" fill="var(--cv-a1,#2e7d43)"/></marker><marker id="dn" viewBox="0 0 10 10" refX="5" refY="9" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,9 L5,0 L10,9 z" fill="var(--cv-neg,#c0562f)"/></marker></defs>
+<rect x="0.5" y="0.5" width="879" height="419" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Khung giá nước sinh hoạt Đồng Nai (đồng/m³)</text>
+<text class="s" x="36" y="62">Quyết định 20/2014 vẫn là khung đang áp dụng. Phương án DNW trình tỉnh từ 2023 là bỏ hoàn toàn lũy tiến.</text>
+<line class="gl" x1="120" y1="110" x2="836" y2="110"/><text class="ax" x="110" y="114" text-anchor="end">14.000</text>
+<line class="gl" x1="120" y1="165" x2="836" y2="165"/><text class="ax" x="110" y="169" text-anchor="end">10.500</text>
+<line class="gl" x1="120" y1="220" x2="836" y2="220"/><text class="ax" x="110" y="224" text-anchor="end">7.000</text>
+<line class="gl" x1="120" y1="275" x2="836" y2="275"/><text class="ax" x="110" y="279" text-anchor="end">3.500</text>
+<line class="bl" x1="120" y1="330" x2="836" y2="330"/><text class="ax" x="110" y="334" text-anchor="end">0</text>
+<line class="gl" x1="290" y1="110" x2="290" y2="330"/>
+<line class="gl" x1="460" y1="110" x2="460" y2="330"/>
+<line class="gl" x1="630" y1="110" x2="630" y2="330"/>
+<path d="M120,238.9 H290 V196.4 H460 V172.9 H630 V128.9 H800" fill="none" stroke="var(--cv-n1,#a9bfb0)" stroke-width="3"/>
+<path d="M120,157.1 H800" fill="none" stroke="var(--cv-a1,#2e7d43)" stroke-width="3"/>
+<text class="v" x="205" y="232" text-anchor="middle">5.800</text>
+<text class="v" x="375" y="190" text-anchor="middle">8.500</text>
+<text class="v" x="545" y="192" text-anchor="middle">10.000</text>
+<text class="v" x="715" y="122" text-anchor="middle">12.800</text>
+<text class="v" x="130" y="148" fill="var(--cv-a1,#2e7d43)">Đề xuất: 11.000 đồng — một giá cho mọi bậc</text>
+<line x1="248" y1="236" x2="248" y2="164" stroke="var(--cv-a1,#2e7d43)" stroke-width="1.6" marker-end="url(#up)"/>
+<text class="v" x="256" y="205" fill="var(--cv-a1,#2e7d43)">+5.200 đ</text>
+<line x1="756" y1="132" x2="756" y2="150" stroke="var(--cv-neg,#c0562f)" stroke-width="1.6" marker-end="url(#dn)"/>
+<text class="v" x="764" y="146" fill="var(--cv-neg,#c0562f)">−1.800 đ</text>
+<text class="c" x="205" y="354" text-anchor="middle">0 – 10 m³</text>
+<text class="c" x="375" y="354" text-anchor="middle">10 – 20 m³</text>
+<text class="c" x="545" y="354" text-anchor="middle">20 – 30 m³</text>
+<text class="c" x="715" y="354" text-anchor="middle">trên 30 m³</text>
+<text class="ax" x="460" y="374" text-anchor="middle">Mức tiêu thụ của mỗi hộ dân cư trong một tháng</text>
+<text class="s" x="36" y="404">Không phải một đợt tăng giá thuần túy: nâng mạnh hai bậc dưới, hạ bậc trên cùng. Giá thành sản xuất khoảng 5.600 đồng/m³.</text>
+</svg>

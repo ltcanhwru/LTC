@@ -22,6 +22,8 @@ Vấn đề là tám mã dưới đây, dù cùng bán một thứ, thực chấ
 | CLW (nhóm B) | 325,3 tỷ | 21,0 tỷ | 6,4% |
 | GDW (nhóm B) | 173,0 tỷ | 11,0 tỷ | 6,3% |
 
+![Doanh thu và lợi nhuận quý II/2026 của DNW, CLW và GDW — cùng bán nước, hai mô hình khác nhau](posts/assets/nganh-nuoc-ba-mo-hinh.svg)
+
 Doanh thu CLW gần bằng DNW nhưng lợi nhuận chỉ bằng một phần năm. Toàn bộ khoảng chênh nằm ở tiền mua nước sỉ. Hệ quả quan trọng: **nhóm B bị kẹp giữa hai mức giá mà nhà nước quyết cả hai** — giá mua sỉ đầu vào và giá bán lẻ đầu ra. Một đợt tăng giá bán lẻ đi kèm tăng giá mua sỉ tương ứng thì lợi nhuận tuyệt đối của họ gần như không đổi. Đổi lại, vì gần như không có tài sản nặng, ROE của nhóm này lại cao nhất bảng: CLW 23,8%, GDW 18,4%.
 
 **Nhóm C — Bán sỉ và nắm cổ phần.** **TDM** bán nước sỉ cho BWE và đồng thời nắm 37,42% cổ phần BWE. **NTW** là công ty con của DNW (sở hữu 52,44%), vận hành địa bàn Nhơn Trạch.
@@ -146,6 +148,8 @@ Suy ra:
 | +5% | 3.255 | 10,0 |
 | +10% | 3.736 | 8,7 |
 | +15% | 4.216 | 7,7 |
+
+![EPS của DNW theo bốn kịch bản tăng giá nước, kèm tỷ số P/E tương ứng](posts/assets/nganh-nuoc-do-nhay-gia.svg)
 
 Có một đòn bẩy thứ hai ít được nhắc: **thất thoát nước**. Kế hoạch 2026 của DNW là sản xuất gần 146 triệu m³ và kéo tỷ lệ thất thoát về 15%. Mỗi một điểm phần trăm thất thoát giảm đi tương đương khoảng 1,46 triệu m³ nước bán được thêm mà không tốn thêm chi phí sản xuất — xấp xỉ 16 tỷ đồng doanh thu, tức tác động ngang một đợt tăng giá 1,2%.
 

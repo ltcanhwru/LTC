@@ -77,6 +77,8 @@ Không giải thích được bằng "ngành thủy sản đang khó". Phải gi
 | Biên lợi nhuận gộp | 25,1% | 16,9% | **−8,2 điểm** |
 | LNST cổ đông mẹ | 464,8 | 330,3 | −28,9% |
 
+![Biên lợi nhuận gộp của Vĩnh Hoàn và Nam Việt, nửa đầu 2025 so với nửa đầu 2026](posts/assets/thuy-san-vhc-anv.svg)
+
 Đây là hai bảng số cần đặt cạnh nhau chứ không đọc riêng. Nam Việt bán được nhiều hàng hơn hẳn — doanh thu tăng 33,4%, gấp ba tốc độ của Vĩnh Hoàn — mà lợi nhuận gộp lại giảm 10,1%. Nghĩa là phần sản lượng tăng thêm được bán với giá không đủ bù chi phí ở mức biên cũ.
 
 Riêng quý II/2026, Nam Việt đạt doanh thu 1.937 tỷ (+12,2% cùng kỳ) nhưng lợi nhuận sau thuế cổ đông mẹ chỉ 134,9 tỷ, **giảm 59,5%**, biên lợi nhuận gộp rơi về 16,1%. Cùng quý đó Vĩnh Hoàn đạt biên lợi nhuận gộp 20,6% — mức cao nhất tám quý — với doanh thu 3.444 tỷ, tăng 7,9%.
@@ -139,6 +141,8 @@ Có một cách đọc nhanh chất lượng bảng cân đối của ngành nà
 | VHC | 45,0 | 914,8 | 0,05 lần |
 
 Ba dòng đầu là ba doanh nghiệp mà ngân hàng nhận nhiều tiền hơn cổ đông trong cùng một kỳ kinh doanh.
+
+![Chi phí lãi vay chia cho lợi nhuận trước thuế của tám doanh nghiệp thủy sản, sáu tháng đầu 2026](posts/assets/thuy-san-lai-vay.svg)
 
 **Sao Mai (ASM)** dẫn đầu bảng này với khoảng cách lớn. Đây không phải cổ phiếu thủy sản thuần: phần thủy sản chủ yếu đến từ việc hợp nhất IDI, phần còn lại là bất động sản và điện mặt trời. Tổng nợ vay 14.075 tỷ trên vốn chủ công ty mẹ 5.596 tỷ. Lợi nhuận bốn quý gần nhất chỉ 142 tỷ trên doanh thu 10.969 tỷ, ROE 2,5%.
 

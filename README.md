@@ -80,6 +80,88 @@ Chép ảnh vào `posts/assets/` rồi viết trong bài:
 ![Chú thích ảnh](posts/assets/ten-anh.jpg)
 ```
 
+### Biểu đồ
+
+Các biểu đồ trong bài phân tích là file `.svg` tự vẽ, để trong `posts/assets/` và chèn bằng đúng cú pháp ảnh ở trên. Khi trang chạy, `site.js` thay thẻ `<img>` đó bằng SVG nhúng thẳng vào trang — nhờ vậy biểu đồ dùng chung bảng màu với giao diện và đổi màu ngay lúc bấm nút sáng/tối. Tải hỏng thì thẻ ảnh được giữ nguyên, biểu đồ vẫn hiện, chỉ là màu cố định theo file.
+
+#### Khung file mẫu
+
+Chép nguyên khối này thành `posts/assets/ten-bieu-do.svg` rồi vẽ vào giữa:
+
+```svg
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="Mo ta ngan bang chu khong dau">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}.cvi .ln{stroke:var(--cv-mu,#4b6551);stroke-width:1.4;fill:none}.cvi .dl{stroke:var(--cv-n1,#a9bfb0);stroke-width:2}</style>
+<rect x="0.5" y="0.5" width="879" height="419" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Tiêu đề biểu đồ</text>
+<text class="s" x="36" y="62">Một câu nói rõ biểu đồ này cho thấy điều gì.</text>
+
+<line class="gl" x1="110" y1="110" x2="836" y2="110"/><text class="ax" x="100" y="114" text-anchor="end">100</text>
+<line class="bl" x1="110" y1="330" x2="836" y2="330"/><text class="ax" x="100" y="334" text-anchor="end">0</text>
+<rect x="155" y="130" width="90" height="200" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="200" y="123" text-anchor="middle">91</text>
+<text class="c" x="200" y="354" text-anchor="middle">Tên nhóm</text>
+
+<text class="s" x="36" y="404">Ghi chú nguồn hoặc điều cần lưu ý khi đọc.</text>
+</svg>
+```
+
+Bề ngang luôn để `880` — trang tự co cho vừa cột chữ. Chiều cao đổi tùy nội dung, nhưng phải sửa đồng thời **ba chỗ**: `viewBox`, thuộc tính `height` của thẻ `<svg>`, và `height` của thẻ `<rect>` khung (bằng chiều cao trừ 1).
+
+#### Bảng màu
+
+Không viết mã màu cứng. Dùng các biến dưới đây kèm màu dự phòng, dạng đầy đủ là `fill="var(--cv-a1,#2e7d43)"`. Màu dự phòng chỉ có tác dụng khi mở thẳng file `.svg`; khi nằm trong trang thì `css/style.css` quyết định.
+
+| Biến | Dùng cho | Sáng | Tối |
+|---|---|---|---|
+| `--cv-bg` | nền khung biểu đồ | `#f6fbf3` | `#16241a` |
+| `--cv-bd` | viền khung, đường trục gốc | `#c8e2bd` | `#2c4232` |
+| `--cv-tx` | chữ chính | `#15261a` | `#e6f0e6` |
+| `--cv-mu` | chữ phụ, ghi chú | `#4b6551` | `#a2b8a6` |
+| `--cv-gr` | đường kẻ ngang mờ | `#dceed4` | `#26392c` |
+| `--cv-a1` | cột hoặc đường nổi bật | `#2e7d43` | `#5fbf7d` |
+| `--cv-a2` | cột nền để so sánh | `#9ecbaa` | `#356b4b` |
+| `--cv-neg` | số đi lùi, cảnh báo | `#c0562f` | `#e2795a` |
+| `--cv-wa` | biến số đáng chú ý | `#bf860f` | `#dda93f` |
+| `--cv-n1` | trung tính, không nhấn | `#a9bfb0` | `#5a6f61` |
+
+#### Các lớp có sẵn
+
+| Lớp | Dùng cho |
+|---|---|
+| `t` | tiêu đề biểu đồ |
+| `s` | câu mô tả dưới tiêu đề, ghi chú cuối khung |
+| `v` | con số trên cột, nhãn cần nổi |
+| `c` | tên nhóm dưới trục ngang |
+| `ax` | số trên trục, chú thích nhỏ |
+| `gl` | đường kẻ ngang mờ |
+| `bl` | đường trục gốc |
+| `ln` | đường nối trong sơ đồ, dùng kèm mũi tên |
+| `dl` | đoạn nối hai điểm trong biểu đồ quả tạ |
+
+#### Quy ước toạ độ
+
+Các biểu đồ hiện có đều theo cùng một bố cục: lề trái `36`, tiêu đề `y=40`, câu mô tả `y=62`, vùng vẽ từ khoảng `y=110` xuống đường gốc `y=330`, tên nhóm `y=354`, ghi chú cuối cách đáy khung khoảng `16`.
+
+Đổi số liệu thành toạ độ theo một công thức duy nhất:
+
+```
+tỉ lệ = chiều cao vùng vẽ / giá trị lớn nhất trên trục
+chiều cao cột = giá trị × tỉ lệ
+y của đỉnh cột = y đường gốc − chiều cao cột
+```
+
+Ví dụ vùng vẽ cao 220 (từ `y=110` xuống `y=330`) cho trục tối đa 400 thì tỉ lệ là `0,55`. Cột giá trị 152 cao `83,6`, đỉnh nằm ở `y = 330 − 83,6 = 246,4`.
+
+#### Ba điều cần tránh
+
+- **Đừng khai báo `:root{...}` trong file SVG.** Khi nhúng vào trang, `:root` trỏ tới thẻ `<html>` nên nó sẽ đè lên bảng màu của cả site.
+- **Đừng dùng `@media (prefers-color-scheme)`.** Nó dò cài đặt sáng/tối của máy, không dò nút sáng/tối trên trang — hai thứ này có thể ngược nhau.
+- **Đừng đặt chữ đè lên nền màu đậm.** Màu nền đổi theo giao diện, nên chữ trắng đọc được ở chế độ này có thể mất hút ở chế độ kia. Đặt con số ở ngoài cột thì luôn an toàn.
+
+#### Chú thích cho trình đọc màn hình
+
+Câu chú thích lấy từ phần trong ngoặc vuông của cú pháp Markdown (`![...]`), không lấy từ `aria-label` trong file — nên hãy viết câu đó có dấu đầy đủ và mô tả đúng nội dung biểu đồ.
+
 ---
 
 ## 3. Đổi thông tin cá nhân
@@ -188,17 +270,18 @@ about.html          Trang giới thiệu - sửa nội dung trực tiếp trong 
 404.html            Trang báo không tìm thấy
 
 css/style.css       Toàn bộ giao diện. Đổi màu ở phần :root đầu file
+                    (gồm cả bảng màu --cv-* dùng cho biểu đồ)
 
 js/config.js        <- File bạn sửa nhiều nhất: tên blog, mạng xã hội
 js/markdown.js      Bộ chuyển Markdown sang HTML
 js/views.js         Bộ đếm lượt xem (đọc mục 4 để hiểu con số)
-js/site.js          Header, footer, nút sáng/tối, hàm dùng chung
+js/site.js          Header, footer, nút sáng/tối, nhúng biểu đồ SVG
 js/home.js          Logic trang chủ: tìm kiếm, lọc thẻ, xem thêm
 js/post.js          Logic trang bài viết
 
 posts/posts.json    <- Danh mục bài viết. Thêm bài mới là sửa file này
 posts/*.md          Nội dung từng bài viết
-posts/assets/       Ảnh dùng trong bài
+posts/assets/       Ảnh và biểu đồ .svg dùng trong bài
 
 serve.ps1           Máy chủ xem thử tại chỗ
 .nojekyll           Báo GitHub Pages phục vụ file nguyên trạng

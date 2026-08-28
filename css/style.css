@@ -29,6 +29,18 @@
   --wrap-wide: 1320px;   /* khung bố cục hai cột, rộng hơn cho cân đối */
   --rail: 300px;         /* bề ngang cột dọc bên phải */
   --measure: 46rem;      /* khổ chữ hẹp, dùng khi bài viết đứng một mình */
+
+  /* Màu cho biểu đồ SVG trong bài (xem phần "Biểu đồ" ở cuối file) */
+  --cv-bg: #f6fbf3;      /* nền khung biểu đồ */
+  --cv-bd: #c8e2bd;      /* viền khung và trục */
+  --cv-tx: #15261a;      /* chữ chính */
+  --cv-mu: #4b6551;      /* chữ phụ, ghi chú */
+  --cv-gr: #dceed4;      /* đường kẻ ngang mờ */
+  --cv-a1: #2e7d43;      /* màu nhấn chính — cột nổi bật */
+  --cv-a2: #9ecbaa;      /* màu nhấn nhạt — cột nền so sánh */
+  --cv-neg: #c0562f;     /* màu cảnh báo, số đi lùi */
+  --cv-wa: #bf860f;      /* màu vàng — biến số đáng chú ý */
+  --cv-n1: #a9bfb0;      /* màu trung tính */
 }
 
 /* ---------- Bảng màu (chế độ tối) ---------- */
@@ -46,6 +58,18 @@
   --accent-text: #82d69b;
   --shadow: 0 1px 2px rgba(0, 0, 0, .45), 0 8px 24px rgba(0, 0, 0, .35);
   --shadow-lift: 0 2px 4px rgba(0, 0, 0, .55), 0 14px 40px rgba(0, 0, 0, .5);
+
+  /* Biểu đồ ở chế độ tối */
+  --cv-bg: #16241a;
+  --cv-bd: #2c4232;
+  --cv-tx: #e6f0e6;
+  --cv-mu: #a2b8a6;
+  --cv-gr: #26392c;
+  --cv-a1: #5fbf7d;
+  --cv-a2: #356b4b;
+  --cv-neg: #e2795a;
+  --cv-wa: #dda93f;
+  --cv-n1: #5a6f61;
 }
 
 /* ---------- Nền tảng ---------- */
@@ -295,6 +319,8 @@ a:hover { text-decoration: underline; }
   overflow: hidden;
 }
 .post-card-media img { width: 100%; height: 100%; object-fit: cover; }
+/* Ảnh bìa dạng biểu đồ (SVG): hiện trọn khung, không cắt mất chữ */
+.post-card-media img[src$=".svg"] { object-fit: contain; padding: 6px; }
 .post-card-media.is-placeholder {
   display: grid; place-items: center;
   background: linear-gradient(135deg, var(--bg-inset), var(--accent-soft));
@@ -368,6 +394,7 @@ a:hover { text-decoration: underline; }
 .article-lead {
   font-size: 1.12rem; color: var(--text-muted);
   max-width: var(--measure); margin: 0 0 22px;
+  text-align: justify; text-justify: inter-word;
 }
 .article-cover {
   margin: 30px 0 0; border-radius: var(--radius-lg); overflow: hidden;
@@ -383,6 +410,10 @@ a:hover { text-decoration: underline; }
 }
 .article-body > *:first-child { margin-top: 0; }
 .article-body p { margin: 0 0 1.35em; }
+/* Căn đều hai bên: chữ thẳng hàng cả lề trái lẫn lề phải */
+.article-body p,
+.article-body li,
+.article-body blockquote p { text-align: justify; text-justify: inter-word; hyphens: auto; }
 .article-body h2 {
   font-size: 1.62rem; line-height: 1.3; letter-spacing: -.015em; font-weight: 600;
   margin: 2.2em 0 .6em; scroll-margin-top: 84px;
@@ -396,6 +427,18 @@ a:hover { text-decoration: underline; }
 .article-body li { margin-bottom: .5em; }
 .article-body li > ul, .article-body li > ol { margin: .5em 0 0; }
 .article-body img { border-radius: var(--radius); margin: 1.8em auto; }
+
+/* ---------- Biểu đồ SVG ----------
+   site.js đổi thẻ <img src="...svg"> thành SVG nhúng thẳng vào trang, nhờ vậy
+   biểu đồ dùng chung các biến --cv-* ở đầu file và đổi màu ngay khi bấm nút
+   sáng/tối. Nếu tải hỏng thì thẻ ảnh được giữ nguyên, nên các quy tắc cho
+   img[src$=".svg"] bên dưới vẫn cần thiết. */
+svg.cvi { max-width: 100%; height: auto; }
+.article-body svg.cvi { display: block; width: 100%; margin: 1.8em auto; }
+.article-cover svg.cvi { display: block; width: 100%; }
+.article-cover.chart-host { border: 0; border-radius: 0; overflow: visible; }
+.post-card-media svg.cvi { width: 100%; height: 100%; }
+.post-card-media.chart-host { background: var(--cv-bg); }
 .article-body hr { border: 0; border-top: 1px solid var(--border); margin: 2.6em 0; }
 .article-body mark { background: var(--accent-soft); color: var(--accent-text); padding: 0 3px; border-radius: 3px; }
 
@@ -601,6 +644,11 @@ a:hover { text-decoration: underline; }
   .nav-links .search-field { flex: 1 1 auto; max-width: none; margin: 8px 0 0; }
   .search-field { max-width: none; }
   .article-body { font-size: 1.04rem; }
+  /* Màn hình hẹp: bỏ căn đều để tránh khoảng trắng giãn quá rộng giữa các từ */
+  .article-lead,
+  .article-body p,
+  .article-body li,
+  .article-body blockquote p { text-align: left; }
   .footer-links { margin-left: 0; width: 100%; }
 }
 

@@ -1,0 +1,39 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 460" width="880" height="460" role="img" aria-label="Doanh thu va bien loi nhuan gop cua DNW tu 2019 den bon quy gan nhat">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}.cvi .ln{stroke:var(--cv-mu,#4b6551);stroke-width:1.4;fill:none}.cvi .dl{stroke:var(--cv-n1,#a9bfb0);stroke-width:2}</style>
+<rect x="0.5" y="0.5" width="879" height="459" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Chiếc lò xo bị nén: doanh thu đi lên, biên lợi nhuận gộp đi xuống</text>
+<text class="s" x="36" y="62">Doanh thu 2020–2025 tăng 17,4%. Lợi nhuận gộp cùng giai đoạn chỉ tăng 8,6%.</text>
+<text class="c" x="36" y="90">Biên lợi nhuận gộp</text>
+<line class="gl" x1="100" y1="115.1" x2="836" y2="115.1"/><text class="ax" x="90" y="119.1" text-anchor="end">40%</text>
+<line class="gl" x1="100" y1="159.6" x2="836" y2="159.6"/><text class="ax" x="90" y="163.6" text-anchor="end">38%</text>
+<line class="bl" x1="100" y1="204" x2="836" y2="204"/><text class="ax" x="90" y="208" text-anchor="end">36%</text>
+<polyline points="146,170.7 237,112.9 328,130.7 419,184 511,172.9 602,150.7 693,179.6 784,188.4" fill="none" stroke="var(--cv-a1,#2e7d43)" stroke-width="2.5"/>
+<circle cx="146" cy="170.7" r="4" fill="var(--cv-a1,#2e7d43)"/><circle cx="237" cy="112.9" r="6" fill="var(--cv-a1,#2e7d43)"/><circle cx="328" cy="130.7" r="4" fill="var(--cv-a1,#2e7d43)"/><circle cx="419" cy="184" r="4" fill="var(--cv-a1,#2e7d43)"/><circle cx="511" cy="172.9" r="4" fill="var(--cv-a1,#2e7d43)"/><circle cx="602" cy="150.7" r="4" fill="var(--cv-a1,#2e7d43)"/><circle cx="693" cy="179.6" r="4" fill="var(--cv-a1,#2e7d43)"/><circle cx="784" cy="188.4" r="6" fill="var(--cv-neg,#c0562f)"/>
+<text class="v" x="237" y="104" text-anchor="middle" fill="var(--cv-a1,#2e7d43)">40,1%</text>
+<text class="v" x="784" y="180" text-anchor="middle" fill="var(--cv-neg,#c0562f)">36,7%</text>
+<text class="ax" x="146" y="163" text-anchor="middle">37,5</text>
+<text class="ax" x="328" y="123" text-anchor="middle">39,3</text>
+<text class="ax" x="419" y="197" text-anchor="middle">36,9</text>
+<text class="ax" x="511" y="186" text-anchor="middle">37,4</text>
+<text class="ax" x="602" y="143" text-anchor="middle">38,4</text>
+<text class="ax" x="693" y="193" text-anchor="middle">37,1</text>
+<text class="c" x="36" y="240">Doanh thu thuần (tỷ đồng)</text>
+<line class="bl" x1="100" y1="386" x2="836" y2="386"/>
+<rect x="118" y="286.1" width="56" height="99.9" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="146" y="279" text-anchor="middle">1.075</text>
+<rect x="209" y="282.4" width="56" height="103.6" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="237" y="275" text-anchor="middle">1.116</text>
+<rect x="300" y="278.7" width="56" height="107.3" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="328" y="272" text-anchor="middle">1.156</text>
+<rect x="391" y="273" width="56" height="113" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="419" y="266" text-anchor="middle">1.217</text>
+<rect x="483" y="274.9" width="56" height="111.1" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="511" y="268" text-anchor="middle">1.196</text>
+<rect x="574" y="266.9" width="56" height="119.1" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="602" y="260" text-anchor="middle">1.283</text>
+<rect x="665" y="264.4" width="56" height="121.6" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="693" y="257" text-anchor="middle">1.310</text>
+<rect x="756" y="261" width="56" height="125" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="v" x="784" y="254" text-anchor="middle">1.346</text>
+<text class="c" x="146" y="410" text-anchor="middle">2019</text>
+<text class="c" x="237" y="410" text-anchor="middle">2020</text>
+<text class="c" x="328" y="410" text-anchor="middle">2021</text>
+<text class="c" x="419" y="410" text-anchor="middle">2022</text>
+<text class="c" x="511" y="410" text-anchor="middle">2023</text>
+<text class="c" x="602" y="410" text-anchor="middle">2024</text>
+<text class="c" x="693" y="410" text-anchor="middle">2025</text>
+<text class="c" x="784" y="410" text-anchor="middle">4 quý</text><text class="ax" x="784" y="426" text-anchor="middle">gần nhất</text>
+<text class="s" x="36" y="446">Tỷ trọng khấu hao trong giá vốn tăng từ 25,6% năm 2017 lên 33,1% năm 2024, trong khi giá bán đứng yên từ 2014.</text>
+</svg>

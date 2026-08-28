@@ -20,6 +20,8 @@ Dung Quất 2 đã chạy đủ hai giai đoạn. Sản lượng thép thô quý
 
 *Đơn vị tỷ đồng. Quý 1/2026 có khoản lãi một lần khoảng 4.000 tỷ sau thuế từ thoái vốn dự án khu đô thị Phố Nối.*
 
+![Doanh thu, biên lợi nhuận gộp và chi phí lãi vay của Hòa Phát qua năm quý gần nhất](posts/assets/hpg-ket-qua-quy.svg)
+
 Biên gộp 19,0% là mức cao nhất kể từ quý 1/2022. Nhưng cột cuối cùng mới đáng chú ý: **chi phí lãi vay đã gấp 3,5 lần cùng kỳ**. Đây không phải vì vay thêm — dư nợ vay ròng thực tế đã giảm so với đỉnh cuối năm ngoái. Đó là vì phần lãi vay của Dung Quất 2 hết được vốn hóa vào tài sản dở dang và bắt đầu chạy thẳng vào báo cáo lãi lỗ. Khoản 1.500 tỷ mỗi quý này sẽ ở lại.
 
 Một chi tiết nữa trong cơ cấu tăng trưởng: thép xây dựng quý 2 chỉ tăng 2% so với cùng kỳ và **giảm 9% so với quý 1**. Toàn bộ phần tăng trưởng đến từ HRC. Nghĩa là từ nay, bài toán lợi nhuận của Hòa Phát là bài toán biên HRC — mà biên HRC nằm giữa hai con số: giá cuộn cán nóng và giá than.
@@ -75,6 +77,8 @@ Nhưng có một chi tiết cần đọc kỹ: **sản xuất tăng 28% trong kh
 | Formosa Hà Tĩnh | ~5 triệu tấn/năm | đang chạy |
 | **Xuân Thiện Nam Định** | 7,5 triệu tấn/năm | dây chuyền 1 (2,5 triệu tấn) từ **2027** |
 | **VinMetal — Vũng Áng** | 5 triệu tấn/năm, tối đa 20 | thương mại từ **Q1/2031** |
+
+![Công suất HRC trong nước so với nhu cầu nội địa, hôm nay và sau khi hai dự án mới vận hành](posts/assets/hpg-cong-suat-hrc.svg)
 
 Nhu cầu HRC nội địa hiện khoảng **12–13 triệu tấn/năm**. Hòa Phát cộng Formosa đã là 13,4 triệu tấn — tức đã đủ. Cộng thêm hai dự án mới, công suất trong nước hướng tới 25–30 triệu tấn, gấp đôi cầu. Phần dư phải xuất khẩu, vào đúng một thị trường thế giới chỉ tăng 0,3% và đầy rào cản phòng vệ.
 

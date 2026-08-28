@@ -1,0 +1,28 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 484" width="880" height="484" role="img" aria-label="Boi so P/E cua muoi mot co phieu cang bien, tu 5,46 den 29,96 lan">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}.cvi .ln{stroke:var(--cv-mu,#4b6551);stroke-width:1.4;fill:none}.cvi .dl{stroke:var(--cv-n1,#a9bfb0);stroke-width:2}</style>
+<rect x="0.5" y="0.5" width="879" height="483" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Một ngành, bội số lợi nhuận trải từ 5,5 đến 30 lần</text>
+<text class="s" x="36" y="62">P/E ngày 23/08/2026. Màu đậm là nhóm sở hữu bến nước sâu.</text>
+<rect x="500" y="76" width="11" height="11" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="ax" x="517" y="86">Nước sâu</text>
+<rect x="592" y="76" width="11" height="11" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="ax" x="609" y="86">Cảng khác</text>
+<rect x="692" y="76" width="11" height="11" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="ax" x="709" y="86">Ngoại lệ định giá</text>
+<line class="gl" x1="120" y1="110" x2="120" y2="440"/><text class="ax" x="120" y="104" text-anchor="middle">0</text>
+<line class="gl" x1="206.7" y1="110" x2="206.7" y2="440"/><text class="ax" x="206.7" y="104" text-anchor="middle">5</text>
+<line class="gl" x1="293.3" y1="110" x2="293.3" y2="440"/><text class="ax" x="293.3" y="104" text-anchor="middle">10</text>
+<line class="gl" x1="380" y1="110" x2="380" y2="440"/><text class="ax" x="380" y="104" text-anchor="middle">15</text>
+<line class="gl" x1="466.7" y1="110" x2="466.7" y2="440"/><text class="ax" x="466.7" y="104" text-anchor="middle">20</text>
+<line class="gl" x1="553.3" y1="110" x2="553.3" y2="440"/><text class="ax" x="553.3" y="104" text-anchor="middle">25</text>
+<line class="gl" x1="640" y1="110" x2="640" y2="440"/><text class="ax" x="640" y="104" text-anchor="middle">30</text>
+<text class="v" x="108" y="132.5" text-anchor="end">TCL</text><rect x="120" y="118" width="94.6" height="20" rx="2" fill="var(--cv-n1,#a9bfb0)"/><text class="v" x="222.6" y="132.5">5,46</text><text class="ax" x="852" y="132.5" text-anchor="end">dịch vụ quanh cảng, biên mỏng</text>
+<text class="v" x="108" y="162.5" text-anchor="end">CDN</text><rect x="120" y="148" width="103.5" height="20" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="v" x="231.5" y="162.5">5,97</text><text class="ax" x="852" y="162.5" text-anchor="end">rẻ vì thanh khoản, không vì kinh doanh</text>
+<text class="v" x="108" y="192.5" text-anchor="end">HAH</text><rect x="120" y="178" width="127.4" height="20" rx="2" fill="var(--cv-n1,#a9bfb0)"/><text class="v" x="255.4" y="192.5">7,35</text><text class="ax" x="852" y="192.5" text-anchor="end">vận tải biển</text>
+<text class="v" x="108" y="222.5" text-anchor="end">DVP</text><rect x="120" y="208" width="148.2" height="20" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="v" x="276.2" y="222.5">8,55</text><text class="ax" x="852" y="222.5" text-anchor="end">cổ tức 7,70%</text>
+<text class="v" x="108" y="252.5" text-anchor="end">SGP</text><rect x="120" y="238" width="184.1" height="20" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="v" x="312.1" y="252.5">10,62</text>
+<text class="v" x="108" y="282.5" text-anchor="end">PDN</text><rect x="120" y="268" width="187.3" height="20" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="v" x="315.3" y="282.5">10,81</text><text class="ax" x="852" y="282.5" text-anchor="end">cảng sông, ngoài phạm vi tăng giá</text>
+<text class="v" x="108" y="312.5" text-anchor="end">PHP</text><rect x="120" y="298" width="224.6" height="20" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="v" x="352.6" y="312.5">12,96</text><text class="ax" x="852" y="312.5" text-anchor="end">bến 3, 4 Lạch Huyện</text>
+<text class="v" x="108" y="342.5" text-anchor="end">GMD</text><rect x="120" y="328" width="225.5" height="20" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="v" x="353.5" y="342.5">13,01</text><text class="ax" x="852" y="342.5" text-anchor="end">Gemalink và Nam Đình Vũ</text>
+<text class="v" x="108" y="372.5" text-anchor="end">VGR</text><rect x="120" y="358" width="254.6" height="20" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="v" x="382.6" y="372.5">14,69</text><text class="ax" x="852" y="372.5" text-anchor="end">P/B 6,59 — đã trả trước triển vọng</text>
+<text class="v" x="108" y="402.5" text-anchor="end">VSC</text><rect x="120" y="388" width="289.3" height="20" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="v" x="417.3" y="402.5">16,69</text><text class="ax" x="852" y="402.5" text-anchor="end">lợi nhuận quý I giảm 38%</text>
+<text class="v" x="108" y="432.5" text-anchor="end">MVN</text><rect x="120" y="418" width="519.2" height="20" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="v" x="647.2" y="432.5">29,96</text><text class="ax" x="852" y="432.5" text-anchor="end">phần bù holding</text>
+<text class="s" x="36" y="464">MVN nắm 92,56% Cảng Hải Phòng, nhưng giao dịch ở 30 lần trong khi các công ty cảng con ở 6–13 lần.</text>
+</svg>

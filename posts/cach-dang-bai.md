@@ -61,6 +61,27 @@ Chép ảnh vào thư mục `posts/assets/` rồi chèn bằng cú pháp:
 
 `![Chú thích ảnh](posts/assets/ten-anh.jpg)`
 
+Phần trong ngoặc vuông là chú thích dành cho trình đọc màn hình, không hiện ra trên trang. Ảnh luôn tự co cho vừa bề ngang bài viết.
+
+Muốn ảnh đó thành **ảnh bìa** hiện ngoài trang chủ thì điền đường dẫn vào ô `"cover"` trong `posts.json` thay vì chèn vào giữa bài.
+
+### Biểu đồ
+
+Các biểu đồ trong những bài phân tích trên trang này không phải ảnh chụp màn hình, mà là file `.svg` vẽ tay để chung trong `posts/assets/` và chèn bằng đúng cú pháp ảnh ở trên:
+
+![Ví dụ một biểu đồ dạng SVG chèn vào bài viết](posts/assets/dnw-do-nhay-eps.svg)
+
+Điểm khác biệt là chúng dùng chung bảng màu với giao diện. Bấm nút sáng/tối ở góc trên rồi nhìn lại biểu đồ vừa rồi — nó đổi màu theo, không phải một ô sáng chóe nằm giữa trang tối.
+
+Muốn vẽ thêm một cái mới thì cách nhanh nhất là chép một file có sẵn trong `posts/assets/` rồi thay số. Bốn điều cần nhớ:
+
+1. Thẻ `<svg>` phải mang `class="cvi"`, bề ngang để `880` — trang tự co cho vừa cột chữ.
+2. Màu lấy từ biến, không viết mã màu cứng: `var(--cv-a1,...)` cho màu nhấn, `var(--cv-a2,...)` cho cột nền so sánh, `var(--cv-neg,...)` cho số đi lùi, `var(--cv-mu,...)` cho chữ phụ. Danh sách đầy đủ nằm ở đầu `css/style.css`.
+3. Đừng khai báo `:root{...}` hay `@media (prefers-color-scheme)` bên trong file — hai thứ đó phá bảng màu của cả trang.
+4. Đừng đặt chữ đè lên nền màu đậm. Nền đổi màu theo giao diện nên chữ có thể mất hút; để con số bên ngoài cột thì luôn đọc được.
+
+Khung file mẫu, bảng màu đầy đủ và cách quy đổi số liệu ra toạ độ nằm trong `README.md`, mục **Biểu đồ**.
+
 ### Nhúng video
 
 Đây là phần quan trọng nhất với các bài vlog. Có hai cách, cách nào cũng được:

@@ -1,0 +1,20 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="EPS cua DNW theo bon kich ban tang gia ban binh quan">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}.cvi .ln{stroke:var(--cv-mu,#4b6551);stroke-width:1.4;fill:none}.cvi .dl{stroke:var(--cv-n1,#a9bfb0);stroke-width:2}</style>
+<rect x="0.5" y="0.5" width="879" height="419" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Nếu giá nước được duyệt, EPS đi tới đâu (đồng/cổ phiếu)</text>
+<text class="s" x="36" y="62">Mỗi 1% tăng của giá bán bình quân ≈ 96 đồng EPS. Bảng giả định sản lượng và chi phí sản xuất không đổi.</text>
+<line class="gl" x1="110" y1="110" x2="836" y2="110"/><text class="ax" x="100" y="114" text-anchor="end">4.500</text>
+<line class="gl" x1="110" y1="180" x2="836" y2="180"/><text class="ax" x="100" y="184" text-anchor="end">3.000</text>
+<line class="gl" x1="110" y1="250" x2="836" y2="250"/><text class="ax" x="100" y="254" text-anchor="end">1.500</text>
+<line class="bl" x1="110" y1="320" x2="836" y2="320"/><text class="ax" x="100" y="324" text-anchor="end">0</text>
+<rect x="155" y="190.5" width="90" height="129.5" rx="2" fill="var(--cv-n1,#a9bfb0)"/><text class="v" x="200" y="183" text-anchor="middle">2.775</text>
+<rect x="335" y="168.5" width="90" height="151.5" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="v" x="380" y="161" text-anchor="middle">3.246</text>
+<rect x="515" y="145.7" width="90" height="174.3" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="v" x="560" y="138" text-anchor="middle">3.736</text>
+<rect x="695" y="123.2" width="90" height="196.8" rx="2" fill="var(--cv-a2,#9ecbaa)"/><text class="v" x="740" y="116" text-anchor="middle">4.216</text>
+<text class="c" x="200" y="344" text-anchor="middle">Hiện tại</text><text class="ax" x="200" y="361" text-anchor="middle">P/E 11,2</text>
+<text class="c" x="380" y="344" text-anchor="middle" fill="var(--cv-a1,#2e7d43)">+4,9%</text><text class="ax" x="380" y="361" text-anchor="middle">P/E 9,6</text>
+<text class="c" x="560" y="344" text-anchor="middle">+10%</text><text class="ax" x="560" y="361" text-anchor="middle">P/E 8,3</text>
+<text class="c" x="740" y="344" text-anchor="middle">+15%</text><text class="ax" x="740" y="361" text-anchor="middle">P/E 7,4</text>
+<text class="ax" x="380" y="380" text-anchor="middle" fill="var(--cv-a1,#2e7d43)">phương án DNW đề xuất, theo ước tính FPTS</text>
+<text class="s" x="36" y="406">Quyết định mà thị trường chờ mười hai năm đáng khoảng +17% EPS — thật và đáng kể, nhưng không phải một cú nhân đôi.</text>
+</svg>

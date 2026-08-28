@@ -133,6 +133,10 @@
       bodyEl.innerHTML = leadVideo(post) + MD.render(md);
       renderFooter(post);
 
+      // Nhúng thẳng các biểu đồ .svg để chúng đổi màu theo giao diện
+      S.inlineCharts(headEl);
+      S.inlineCharts(bodyEl);
+
       // Cột dọc bên phải — cùng ô "Bài xem nhiều" như ở trang chủ
       var sidebar = document.getElementById('sidebar');
       if (sidebar) sidebar.innerHTML = S.buildSidebar(data.posts, '');

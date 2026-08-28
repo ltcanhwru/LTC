@@ -116,6 +116,9 @@
       return cardHtml(p, featuredFirst && i === 0);
     }).join('');
 
+    // Ảnh bìa dạng .svg được nhúng thẳng vào trang để đổi màu theo giao diện
+    S.inlineCharts(grid);
+
     moreWrap.innerHTML = shown < list.length
       ? '<button class="tag-chip" id="loadMore" type="button">Xem thêm ' +
         (list.length - shown) + ' bài</button>'
