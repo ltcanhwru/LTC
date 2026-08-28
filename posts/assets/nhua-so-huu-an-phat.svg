@@ -1,0 +1,42 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 400" width="880" height="400" role="img" aria-label="Chuoi so huu ba tang: An Phat Holdings nam 50,23 phan tram Nhua An Phat Xanh, Nhua An Phat Xanh nam chi phoi Nhua Ha Noi">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .m{font-size:16px;font-weight:700}.cvi .n{font-size:12px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}</style>
+<rect x="0.5" y="0.5" width="879" height="399" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Ba mã cổ phiếu, một hoạt động kinh doanh</text>
+<text class="s" x="36" y="62">Doanh thu hợp nhất nửa đầu 2026 của APH và AAA chênh nhau 1,7 tỷ đồng, tức 0,04%.</text>
+
+<rect x="60" y="104" width="220" height="96" rx="10" fill="none" stroke="var(--cv-a1,#2e7d43)" stroke-width="2"/>
+<text class="m" x="80" y="132" fill="var(--cv-a1,#2e7d43)">APH</text>
+<text class="n" x="80" y="152">An Phát Holdings</text>
+<text class="n" x="80" y="172">Vốn hóa 1.456 tỷ</text>
+<text class="n" x="80" y="190">Doanh thu H1: 4.682,6 tỷ</text>
+
+<line x1="280" y1="152" x2="326" y2="152" stroke="var(--cv-tx,#15261a)" stroke-width="2"/>
+<polygon points="336,152 324,146 324,158" fill="var(--cv-tx,#15261a)"/>
+<text class="v" x="303" y="142" text-anchor="middle">50,23%</text>
+
+<rect x="336" y="104" width="220" height="96" rx="10" fill="none" stroke="var(--cv-a1,#2e7d43)" stroke-width="2"/>
+<text class="m" x="356" y="132" fill="var(--cv-a1,#2e7d43)">AAA</text>
+<text class="n" x="356" y="152">Nhựa An Phát Xanh</text>
+<text class="n" x="356" y="172">Vốn hóa 2.788 tỷ</text>
+<text class="n" x="356" y="190">Doanh thu H1: 4.680,9 tỷ</text>
+
+<line x1="556" y1="152" x2="602" y2="152" stroke="var(--cv-tx,#15261a)" stroke-width="2"/>
+<polygon points="612,152 600,146 600,158" fill="var(--cv-tx,#15261a)"/>
+<text class="v" x="579" y="142" text-anchor="middle">chi phối</text>
+
+<rect x="612" y="104" width="220" height="96" rx="10" fill="none" stroke="var(--cv-a1,#2e7d43)" stroke-width="2"/>
+<text class="m" x="632" y="132" fill="var(--cv-a1,#2e7d43)">NHH</text>
+<text class="n" x="632" y="152">Nhựa Hà Nội</text>
+<text class="n" x="632" y="172">Vốn hóa 1.103 tỷ</text>
+<text class="n" x="632" y="190">Doanh thu H1: 1.173,3 tỷ</text>
+
+<path d="M722 200 L722 236 L446 236 L446 210" fill="none" stroke="var(--cv-neg,#c0562f)" stroke-width="2" stroke-dasharray="5 4"/>
+<polygon points="446,200 440,212 452,212" fill="var(--cv-neg,#c0562f)"/>
+<text class="v" x="584" y="256" text-anchor="middle" fill="var(--cv-neg,#c0562f)">doanh thu NHH đã nằm sẵn trong doanh thu AAA</text>
+
+<line x1="36" y1="286" x2="844" y2="286" stroke="var(--cv-bd,#c8e2bd)" stroke-width="1"/>
+<text class="s" x="36" y="312">50,23% vốn hóa AAA tương đương khoảng 1.400 tỷ đồng, trong khi vốn hóa APH là 1.456 tỷ:</text>
+<text class="s" x="36" y="332">thị trường định giá toàn bộ phần còn lại của An Phát Holdings ở khoảng 56 tỷ đồng.</text>
+<text class="s" x="36" y="362">Nửa đầu 2026, AAA ghi nhận 348,6 tỷ lợi nhuận sau thuế cổ đông mẹ; APH chỉ ghi nhận 151,5 tỷ.</text>
+<text class="s" x="36" y="382">Phần chênh chảy về cổ đông thiểu số ở tầng dưới — đó là lý do P/E của APH cao hơn AAA.</text>
+</svg>

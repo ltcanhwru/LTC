@@ -1,0 +1,38 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="440" role="img" aria-label="Bien loi nhuan gop theo quy cua Nhua Binh Minh va Nhua Tien Phong tu quy I 2025 den quy II 2026">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}</style>
+<rect x="0.5" y="0.5" width="879" height="439" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Biên lợi nhuận gộp theo quý</text>
+<text class="s" x="36" y="62">Quý nguyên liệu đắt nhất lại là quý biên gộp cao nhất — vì hàng bán ra mua từ bốn tháng trước.</text>
+
+<line class="gl" x1="120" y1="110" x2="800" y2="110"/><text class="ax" x="110" y="114" text-anchor="end">50%</text>
+<line class="gl" x1="120" y1="183.3" x2="800" y2="183.3"/><text class="ax" x="110" y="187.3" text-anchor="end">40%</text>
+<line class="gl" x1="120" y1="256.7" x2="800" y2="256.7"/><text class="ax" x="110" y="260.7" text-anchor="end">30%</text>
+<line class="bl" x1="120" y1="330" x2="800" y2="330"/><text class="ax" x="110" y="334" text-anchor="end">20%</text>
+
+<line x1="535" y1="100" x2="535" y2="330" stroke="var(--cv-wa,#bf860f)" stroke-width="2" stroke-dasharray="5 4"/>
+<text class="ax" x="541" y="356" text-anchor="start" fill="var(--cv-wa,#bf860f)">giá nguyên liệu đảo chiều</text>
+
+<polyline points="150,163.5 260,134.2 370,125.4 480,132 590,130.5 700,134.2" fill="none" stroke="var(--cv-a1,#2e7d43)" stroke-width="3"/>
+<circle cx="150" cy="163.5" r="5" fill="var(--cv-a1,#2e7d43)"/><circle cx="260" cy="134.2" r="5" fill="var(--cv-a1,#2e7d43)"/><circle cx="370" cy="125.4" r="5" fill="var(--cv-a1,#2e7d43)"/><circle cx="480" cy="132" r="5" fill="var(--cv-a1,#2e7d43)"/><circle cx="590" cy="130.5" r="5" fill="var(--cv-a1,#2e7d43)"/><circle cx="700" cy="134.2" r="5" fill="var(--cv-a1,#2e7d43)"/>
+
+<polyline points="150,269.9 260,242 370,249.3 480,243.5 590,257.4 700,200.2" fill="none" stroke="var(--cv-neg,#c0562f)" stroke-width="3"/>
+<circle cx="150" cy="269.9" r="5" fill="var(--cv-neg,#c0562f)"/><circle cx="260" cy="242" r="5" fill="var(--cv-neg,#c0562f)"/><circle cx="370" cy="249.3" r="5" fill="var(--cv-neg,#c0562f)"/><circle cx="480" cy="243.5" r="5" fill="var(--cv-neg,#c0562f)"/><circle cx="590" cy="257.4" r="5" fill="var(--cv-neg,#c0562f)"/><circle cx="700" cy="200.2" r="5" fill="var(--cv-neg,#c0562f)"/>
+
+<text class="v" x="150" y="153" text-anchor="middle">42,7%</text>
+<text class="v" x="700" y="124" text-anchor="middle">46,7%</text>
+<text class="v" x="150" y="287" text-anchor="middle">28,2%</text>
+<text class="v" x="700" y="190" text-anchor="middle" fill="var(--cv-neg,#c0562f)">37,7%</text>
+
+<text class="c" x="736" y="138" text-anchor="start" fill="var(--cv-a1,#2e7d43)">BMP</text>
+<text class="c" x="736" y="204" text-anchor="start" fill="var(--cv-neg,#c0562f)">NTP</text>
+
+<text class="ax" x="150" y="352" text-anchor="middle">Q1/25</text>
+<text class="ax" x="260" y="352" text-anchor="middle">Q2/25</text>
+<text class="ax" x="370" y="352" text-anchor="middle">Q3/25</text>
+<text class="ax" x="480" y="352" text-anchor="middle">Q4/25</text>
+<text class="ax" x="590" y="352" text-anchor="middle">Q1/26</text>
+<text class="ax" x="700" y="352" text-anchor="middle">Q2/26</text>
+
+<text class="s" x="36" y="396">Tháng 12/2025: PVC chạm 603 USD/tấn, thấp nhất từ 2016. Cuối tháng 3/2026: cao hơn 65% so với bình quân 2025.</text>
+<text class="s" x="36" y="416">Tồn kho tại 30/06/2026 tương đương 103 ngày giá vốn với BMP và 119 ngày với NTP.</text>
+</svg>
