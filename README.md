@@ -310,6 +310,8 @@ Dù vậy công cụ tìm kiếm sẽ không thấy bài chưa sinh trang, nên 
 
 Khai báo trang với Google: vào [Google Search Console](https://search.google.com/search-console), thêm địa chỉ `https://ltcanhwru.github.io/LTC/`, rồi nộp `sitemap.xml`. Đây là việc cần tài khoản Google của bạn nên không tự động hoá được.
 
+> **Đừng xoá file `google12bd5a5e25c3dc1c.html` ở thư mục gốc.** Đó là giấy xác minh quyền sở hữu do Google cấp. Google kiểm tra lại định kỳ, xoá đi là trang mất tư cách đã xác minh và toàn bộ số liệu trong Search Console biến mất. File này không liên quan gì tới nội dung trang, cứ để yên đó.
+
 ---
 
 ## 7. Cấu trúc thư mục
