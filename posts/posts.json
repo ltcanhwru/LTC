@@ -1,5 +1,35 @@
 [
   {
+    "slug": "chung-khoan-2026-nghe-chinh-la-cho-vay",
+    "title": "Chứng khoán 2026: nghề chính là cho vay",
+    "date": "2026-08-29",
+    "excerpt": "41 công ty chứng khoán niêm yết thu 6.956 tỷ phí môi giới trong sáu tháng và chi ra 5.475 tỷ cho chính hoạt động đó. Tiền lãi cho vay cùng kỳ là 17.726 tỷ. Dư nợ đã gấp 3,27 lần sau ba năm, còn ROE toàn ngành rơi từ 11,2% xuống 9,6%.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/chung-khoan-co-cau-doanh-thu.svg",
+    "video": "",
+    "file": "chung-khoan-2026-nghe-chinh-la-cho-vay.md"
+  },
+  {
+    "slug": "co-tuc-tien-mat-khong-phai-phan-thuong-no-la-bang-chung",
+    "title": "Cổ tức tiền mặt không phải phần thưởng, nó là bằng chứng",
+    "date": "2026-08-29",
+    "excerpt": "159 cổ phiếu không trả một đồng cổ tức nào hồi tháng 8/2021 có mức tăng giá trung vị −18,0% sau năm năm. Nhóm lợi suất trên 9% — nhóm vẫn bị gọi là bẫy — cho +27,8%. Khoảng cách ấy không đến từ tiền cổ tức, mà từ thứ mà việc trả được cổ tức tiết lộ.",
+    "tags": ["Kiến thức", "Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/co-tuc-loi-suat-5-nam.svg",
+    "video": "",
+    "file": "co-tuc-tien-mat-khong-phai-phan-thuong-no-la-bang-chung.md"
+  },
+  {
+    "slug": "lai-tren-giay-109-doanh-nghiep-khong-thay-tien-ve",
+    "title": "Lãi trên giấy: 109 doanh nghiệp năm năm không thấy tiền về",
+    "date": "2026-08-29",
+    "excerpt": "Năm năm qua, mỗi đồng lợi nhuận của 473 doanh nghiệp lớn nhất sàn đi kèm 79 xu tiền mặt. Riêng 109 doanh nghiệp có lãi lũy kế 154.770 tỷ nhưng dòng tiền kinh doanh âm 169.905 tỷ — và bù vào bằng 235.066 tỷ tiền vay.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/tien-mat-loi-suat-5-nam.svg",
+    "video": "",
+    "file": "lai-tren-giay-109-doanh-nghiep-khong-thay-tien-ve.md"
+  },
+  {
     "slug": "benjamin-graham-88-co-phieu-net-net-va-7-ma-mua-duoc",
     "title": "Benjamin Graham: 88 cổ phiếu net-net ở Việt Nam và 7 mã mua được",
     "date": "2026-08-28",

@@ -1,0 +1,38 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="Muc tang gia 5 nam theo ty le tien mat tren loi nhuan">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}</style>
+<rect x="0.5" y="0.5" width="879" height="419" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Doanh nghiệp không thu được tiền là doanh nghiệp đứng bét</text>
+<text class="s" x="36" y="62">Mức tăng giá 5 năm, số trung vị của từng nhóm. 473 doanh nghiệp vốn hóa từ 500 tỷ đồng, giai đoạn 27/08/2021 – 28/08/2026.</text>
+
+<line class="gl" x1="120" y1="100" x2="836" y2="100"/><text class="ax" x="110" y="104" text-anchor="end">+60%</text>
+<line class="gl" x1="120" y1="165.7" x2="836" y2="165.7"/><text class="ax" x="110" y="169.7" text-anchor="end">+40%</text>
+<line class="gl" x1="120" y1="231.4" x2="836" y2="231.4"/><text class="ax" x="110" y="235.4" text-anchor="end">+20%</text>
+<line class="bl" x1="120" y1="297.1" x2="836" y2="297.1"/><text class="ax" x="110" y="301.1" text-anchor="end">0</text>
+
+<rect x="155" y="297.1" width="90" height="5.3" rx="2" fill="var(--cv-neg,#c0562f)"/>
+<text class="v" x="200" y="320" text-anchor="middle">−1,6%</text>
+<text class="c" x="200" y="352" text-anchor="middle">âm</text>
+<text class="ax" x="200" y="370" text-anchor="middle">109 mã</text>
+
+<rect x="285" y="201.5" width="90" height="95.6" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="330" y="194" text-anchor="middle">+29,1%</text>
+<text class="c" x="330" y="352" text-anchor="middle">0 – 0,5</text>
+<text class="ax" x="330" y="370" text-anchor="middle">46 mã</text>
+
+<rect x="415" y="162.4" width="90" height="134.7" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="460" y="155" text-anchor="middle">+41,0%</text>
+<text class="c" x="460" y="352" text-anchor="middle">0,5 – 1,0</text>
+<text class="ax" x="460" y="370" text-anchor="middle">95 mã</text>
+
+<rect x="545" y="154.2" width="90" height="142.9" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="590" y="147" text-anchor="middle">+43,5%</text>
+<text class="c" x="590" y="352" text-anchor="middle">1,0 – 1,5</text>
+<text class="ax" x="590" y="370" text-anchor="middle">116 mã</text>
+
+<rect x="675" y="112.8" width="90" height="184.3" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="720" y="105" text-anchor="middle">+56,1%</text>
+<text class="c" x="720" y="352" text-anchor="middle">trên 1,5</text>
+<text class="ax" x="720" y="370" text-anchor="middle">107 mã</text>
+
+<text class="s" x="36" y="404">Trục ngang: tiền thu về từ hoạt động kinh doanh trên mỗi đồng lợi nhuận sau thuế, cộng dồn 2021–2025. Nguồn: API VNDirect.</text>
+</svg>

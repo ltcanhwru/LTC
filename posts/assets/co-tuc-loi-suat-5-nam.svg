@@ -1,0 +1,40 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="Muc tang gia 5 nam theo ty suat co tuc">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}</style>
+<rect x="0.5" y="0.5" width="879" height="419" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="38">Nhóm không trả cổ tức tiền mặt đứng bét</text>
+<text class="s" x="36" y="60">Mức tăng giá 5 năm, số trung vị của từng nhóm. 478 cổ phiếu vốn hóa từ 500 tỷ đồng, danh mục lập ngày 27/08/2021.</text>
+
+<line class="gl" x1="130" y1="110" x2="836" y2="110"/><text class="ax" x="120" y="114" text-anchor="end">+30%</text>
+<line class="gl" x1="130" y1="154" x2="836" y2="154"/><text class="ax" x="120" y="158" text-anchor="end">+20%</text>
+<line class="gl" x1="130" y1="198" x2="836" y2="198"/><text class="ax" x="120" y="202" text-anchor="end">+10%</text>
+<line class="bl" x1="130" y1="242" x2="836" y2="242"/><text class="ax" x="120" y="246" text-anchor="end">0</text>
+<line class="gl" x1="130" y1="286" x2="836" y2="286"/><text class="ax" x="120" y="290" text-anchor="end">−10%</text>
+<line class="gl" x1="130" y1="330" x2="836" y2="330"/><text class="ax" x="120" y="334" text-anchor="end">−20%</text>
+
+<rect x="165" y="242" width="90" height="79.2" rx="2" fill="var(--cv-neg,#c0562f)"/>
+<text class="v" x="210" y="337" text-anchor="middle">−18,0%</text>
+<text class="c" x="210" y="360" text-anchor="middle">không trả</text>
+<text class="ax" x="210" y="378" text-anchor="middle">159 mã</text>
+
+<rect x="295" y="229.7" width="90" height="12.3" rx="2" fill="var(--cv-a2,#9ecbaa)"/>
+<text class="v" x="340" y="222" text-anchor="middle">+2,8%</text>
+<text class="c" x="340" y="360" text-anchor="middle">0 – 3%</text>
+<text class="ax" x="340" y="378" text-anchor="middle">119 mã</text>
+
+<rect x="425" y="137.7" width="90" height="104.3" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="470" y="130" text-anchor="middle">+23,7%</text>
+<text class="c" x="470" y="360" text-anchor="middle">3 – 6%</text>
+<text class="ax" x="470" y="378" text-anchor="middle">113 mã</text>
+
+<rect x="555" y="122.3" width="90" height="119.7" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="600" y="115" text-anchor="middle">+27,2%</text>
+<text class="c" x="600" y="360" text-anchor="middle">6 – 9%</text>
+<text class="ax" x="600" y="378" text-anchor="middle">45 mã</text>
+
+<rect x="685" y="119.7" width="90" height="122.3" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="730" y="112" text-anchor="middle">+27,8%</text>
+<text class="c" x="730" y="360" text-anchor="middle">trên 9%</text>
+<text class="ax" x="730" y="378" text-anchor="middle">42 mã</text>
+
+<text class="s" x="36" y="406">Trục ngang: tỷ suất cổ tức tiền mặt 12 tháng tại ngày lập danh mục. Mức tăng giá theo giá điều chỉnh, đã gồm cổ tức. Nguồn: API VNDirect.</text>
+</svg>
