@@ -58,12 +58,97 @@ function Esc {
     return $s.Replace('&', '&amp;').Replace('<', '&lt;').Replace('>', '&gt;').Replace('"', '&quot;')
 }
 
+# Thoat chuoi de nhet vao JSON (dung cho khoi du lieu co cau truc JSON-LD)
+function EscJson {
+    param([string]$s)
+    if ($null -eq $s) { return '' }
+    return $s.Replace('\', '\\').Replace('"', '\"').Replace("`r", '').Replace("`n", ' ')
+}
+
 # Thay mot doan nam giua hai dau moc. Dung MatchEvaluator de ky tu $ trong
 # tieu de bai khong bi PowerShell hieu nham thanh nhom bat trong regex.
 function Replace-Block {
     param([string]$Html, [string]$Marker, [string]$New)
     $pattern = '(?s)<!-- ' + $Marker + ' -->.*?<!-- /' + $Marker + ' -->'
     return [regex]::Replace($Html, $pattern, { param($m) $New })
+}
+
+# Doi ngay dang 2026-08-27 sang dinh dang RFC-822 ma RSS doi hoi.
+# Dung InvariantCulture de ten thu va thang luon la tieng Anh theo chuan.
+function Rfc822 {
+    param([string]$d)
+    $dt = [datetime]::MinValue
+    $inv = [Globalization.CultureInfo]::InvariantCulture
+    if ([datetime]::TryParseExact($d, 'yyyy-MM-dd', $inv, [Globalization.DateTimeStyles]::None, [ref]$dt)) {
+        return $dt.ToString('ddd, dd MMM yyyy HH:mm:ss', $inv) + ' +0700'
+    }
+    return ''
+}
+
+# ---------- Doi anh bia SVG sang PNG ----------
+# Facebook, Zalo va X KHONG doc duoc anh dinh dang SVG trong o xem truoc khi
+# chia se link. Nen moi anh bia can mot ban PNG di kem. Dung Chrome o che do
+# headless de chup lai chinh file SVG do - khong phai cai them phan mem nao.
+# Khong tim thay Chrome thi bo qua, the og:image se tro ve file SVG nhu cu.
+
+function Find-Chrome {
+    foreach ($p in @(
+        "$env:ProgramFiles\Google\Chrome\Application\chrome.exe",
+        "${env:ProgramFiles(x86)}\Google\Chrome\Application\chrome.exe",
+        "$env:LocalAppData\Google\Chrome\Application\chrome.exe",
+        "$env:ProgramFiles\Microsoft\Edge\Application\msedge.exe",
+        "${env:ProgramFiles(x86)}\Microsoft\Edge\Application\msedge.exe"
+    )) { if ($p -and (Test-Path $p)) { return $p } }
+    return $null
+}
+
+# Doc be ngang va chieu cao tu thuoc tinh viewBox cua file SVG
+function Get-SvgSize {
+    param([string]$Path)
+    $head = Get-Content -Raw -Encoding UTF8 $Path
+    $m = [regex]::Match($head, 'viewBox="0 0 ([\d.]+) ([\d.]+)"')
+    if ($m.Success) {
+        return @([int][math]::Ceiling([double]$m.Groups[1].Value),
+                 [int][math]::Ceiling([double]$m.Groups[2].Value))
+    }
+    return @(880, 430)
+}
+
+function Convert-SvgToPng {
+    param([string]$Chrome, [string]$SvgPath)
+
+    $pngPath = [System.IO.Path]::ChangeExtension($SvgPath, '.png')
+
+    # Da co ban PNG moi hon file SVG thi khong chup lai, cho nhanh
+    if ((Test-Path $pngPath) -and
+        ((Get-Item $pngPath).LastWriteTime -ge (Get-Item $SvgPath).LastWriteTime)) {
+        return $pngPath
+    }
+
+    $size = Get-SvgSize $SvgPath
+    $chromeArgs = @(
+        '--headless=new', '--disable-gpu', '--hide-scrollbars',
+        '--force-device-scale-factor=1.5',
+        "--screenshot=`"$pngPath`"",
+        ("--window-size={0},{1}" -f $size[0], $size[1]),
+        "`"$SvgPath`""
+    )
+
+    # Dung Start-Process chu khong goi thang: Chrome ghi tien trinh ra luong loi
+    # chuan, ma PowerShell 5.1 coi moi dong o luong do la loi that va se dung
+    # ca script vi ErrorActionPreference dang dat la Stop.
+    $errLog = Join-Path $env:TEMP ('chrome-shot-{0}.log' -f [guid]::NewGuid())
+    try {
+        Start-Process -FilePath $Chrome -ArgumentList $chromeArgs -Wait -NoNewWindow `
+                      -RedirectStandardError $errLog | Out-Null
+    } catch {
+        return $null
+    } finally {
+        Remove-Item $errLog -Force -ErrorAction SilentlyContinue
+    }
+
+    if (Test-Path $pngPath) { return $pngPath }
+    return $null
 }
 
 # ---------- Doc du lieu ----------
@@ -91,6 +176,22 @@ if (Test-Path $cfgPath) {
     if ($m.Success) { $siteName = $m.Groups[1].Value }
 }
 $eSite = Esc $siteName
+
+# Ten tac gia, lay tu khoi author trong config.js
+$authorName = $siteName
+$siteDesc   = ''
+if ($cfg) {
+    $ma = [regex]::Match($cfg, "(?s)author:\s*\{.*?name:\s*'([^']*)'")
+    if ($ma.Success) { $authorName = $ma.Groups[1].Value }
+    $md = [regex]::Match($cfg, "description:\s*'([^']*)'")
+    if ($md.Success) { $siteDesc = $md.Groups[1].Value }
+}
+
+# Chrome dung de doi anh bia SVG sang PNG (xem ghi chu o phan tien ich)
+$chrome = Find-Chrome
+if (-not $chrome) {
+    Write-Host '  Khong tim thay Chrome/Edge: bo qua buoc tao anh PNG cho o xem truoc.'
+}
 
 # Bo bai nhap va bai thieu slug, roi xep bai moi len truoc
 $posts = @($posts | Where-Object { $_ -and $_.slug -and $_.draft -ne $true } |
@@ -130,9 +231,25 @@ foreach ($p in $posts) {
     $lines.Add("  <meta property=""og:description"" content=""$eExcerpt"">")
     $lines.Add("  <meta property=""og:url"" content=""$url"">")
 
+    # Anh cho o xem truoc khi chia se link. Uu tien ban PNG: Facebook, Zalo va
+    # X khong doc duoc SVG, de nguyen SVG thi o xem truoc khong co anh.
+    $coverRel = ''
     if ($p.cover) {
-        $img = Esc "$BaseUrl/$($p.cover)"
-        $lines.Add("  <meta property=""og:image"" content=""$img"">")
+        $coverRel = [string]$p.cover
+        if ($chrome -and $coverRel.ToLower().EndsWith('.svg')) {
+            $svgAbs = Join-Path $root ($coverRel -replace '/', '\')
+            if (Test-Path $svgAbs) {
+                if (Convert-SvgToPng $chrome $svgAbs) {
+                    $coverRel = $coverRel -replace '\.svg$', '.png'
+                }
+            }
+        }
+    }
+
+    if ($coverRel) {
+        $imgUrl = Esc "$BaseUrl/$coverRel"
+        $lines.Add("  <meta property=""og:image"" content=""$imgUrl"">")
+        $lines.Add("  <meta property=""og:image:alt"" content=""$eTitle"">")
         $lines.Add('  <meta name="twitter:card" content="summary_large_image">')
     } else {
         $lines.Add('  <meta name="twitter:card" content="summary">')
@@ -142,6 +259,27 @@ foreach ($p in $posts) {
     if ($p.date) {
         $lines.Add("  <meta property=""article:published_time"" content=""$($p.date)"">")
     }
+    $lines.Add("  <link rel=""alternate"" type=""application/rss+xml"" title=""$eSite"" href=""feed.xml"">")
+
+    # Du lieu co cau truc: noi ro voi Google day la mot bai viet, co ngay dang
+    # va tac gia. Day la dieu kien de bai du tu cach hien dang ket qua phong phu.
+    $lines.Add('  <script type="application/ld+json">')
+    $lines.Add('  {')
+    $lines.Add('    "@context": "https://schema.org",')
+    $lines.Add('    "@type": "BlogPosting",')
+    $lines.Add('    "headline": "' + (EscJson ([string]$p.title)) + '",')
+    $lines.Add('    "description": "' + (EscJson ([string]$p.excerpt)) + '",')
+    if ($coverRel) { $lines.Add('    "image": "' + "$BaseUrl/$coverRel" + '",') }
+    if ($p.date) {
+        $lines.Add('    "datePublished": "' + $p.date + '",')
+        $lines.Add('    "dateModified": "' + $p.date + '",')
+    }
+    $lines.Add('    "author": { "@type": "Person", "name": "' + (EscJson $authorName) + '" },')
+    $lines.Add('    "publisher": { "@type": "Person", "name": "' + (EscJson $authorName) + '" },')
+    $lines.Add('    "mainEntityOfPage": { "@type": "WebPage", "@id": "' + $url + '" },')
+    $lines.Add('    "inLanguage": "vi-VN"')
+    $lines.Add('  }')
+    $lines.Add('  </script>')
 
     $html = Replace-Block $tpl 'build:meta' ($lines -join "`r`n")
 
@@ -183,9 +321,43 @@ if (Test-Path $idxPath) {
         $ul.Add('          <!-- /build:list -->')
 
         $idx = Replace-Block $idx 'build:list' ($ul -join "`r`n")
-        Write-Utf8 $idxPath $idx
-        Write-Host '  index.html (danh sach du phong)'
     }
+
+    # Du lieu co cau truc cho trang chu: khai bao day la mot blog, kem danh
+    # sach bai moi nhat de Google hieu quan he giua trang chu va cac bai.
+    if ($idx -match '<!-- build:jsonld -->') {
+        $ld = New-Object System.Collections.Generic.List[string]
+        $ld.Add('<!-- build:jsonld -->')
+        $ld.Add('  <script type="application/ld+json">')
+        $ld.Add('  {')
+        $ld.Add('    "@context": "https://schema.org",')
+        $ld.Add('    "@type": "Blog",')
+        $ld.Add('    "name": "' + (EscJson $siteName) + '",')
+        $ld.Add('    "description": "' + (EscJson $siteDesc) + '",')
+        $ld.Add('    "url": "' + $BaseUrl + '/",')
+        $ld.Add('    "inLanguage": "vi-VN",')
+        $ld.Add('    "author": { "@type": "Person", "name": "' + (EscJson $authorName) + '" },')
+        $ld.Add('    "blogPost": [')
+
+        $newest10 = @($posts | Select-Object -First 10)
+        for ($i = 0; $i -lt $newest10.Count; $i++) {
+            $q = $newest10[$i]
+            $comma = ','
+            if ($i -eq $newest10.Count - 1) { $comma = '' }
+            $ld.Add('      { "@type": "BlogPosting", "headline": "' + (EscJson ([string]$q.title)) +
+                    '", "url": "' + "$BaseUrl/bai/$($q.slug).html" + '" }' + $comma)
+        }
+
+        $ld.Add('    ]')
+        $ld.Add('  }')
+        $ld.Add('  </script>')
+        $ld.Add('  <!-- /build:jsonld -->')
+
+        $idx = Replace-Block $idx 'build:jsonld' ($ld -join "`r`n")
+    }
+
+    Write-Utf8 $idxPath $idx
+    Write-Host '  index.html (danh sach du phong + du lieu co cau truc)'
 }
 
 # ---------- sitemap.xml ----------
@@ -212,6 +384,38 @@ Write-Utf8 (Join-Path $root 'sitemap.xml') $sm.ToString()
 
 $robots = "User-agent: *`r`nAllow: /`r`n`r`nSitemap: $BaseUrl/sitemap.xml`r`n"
 Write-Utf8 (Join-Path $root 'robots.txt') $robots
+
+# ---------- feed.xml (RSS) ----------
+# Them mot duong nua cho cong cu doc tin va cho ai muon theo doi bai moi.
+
+$rs = New-Object System.Text.StringBuilder
+[void]$rs.AppendLine('<?xml version="1.0" encoding="UTF-8"?>')
+[void]$rs.AppendLine('<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">')
+[void]$rs.AppendLine('<channel>')
+[void]$rs.AppendLine("  <title>$eSite</title>")
+[void]$rs.AppendLine("  <link>$BaseUrl/</link>")
+[void]$rs.AppendLine("  <description>$(Esc $siteDesc)</description>")
+[void]$rs.AppendLine('  <language>vi</language>')
+[void]$rs.AppendLine("  <atom:link href=""$BaseUrl/feed.xml"" rel=""self"" type=""application/rss+xml"" />")
+
+$built = Rfc822 ([string]$posts[0].date)
+if ($built) { [void]$rs.AppendLine("  <lastBuildDate>$built</lastBuildDate>") }
+
+foreach ($p in $posts) {
+    $loc = "$BaseUrl/bai/$($p.slug).html"
+    [void]$rs.AppendLine('  <item>')
+    [void]$rs.AppendLine("    <title>$(Esc ([string]$p.title))</title>")
+    [void]$rs.AppendLine("    <link>$loc</link>")
+    [void]$rs.AppendLine("    <guid isPermaLink=""true"">$loc</guid>")
+    $pub = Rfc822 ([string]$p.date)
+    if ($pub) { [void]$rs.AppendLine("    <pubDate>$pub</pubDate>") }
+    [void]$rs.AppendLine("    <description>$(Esc ([string]$p.excerpt))</description>")
+    [void]$rs.AppendLine('  </item>')
+}
+
+[void]$rs.AppendLine('</channel>')
+[void]$rs.AppendLine('</rss>')
+Write-Utf8 (Join-Path $root 'feed.xml') $rs.ToString()
 
 # ---------- Xong ----------
 

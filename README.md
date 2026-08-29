@@ -274,9 +274,21 @@ Chạy `.\build.ps1`, script đọc `posts/posts.json` rồi sinh ra:
 | Sinh ra | Nội dung |
 |---|---|
 | `bai/<slug>.html` | Mỗi bài một file, có sẵn tiêu đề, mô tả, ảnh bìa và thẻ `og:` ngay trong HTML |
+| `posts/assets/<ten>.png` | Bản PNG của ảnh bìa, dùng cho ô xem trước khi chia sẻ link |
 | `sitemap.xml` | Danh sách địa chỉ để khai báo với công cụ tìm kiếm |
 | `robots.txt` | Trỏ tới sitemap |
-| Khối trong `index.html` | Danh sách bài dạng `<noscript>` — cho công cụ tìm kiếm một đường đi từ trang chủ vào từng bài |
+| `feed.xml` | Nguồn RSS cho ai muốn theo dõi bài mới |
+| Khối trong `index.html` | Danh sách bài dạng `<noscript>` và dữ liệu có cấu trúc |
+
+### Vì sao ảnh bìa phải có bản PNG
+
+Facebook, Zalo và X **không đọc được ảnh định dạng SVG** trong ô xem trước. Để nguyên `.svg` thì link chia sẻ chỉ hiện tiêu đề và tóm tắt, không có ảnh.
+
+`build.ps1` tự giải quyết: nó gọi Chrome ở chế độ ẩn để chụp lại chính file SVG thành PNG, rồi trỏ `og:image` vào bản PNG đó. Không phải cài thêm phần mềm nào. Ảnh chỉ chụp lại khi file SVG mới hơn bản PNG, nên chạy lần hai rất nhanh. Máy không có Chrome hay Edge thì script bỏ qua bước này và `og:image` quay về dùng SVG như cũ.
+
+### Dữ liệu có cấu trúc
+
+Mỗi trang bài mang một khối `application/ld+json` kiểu `BlogPosting` — nói rõ với Google đây là bài viết, kèm tiêu đề, mô tả, ảnh, ngày đăng và tác giả. Trang chủ mang khối kiểu `Blog` liệt kê mười bài mới nhất. Tên tác giả và mô tả site lấy thẳng từ `js/config.js`, không phải khai báo lại.
 
 Các file trong `bai/` chính là **địa chỉ công khai** của bài viết. Trang chủ, cột bên phải và mục "bài liên quan" đều tự trỏ vào đó. `post.html?p=ten-bai` vẫn chạy cho các link cũ, nhưng được đánh dấu `noindex` để không trùng nội dung với bản chính.
 
@@ -309,6 +321,7 @@ about.html          Trang giới thiệu - sửa nội dung trực tiếp trong 
 404.html            Trang báo không tìm thấy (kèm lưới an toàn cho /bai/)
 sitemap.xml         <- build.ps1 sinh ra. Khai báo với công cụ tìm kiếm
 robots.txt          <- build.ps1 sinh ra
+feed.xml            <- build.ps1 sinh ra. Nguồn RSS
 
 css/style.css       Toàn bộ giao diện. Đổi màu ở phần :root đầu file
                     (gồm cả bảng màu --cv-* dùng cho biểu đồ)
@@ -323,6 +336,7 @@ js/post.js          Logic trang bài viết
 posts/posts.json    <- Danh mục bài viết. Thêm bài mới là sửa file này
 posts/*.md          Nội dung từng bài viết
 posts/assets/       Ảnh và biểu đồ .svg dùng trong bài
+                    (kèm bản .png do build.ps1 chụp, để chia sẻ link)
 
 bai/                <- build.ps1 sinh ra. Trang tĩnh của từng bài viết,
                     đây mới là địa chỉ công khai. Đừng sửa tay.
