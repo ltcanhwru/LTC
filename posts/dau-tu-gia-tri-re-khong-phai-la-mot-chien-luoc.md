@@ -108,6 +108,8 @@ Nhóm gần như không trả cổ tức chiếm gần một nửa số cổ phi
 
 Đây cũng là chỗ [bài về DRI](post.html?p=dri-gia-tri-cot-loi) chạm tới từ hướng khác: một nửa lợi nhuận kế toán của công ty đó không bao giờ đi tới túi cổ đông, và P/E dưới 5 không sửa được điều ấy.
 
+Phép thử này về sau được làm trên toàn thị trường thay vì chỉ trên nửa rẻ, ở [bài về cổ tức tiền mặt](post.html?p=co-tuc-tien-mat-khong-phai-phan-thuong-no-la-bang-chung) — nơi nhóm không trả cổ tức đứng bét ở cả ba kỳ đo. Còn vế đứng trước nó, chuyện lợi nhuận kế toán có thành tiền mặt hay không, nằm ở [bài về 109 doanh nghiệp năm năm không thấy tiền về](post.html?p=lai-tren-giay-109-doanh-nghiep-khong-thay-tien-ve).
+
 ## 7. Cái bẫy nhìn gần trông như thế nào
 
 Trong 198 mã đang dưới giá trị sổ sách hôm nay:
@@ -155,7 +157,7 @@ Khoảng cách hơn hai mươi điểm phần trăm giữa số trung vị và s
 - **Bộ dữ liệu chỉ gồm cổ phiếu còn đang giao dịch hôm nay.** Mã đã hủy niêm yết, sáp nhập hoặc bị đình chỉ trong 5 năm qua không có mặt. Vì cổ phiếu biến mất thường là cổ phiếu tệ, và cổ phiếu tệ thường nằm ở nhóm P/B thấp, sai lệch này làm **kết quả của nhóm rẻ trông đẹp hơn thực tế**. Nhóm Q1 có lẽ còn tệ hơn con số trong bảng.
 - **Đây là ba lát cắt, không phải một mô phỏng đầy đủ.** Mỗi kỳ chỉ có đúng một ngày lập danh mục. Đổi ngày lập sang tháng 3 hay tháng 11 có thể ra kết quả khác. Một kiểm định nghiêm túc phải lăn qua nhiều ngày lập và nhiều kỳ nắm giữ chồng lấn, việc tôi chưa làm.
 - **Tôi dùng số trung vị, không dùng bình quân, và không trừ chi phí.** Trung vị bỏ qua đuôi phải — vài mã nhân ba nhân bốn trong nhóm rẻ không được phản ánh, mà đó lại đúng là chỗ một số người đầu tư giá trị kiếm tiền. Phí giao dịch, thuế và trượt giá khi mua mã thanh khoản thấp cũng không được trừ; riêng khoản trượt giá đủ để xóa phần lớn chênh lệch ở nhóm vốn hóa nhỏ.
-- **Mức tăng giá lấy theo giá điều chỉnh của VNDirect**, tức đã điều chỉnh cho chia tách và cổ tức theo quy ước của nhà cung cấp dữ liệu. Tôi không kiểm tra lại quy ước ấy cho từng mã, nên bảng cổ tức ở mục 6 có thể đang tính hai lần một phần lợi ích của cổ tức.
+- **Mức tăng giá lấy theo giá điều chỉnh của VNDirect**, tức đã điều chỉnh cho cả chia tách lẫn cổ tức tiền mặt. Tôi kiểm chứng quy ước ấy bằng VNM: giá điều chỉnh hai phiên 28/08/2025 và 28/08/2026 là 56.420 và 62.300 đồng, cho +10,4% — đúng bằng con số máy chủ dữ liệu trả về — trong khi giá đóng cửa thô chỉ đi từ 61.000 lên 62.300, tức +2,1%; phần chênh 8,3 điểm phần trăm chính là cổ tức đã trả trong năm. VCB cho kết quả khớp tương tự. Vậy bảng ở mục 6 không tính hai lần lợi ích của cổ tức. Nhưng tôi mới kiểm hai mã, và với cổ phiếu có phát hành riêng lẻ hoặc hoán đổi thì quy ước điều chỉnh phức tạp hơn nhiều.
 - **ROE tại ngày lập tính bằng P/B chia P/E**, nên nó là ROE bốn quý gần nhất tại thời điểm ấy chứ không phải mức sinh lời dài hạn. Doanh nghiệp có một quý lãi đột biến sẽ bị xếp nhầm vào ô "ROE cao" — đúng như trường hợp HHS ở mục 7.
 - **P/E và P/B của một số mã dùng cửa sổ bốn quý không trùng với quý gần nhất**, đặc biệt với doanh nghiệp có năm tài chính lệch. Tôi chỉ kiểm tra chéo thủ công vài mã: HPG và VCB khớp tuyệt đối, HHS lệch một quý.
 - **Phần lịch sử ở mục 1** tôi viết từ kiến thức phổ thông về Graham, Buffett và Fama–French, không mở lại bản gốc trước khi viết. Các mốc năm và ý tưởng chính thì tôi chắc; mọi diễn giải chi tiết hơn thế nên tra lại.

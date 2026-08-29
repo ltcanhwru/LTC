@@ -76,7 +76,9 @@ Cộng cả 41 công ty, sáu tháng đầu năm, đơn vị tỷ đồng:
 
 Tỷ trọng lãi cho vay trong tổng doanh thu đi từ 29,2% lên 34,2%, còn môi giới lùi từ 14,6% xuống 13,4%. Nhưng dòng đáng chú ý nhất nằm ở phần chi phí: **chi phí lãi vay tăng 82,6%, nhanh hơn cả tốc độ tăng của thu nhập lãi**.
 
-Điều đó có nghĩa là phần lớn tiền cho vay margin không phải vốn của công ty chứng khoán, mà là vốn đi vay lại — chủ yếu từ ngân hàng và trái phiếu ngắn hạn. Chênh lệch giữa 17.726 tỷ thu vào và 10.804 tỷ trả ra là 6.922 tỷ, nhưng con số ấy chưa phải lãi ròng từ nghiệp vụ cho vay, vì cùng khoản vay đó còn tài trợ cho danh mục tự doanh. Cấu trúc này giống ngân hàng ở chỗ quan trọng nhất: lợi nhuận là chênh lệch lãi suất trên một bảng cân đối đi vay để cho vay, và nó nhạy với cả lãi suất đầu vào lẫn chất lượng tài sản bảo đảm.
+Bảng cân đối cho thấy vì sao. Cuối tháng 6/2026, tổng tài sản của 41 công ty là 764.668 tỷ đồng, nợ phải trả 414.926 tỷ, trong đó riêng vay và nợ ngắn hạn là **367.186 tỷ** — lớn hơn cả dư nợ cho vay 333.607 tỷ, và tăng từ 295.137 tỷ của một năm trước. Tiền đem cho nhà đầu tư vay phần lớn là tiền đi vay lại.
+
+Chênh lệch giữa 17.726 tỷ thu vào và 10.804 tỷ trả ra là 6.922 tỷ, nhưng con số ấy chưa phải lãi ròng từ nghiệp vụ cho vay, vì cùng khoản vay đó còn tài trợ cho danh mục tự doanh. Cấu trúc này giống ngân hàng ở chỗ quan trọng nhất: lợi nhuận là chênh lệch lãi suất trên một bảng cân đối đi vay để cho vay, và nó nhạy với cả lãi suất đầu vào lẫn chất lượng tài sản bảo đảm.
 
 ## 4. Môi giới đã thôi là một nghề sinh lời
 
