@@ -1,5 +1,45 @@
 [
   {
+    "slug": "cdn-tien-chat-dong-va-cang-lien-chieu",
+    "title": "CDN: tiền chất đống, cổ tức cắt một nửa, và cảng Liên Chiểu",
+    "date": "2026-08-29",
+    "excerpt": "Cảng Đà Nẵng lãi cao nhất lịch sử, giữ 1.063 tỷ tiền mặt bằng 42% vốn hóa, đầu tư chỉ bằng nửa khấu hao — nhưng cắt cổ tức từ 1.500 xuống 800 đồng. Và bến Tiên Sa, nơi làm ra phần lớn doanh thu, được quy hoạch chuyển thành cảng khách.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "cdn-tien-chat-dong-va-cang-lien-chieu.md"
+  },
+  {
+    "slug": "ghc-loi-nhuan-tang-nha-may-chay-cham",
+    "title": "GHC: lợi nhuận tăng 49% trong lúc nhà máy chạy chậm lại",
+    "date": "2026-08-29",
+    "excerpt": "Quý II/2026, Thủy điện Gia Lai lãi tăng 49,3% trong khi doanh thu giảm 3,5% và lợi nhuận gộp giảm 12,4%. Cả khoảng chênh nằm ở một dòng lần đầu có số sau mười lăm quý: 20,6 tỷ lãi từ công ty liên kết.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "ghc-loi-nhuan-tang-nha-may-chay-cham.md"
+  },
+  {
+    "slug": "geg-mot-nua-loi-nhuan-gop-di-tra-lai",
+    "title": "GEG: một nửa lợi nhuận gộp đi trả lãi",
+    "date": "2026-08-29",
+    "excerpt": "Điện Gia Lai có 24 nhà máy, biên lợi nhuận gộp 51% và 8.395 tỷ đồng nợ vay. Doanh thu bảy năm qua gấp 4,7 lần, nhưng năm 2024 lợi nhuận về cổ đông mẹ còn thấp hơn năm 2018 — toàn bộ phần tăng thêm đã đi vào tiền lãi.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/geg-loi-nhuan-gop-va-lai-vay.svg",
+    "video": "",
+    "file": "geg-mot-nua-loi-nhuan-gop-di-tra-lai.md"
+  },
+  {
+    "slug": "php-quy-ky-luc-va-canh-cua-744-phan-tram",
+    "title": "PHP: quý kỷ lục sau lưng một cánh cửa 7,44%",
+    "date": "2026-08-29",
+    "excerpt": "Cảng Hải Phòng lãi 425 tỷ trong quý II trên biên gộp 54,9%, nhưng sản lượng container chỉ tăng 3,1%. Phần tăng trưởng thật nằm ở một liên doanh không có trong doanh thu hợp nhất — và ở 92,56% cổ phần Nhà nước vừa được phép bán bớt.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "php-quy-ky-luc-va-canh-cua-744-phan-tram.md"
+  },
+  {
     "slug": "chi-so-cao-nhat-lich-su-dinh-gia-thap-nhat-tam-nam",
     "title": "Chỉ số cao nhất lịch sử, định giá thấp nhất tám năm",
     "date": "2026-08-29",
