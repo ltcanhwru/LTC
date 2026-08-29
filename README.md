@@ -2,6 +2,8 @@
 
 Một website tĩnh để đăng bài viết, vlog và phân tích cá nhân. Không cần cài Node.js, không cần database, không tốn tiền hosting.
 
+**Trang đang chạy: <https://ltcanhwru.github.io/LTC/>**
+
 ---
 
 ## 1. Xem thử trên máy
