@@ -1,0 +1,44 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="Muc tang gia trung vi theo san qua ba ky">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}</style>
+<rect x="0.5" y="0.5" width="879" height="419" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="38">UPCoM đứng đầu cả ba kỳ đo</text>
+<text class="s" x="36" y="60">Mức tăng giá trung vị tới 28/08/2026 của cổ phiếu vốn hóa từ 500 tỷ đồng tại ngày lập danh mục.</text>
+
+<rect x="470" y="72" width="14" height="14" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="c" x="492" y="84">HOSE</text>
+<rect x="560" y="72" width="14" height="14" rx="2" fill="var(--cv-n1,#a9bfb0)"/><text class="c" x="582" y="84">HNX</text>
+<rect x="644" y="72" width="14" height="14" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="c" x="666" y="84">UPCoM</text>
+
+<line class="gl" x1="120" y1="110" x2="836" y2="110"/><text class="ax" x="110" y="114" text-anchor="end">+10%</text>
+<line class="gl" x1="120" y1="154" x2="836" y2="154"/><text class="ax" x="110" y="158" text-anchor="end">+5%</text>
+<line class="bl" x1="120" y1="198" x2="836" y2="198"/><text class="ax" x="110" y="202" text-anchor="end">0</text>
+<line class="gl" x1="120" y1="242" x2="836" y2="242"/><text class="ax" x="110" y="246" text-anchor="end">−5%</text>
+<line class="gl" x1="120" y1="286" x2="836" y2="286"/><text class="ax" x="110" y="290" text-anchor="end">−10%</text>
+<line class="gl" x1="120" y1="330" x2="836" y2="330"/><text class="ax" x="110" y="334" text-anchor="end">−15%</text>
+
+<rect x="160" y="168.1" width="56" height="29.9" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="188" y="161" text-anchor="middle">+3,4%</text>
+<rect x="222" y="198" width="56" height="92.4" rx="2" fill="var(--cv-n1,#a9bfb0)"/>
+<text class="v" x="250" y="305" text-anchor="middle">−10,5%</text>
+<rect x="284" y="146.1" width="56" height="51.9" rx="2" fill="var(--cv-wa,#bf860f)"/>
+<text class="v" x="312" y="139" text-anchor="middle">+5,9%</text>
+<text class="c" x="250" y="356" text-anchor="middle">5 năm (lập 8/2021)</text>
+
+<rect x="380" y="169.8" width="56" height="28.2" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="408" y="163" text-anchor="middle">+3,2%</text>
+<rect x="442" y="194.5" width="56" height="3.5" rx="2" fill="var(--cv-n1,#a9bfb0)"/>
+<text class="v" x="470" y="188" text-anchor="middle">+0,4%</text>
+<rect x="504" y="125.8" width="56" height="72.2" rx="2" fill="var(--cv-wa,#bf860f)"/>
+<text class="v" x="532" y="119" text-anchor="middle">+8,2%</text>
+<text class="c" x="470" y="356" text-anchor="middle">3 năm (lập 8/2023)</text>
+
+<rect x="600" y="198" width="56" height="112.6" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="628" y="325" text-anchor="middle">−12,8%</text>
+<rect x="662" y="198" width="56" height="103.8" rx="2" fill="var(--cv-n1,#a9bfb0)"/>
+<text class="v" x="690" y="316" text-anchor="middle">−11,8%</text>
+<rect x="724" y="198" width="56" height="43.1" rx="2" fill="var(--cv-wa,#bf860f)"/>
+<text class="v" x="752" y="256" text-anchor="middle">−4,9%</text>
+<text class="c" x="690" y="356" text-anchor="middle">1 năm (lập 8/2025)</text>
+
+<text class="s" x="36" y="394">Sàn lấy theo trạng thái hiện tại của từng mã, nên cổ phiếu đã chuyển từ UPCoM lên HOSE được tính cho HOSE.</text>
+<text class="s" x="36" y="410">Mức tăng theo giá điều chỉnh, đã gồm cổ tức. Nguồn: API VNDirect.</text>
+</svg>

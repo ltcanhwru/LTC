@@ -1,5 +1,35 @@
 [
   {
+    "slug": "ba-san-mot-thi-truong-upcom-thang-nhung-khong-mua-duoc",
+    "title": "Ba sàn một thị trường: UPCoM thắng, và không mua được",
+    "date": "2026-08-29",
+    "excerpt": "Cổ phiếu UPCoM vốn hóa từ 500 tỷ cho mức tăng trung vị cao hơn HOSE và HNX ở cả ba kỳ đo, dù những mã tốt nhất của sàn này đã chuyển đi nơi khác. Đổi lại, 694 trong 818 mã khớp dưới 100 triệu đồng một phiên — có mã vốn hóa 21.542 tỷ mà không đổi chủ.",
+    "tags": ["Kiến thức", "Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/ba-san-loi-suat.svg",
+    "video": "",
+    "file": "ba-san-mot-thi-truong-upcom-thang-nhung-khong-mua-duoc.md"
+  },
+  {
+    "slug": "mot-ma-lam-nen-thi-truong",
+    "title": "Một mã làm nên thị trường",
+    "date": "2026-08-29",
+    "excerpt": "Năm năm qua, bình quân gia quyền vốn hóa của thị trường tăng 54,5% trong khi cổ phiếu trung vị tăng 4,1%. Riêng Vingroup đóng góp 40% mức tăng ấy và chiếm 17,1% vốn hóa toàn sàn — nhiều hơn cả HNX cộng UPCoM.",
+    "tags": ["Kiến thức", "Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/trung-vi-va-gia-quyen.svg",
+    "video": "",
+    "file": "mot-ma-lam-nen-thi-truong.md"
+  },
+  {
+    "slug": "co-phieu-tang-gap-doi-mot-nam-roi-sao-nua",
+    "title": "Cổ phiếu tăng gấp đôi trong một năm, rồi sao nữa",
+    "date": "2026-08-29",
+    "excerpt": "Nhóm đã tăng trên 100% trong mười hai tháng cho mức tăng trung vị −15,4%, −16,6% và −16,1% ở ba lần thử tại ba giai đoạn thị trường khác hẳn nhau. Nhóm tốt nhất trong cả ba bảng là nhóm đã tăng vừa phải, dưới 50%.",
+    "tags": ["Kiến thức", "Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/quan-tinh-tang-tren-100.svg",
+    "video": "",
+    "file": "co-phieu-tang-gap-doi-mot-nam-roi-sao-nua.md"
+  },
+  {
     "slug": "chung-khoan-2026-nghe-chinh-la-cho-vay",
     "title": "Chứng khoán 2026: nghề chính là cho vay",
     "date": "2026-08-29",

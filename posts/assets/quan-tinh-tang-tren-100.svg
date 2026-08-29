@@ -1,0 +1,36 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="Ket qua cua nhom tang vua phai va nhom tang tren 100 phan tram">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}</style>
+<rect x="0.5" y="0.5" width="879" height="419" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="38">Tăng trên 100% trong một năm: kết quả giống nhau ở cả ba lần thử</text>
+<text class="s" x="36" y="60">Mức tăng giá trung vị sau đó, theo mức tăng của mười hai tháng trước ngày lập danh mục.</text>
+
+<rect x="524" y="72" width="14" height="14" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="c" x="546" y="84">đã tăng 0 – 50%</text>
+<rect x="676" y="72" width="14" height="14" rx="2" fill="var(--cv-neg,#c0562f)"/><text class="c" x="698" y="84">đã tăng trên 100%</text>
+
+<line class="gl" x1="120" y1="110" x2="836" y2="110"/><text class="ax" x="110" y="114" text-anchor="end">+20%</text>
+<line class="gl" x1="120" y1="165" x2="836" y2="165"/><text class="ax" x="110" y="169" text-anchor="end">+10%</text>
+<line class="bl" x1="120" y1="220" x2="836" y2="220"/><text class="ax" x="110" y="224" text-anchor="end">0</text>
+<line class="gl" x1="120" y1="275" x2="836" y2="275"/><text class="ax" x="110" y="279" text-anchor="end">−10%</text>
+<line class="gl" x1="120" y1="330" x2="836" y2="330"/><text class="ax" x="110" y="334" text-anchor="end">−20%</text>
+
+<rect x="178" y="111.1" width="66" height="108.9" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="211" y="104" text-anchor="middle">+19,8%</text>
+<rect x="256" y="220" width="66" height="84.7" rx="2" fill="var(--cv-neg,#c0562f)"/>
+<text class="v" x="289" y="320" text-anchor="middle">−15,4%</text>
+<text class="c" x="250" y="356" text-anchor="middle">lập 8/2021, giữ 5 năm</text>
+
+<rect x="398" y="140.8" width="66" height="79.2" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="431" y="134" text-anchor="middle">+14,4%</text>
+<rect x="476" y="220" width="66" height="91.3" rx="2" fill="var(--cv-neg,#c0562f)"/>
+<text class="v" x="509" y="327" text-anchor="middle">−16,6%</text>
+<text class="c" x="470" y="356" text-anchor="middle">lập 8/2023, giữ 3 năm</text>
+
+<rect x="618" y="220" width="66" height="52.3" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="651" y="288" text-anchor="middle">−9,5%</text>
+<rect x="696" y="220" width="66" height="88.6" rx="2" fill="var(--cv-neg,#c0562f)"/>
+<text class="v" x="729" y="324" text-anchor="middle">−16,1%</text>
+<text class="c" x="690" y="356" text-anchor="middle">lập 8/2025, giữ 1 năm</text>
+
+<text class="s" x="36" y="394">Vũ trụ mẫu: cổ phiếu vốn hóa từ 500 tỷ đồng tại ngày lập danh mục, 513 – 599 mã tùy mốc.</text>
+<text class="s" x="36" y="410">Mức tăng giá theo giá điều chỉnh, đã gồm cổ tức. Nguồn: API VNDirect.</text>
+</svg>
