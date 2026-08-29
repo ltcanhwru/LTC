@@ -1,5 +1,45 @@
 [
   {
+    "slug": "dbc-chu-ky-lon-quay-dau",
+    "title": "DBC: doanh thu tăng 12,8%, lợi nhuận giảm 34,7%",
+    "date": "2026-08-29",
+    "excerpt": "Biên lợi nhuận gộp của Dabaco rơi từ 21,6% xuống 15,4% trong một năm. Doanh nghiệp bước vào nửa sau chu kỳ với dư nợ vay cao hơn 46,6% và số cổ phiếu nhiều hơn 28,8% so với cùng kỳ.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "dbc-chu-ky-lon-quay-dau.md"
+  },
+  {
+    "slug": "fmc-ban-it-hon-lai-nhieu-hon",
+    "title": "FMC: bán ít hơn 21%, lãi nhiều hơn 91%",
+    "date": "2026-08-29",
+    "excerpt": "Sao Ta giảm doanh thu một phần năm nhưng lợi nhuận gần gấp đôi, vì biên gộp đi từ 10,5% lên 14,6%. Phần doanh thu mất đi chủ yếu là những đơn hàng đẩy vội trong quý III/2025 với chi phí bán hàng gấp đôi bình thường.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "fmc-ban-it-hon-lai-nhieu-hon.md"
+  },
+  {
+    "slug": "abt-mot-quy-hai-nguon-loi-nhuan",
+    "title": "ABT: mỗi năm có một quý được cộng thêm 23 tỷ",
+    "date": "2026-08-29",
+    "excerpt": "Thủy sản Bến Tre giao dịch ở P/E 4,04 và P/B 0,87. Nhưng 27,7% lợi nhuận đến từ một khoản tài chính rơi vào đúng quý II mỗi năm. Bỏ nó ra, P/E là 5,2 lần.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "abt-mot-quy-hai-nguon-loi-nhuan.md"
+  },
+  {
+    "slug": "pdn-cang-dat-nhat-va-ly-do",
+    "title": "PDN: cảng đắt nhất nhóm, và lý do",
+    "date": "2026-08-29",
+    "excerpt": "Cảng Đồng Nai có P/B 3,35 — cao nhất trong ba cảng — nhưng cũng có ROE 31,1% mà hầu như không vay nợ. Bội số cao ở đây không phải thị trường trả quá, mà vì vốn chủ nhỏ so với năng lực sinh lời.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "pdn-cang-dat-nhat-va-ly-do.md"
+  },
+  {
     "slug": "mwg-bien-loi-nhuan-va-mot-buoc-nhay-tren-bang-can-doi",
     "title": "MWG: lợi nhuận gấp đôi, và một bước nhảy 20.900 tỷ trên bảng cân đối",
     "date": "2026-08-29",
