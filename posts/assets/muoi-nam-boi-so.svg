@@ -1,0 +1,32 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 438" width="880" height="438" role="img" aria-label="Boi so gia sau muoi nam theo nhom von hoa">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}</style>
+<rect x="0.5" y="0.5" width="879" height="437" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Mười năm: cổ phiếu trung vị nhân 1,85 lần</text>
+<text class="s" x="36" y="62">843 mã có giá điều chỉnh ở cả hai mốc 8/2016 và 8/2026, chia làm năm nhóm theo vốn hóa tháng 8/2018.</text>
+<line class="bl" x1="120" y1="330.0" x2="836" y2="330.0"/><text class="ax" x="110" y="334.0" text-anchor="end">0</text>
+<line class="gl" x1="120" y1="256.7" x2="836" y2="256.7"/><text class="ax" x="110" y="260.7" text-anchor="end">+1</text>
+<line class="gl" x1="120" y1="183.3" x2="836" y2="183.3"/><text class="ax" x="110" y="187.3" text-anchor="end">+2</text>
+<line class="gl" x1="120" y1="110.0" x2="836" y2="110.0"/><text class="ax" x="110" y="114.0" text-anchor="end">+3</text>
+<rect x="157.0" y="230.3" width="88.0" height="99.7" rx="2" fill="var(--cv-n1,#a9bfb0)"/>
+<text class="v" x="201.0" y="223.3" text-anchor="middle">+1,4</text>
+<text class="c" x="201.0" y="356" text-anchor="middle">Nhỏ nhất</text>
+<text class="ax" x="201.0" y="374" text-anchor="middle">~22 tỷ</text>
+<rect x="299.0" y="217.8" width="88.0" height="112.2" rx="2" fill="var(--cv-a2,#9ecbaa)"/>
+<text class="v" x="343.0" y="210.8" text-anchor="middle">+1,5</text>
+<text class="c" x="343.0" y="356" text-anchor="middle">Q2</text>
+<text class="ax" x="343.0" y="374" text-anchor="middle">~76 tỷ</text>
+<rect x="441.0" y="202.4" width="88.0" height="127.6" rx="2" fill="var(--cv-a2,#9ecbaa)"/>
+<text class="v" x="485.0" y="195.4" text-anchor="middle">+1,7</text>
+<text class="c" x="485.0" y="356" text-anchor="middle">Q3</text>
+<text class="ax" x="485.0" y="374" text-anchor="middle">~172 tỷ</text>
+<rect x="583.0" y="173.1" width="88.0" height="156.9" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="627.0" y="166.1" text-anchor="middle">+2,1</text>
+<text class="c" x="627.0" y="356" text-anchor="middle">Q4</text>
+<text class="ax" x="627.0" y="374" text-anchor="middle">~497 tỷ</text>
+<rect x="725.0" y="148.1" width="88.0" height="181.9" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="769.0" y="141.1" text-anchor="middle">+2,5</text>
+<text class="c" x="769.0" y="356" text-anchor="middle">Lớn nhất</text>
+<text class="ax" x="769.0" y="374" text-anchor="middle">~2.395 tỷ</text>
+<text class="s" x="36" y="400">Bội số trung vị của từng nhóm. Nhóm vốn hóa lớn nhất nhân 2,48 lần, nhóm nhỏ nhất 1,36 lần.</text>
+<text class="s" x="36" y="420">Nguồn: API VNDirect, giá đã điều chỉnh chia tách và cổ tức.</text>
+</svg>

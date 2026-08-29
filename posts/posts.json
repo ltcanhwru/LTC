@@ -1,5 +1,75 @@
 [
   {
+    "slug": "chi-so-cao-nhat-lich-su-dinh-gia-thap-nhat-tam-nam",
+    "title": "Chỉ số cao nhất lịch sử, định giá thấp nhất tám năm",
+    "date": "2026-08-29",
+    "excerpt": "VN-Index đóng cửa ở 1.831,56 điểm, cao nhất từ trước tới nay. Cùng ngày, P/E trung vị của cổ phiếu vốn hóa từ 500 tỷ là 11,1 lần — thấp nhất trong tám năm dữ liệu — và 198 trên 602 mã giao dịch dưới giá trị sổ sách.",
+    "tags": ["Kiến thức", "Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/dinh-gia-thi-truong.svg",
+    "video": "",
+    "file": "chi-so-cao-nhat-lich-su-dinh-gia-thap-nhat-tam-nam.md"
+  },
+  {
+    "slug": "muoi-nam-843-co-phieu-25-ma-nhan-muoi",
+    "title": "Mười năm, 843 cổ phiếu: 25 mã nhân mười và 237 mã mất tiền",
+    "date": "2026-08-29",
+    "excerpt": "Cổ phiếu trung vị của sàn Việt Nam nhân 1,85 lần trong mười năm, tức khoảng 6,3% mỗi năm. Chỉ 3% số mã nhân được từ mười lần trở lên, và trái với lời khuyên của Peter Lynch, chúng tập trung ở nhóm vốn hóa lớn chứ không phải nhóm nhỏ.",
+    "tags": ["Kiến thức", "Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/muoi-nam-boi-so.svg",
+    "video": "",
+    "file": "muoi-nam-843-co-phieu-25-ma-nhan-muoi.md"
+  },
+  {
+    "slug": "30-doanh-nghiep-tang-doanh-thu-sau-nam-lien",
+    "title": "30 doanh nghiệp tăng doanh thu sáu năm liền",
+    "date": "2026-08-29",
+    "excerpt": "Câu hỏi đầu tiên trong danh sách mười lăm điểm của Philip Fisher là về doanh thu, không phải lợi nhuận. Đếm trên 477 doanh nghiệp lớn của sàn Việt: chỉ 30 mã tăng doanh thu cả sáu năm, và chúng tăng giá 52,7% trong khi nhóm đi lùi mất hơn một nửa.",
+    "tags": ["Kiến thức", "Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/fisher-doanh-thu.svg",
+    "video": "",
+    "file": "30-doanh-nghiep-tang-doanh-thu-sau-nam-lien.md"
+  },
+  {
+    "slug": "nghich-ly-beta-co-phieu-it-bien-dong-thang",
+    "title": "Nghịch lý beta: cổ phiếu ít biến động thắng",
+    "date": "2026-08-29",
+    "excerpt": "Lý thuyết nói rủi ro cao đi kèm lợi nhuận cao. Trên sàn Việt Nam, nhóm beta cao nhất thua nhóm beta thấp nhất 24,6 điểm phần trăm ở kỳ ba năm và 26,6 điểm ở kỳ một năm. Nhưng một phần của nhóm beta thấp là cổ phiếu không ai giao dịch.",
+    "tags": ["Kiến thức", "Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/beta-thap-thang.svg",
+    "video": "",
+    "file": "nghich-ly-beta-co-phieu-it-bien-dong-thang.md"
+  },
+  {
+    "slug": "pha-loang-von-gop-gap-ba-gia-con-hai-phan-ba",
+    "title": "Pha loãng: vốn góp gấp ba, giá còn hai phần ba",
+    "date": "2026-08-29",
+    "excerpt": "30 doanh nghiệp nhân vốn góp hơn ba lần trong năm năm có mức tăng giá trung vị −32,7%, và chỉ 10 mã trong đó tăng giá. Con số này đã cộng lại toàn bộ cổ phiếu thưởng cổ đông nhận được, nên nó là phần mất thật.",
+    "tags": ["Kiến thức", "Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/pha-loang-von-gop.svg",
+    "video": "",
+    "file": "pha-loang-von-gop-gap-ba-gia-con-hai-phan-ba.md"
+  },
+  {
+    "slug": "mua-gan-day-52-tuan-va-mua-gan-dinh",
+    "title": "Mua gần đáy 52 tuần và mua gần đỉnh",
+    "date": "2026-08-29",
+    "excerpt": "Xếp 559 cổ phiếu theo khoảng cách từ giá tới đáy 52 tuần: nhóm đứng gần đỉnh một năm mất 13,2% sau ba năm, nhóm vừa rời đáy khoảng ba mươi phần trăm tăng 21,9%. Nhóm sát đáy nhất không phải nhóm tốt nhất.",
+    "tags": ["Kiến thức", "Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/day-52-tuan.svg",
+    "video": "",
+    "file": "mua-gan-day-52-tuan-va-mua-gan-dinh.md"
+  },
+  {
+    "slug": "cong-thuc-ky-dieu-cua-greenblatt-tren-san-viet",
+    "title": "Công thức kỳ diệu của Greenblatt trên sàn Việt",
+    "date": "2026-08-29",
+    "excerpt": "Xếp hạng kép lợi suất lợi nhuận và ROIC trên 461 cổ phiếu: 30 mã đầu bảng tăng 10,8% trong ba năm, 30 mã cuối bảng mất 16,0%. Nhưng từng vế xếp riêng lại cho kết quả tốt hơn phép cộng của cả hai.",
+    "tags": ["Kiến thức", "Cổ phiếu", "Phân tích"],
+    "cover": "posts/assets/greenblatt-top30.svg",
+    "video": "",
+    "file": "cong-thuc-ky-dieu-cua-greenblatt-tren-san-viet.md"
+  },
+  {
     "slug": "ba-san-mot-thi-truong-upcom-thang-nhung-khong-mua-duoc",
     "title": "Ba sàn một thị trường: UPCoM thắng, và không mua được",
     "date": "2026-08-29",

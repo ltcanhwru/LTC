@@ -1,0 +1,34 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 438" width="880" height="438" role="img" aria-label="Mua gan day 52 tuan so voi mua gan dinh">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}</style>
+<rect x="0.5" y="0.5" width="879" height="437" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Càng xa đáy 52 tuần, kết quả càng kém</text>
+<text class="s" x="36" y="62">559 cổ phiếu vốn hóa từ 500 tỷ, xếp theo khoảng cách từ giá tới đáy 52 tuần tại 25/08/2023.</text>
+<line class="gl" x1="120" y1="330.0" x2="836" y2="330.0"/><text class="ax" x="110" y="334.0" text-anchor="end">-20%</text>
+<line class="gl" x1="120" y1="286.0" x2="836" y2="286.0"/><text class="ax" x="110" y="290.0" text-anchor="end">-10%</text>
+<line class="bl" x1="120" y1="242.0" x2="836" y2="242.0"/><text class="ax" x="110" y="246.0" text-anchor="end">0</text>
+<line class="gl" x1="120" y1="198.0" x2="836" y2="198.0"/><text class="ax" x="110" y="202.0" text-anchor="end">+10%</text>
+<line class="gl" x1="120" y1="154.0" x2="836" y2="154.0"/><text class="ax" x="110" y="158.0" text-anchor="end">+20%</text>
+<line class="gl" x1="120" y1="110.0" x2="836" y2="110.0"/><text class="ax" x="110" y="114.0" text-anchor="end">+30%</text>
+<rect x="157.0" y="212.1" width="88.0" height="29.9" rx="2" fill="var(--cv-a2,#9ecbaa)"/>
+<text class="v" x="201.0" y="205.1" text-anchor="middle">+6,8%</text>
+<text class="c" x="201.0" y="356" text-anchor="middle">Q1 — sát đáy</text>
+<text class="ax" x="201.0" y="374" text-anchor="middle">+10% so với đáy</text>
+<rect x="299.0" y="145.6" width="88.0" height="96.4" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="343.0" y="138.6" text-anchor="middle">+21,9%</text>
+<text class="c" x="343.0" y="356" text-anchor="middle">Q2</text>
+<text class="ax" x="343.0" y="374" text-anchor="middle">+31%</text>
+<rect x="441.0" y="192.7" width="88.0" height="49.3" rx="2" fill="var(--cv-a2,#9ecbaa)"/>
+<text class="v" x="485.0" y="185.7" text-anchor="middle">+11,2%</text>
+<text class="c" x="485.0" y="356" text-anchor="middle">Q3</text>
+<text class="ax" x="485.0" y="374" text-anchor="middle">+53%</text>
+<rect x="583.0" y="242.0" width="88.0" height="33.9" rx="2" fill="var(--cv-n1,#a9bfb0)"/>
+<text class="v" x="627.0" y="290.9" text-anchor="middle">-7,7%</text>
+<text class="c" x="627.0" y="356" text-anchor="middle">Q4</text>
+<text class="ax" x="627.0" y="374" text-anchor="middle">+82%</text>
+<rect x="725.0" y="242.0" width="88.0" height="58.1" rx="2" fill="var(--cv-neg,#c0562f)"/>
+<text class="v" x="769.0" y="315.1" text-anchor="middle">-13,2%</text>
+<text class="c" x="769.0" y="356" text-anchor="middle">Q5 — xa đáy nhất</text>
+<text class="ax" x="769.0" y="374" text-anchor="middle">+145%</text>
+<text class="s" x="36" y="400">Mức tăng giá trung vị ba năm sau đó. Nhóm Q5 là những mã đang đứng gần đỉnh một năm.</text>
+<text class="s" x="36" y="420">Nguồn: API VNDirect.</text>
+</svg>
