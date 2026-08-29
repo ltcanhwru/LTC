@@ -1,0 +1,43 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 460" width="880" height="460" role="img" aria-label="Chi so doanh thu va loi nhuan sau thue co dong me cua GEG, lay nam 2018 lam 100">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}.cvi .ln{stroke:var(--cv-mu,#4b6551);stroke-width:1.4;fill:none}.cvi .dl{stroke:var(--cv-n1,#a9bfb0);stroke-width:2}</style>
+<rect x="0.5" y="0.5" width="879" height="459" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/><text class="t" x="36" y="40">Doanh thu nhân 4,7 lần, lợi nhuận cổ đông mẹ nhân 2,8 lần</text>
+<text class="s" x="36" y="62">Chỉ số doanh thu thuần và lợi nhuận sau thuế cổ đông mẹ của GEG, lấy năm 2018 làm 100.</text>
+<rect x="36" y="80" width="12" height="12" rx="2" fill="var(--cv-a1,#2e7d43)"/><text class="c" x="54" y="91">Doanh thu thuần</text>
+<rect x="186" y="80" width="12" height="12" rx="2" fill="var(--cv-wa,#bf860f)"/><text class="c" x="204" y="91">Lợi nhuận cổ đông mẹ</text>
+<line class="bl" x1="104" y1="340" x2="844" y2="340"/><text class="ax" x="94" y="344" text-anchor="end">0</text>
+<line class="gl" x1="104" y1="299.6" x2="844" y2="299.6"/><text class="ax" x="94" y="303.6" text-anchor="end">100</text>
+<line class="gl" x1="104" y1="259.3" x2="844" y2="259.3"/><text class="ax" x="94" y="263.3" text-anchor="end">200</text>
+<line class="gl" x1="104" y1="218.9" x2="844" y2="218.9"/><text class="ax" x="94" y="222.9" text-anchor="end">300</text>
+<line class="gl" x1="104" y1="178.5" x2="844" y2="178.5"/><text class="ax" x="94" y="182.5" text-anchor="end">400</text>
+<line class="gl" x1="104" y1="138.2" x2="844" y2="138.2"/><text class="ax" x="94" y="142.2" text-anchor="end">500</text>
+<line class="gl" x1="104" y1="299.6" x2="844" y2="299.6" stroke="var(--cv-n1,#a9bfb0)" stroke-dasharray="4 4"/>
+<polyline points="150.8,299.6 232.3,256.4 313.9,232.2 395.4,240.3 477,189 558.6,184.2 640.1,172.5 721.7,123.7 803.2,151.9" fill="none" stroke="var(--cv-a1,#2e7d43)" stroke-width="2.5"/>
+<polyline points="150.8,299.6 232.3,269.4 313.9,268.2 395.4,261.3 477,252 558.6,302.1 640.1,308.1 721.7,142.6 803.2,229" fill="none" stroke="var(--cv-wa,#bf860f)" stroke-width="2.5"/>
+<circle cx="150.8" cy="299.6" r="3.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="150.8" cy="299.6" r="3.5" fill="var(--cv-wa,#bf860f)"/>
+<text class="c" x="150.8" y="364" text-anchor="middle">2018</text>
+<circle cx="232.3" cy="256.4" r="3.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="232.3" cy="269.4" r="3.5" fill="var(--cv-wa,#bf860f)"/>
+<text class="c" x="232.3" y="364" text-anchor="middle">2019</text>
+<circle cx="313.9" cy="232.2" r="3.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="313.9" cy="268.2" r="3.5" fill="var(--cv-wa,#bf860f)"/>
+<text class="c" x="313.9" y="364" text-anchor="middle">2020</text>
+<circle cx="395.4" cy="240.3" r="3.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="395.4" cy="261.3" r="3.5" fill="var(--cv-wa,#bf860f)"/>
+<text class="c" x="395.4" y="364" text-anchor="middle">2021</text>
+<circle cx="477" cy="189" r="3.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="477" cy="252" r="3.5" fill="var(--cv-wa,#bf860f)"/>
+<text class="c" x="477" y="364" text-anchor="middle">2022</text>
+<circle cx="558.6" cy="184.2" r="3.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="558.6" cy="302.1" r="5" fill="var(--cv-neg,#c0562f)"/>
+<text class="c" x="558.6" y="364" text-anchor="middle">2023</text>
+<circle cx="640.1" cy="172.5" r="3.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="640.1" cy="308.1" r="5" fill="var(--cv-neg,#c0562f)"/>
+<text class="c" x="640.1" y="364" text-anchor="middle">2024</text>
+<circle cx="721.7" cy="123.7" r="3.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="721.7" cy="142.6" r="3.5" fill="var(--cv-wa,#bf860f)"/>
+<text class="c" x="721.7" y="364" text-anchor="middle">2025</text>
+<circle cx="803.2" cy="151.9" r="3.5" fill="var(--cv-a1,#2e7d43)"/><circle cx="803.2" cy="229" r="3.5" fill="var(--cv-wa,#bf860f)"/>
+<text class="c" x="803.2" y="364" text-anchor="middle">4 quý gần nhất</text>
+<text class="v" x="150.8" y="289.6" text-anchor="middle" fill="var(--cv-a1,#2e7d43)">100</text>
+<text class="v" x="640.1" y="162.5" text-anchor="middle" fill="var(--cv-a1,#2e7d43)">415</text>
+<text class="v" x="803.2" y="141.9" text-anchor="middle" fill="var(--cv-a1,#2e7d43)">466</text>
+<text class="v" x="150.8" y="317.6" text-anchor="middle" fill="var(--cv-wa,#bf860f)">100</text>
+<text class="v" x="640.1" y="327.1" text-anchor="middle" fill="var(--cv-neg,#c0562f)">79</text>
+<text class="v" x="721.7" y="129.6" text-anchor="middle" fill="var(--cv-wa,#bf860f)">489</text>
+<text class="v" x="803.2" y="248" text-anchor="middle" fill="var(--cv-wa,#bf860f)">275</text>
+<text class="s" x="36" y="400">Hai năm 2023 và 2024, lợi nhuận về cổ đông mẹ thấp hơn cả năm 2018 — thời điểm GEG mới có 560 tỷ đồng doanh thu và</text>
+<text class="s" x="36" y="419">gần như chưa vay nợ. Đỉnh 2025 đến từ doanh thu hồi tố của Tân Phú Đông 1 và khoản thoái vốn thủy điện Trường Phú.</text>
+</svg>
