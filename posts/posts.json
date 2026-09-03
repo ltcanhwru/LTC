@@ -1,5 +1,65 @@
 [
   {
+    "slug": "john-templeton-nguoi-di-san-o-noi-khong-ai-mua",
+    "title": "Bài 6 — John Templeton: người đi săn cổ phiếu ở nơi không ai muốn mua",
+    "date": "2026-08-29",
+    "excerpt": "Năm 1939 ông vay tiền mua 100 cổ phiếu của mỗi công ty giá dưới một đô la — 104 mã, 34 mã phá sản, bốn năm sau gấp bốn lần vốn. Nhưng Templeton không săn giá giảm. Ông săn khoảng cách giữa giá và giá trị, và đó là hai thứ hoàn toàn khác nhau.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "john-templeton-nguoi-di-san-o-noi-khong-ai-mua.md"
+  },
+  {
+    "slug": "peter-lynch-quan-ca-phe-va-co-hoi-dau-tu",
+    "title": "Bài 5 — Peter Lynch: khi quán cà phê bạn uống mỗi sáng có thể là một cơ hội đầu tư",
+    "date": "2026-08-29",
+    "excerpt": "Magellan đi từ 18 triệu lên 14 tỷ đô la với 29% một năm. Nhưng \"đầu tư vào thứ mình biết\" không có nghĩa là mua thứ mình thích: quan sát chỉ tạo ra ý tưởng, phân tích mới tạo ra quyết định.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "peter-lynch-quan-ca-phe-va-co-hoi-dau-tu.md"
+  },
+  {
+    "slug": "charlie-munger-it-ngu-ngoc-hon",
+    "title": "Bài 4 — Charlie Munger: kiếm tiền bằng việc ít ngu ngốc hơn",
+    "date": "2026-08-29",
+    "excerpt": "Wheeler, Munger & Co. đạt 19,8% một năm trong mười bốn năm. Nhưng câu hỏi Munger đặt ra không phải \"mua gì\", mà \"tại sao phải làm những việc ngu ngốc\" — và danh sách những thứ chắc chắn hỏng thì ngắn hơn nhiều.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "charlie-munger-it-ngu-ngoc-hon.md"
+  },
+  {
+    "slug": "warren-buffett-tu-mau-xi-ga-den-berkshire",
+    "title": "Bài 3 — Warren Buffett: từ một \"mẩu xì gà\" đến đế chế Berkshire Hathaway",
+    "date": "2026-08-29",
+    "excerpt": "See's Candies được mua với 25 triệu đô la khi chỉ có 8 triệu tài sản hữu hình. Mười chín năm sau, nó tạo ra 42,4 triệu lợi nhuận trước thuế mỗi năm mà gần như không cần thêm vốn. Đó là thương vụ đổi cả triết lý của Buffett.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "warren-buffett-tu-mau-xi-ga-den-berkshire.md"
+  },
+  {
+    "slug": "philip-fisher-doanh-nghiep-muoi-nam-toi",
+    "title": "Bài 2 — Philip Fisher: người nhìn thấy \"doanh nghiệp 10 năm tới\"",
+    "date": "2026-08-29",
+    "excerpt": "Graham dạy mua một đồng tài sản với giá thấp hơn một đồng. Fisher đi xa hơn: ông muốn biết đồng tài sản ấy sẽ biến thành bao nhiêu đồng trong tương lai — và ông đi hỏi khách hàng, đối thủ, nhà cung cấp để trả lời câu đó.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "philip-fisher-doanh-nghiep-muoi-nam-toi.md"
+  },
+  {
+    "slug": "benjamin-graham-nguoi-di-tim-nhung-dong-tien-bi-bo-quen",
+    "title": "Bài 1 — Benjamin Graham: người đi tìm những đồng tiền bị thị trường bỏ quên",
+    "date": "2026-08-29",
+    "excerpt": "Năm 1948, Graham-Newman bỏ 712.500 đô la mua 50% GEICO. Nhưng di sản lớn nhất của Graham không phải một công thức P/E hay P/B — đó là ba câu hỏi phải trả lời trước khi mua bất cứ thứ gì: tôi đang mua cái gì, nó đáng bao nhiêu, và tôi trả thấp hơn bao nhiêu.",
+    "tags": ["Kiến thức"],
+    "cover": "posts/assets/graham-chiet-khau-tai-san.svg",
+    "video": "",
+    "file": "benjamin-graham-nguoi-di-tim-nhung-dong-tien-bi-bo-quen.md"
+  },
+  {
     "slug": "ncs-390-co-phieu-moi-phien",
     "title": "NCS: 390 cổ phiếu mỗi phiên, cổ tức 9,4%",
     "date": "2026-08-29",
