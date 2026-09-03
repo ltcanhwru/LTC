@@ -132,7 +132,7 @@ Bảng ở mục 2 cho thấy mấy công ty đã dùng gần hết dư địa: 
 
 Thị trường định giá đúng theo sự phân hóa đó. Nhóm gắn ngân hàng giao dịch ở P/B 2,06 – 2,47; SSI 1,69; còn 15 trong 41 công ty đang có P/B dưới 1.
 
-## 7. Chỗ tôi có thể sai
+## 7. Một số lưu ý
 
 - **Dư nợ cho vay tôi lấy từ khoản mục "các khoản cho vay" trên bảng cân đối**, gồm cả cho vay ký quỹ lẫn ứng trước tiền bán chứng khoán. Hai nghiệp vụ này có rủi ro và biên lãi khác nhau, và báo cáo quý không tách chúng ra. Con số 333.607 tỷ vì vậy lớn hơn dư nợ margin thuần túy.
 - **Trần dư nợ ký quỹ bằng 2 lần vốn chủ sở hữu là quy định tôi viết theo hiểu biết chung, không tra lại văn bản trước khi viết.** Cách tính trần trong quy định áp cho từng công ty và có thể dùng vốn chủ sở hữu tại một mốc khác với ngày 30/6, nên các tỷ lệ ở cuối mục 5 chỉ nên đọc là mức độ đã dùng dư địa, không phải khoảng cách chính xác tới trần.

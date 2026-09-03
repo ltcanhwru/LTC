@@ -83,7 +83,7 @@ Năm trong mười hai mã lớn nhất sàn gần như không có giao dịch. 
 
 Đó cũng là giới hạn của chính bài này: mức tăng trung vị +5,9% của UPCoM sau năm năm được tính trên những mức giá mà phần lớn nhà đầu tư không thể mua vào hay bán ra ở đó.
 
-## 6. Chỗ tôi có thể sai
+## 6. Một số lưu ý
 
 - **Phân loại theo sàn hiện tại, không theo sàn tại ngày lập.** Đây là sai lệch lớn nhất của bài. Như mục 4 đã nói, hướng của nó làm UPCoM trông **tệ hơn** thực tế, nên kết luận ở mục 3 không bị nó phá — nhưng độ lớn của chênh lệch giữa ba sàn thì không tin được.
 - **Bộ dữ liệu chỉ gồm cổ phiếu còn giao dịch hôm nay.** Doanh nghiệp bị hủy đăng ký giao dịch trên UPCoM không có mặt, và UPCoM là nơi chuyện đó xảy ra thường xuyên nhất. Sai lệch này đi ngược chiều sai lệch trên: nó làm UPCoM trông **đẹp hơn**. Tôi không đo được cái nào lớn hơn cái nào.

@@ -57,7 +57,7 @@ Bogle không nói rằng không ai có thể thắng thị trường. Ông thừ
 
 Ông cũng cảnh báo về một thứ mà chính phong trào chỉ số tạo ra: quỹ ETF giao dịch được trong ngày. Với ông, quỹ chỉ số là công cụ để **mua và giữ**, và việc biến nó thành thứ mua bán liên tục là quay lại đúng vấn đề ban đầu — chi phí giao dịch và hành vi bốc đồng ăn mất phần lợi nhuận mà cấu trúc chi phí thấp vừa cứu được.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Bảng tính phí là phép tính số học thuần túy**, không phải kết quả thực tế của quỹ nào. Nó giả định lợi suất gộp đều 8% mỗi năm — điều không xảy ra trong thực tế — và bỏ qua thuế cùng chi phí giao dịch trong quỹ.
 - **Mức phí 2,5% là ví dụ ở đầu cao.** Phí quỹ chủ động trung bình thấp hơn con số đó, nên chênh lệch thực tế nhỏ hơn ví dụ trong bảng.

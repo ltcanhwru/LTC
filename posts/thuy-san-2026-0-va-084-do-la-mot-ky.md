@@ -210,7 +210,7 @@ Phần thị phần mất đi tại Mỹ đang chảy sang một địa chỉ c�
 
 **Chuyển hướng thị trường làm mỏng biên.** Kim ngạch tăng hai con số nhưng phần tăng đến từ thị trường giá thấp hơn. Doanh thu tăng mà lợi nhuận không tăng tương ứng là mẫu hình đã xuất hiện ở ANV, và ở mức nhẹ hơn tại CMX trong quý II/2026.
 
-## 11. Chỗ tôi có thể sai
+## 11. Một số lưu ý
 
 - Nguồn dữ liệu tôi dùng chia sai kết quả theo quý của **MPC**: quý I/2026 hiện 5.706 tỷ doanh thu và quý II hiện 1.849 tỷ, trong khi công bố chính thức là quý II đạt 3.952 tỷ. Tổng sáu tháng thì khớp tuyệt đối ở 7.555 tỷ. Vì vậy mọi so sánh của MPC trong bài dùng số lũy kế sáu tháng, không dùng số từng quý. Nếu có sai lệch tương tự ở mã khác mà tôi chưa phát hiện, các bảng H1 sẽ bị ảnh hưởng.
 - Mức thuế của từng doanh nghiệp tôi lấy từ tổng hợp của báo chí trong nước về thông báo của DOC, **không đọc bản gốc trên Federal Register**. Ước tính "tổng gánh nặng khoảng 55%" với ANV là của một bên phân tích và phụ thuộc vào giá bán bình quân mỗi ký — giá xuất khác nhau thì tỷ lệ quy đổi khác nhau đáng kể.

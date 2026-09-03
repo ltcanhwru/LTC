@@ -126,7 +126,7 @@ Những từ này có thể khiến cổ phiếu tăng giá. Nhưng Munger sẽ 
 
 Đây là câu hỏi khó, bởi thị trường thường trả tiền cho câu chuyện tương lai. Munger muốn biết kinh tế học thực sự phía sau câu chuyện đó.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Lợi suất 19,8% của Wheeler, Munger & Co. và mức 5,0% của Dow Jones** lấy từ tài liệu thứ cấp tổng hợp lại số liệu quỹ; con số trước phí và sau phí có thể khác nhau đáng kể.
 - **Các con số về See's Candies** dẫn lại từ các thư gửi cổ đông của Buffett qua nguồn thứ cấp, không phải bản gốc.

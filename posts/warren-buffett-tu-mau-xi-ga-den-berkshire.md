@@ -122,7 +122,7 @@ Berkshire vẫn vận hành theo logic đó. Cuối năm 2025, tập đoàn nắ
 
 Từ một công ty dệt may thất bại, Berkshire trở thành một hệ sinh thái phân bổ vốn khổng lồ. Đó là thành quả cuối cùng của triết lý Buffett: không cần dự đoán mọi thứ, chỉ cần tìm những cỗ máy kinh tế tốt, mua với giá hợp lý, và để thời gian làm phần việc còn lại.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Các con số về See's Candies** — giá mua 25 triệu, tài sản hữu hình 8 triệu, lợi nhuận trước thuế 42,4 triệu năm 1991, lũy kế 410 triệu — dẫn lại từ các thư gửi cổ đông của Buffett qua tài liệu thứ cấp, không phải bản gốc.
 - **Vị thế GEICO năm 1990** (6,85 triệu cổ phiếu, giá vốn 45,7 triệu, thị giá 1,1 tỷ) lấy theo bảng danh mục trong báo cáo thường niên Berkshire năm đó, cũng qua nguồn thứ cấp.

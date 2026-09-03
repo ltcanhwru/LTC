@@ -54,7 +54,7 @@ Rút gọn phương pháp Marks thành thứ dùng được:
 
 **Nếu mình sai thì sao?** Câu này quyết định cỡ vị thế. Marks lập luận rằng phần lớn thiệt hại lớn không đến từ việc chọn sai, mà từ việc chọn sai với quy mô quá lớn ở đúng lúc thị trường không cho phép sai.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Các con số về năm 2008** — khoảng 600 triệu đô một tuần, tổng 6,5 tỷ đô cuối năm, quỹ nợ xấu gần 11 tỷ đô, lợi suất nội bộ ròng 31,5% tính tới cuối 2009 — lấy từ tài liệu thứ cấp dẫn lại công bố của Oaktree. Các nguồn khác nhau nêu 500 và 600 triệu một tuần.
 - **Kết quả một quỹ nợ xấu lập đúng đáy khủng hoảng không đại diện cho phương pháp.** Đó là một lần con lắc đi tới cực hiếm gặp; phần lớn thời gian, cùng cách làm ấy cho kết quả bình thường.

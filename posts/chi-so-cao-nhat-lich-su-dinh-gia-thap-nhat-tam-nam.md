@@ -51,7 +51,7 @@ P/E thấp có hai nguồn — giá giảm, hoặc lợi nhuận tăng. Từ 202
 
 Và như [bài về P/B](post.html?p=dau-tu-gia-tri-re-khong-phai-la-mot-chien-luoc) cho thấy, nhóm rẻ nhất theo P/B đứng bét ở cả ba lần thử. Rẻ không tự nó là lý do để mua. Một mặt bằng P/E thấp đi kèm 33% số mã dưới giá trị sổ sách cũng có thể là thị trường đang định giá đúng một tập hợp doanh nghiệp sinh lời kém đi.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Nguồn dữ liệu định giá chỉ có từ cuối 2017**, nên bảng này không nhìn được về trước 2018 — không bao gồm đỉnh 2007 hay đáy 2012, hai mốc cần thiết nếu muốn nói "thấp nhất lịch sử". Chữ đúng là "thấp nhất trong tám năm có số liệu".
 - **Vũ trụ mẫu thay đổi theo năm** — 373 mã năm 2018, 602 mã năm 2026 — vì ngưỡng 500 tỷ đồng là số danh nghĩa, không điều chỉnh lạm phát, và vì số doanh nghiệp niêm yết tăng lên. Điều đó tự nó kéo vũ trụ về phía các doanh nghiệp nhỏ hơn theo thời gian, mà nhóm nhỏ thì P/E thấp hơn.

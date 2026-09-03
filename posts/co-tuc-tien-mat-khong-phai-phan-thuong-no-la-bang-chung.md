@@ -131,7 +131,7 @@ Danh sách này không kết thúc công việc, nó chỉ nêu 16 hồ sơ đ�
 
 VEA nằm trong danh sách vì một lý do đặc biệt: gần như toàn bộ lợi nhuận của công ty này là cổ tức nhận từ các liên doanh Honda, Toyota và Ford, và công ty chuyển gần hết phần ấy sang cho cổ đông. Đó là trường hợp hiếm mà lợi suất cổ tức phản ánh đúng bản chất mô hình kinh doanh chứ không phải một quyết định phân phối.
 
-## 8. Chỗ tôi có thể sai
+## 8. Một số lưu ý
 
 - **Tỷ suất cổ tức là số liệu của nhà cung cấp dữ liệu**, tính trên cổ tức tiền mặt 12 tháng gần nhất chia cho giá. Doanh nghiệp trả gộp hai đợt của hai năm tài chính trong cùng 12 tháng sẽ có lợi suất vống lên, và doanh nghiệp trả chậm sang năm sau sẽ bị ghi nhận là không trả. ST8 ở mục 5 gần như chắc chắn thuộc trường hợp thứ nhất.
 - **Ba lát cắt, mỗi kỳ đúng một ngày lập danh mục.** Đổi ngày lập sang tháng 3 hay tháng 11 có thể ra kết quả khác. Bằng chứng cho chuyện đó nằm ngay trong bài: ô "ROE thấp, lợi suất trên 6%" cho +13,2% ở mốc 2021 và −34,8% ở mốc 2023.

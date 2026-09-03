@@ -156,7 +156,7 @@ Một điểm cần giữ trong đầu khi đọc bảng ở mục 2: **đúng l
 
 **Giá đã chạy.** Trong 12 tháng: VGR +77,2%, VSC +55,1%, MVN +48,7%, PHP +39,0%. Phần định giá lại của chu kỳ này đã diễn ra phần lớn trước khi báo cáo quý II/2026 được công bố.
 
-## 10. Chỗ tôi có thể sai
+## 10. Một số lưu ý
 
 - Phần tách lợi nhuận PHP thành "tiền cho thuê hạ tầng" và "cảng lõi" là **ước tính của tôi từ số liệu tổng hợp**, không phải số công bố. PHP không có thuyết minh theo bộ phận cho phần này. Tôi suy ra từ ràng buộc biên gộp và diễn biến khoản mục Bất động sản đầu tư trên bảng cân đối. Nếu tiền thuê thực tế thấp hơn ước tính, tỷ trọng đóng góp của Lạch Huyện nhỏ hơn con số tôi mô tả.
 - Số liệu quý của PHP, CDN, TCL tôi lấy từ báo cáo tài chính hợp nhất chưa kiểm toán. Với PHP, một số bản tin báo chí đưa lợi nhuận trước thuế nửa đầu 2026 khác với con số tôi cộng từ báo cáo quý; tôi dùng số trên báo cáo tài chính và không dung hòa hai nguồn.

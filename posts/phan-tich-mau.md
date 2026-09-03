@@ -26,7 +26,7 @@ Con số `+30%` nhìn thì ấn tượng, nhưng trước khi kết luận, luô
 
 > Một phân tích tốt không phải là phân tích luôn đúng, mà là phân tích viết đủ rõ để người khác chỉ ra được chỗ sai.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 Đây là phần hay bị bỏ qua nhất, và cũng là phần khiến bài viết đáng tin nhất:
 

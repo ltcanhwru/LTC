@@ -64,7 +64,7 @@ Scuttlebutt đòi hỏi thứ mà phần lớn nhà đầu tư cá nhân không 
 
 Nhưng phần cốt lõi thì chuyển giao được, và nó không cần quan hệ: **hỏi khách hàng của doanh nghiệp**. Ai cũng làm được điều đó — với một chuỗi bán lẻ, một hãng thực phẩm, một nhà mạng, một ngân hàng. Câu hỏi "vì sao anh chọn cái này thay vì cái kia" và "nếu nó tăng giá 10% anh có đổi sang chỗ khác không" trả lời gần hết vấn đề về lợi thế cạnh tranh, và không đòi hỏi gì ngoài việc chịu đi hỏi.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Tôi viết mười lăm điểm theo trí nhớ về nội dung cuốn sách**, gom lại thành bốn nhóm chứ không liệt kê nguyên văn từng điểm. Thứ tự và cách diễn đạt của Fisher có thể khác.
 - **Các mốc về Motorola (mua năm 1955, giữ tới khi mất năm 2004) và Texas Instruments (mua năm 1956, trước khi niêm yết)** lấy từ tài liệu thứ cấp, không phải từ hồ sơ giao dịch.

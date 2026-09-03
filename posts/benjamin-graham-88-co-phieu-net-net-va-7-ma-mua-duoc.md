@@ -115,7 +115,7 @@ Người phát minh ra công thức mua rẻ theo tài sản kiếm phần lớn
 
 Cuối đời, trong một bài phỏng vấn năm 1976, ông nói rằng không còn ủng hộ việc phân tích chứng khoán chi tiết công phu như hồi viết *Security Analysis* bốn mươi năm trước: chi phí bỏ ra không còn tương xứng với phần giá trị tìm được, và ông nghiêng về vài quy tắc sàng lọc đơn giản áp cho một rổ cổ phiếu.
 
-## 9. Chỗ tôi có thể sai
+## 9. Một số lưu ý
 
 - **NCAV tôi tính bằng tài sản ngắn hạn trừ toàn bộ nợ phải trả, không trừ lợi ích cổ đông không kiểm soát.** Với doanh nghiệp có nhiều công ty con không sở hữu trọn, con số này rộng rãi hơn thực tế mà cổ đông công ty mẹ được hưởng.
 - **Mức chiết khấu 80% cho phải thu và 50% cho tồn kho là mức Graham nêu cho doanh nghiệp sản xuất Mỹ thập niên 1930**, tôi áp thẳng cho mọi ngành ở Việt Nam. Với một công ty phân phối hàng luân chuyển nhanh, mức đó quá nặng; với một dự án bất động sản dở dang, có thể vẫn còn quá nhẹ.

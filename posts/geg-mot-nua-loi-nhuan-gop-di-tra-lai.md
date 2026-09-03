@@ -262,7 +262,7 @@ Giá cổ phiếu đang thấp hơn 55% so với đỉnh 28.400 đồng ngày 09
 
 Tỷ số EV/EBITDA 6,7 lần trông không đắt. Nhưng EBITDA là chỉ tiêu trước lãi vay, và với một doanh nghiệp mà lãi vay chiếm một nửa lợi nhuận gộp thì đó chính là chỉ tiêu bỏ qua vấn đề trung tâm. Con số nói đúng hơn là nợ ròng bằng 4,0 lần EBITDA: ngay cả khi dùng toàn bộ EBITDA để trả nợ và không đầu tư gì thêm, GEG cần bốn năm để sạch nợ.
 
-## 13. Chỗ tôi có thể sai
+## 13. Một số lưu ý
 
 - Số liệu sản lượng và doanh thu theo từng loại hình năm 2024 lấy từ báo cáo ACBS, ghi doanh thu 2.369 tỷ trong khi báo cáo tài chính hợp nhất ghi 2.325 tỷ. Chênh 44 tỷ nhiều khả năng là thu nhập khác hoặc doanh thu ngoài bán điện. Giá bán bình quân từng mảng vì thế có sai số khoảng 2%.
 - Con số 397 tỷ đồng hồi tố là của doanh nghiệp công bố. Phép trừ của tôi trên báo cáo quý cho ra 339–345 tỷ. Chênh lệch có thể do một phần hồi tố được ghi nhận rải sang quý khác hoặc vào khoản mục khác. Tôi dùng cả hai con số ở hai chỗ khác nhau trong bài và không dung hòa được chúng.

@@ -57,7 +57,7 @@ Sau khi rời Magellan, Lynch nói nhiều lần rằng phần lớn nhà đầu
 
 Đó là lời phê bình sắc nhất mà một người quản lý quỹ có thể nói về chính sản phẩm của mình: hiệu quả của quỹ và hiệu quả của người mua quỹ là hai con số khác nhau.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Con số 29,2% một năm và quy mô 20 triệu lên 14 tỷ** lấy từ tài liệu thứ cấp dẫn lại số liệu Fidelity, tôi không đọc báo cáo gốc của quỹ.
 - **Bối cảnh 1977–1990 rất đặc thù.** Đó là giai đoạn lãi suất Mỹ từ đỉnh đi xuống và thị trường bước vào chu kỳ tăng dài. Một phần kết quả của Magellan là kết quả của thời kỳ, không phải của phương pháp.

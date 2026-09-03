@@ -57,7 +57,7 @@ Ba cách giải thích, không loại trừ nhau.
 
 Cả hai kỳ đo vừa rồi đều có phần thị trường đi xuống — chính là hoàn cảnh mà beta thấp đương nhiên có lợi. Một giai đoạn thị trường tăng liên tục nhiều năm rất có thể sẽ cho bảng ngược lại, và điều đó không mâu thuẫn với kết quả trên.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Beta bằng 0 phần lớn là dấu hiệu thiếu thanh khoản chứ không phải an toàn**, và tôi đã lượng hóa được điều đó ở mục trên: lọc thanh khoản đi thì bốn nhóm đầu bằng nhau. Bảng đầu bài nên được đọc kèm bảng thứ hai, không thay thế nó.
 - **Beta lấy theo tính toán của VNDirect**, tôi không tự dựng lại từ chuỗi giá nên không biết cửa sổ thời gian và tần suất họ dùng.

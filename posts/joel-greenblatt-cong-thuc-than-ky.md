@@ -160,7 +160,7 @@ Và nếu ghép cả bảy người đã đi qua trong loạt bài này, cái ra
 | [Marks](post.html?p=howard-marks-nha-dau-tu-theo-chu-ky) | Tôi đang ở đâu trong chu kỳ, rủi ro nằm ở đâu? |
 | Greenblatt | Chất lượng cao mà giá vẫn hấp dẫn — có cùng lúc không? |
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Con số về Gotham Capital** — khoảng 40% một năm trong hai mươi năm — lấy từ tiểu sử do nhà xuất bản sách của Greenblatt công bố. Một số nguồn khác nêu mức 50% một năm giai đoạn 1985–1994 tính trước phí. Không có báo cáo kiểm toán công khai nào để đối chiếu.
 - **Con số 30,8% giai đoạn 1988–2004 là kết quả kiểm định trên dữ liệu quá khứ do chính tác giả thực hiện**, và các bài kiểm định độc lập sau này cho kết quả thấp hơn nhiều.

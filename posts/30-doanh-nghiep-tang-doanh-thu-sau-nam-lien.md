@@ -72,7 +72,7 @@ Khoảng cách giữa 30 và 9 chính là chỗ Fisher đặt mười bốn câu
 
 Điều bảng số nói là: thị trường trả giá cho tính liên tục, và trừng phạt rất nặng những doanh nghiệp có doanh thu đi lùi nhiều năm — nhóm 1/6 mất hơn một nửa giá trị trong cả ba lẫn năm năm.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Đếm số năm tăng không phân biệt tăng 1% với tăng 40%.** VLW tăng doanh thu 3,7% một năm được xếp ngang HHP tăng 42,8%. Đây là bộ lọc về tính liên tục, không phải về tốc độ.
 - **Doanh thu hợp nhất bị ảnh hưởng bởi mua bán công ty con.** Doanh nghiệp mua thêm một công ty là doanh thu tăng, không phải vì bán được nhiều hàng hơn.

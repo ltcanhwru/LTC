@@ -172,7 +172,7 @@ Lý do nằm ở phần miễn trừ: quy định không áp cho hàng **sản x
 
 Mốc thực sự đáng đánh dấu do đó không phải 2026 mà là **2031**, và sức ép trung gian sẽ đến từ phía khách hàng nước ngoài chứ không phải từ cơ quan quản lý trong nước. Đây là loại rủi ro có lịch trình rõ ràng nhưng nằm ngoài khung thời gian mà phần lớn định giá hiện tại tính đến.
 
-## 9. Chỗ tôi có thể sai
+## 9. Một số lưu ý
 
 - Phép tính "tăng giá bán 25% không bù được nguyên liệu tăng 65%" giả định toàn bộ nguyên liệu mua theo giá giao ngay và tỷ trọng 74,6% giữ nguyên. Thực tế doanh nghiệp có hợp đồng dài hạn, có tồn kho phòng hộ, và có thể đàm phán giá bán thêm lần nữa. Con số 48,5% chi phí tăng thêm là biên trên, không phải dự báo.
 - Số ngày tồn kho tôi tính bằng tồn kho cuối kỳ chia giá vốn quý II, không phải giá vốn bình quân bốn quý. Cách tính này nhạy với tính mùa vụ; với Tiền Phong — doanh nghiệp có quý II luôn cao hơn quý I đáng kể — con số 119 ngày có thể đang bị ước thấp.

@@ -81,7 +81,7 @@ Nếu mười năm cho bội số trung vị 1,85 thì năm năm gần nhất �
 
 Điều đó nhắc rằng con số "6,3% một năm" ở đầu bài là số bình quân của hai giai đoạn rất khác nhau, chứ không phải một tốc độ đều đặn nào cả.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Bộ dữ liệu chỉ gồm cổ phiếu còn giao dịch hôm nay.** Doanh nghiệp hủy niêm yết, phá sản hoặc bị sáp nhập trong mười năm qua không có mặt, nên bức tranh thật xấu hơn bảng đầu bài. Tỷ lệ 28,1% mất tiền là chặn dưới, không phải con số thật.
 - **Giá điều chỉnh có thể phóng đại bội số** với những mã chia thưởng nhiều lần hoặc thanh khoản quá mỏng — một phiên khớp vài trăm cổ phiếu cũng tạo ra một mức giá được ghi nhận. Tôi loại các mã vốn hóa dưới 1.000 tỷ khỏi bảng danh sách vì lý do đó, dù chúng vẫn nằm trong thống kê.

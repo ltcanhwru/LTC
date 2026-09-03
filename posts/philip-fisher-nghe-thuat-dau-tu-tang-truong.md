@@ -106,7 +106,7 @@ Fisher không bán chỉ vì cổ phiếu đã tăng nhiều. Nếu doanh nghi�
 
 Câu cuối là câu kiểm tra đòn bẩy vận hành — thứ phân biệt một doanh nghiệp mở rộng có lời với một doanh nghiệp chỉ đang bận rộn hơn.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Tỷ lệ "85% Graham, 15% Fisher"** là câu Buffett nói trong một dịp cụ thể, được trích dẫn rộng rãi; nó mô tả cảm nhận của ông về ảnh hưởng chứ không phải một phép đo.
 - **Các mốc về Motorola (1955) và Texas Instruments (1956)** lấy từ tài liệu thứ cấp, không phải hồ sơ giao dịch.

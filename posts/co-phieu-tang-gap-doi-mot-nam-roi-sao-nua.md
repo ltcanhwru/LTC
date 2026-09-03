@@ -115,7 +115,7 @@ Không có tín hiệu nào. Bốn ô của mốc 2025 nằm gọn trong khoản
 
 Đây là kết quả rỗng, và nó đáng ghi lại đúng như vậy: **"cổ phiếu đã rẻ đi so với chính nó hai năm trước" không phải một lý do để mua**. Mức chiết khấu so với quá khứ của chính mình là một trong những lập luận hay được dùng nhất khi bàn về định giá, và ở đây nó không phân loại được gì.
 
-## 7. Chỗ tôi có thể sai
+## 7. Một số lưu ý
 
 - **Ba lát cắt, mỗi kỳ đúng một ngày lập danh mục.** Mốc 8/2021 rơi đúng đỉnh của một đợt tăng nóng kéo dài; mốc 8/2023 rơi giữa giai đoạn hồi phục sau cú sập. Chọn tháng khác sẽ ra bảng khác. Điểm duy nhất tôi thấy vững là dòng "tăng trên 100%", vì nó giống nhau ở cả ba mốc rất khác nhau.
 - **Mẫu của nhóm tăng trên 100% rất lệch giữa ba mốc**: 165 mã ở 2021, chỉ 11 mã ở 2023 và 34 mã ở 2025. Con số −16,6% của mốc 2023 dựa trên 11 quan sát, tức gần như không có ý nghĩa thống kê. Sức nặng của kết luận nằm ở mốc 2021 và 2025.

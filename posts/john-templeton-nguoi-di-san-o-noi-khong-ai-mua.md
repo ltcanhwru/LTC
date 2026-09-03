@@ -152,7 +152,7 @@ Chú ý dòng thị phần trong bảng: 15% xuống 14%. Đó là dòng quan tr
 
 Sau đó mới tính tỷ lệ giữa phần được và phần mất. Nếu rủi ro mất 20% mà khả năng kiếm 100%, cơ hội đáng nghiên cứu. Nếu rủi ro mất 50% mà phần được chỉ 20%, đừng để chữ "rẻ" đánh lừa.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Các con số về danh mục năm 1939** — 104 công ty, 34 phá sản, gấp bốn lần sau bốn năm — lấy từ tài liệu phổ thông và xuất hiện với vài phiên bản khác nhau. Nên đọc như câu chuyện có cơ sở, không phải số liệu kiểm toán.
 - **Mức 14,5% một năm trong 38 năm** là con số của một lớp chứng chỉ quỹ cụ thể, chưa trừ phí bán ban đầu mà loại quỹ này thời đó thường thu.

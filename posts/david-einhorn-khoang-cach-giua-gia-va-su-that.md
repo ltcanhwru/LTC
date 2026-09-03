@@ -116,7 +116,7 @@ Trả lời được mười câu này là đã đi rất xa khỏi kiểu đầ
 | [Marks](post.html?p=howard-marks-nha-dau-tu-theo-chu-ky) | Thị trường đang định giá rủi ro thế nào? |
 | Einhorn | Điều gì trong báo cáo tài chính đang khiến thị trường hiểu sai doanh nghiệp? |
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Các mốc về Allied Capital, Lehman Brothers và Green Mountain** dẫn lại từ tài liệu thứ cấp và tường thuật báo chí đương thời, không phải hồ sơ gốc. Con số 93% tài sản định giá theo giá trị hợp lý là con số được trích dẫn rộng rãi từ hồ sơ nộp cho cơ quan quản lý Mỹ, tôi không đọc bản gốc.
 - **Bài này không đánh giá ai đúng ai sai trong các tranh luận cụ thể.** Một số luận điểm bán khống của Einhorn bị phản biện công khai, và tôi nêu điều đó chứ không phân xử.

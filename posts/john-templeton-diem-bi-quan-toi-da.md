@@ -50,7 +50,7 @@ Từ năm 1968, Templeton chuyển tới sống ở Bahamas thay vì ở New Yor
 
 **Nó không nói khi nào bán.** Đây là chỗ yếu nhất trong di sản của Templeton: "mua ở bi quan tối đa" là quy tắc rõ ràng, còn "bán ở lạc quan tối đa" thì rất khó thao tác, vì lạc quan có thể kéo dài nhiều năm.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Các con số về danh mục 1939** — 104 công ty, 34 phá sản, gấp bốn lần sau bốn năm — lấy từ tài liệu phổ thông và xuất hiện với vài phiên bản khác nhau. Chúng nên được đọc như câu chuyện có cơ sở, không phải số liệu kiểm toán.
 - **Mức 14,5% một năm trong 38 năm** là con số của một lớp chứng chỉ quỹ cụ thể, chưa trừ phí bán ban đầu mà loại quỹ này thời đó thường thu. Lợi suất thực của một nhà đầu tư mua quỹ có thể thấp hơn.

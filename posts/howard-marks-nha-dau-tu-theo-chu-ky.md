@@ -133,7 +133,7 @@ Câu thứ năm và thứ sáu phải đi cùng nhau. Nếu mua ở 100.000 đ�
 
 Bốn cách tiếp cận không loại trừ nhau; chúng bổ sung cho nhau. Dùng Buffett để tìm doanh nghiệp tốt, Templeton để tìm giá hấp dẫn, Munger để hiểu chất lượng — và Marks để kiểm tra câu cuối: **nếu mọi thứ diễn biến xấu hơn dự kiến, mình có sống sót không?**
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Các con số về năm 2008** — quỹ nợ xấu gần 11 tỷ đô la, giải ngân khoảng 600 triệu đô mỗi tuần trong mười lăm tuần cuối năm, tổng khoảng 6,5 tỷ, lợi suất nội bộ ròng 31,5% tính tới cuối 2009 — lấy từ tài liệu thứ cấp dẫn lại công bố của Oaktree. Các nguồn khác nhau nêu mức giải ngân 500 và 600 triệu một tuần.
 - **Kết quả của một quỹ lập đúng đáy khủng hoảng không đại diện cho phương pháp.** Đó là một lần chu kỳ đi tới cực hiếm gặp; phần lớn thời gian, cùng cách làm ấy cho kết quả bình thường.

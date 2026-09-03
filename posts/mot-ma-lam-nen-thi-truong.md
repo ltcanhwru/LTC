@@ -108,7 +108,7 @@ Toàn thị trường:
 
 Đây là lý do mọi phép kiểm định trên toàn thị trường, kể cả các phép kiểm định trong bài này, đều lạc quan một cách có hệ thống. Chúng giả định mọi cổ phiếu đều mua được ở giá đóng cửa, và với hai phần ba số mã thì giả định đó sai. [Sàn UPCoM là nơi khoảng cách giữa con số và thứ mua được rộng nhất](post.html?p=ba-san-mot-thi-truong-upcom-thang-nhung-khong-mua-duoc): 694 trong 818 mã khớp dưới 100 triệu đồng một phiên.
 
-## 7. Chỗ tôi có thể sai
+## 7. Một số lưu ý
 
 - **Bình quân gia quyền của tôi không phải VN-Index.** Nó dùng toàn bộ vốn hóa thay vì phần tự do chuyển nhượng, và gồm cả ba sàn. Với những doanh nghiệp có tỷ lệ nhà nước hoặc cổ đông lớn nắm giữ rất cao, cách tính này phóng đại ảnh hưởng của họ. Khoảng cách giữa trung vị và gia quyền thì vẫn còn nếu đổi sang cách tính của chỉ số, nhưng độ rộng sẽ khác.
 - **Con số đóng góp ở mục 3 tính theo trọng số đầu kỳ và giữ nguyên suốt kỳ.** Chỉ số thật thì tái cân bằng liên tục theo vốn hóa thay đổi và có thêm mã mới, nên phần đóng góp thật của Vingroup sẽ khác con số 40,2% — nhiều khả năng là lớn hơn, vì tỷ trọng của mã này tăng dần trong kỳ.

@@ -48,7 +48,7 @@ Nền tảng triết học phía sau là điều ông gọi là **tính khả ng
 
 Điều dùng được, và dùng được cho bất kỳ ai, là câu hỏi mở đầu: **mức giá này đang giả định điều gì, và giả định đó có tự nuôi chính nó không.** Với một cổ phiếu tăng nhờ dòng vốn vay ký quỹ, hay một doanh nghiệp bất động sản mà giá trị tài sản thế chấp phụ thuộc vào chính thị trường mà nó đang bán hàng, câu hỏi ấy có ích ngay lập tức.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Quy mô vị thế "khoảng mười tỷ đô la" và mức lãi "khoảng một tỷ"** là con số được kể lại rộng rãi, không phải số liệu công bố từ quỹ. Các phiên bản khác nhau về cả hai con số.
 - **Vai trò của những người khác trong quỹ**, đặc biệt là Stanley Druckenmiller khi ấy điều hành Quantum, không được nêu trong bài này vì tôi không tìm được nguồn đủ chắc để mô tả phân chia quyết định. Nhiều tài liệu cho rằng ý tưởng và việc thực hiện phần lớn thuộc về Druckenmiller, còn Soros là người quyết định quy mô.

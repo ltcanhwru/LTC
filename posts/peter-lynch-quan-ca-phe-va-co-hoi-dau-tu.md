@@ -140,7 +140,7 @@ Bảy câu hỏi để tự viết ra trước khi mua một cổ phiếu:
 6. **Định giá đã phản ánh câu chuyện chưa?** Một doanh nghiệp tốt vẫn có thể đã bị định giá quá cao.
 7. **Điều gì sẽ khiến câu chuyện đầu tư này sai?**
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Các con số về Magellan** — khoảng 18 triệu đô la khi nhận quỹ, 14 tỷ khi rời đi, 29% một năm — lấy từ tài liệu thứ cấp dẫn lại số liệu Fidelity. Các nguồn khác nhau nêu quy mô ban đầu từ 18 tới 20 triệu.
 - **Bối cảnh 1977–1990 rất đặc thù:** lãi suất Mỹ từ đỉnh đi xuống và thị trường bước vào chu kỳ tăng dài. Một phần kết quả của Magellan là kết quả của thời kỳ, không phải của phương pháp.

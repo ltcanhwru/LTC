@@ -57,7 +57,7 @@ Munger là người thuyết phục Buffett trả giá cao hơn giá trị tài 
 
 Từ đó sinh ra thứ ông gọi bằng cái tên thô: **đầu tư kiểu ngồi yên**. Tìm rất ít doanh nghiệp thật tốt, mua, rồi không làm gì cả. Ông liệt kê lợi ích rất cụ thể: trả ít phí môi giới hơn, nghe ít điều vô nghĩa hơn, và được hoãn thuế trên phần lãi chưa thực hiện — riêng khoản thuế hoãn lại đáng thêm một đến ba điểm phần trăm mỗi năm.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Lợi suất 19,8% của Wheeler, Munger & Co. và mức 5,0% của Dow Jones** lấy từ tài liệu thứ cấp tổng hợp lại số liệu quỹ, không phải từ báo cáo gốc. Con số trước phí và sau phí có thể khác nhau đáng kể.
 - **Biểu đồ trong bài là phép tính số học từ hai mức lợi suất kép ấy**, không phải chuỗi giá trị thực của quỹ theo từng năm.

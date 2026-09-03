@@ -98,7 +98,7 @@ Nhưng một doanh nghiệp P/E 3 lần chưa chắc là Dhandho. Nếu doanh th
 9. **Ban lãnh đạo có đáng tin không?**
 10. **Nếu thị trường đóng cửa ba năm, tôi có muốn sở hữu doanh nghiệp này không?**
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Câu chuyện về cộng đồng Patel và con số 5.000 đô la vốn tự có** là cách Pabrai kể lại trong sách của ông, không phải số liệu thống kê. Nó minh họa một mô hình, không mô tả toàn bộ ngành.
 - **Ví dụ về nhà nghỉ 50.000 đô la và doanh nghiệp Việt Nam vốn hóa 10.000 tỷ đều là giả định**, dùng để minh họa cấu trúc bất đối xứng.

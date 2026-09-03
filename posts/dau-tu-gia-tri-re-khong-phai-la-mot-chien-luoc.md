@@ -152,7 +152,7 @@ Khoảng cách hơn hai mươi điểm phần trăm giữa số trung vị và s
 
 Đó là lý do câu hỏi "phong cách nào tốt hơn" luôn thiếu một vế: tốt hơn so với cái gì, và trong bao lâu. Đầu tư giá trị không hứa thắng chỉ số ở mọi giai đoạn. Nó hứa một thứ hẹp hơn nhiều: rằng trả ít tiền hơn cho cùng một dòng lợi nhuận là một lợi thế, và lợi thế đó không xuất hiện đều đặn theo năm.
 
-## 10. Chỗ tôi có thể sai
+## 10. Một số lưu ý
 
 - **Bộ dữ liệu chỉ gồm cổ phiếu còn đang giao dịch hôm nay.** Mã đã hủy niêm yết, sáp nhập hoặc bị đình chỉ trong 5 năm qua không có mặt. Vì cổ phiếu biến mất thường là cổ phiếu tệ, và cổ phiếu tệ thường nằm ở nhóm P/B thấp, sai lệch này làm **kết quả của nhóm rẻ trông đẹp hơn thực tế**. Nhóm Q1 có lẽ còn tệ hơn con số trong bảng.
 - **Đây là ba lát cắt, không phải một mô phỏng đầy đủ.** Mỗi kỳ chỉ có đúng một ngày lập danh mục. Đổi ngày lập sang tháng 3 hay tháng 11 có thể ra kết quả khác. Một kiểm định nghiêm túc phải lăn qua nhiều ngày lập và nhiều kỳ nắm giữ chồng lấn, việc tôi chưa làm.

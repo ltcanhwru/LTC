@@ -165,7 +165,7 @@ Với nhóm B, phép tính này không áp dụng. Tăng giá bán lẻ mà giá
 
 **Rủi ro rời sàn ở nhóm free float mỏng.** VCW — Nước sạch Sông Đà, P/E 42,6 — đã thông qua hủy tư cách công ty đại chúng. Cổ đông không mất quyền sở hữu, nhưng mất nơi giao dịch tập trung, và trong thực tế điều đó có nghĩa là chiết khấu sâu khi cần thoát. DNW với free float 4,97% nằm trong cùng vùng rủi ro đó xét theo tiêu chí.
 
-## 7. Chỗ tôi có thể sai
+## 7. Một số lưu ý
 
 - Khối lượng khớp lệnh của CLW và GDW là số của **một phiên duy nhất** (27/08). Một phiên không khớp lệnh chưa chứng minh mã đó luôn không có giao dịch; số liệu đáng tin hơn phải là bình quân 20 hoặc 60 phiên, thứ tôi không lấy được cho hai mã này. Với BWE cũng vậy — 34.400 cổ phiếu là số của một phiên.
 - Tôi không lấy được số khối lượng đáng tin cậy cho TDM nên để trống, thay vì đoán.

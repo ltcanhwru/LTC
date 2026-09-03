@@ -96,7 +96,7 @@ Soros không xây sự nghiệp bằng việc biết trước ngày nào một c
 
 Điểm này thường bị bỏ qua khi người ta kể về Soros. Câu chuyện năm 1992 được nhớ vì ông thắng lớn; nhưng thứ giúp ông tồn tại đủ lâu để có ngày ấy là hàng trăm lần ông nhận mình sai và thoát ra sớm.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Quy mô vị thế và mức lãi "khoảng một tỷ đô la"** là con số được kể lại rộng rãi, không phải số liệu công bố từ quỹ. Các phiên bản khác nhau về cả hai.
 - **Vai trò của những người khác trong quỹ**, đặc biệt là Stanley Druckenmiller khi ấy điều hành Quantum, không được mô tả trong bài vì tôi không tìm được nguồn đủ chắc để phân định. Nhiều tài liệu cho rằng ý tưởng và việc thực hiện phần lớn thuộc về Druckenmiller, còn Soros quyết định quy mô.

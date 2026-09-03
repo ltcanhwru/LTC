@@ -100,7 +100,7 @@ Nếu biến mười lăm tiêu chí của Fisher thành thứ dùng được, t
 7. **Khách hàng có thực sự đánh giá cao sản phẩm?** Đây là chỗ dùng scuttlebutt.
 8. **Và cuối cùng: giá có hợp lý không?** Đây là nơi Graham quay trở lại.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Các mốc tiểu sử Fisher** — sinh năm 1907, làm ở Anglo-London & Paris National Bank năm 1927, lập Fisher & Co. năm 1931, mua Motorola năm 1955 và giữ tới khi qua đời năm 2004 — lấy từ tài liệu thứ cấp, không phải hồ sơ gốc.
 - **Không có số liệu công khai về hiệu quả đầu tư của Fisher.** Ông quản lý tiền cho một nhóm khách hàng nhỏ và không công bố kết quả, nên phương pháp của ông được đánh giá qua vài trường hợp cụ thể chứ không qua chuỗi lợi suất.

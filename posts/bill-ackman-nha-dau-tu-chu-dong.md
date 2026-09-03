@@ -114,7 +114,7 @@ Bài học từ Valeant cho thấy điều nguy hiểm nhất không phải là 
 
 Câu số tám có lẽ quan trọng nhất. Rất nhiều cổ phiếu không thiếu câu chuyện. Thứ thiếu là dòng tiền thật.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Các mốc về Canadian Pacific, Valeant và Chipotle** dẫn lại từ tài liệu phổ thông, tường thuật báo chí và thư gửi cổ đông của Pershing Square qua nguồn thứ cấp, không phải bản gốc.
 - **Tôi không nêu con số lãi lỗ cụ thể của từng thương vụ**, vì các con số này thay đổi tùy cách tính giá vốn bình quân và thời điểm chốt, và các nguồn công khai không thống nhất.

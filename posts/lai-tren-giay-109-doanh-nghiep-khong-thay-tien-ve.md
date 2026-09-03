@@ -124,7 +124,7 @@ Bậc thang này đi một chiều và không có chỗ gãy. Khoảng cách gi�
 
 Ba trường hợp này nói cùng một điều: dòng tiền âm là **câu hỏi**, không phải câu trả lời. Cái tách chúng ra khỏi Novaland hay Phát Đạt là thứ nằm ở đầu kia của khoản tiền bỏ ra — hàng bán được hay không, và bao lâu.
 
-## 8. Chỗ tôi có thể sai
+## 8. Một số lưu ý
 
 - **Tôi cộng dồn năm năm dương lịch và bỏ qua giai đoạn.** Một doanh nghiệp mở rộng mạnh 2021–2023 rồi thu tiền về từ 2024 sẽ bị xếp cùng nhóm với một doanh nghiệp đang xấu dần. Cột "số năm tiền âm" bù được một phần chuyện đó, nhưng không thay được việc đọc từng năm một.
 - **Ngưỡng vốn hóa 500 tỷ và yêu cầu đủ năm năm dữ liệu loại mất nhiều doanh nghiệp.** 504 trên 602 mã trong vũ trụ có đủ cả năm năm; 98 mã còn lại — chủ yếu là doanh nghiệp mới niêm yết và doanh nghiệp thiếu báo cáo — không có mặt. Doanh nghiệp mới niêm yết thường đang ở giai đoạn đốt vốn lưu động, nên bảng ở mục 2 nhiều khả năng đang **trông đẹp hơn** thực tế.

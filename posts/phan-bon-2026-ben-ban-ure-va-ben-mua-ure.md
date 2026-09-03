@@ -145,7 +145,7 @@ Hai dòng đầu bảng là nơi tập trung rủi ro. Bình Điền có 62,4% t
 
 Đặt cạnh ngành nhựa cùng nửa đầu năm 2026 thì thấy hai hình ảnh ngược nhau. Nhựa Tiền Phong bán hàng làm từ nguyên liệu mua ở đáy vào một thị trường đã lên giá — bốn tháng tồn kho ấy là một món quà. Bình Điền và Lâm Thao thì đang giữ hàng mua ở vùng đỉnh, chờ một thị trường đã hạ giá.
 
-## 7. Chỗ tôi có thể sai
+## 7. Một số lưu ý
 
 - **Số soát xét và số tự lập lệch nhau.** Số liệu ở đây lấy từ báo cáo đã soát xét. Với Lâm Thao, lãi sáu tháng theo báo cáo soát xét là 50,5 tỷ đồng, cao hơn khoảng 6,6 tỷ so với 43,9 tỷ trong báo cáo tự lập công bố cuối tháng 7. Nếu dùng số tự lập, mức giảm là −64,4% chứ không phải −59,0%. Với DAP-Vinachem cũng có chênh lệch cùng chiều.
 - **Tôi không có sản lượng và giá bán bình quân của từng công ty**, chỉ có doanh thu. Việc quy chênh lệch biên gộp về giá nguyên liệu — lưu huỳnh với LAS và DDV, khí với DPM — là suy luận từ cơ cấu chi phí đã công bố, không phải đo đạc trực tiếp.

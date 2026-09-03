@@ -52,7 +52,7 @@ Và ông cũng là bằng chứng đầy đủ nhất rằng **một phương ph
 
 Ba thứ ông để lại mà không phụ thuộc vào việc ta có đọc bảng giá hay không: cắt lỗ là quyết định phải làm ngay chứ không phải điều để cân nhắc; không mua thêm vào một khoản đang lỗ; và phần lớn thời gian, việc đúng đắn nhất là không làm gì.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Các con số về tài sản của Livermore đều là con số được kể lại**, không có báo cáo kiểm toán nào. Mức "ba triệu năm 1907" và "một trăm triệu năm 1929" xuất hiện trong nhiều tài liệu với các phiên bản khác nhau, và nên đọc như huyền thoại có cơ sở chứ không phải số liệu.
 - **Phần lớn những gì được gán cho ông đến từ *Reminiscences of a Stock Operator* (1923) của Edwin Lefèvre**, một cuốn tiểu thuyết dựa trên nhân vật Larry Livingston mà giới đầu tư mặc định là Livermore. Ranh giới giữa lời ông nói và lời tác giả viết không rõ ràng.

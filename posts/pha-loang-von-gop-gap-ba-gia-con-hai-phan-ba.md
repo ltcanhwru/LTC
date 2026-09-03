@@ -56,7 +56,7 @@ Ba lý do cụ thể, nhìn từ phía cổ đông đang nắm cổ phiếu:
 
 **Mức sinh lời của vốn mới thường thấp hơn vốn cũ.** Doanh nghiệp đầu tư vào cơ hội tốt nhất trước. Đồng vốn thứ hai, thứ ba đi vào các dự án kém hơn — và [bậc thang ROE theo P/B](post.html?p=dau-tu-gia-tri-re-khong-phai-la-mot-chien-luoc) cho thấy thị trường định giá vốn chủ đúng theo mức nó sinh lời.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Vốn góp là số ghi trên bảng cân đối theo mệnh giá**, không phải số cổ phiếu lưu hành. Doanh nghiệp có cổ phiếu quỹ sẽ bị tính rộng hơn thực tế.
 - **Ngưỡng 5% vốn hóa để phân loại "thu tiền mới" là lựa chọn của tôi.** Hạ xuống 2% hoặc nâng lên 10% sẽ chuyển vài chục mã từ nhóm này sang nhóm kia, và tôi chưa kiểm xem kết quả có ổn định không.

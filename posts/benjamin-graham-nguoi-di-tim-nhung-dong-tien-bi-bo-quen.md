@@ -151,7 +151,7 @@ Nếu khoảng cách đủ lớn, ta có biên an toàn. Nếu không có khoả
 
 Bởi một trong những kỹ năng quan trọng nhất của nhà đầu tư theo trường phái Graham không phải là biết khi nào phải mua, mà là biết khi nào **không nên** mua.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Hai ví dụ bằng số trong bài là ví dụ giả định**, không phải doanh nghiệp có thật trên sàn. Chúng dùng để minh họa cách tính, không phải để nhận diện mã nào.
 - **Các mức chiết khấu 80% cho phải thu, 60% cho tồn kho và 70% cho tài sản cố định là mức minh họa.** Graham nêu những tỷ lệ tương tự cho doanh nghiệp sản xuất Mỹ thập niên 1930; áp cho một doanh nghiệp Việt Nam cụ thể thì phải đọc thuyết minh mới biết mức nào hợp lý.

@@ -137,7 +137,7 @@ Và mười câu hỏi để áp lên một cổ phiếu cụ thể: tôi có hi
 
 Câu cuối phải được viết ra **trước khi mua**, không phải sau khi cổ phiếu đã giảm.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Các con số về Scion Capital** — tăng 55% năm 2001, 16% năm 2002, quy mô 600 triệu đô cuối 2004 — dẫn lại theo mô tả trong *The Big Short* của Michael Lewis, không phải báo cáo kiểm toán của quỹ.
 - **Toàn bộ ví dụ về doanh nghiệp bất động sản và bảng stress test là giả định**, dùng để minh họa số học của đòn bẩy.

@@ -59,7 +59,7 @@ Ba cách giải thích khả dĩ:
 
 **Đòn bẩy ký quỹ.** Mã tăng mạnh là mã được cấp margin nhiều nhất, và dòng vốn vay ấy rút đi nhanh hơn nó vào.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Khoảng cách tới đáy 52 tuần là thước đo tâm lý, không phải thước đo giá trị.** Nó không biết doanh nghiệp lãi hay lỗ, nợ nhiều hay ít. Phép tách ở mục trên là bước đầu tiên và thô nhất theo hướng đó.
 - **Tiêu chí "có lãi" tôi lấy theo việc nguồn dữ liệu có P/E dương hay không**, mà chỉ số này không đáng tin với nhóm doanh nghiệp nhỏ — [PVR có P/E 14,24 trong khi bốn quý gần nhất đều lỗ](post.html?p=benjamin-graham-88-co-phieu-net-net-va-7-ma-mua-duoc). Con số 95 và 16 nên đọc là ước lượng.

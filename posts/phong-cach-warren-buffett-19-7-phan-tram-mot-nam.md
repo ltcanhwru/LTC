@@ -155,7 +155,7 @@ Có bốn thứ trong mô hình Berkshire mà một nhà đầu tư cá nhân �
 
 Thứ chuyển giao được thì không nằm ở danh mục, mà nằm ở ba câu hỏi: doanh nghiệp này giữ được mức sinh lời trên vốn trong bao lâu, để tăng thêm một đồng lợi nhuận thì phải chôn thêm mấy đồng, và mình đang trả giá bao nhiêu cho câu trả lời của hai câu trên.
 
-## 9. Chỗ tôi có thể sai
+## 9. Một số lưu ý
 
 - **Số liệu Berkshire tôi lấy từ bản tin và bản tóm tắt báo cáo thường niên 2025, không mở bản gốc.** File PDF trên trang berkshirehathaway.com tôi tải về được nhưng không trích được văn bản bằng công cụ đang có. Các con số 19,7% / 10,5% / 6.099.294% / 176 tỷ / 373,3 tỷ / 44,49 tỷ đều đến từ nguồn thứ cấp dẫn lại báo cáo.
 - **Tỷ trọng danh mục 13F là số của bên tổng hợp, không phải tôi tự tính từ hồ sơ gốc.** Tổng giá trị 299,3 tỷ và số lượng 29 mã thì tôi đối chiếu được ở hai nguồn; riêng tỷ trọng năm mã lớn nhất, một nguồn ghi tổng cộng khoảng 72% trong khi cộng năm con số họ liệt kê ra chỉ được 68,6%. Tôi dùng các con số liệt kê.

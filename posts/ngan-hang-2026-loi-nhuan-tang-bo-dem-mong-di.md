@@ -245,7 +245,7 @@ Còn KienlongBank thì phá vỡ trật tự theo hướng khác: P/E 3,55 lần
 
 Một nhánh của quy mô ấy nằm ngoài bảng cân đối ngân hàng nhưng không nằm ngoài rủi ro của nó: dư nợ cho vay của [41 công ty chứng khoán niêm yết](post.html?p=chung-khoan-2026-nghe-chinh-la-cho-vay) đạt 333.607 tỷ đồng cuối tháng 6/2026, tăng 51,7% sau một năm và được tài trợ phần lớn bằng vốn đi vay, với tài sản bảo đảm là chính những cổ phiếu được mua bằng khoản vay đó.
 
-## 10. Chỗ tôi có thể sai
+## 10. Một số lưu ý
 
 - **Phép chuẩn hóa lợi nhuận ở mục 4 có một chỗ hở.** Tỷ lệ bao phủ giảm không nhất thiết vì ngân hàng trích ít đi; nó cũng giảm khi ngân hàng **xóa nợ**, vì xóa nợ làm giảm cả nợ xấu lẫn dự phòng lũy kế. VietinBank là ví dụ: quý I và quý II/2026 trích tổng cộng 13.001 tỷ, nhưng dự phòng trên bảng cân đối lại giảm từ 34.436 tỷ xuống 33.594 tỷ — nghĩa là phần xóa nợ còn lớn hơn phần trích. Với những ngân hàng xóa nợ mạnh, phần "điều chỉnh" tôi tính ra đã bị phóng đại. Con số ở mục 4 nên đọc là thước đo mức độ mỏng đi của bộ đệm, không phải ước lượng lợi nhuận thật.
 - **Nợ xấu từng ngân hàng là số tôi suy ra, không phải số tôi đọc trực tiếp từ thuyết minh.** Với 13 ngân hàng tôi lấy tỷ lệ nợ xấu công bố nhân với dư nợ gốc trên bảng cân đối; với 14 ngân hàng còn lại tôi lấy dự phòng trên bảng cân đối chia cho tỷ lệ bao phủ công bố. Tổng cộng lại ra 309.858 tỷ, khớp với con số "vượt 310.000 tỷ" của thống kê ngành, nên tôi tin cách làm này. Nhưng từng dòng riêng lẻ có thể lệch vài phần trăm, đặc biệt ở các ngân hàng nhỏ nơi tỷ lệ bao phủ được làm tròn.

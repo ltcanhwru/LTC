@@ -58,7 +58,7 @@ Thứ hai, công thức đòi **đảo danh mục mỗi năm**, việc mà phép
 
 Cái dùng được từ bảng số ở trên không phải ba mươi cái tên. Nó là thứ tự: **doanh nghiệp sinh lời cao trên vốn, mua ở mức giá phản ánh cả nợ, đứng trên thị trường ở cả ba kỳ; và ngược lại, nhóm cuối bảng — sinh lời thấp mua giá cao — thua ở cả ba kỳ, mất từ 16% đến 34,6%.** Vế thứ hai ổn định hơn vế thứ nhất, và cũng dễ dùng hơn: nó là danh sách những chỗ không nên đứng.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **EBIT tính bằng lợi nhuận trước thuế cộng chi phí lãi vay**, không loại các khoản lãi lỗ tài chính một lần. Doanh nghiệp có một năm lãi bất thường sẽ leo lên đầu bảng oan — đúng như [trường hợp HHS](post.html?p=dau-tu-gia-tri-re-khong-phai-la-mot-chien-luoc) với khoản doanh thu tài chính 3.502 tỷ trong một quý.
 - **Vốn đầu tư dùng định nghĩa rộng.** Greenblatt loại tiền mặt dư thừa ra khỏi mẫu số, việc tôi không làm, nên doanh nghiệp ôm nhiều tiền bị tính ROIC thấp hơn thực tế.

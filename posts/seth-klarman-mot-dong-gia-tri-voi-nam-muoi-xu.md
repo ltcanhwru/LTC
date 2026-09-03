@@ -155,7 +155,7 @@ Câu hỏi này đánh thẳng vào một trong những thiên kiến nguy hiể
 
 Nếu câu số 10 trả lời là không, hãy đặc biệt cẩn thận.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **Toàn bộ các con số trong bài là ví dụ giả định** — doanh nghiệp 10.000 tỷ tài sản, doanh nghiệp bất động sản đòn bẩy, các mức chiết khấu tài sản — dùng để minh họa cách tính, không phải mã cụ thể nào trên sàn.
 - **Các mức chiết khấu tôi dùng (đất còn 60%, nhà máy còn 40%, phải thu còn 60%) là con số minh họa.** Mức hợp lý chỉ xác định được sau khi đọc thuyết minh của từng doanh nghiệp.
