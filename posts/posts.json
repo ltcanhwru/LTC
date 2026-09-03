@@ -1,5 +1,95 @@
 [
   {
+    "slug": "michael-burry-doc-tung-dong-du-lieu",
+    "title": "Bài 15 — Michael Burry: người nhìn thấy quả bom trong những con số",
+    "date": "2026-08-29",
+    "excerpt": "Ông không dự đoán thị trường sụp đổ. Ông đọc từng khoản vay cho tới khi thấy một hệ thống chỉ đứng được nếu giá nhà tiếp tục tăng. Nhưng bài học đi kèm quan trọng không kém: đúng về hướng, đúng về thời điểm và kiếm được tiền là ba thứ khác nhau.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "michael-burry-doc-tung-dong-du-lieu.md"
+  },
+  {
+    "slug": "george-soros-tinh-phan-xa",
+    "title": "Bài 14 — George Soros: khi giá không chỉ phản ánh thực tế mà tạo ra thực tế",
+    "date": "2026-08-29",
+    "excerpt": "Ngày 16/9/1992 nước Anh rút khỏi cơ chế tỷ giá châu Âu. Nhưng điều làm Soros khác biệt không phải khả năng đoán một đồng tiền sẽ giảm, mà việc nhận ra một cấu trúc không có lối thoát — và biết rằng vòng phản hồi có thể kéo dài lâu hơn ta tưởng.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "george-soros-tinh-phan-xa.md"
+  },
+  {
+    "slug": "philip-fisher-nghe-thuat-dau-tu-tang-truong",
+    "title": "Bài 13 — Philip Fisher: người dạy Buffett cách nhìn vào tương lai của doanh nghiệp",
+    "date": "2026-08-29",
+    "excerpt": "Buffett từng nói mình là 85% Graham và 15% Fisher. Phần 15% ấy là điều khó nhất: nhận ra một cỗ máy tăng trưởng có thể chạy tiếp mười năm nữa, và biết rằng 15% trong mười lăm năm đáng giá hơn 20% trong ba năm.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "philip-fisher-nghe-thuat-dau-tu-tang-truong.md"
+  },
+  {
+    "slug": "bill-ackman-nha-dau-tu-chu-dong",
+    "title": "Bài 12 — Bill Ackman: không chỉ mua cổ phiếu, ông muốn thay đổi cả doanh nghiệp",
+    "date": "2026-08-29",
+    "excerpt": "Canadian Pacific cho thấy sức mạnh của đầu tư chủ động, Chipotle cho thấy giá trị của việc phân biệt khủng hoảng tạm thời với suy giảm cấu trúc, còn Valeant nhắc rằng điều nguy hiểm nhất không phải là sai — mà là sai với một tỷ trọng quá lớn.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "bill-ackman-nha-dau-tu-chu-dong.md"
+  },
+  {
+    "slug": "david-einhorn-khoang-cach-giua-gia-va-su-that",
+    "title": "Bài 11 — David Einhorn: khoảng cách giữa giá và sự thật",
+    "date": "2026-08-29",
+    "excerpt": "93% tài sản của Allied Capital được ghi nhận theo giá trị do chính hội đồng quản trị xác định. Einhorn không hỏi cổ phiếu này có đắt không, ông hỏi điều gì trong báo cáo tài chính đang khiến thị trường hiểu sai doanh nghiệp.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "david-einhorn-khoang-cach-giua-gia-va-su-that.md"
+  },
+  {
+    "slug": "mohnish-pabrai-dhandho",
+    "title": "Bài 10 — Mohnish Pabrai: nếu đúng tôi thắng lớn, nếu sai tôi không mất nhiều",
+    "date": "2026-08-29",
+    "excerpt": "Những gia đình Patel mua nhà nghỉ ở Mỹ với 5.000 đô la vốn tự có rồi sống ngay tại đó để hạ chi phí xuống mức thấp nhất. Pabrai gọi cấu trúc ấy là Dhandho: phần mất nhỏ, phần được lớn — và nó bắt đầu bằng câu hỏi tôi có thể mất bao nhiêu.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "mohnish-pabrai-dhandho.md"
+  },
+  {
+    "slug": "seth-klarman-mot-dong-gia-tri-voi-nam-muoi-xu",
+    "title": "Bài 9 — Seth Klarman: người đi tìm một đồng giá trị với năm mươi xu",
+    "date": "2026-08-29",
+    "excerpt": "Một doanh nghiệp có 10.000 tỷ tài sản trên sổ và vốn hóa 3.000 tỷ nghe như món hời. Nhưng sau khi chiết khấu theo mức thu hồi thực tế, giá trị vốn chủ chỉ còn 1.800 tỷ — cổ phiếu tưởng rẻ một nửa hóa ra đang đắt.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "seth-klarman-mot-dong-gia-tri-voi-nam-muoi-xu.md"
+  },
+  {
+    "slug": "joel-greenblatt-cong-thuc-than-ky",
+    "title": "Bài 8 — Joel Greenblatt: \"công thức thần kỳ\" và bí mật mua doanh nghiệp tốt với giá rẻ",
+    "date": "2026-08-29",
+    "excerpt": "Hai biến số, không tham số nào để chỉnh, ai chạy cũng ra cùng một danh sách. Bài kiểm định gốc cho 30,8% một năm; các kiểm định độc lập sau này thấp hơn nhiều. Công thức không khó — làm đúng công thức mới khó.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "joel-greenblatt-cong-thuc-than-ky.md"
+  },
+  {
+    "slug": "howard-marks-nha-dau-tu-theo-chu-ky",
+    "title": "Bài 7 — Howard Marks: nhà đầu tư không cố đoán tương lai",
+    "date": "2026-08-29",
+    "excerpt": "Cùng một doanh nghiệp thép, ở đỉnh chu kỳ P/E công bố 6 lần thật ra là 12, còn ở đáy P/E công bố 36 lần thật ra là 9. Marks không cố biết chu kỳ đảo chiều ngày nào — ông chỉ cần biết mình đang đứng ở nửa nào của nó.",
+    "tags": ["Kiến thức"],
+    "cover": "posts/assets/marks-pe-chu-ky.svg",
+    "video": "",
+    "file": "howard-marks-nha-dau-tu-theo-chu-ky.md"
+  },
+  {
     "slug": "john-templeton-nguoi-di-san-o-noi-khong-ai-mua",
     "title": "Bài 6 — John Templeton: người đi săn cổ phiếu ở nơi không ai muốn mua",
     "date": "2026-08-29",

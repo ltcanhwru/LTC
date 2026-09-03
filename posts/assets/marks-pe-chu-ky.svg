@@ -1,0 +1,29 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 438" width="880" height="438" role="img" aria-label="P/E cong bo va P/E tren loi nhuan binh thuong hoa o hai dau chu ky">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}</style>
+<rect x="0.5" y="0.5" width="879" height="437" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Cùng một doanh nghiệp, hai đầu chu kỳ, bốn con số P/E</text>
+<text class="s" x="36" y="62">Một doanh nghiệp thép giả định có vốn hóa 18.000 tỷ đồng, năng lực lợi nhuận bình thường khoảng 2.000 tỷ.</text>
+<line class="bl" x1="120" y1="330.0" x2="836" y2="330.0"/><text class="ax" x="110" y="334.0" text-anchor="end">0</text>
+<line class="gl" x1="120" y1="275.0" x2="836" y2="275.0"/><text class="ax" x="110" y="279.0" text-anchor="end">+10 lần</text>
+<line class="gl" x1="120" y1="220.0" x2="836" y2="220.0"/><text class="ax" x="110" y="224.0" text-anchor="end">+20 lần</text>
+<line class="gl" x1="120" y1="165.0" x2="836" y2="165.0"/><text class="ax" x="110" y="169.0" text-anchor="end">+30 lần</text>
+<line class="gl" x1="120" y1="110.0" x2="836" y2="110.0"/><text class="ax" x="110" y="114.0" text-anchor="end">+40 lần</text>
+<rect x="163.8" y="297.0" width="110.0" height="33.0" rx="2" fill="var(--cv-wa,#bf860f)"/>
+<text class="v" x="218.8" y="290.0" text-anchor="middle">+6 lần</text>
+<text class="c" x="218.8" y="356" text-anchor="middle">Đỉnh chu kỳ</text>
+<text class="ax" x="218.8" y="374" text-anchor="middle">P/E công bố</text>
+<rect x="341.3" y="264.0" width="110.0" height="66.0" rx="2" fill="var(--cv-n1,#a9bfb0)"/>
+<text class="v" x="396.3" y="257.0" text-anchor="middle">+12 lần</text>
+<text class="c" x="396.3" y="356" text-anchor="middle">Đỉnh chu kỳ</text>
+<text class="ax" x="396.3" y="374" text-anchor="middle">trên lợi nhuận bình thường</text>
+<rect x="518.8" y="132.0" width="110.0" height="198.0" rx="2" fill="var(--cv-neg,#c0562f)"/>
+<text class="v" x="573.8" y="125.0" text-anchor="middle">+36 lần</text>
+<text class="c" x="573.8" y="356" text-anchor="middle">Đáy chu kỳ</text>
+<text class="ax" x="573.8" y="374" text-anchor="middle">P/E công bố</text>
+<rect x="696.3" y="280.5" width="110.0" height="49.5" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="751.3" y="273.5" text-anchor="middle">+9 lần</text>
+<text class="c" x="751.3" y="356" text-anchor="middle">Đáy chu kỳ</text>
+<text class="ax" x="751.3" y="374" text-anchor="middle">trên lợi nhuận bình thường</text>
+<text class="s" x="36" y="400">Ở đỉnh chu kỳ, P/E công bố 6 lần thật ra là 12 lần. Ở đáy, P/E công bố 36 lần thật ra là 9 lần.</text>
+<text class="s" x="36" y="420">Ví dụ minh họa, không phải doanh nghiệp có thật.</text>
+</svg>
