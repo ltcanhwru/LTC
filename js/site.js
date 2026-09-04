@@ -217,25 +217,159 @@
   }
 
   /* ---------- Bài liên quan ----------
-     Cách chọn: bài nào trùng nhiều thẻ nhất thì đứng trước.
-     Bằng điểm nhau thì bài mới hơn thắng. Không có bài nào trùng thẻ
-     thì lấy tạm mấy bài mới nhất, để cuối bài không bị trống trơn. */
+     Chỉ đếm thẻ trùng thì không dùng được: ba thẻ "Kiến thức", "Phân tích",
+     "Cổ phiếu" phủ gần hết số bài, nên bài nào cũng ngang điểm và phần này
+     rơi về "ba bài mới nhất" — chẳng liên quan gì tới bài đang đọc.
+
+     Cách chọn ở đây so theo nội dung. Gom chữ trong tiêu đề, tóm tắt và thẻ
+     của từng bài thành một túi từ, rồi cho mỗi từ một trọng số nghịch với độ
+     phổ biến: từ hiếm nói lên nhiều hơn từ bài nào cũng có. Hai bài trùng
+     nhau ở những từ hiếm — mã cổ phiếu, tên ngành, tên nhà đầu tư — sẽ được
+     ghép lại. Không bài nào đủ giống thì mới lấy tạm bài mới nhất, để cuối
+     bài không bị trống trơn. */
+
+  /* Vài từ nối quá thông dụng, bỏ sớm cho gọn. Phần còn lại đã có trọng số
+     lo: từ nào xuất hiện ở gần hết các bài thì trọng số tự về gần 0. */
+  var RELATED_STOP = ('va cua la nhung mot cac cho voi trong khi da duoc co khong ' +
+    'nguoi nay do thi ma tu den ra vao len xuong vi nen se dang con cung chi nhu ' +
+    'hon nhat toi ban ho no theo tren duoi sau truoc giua cai viec dieu phai boi ' +
+    'nua muc ty dong nam thang quy lan bang moi hay cho noi').split(' ');
+
+  var DIACRITICS = new RegExp('[\\u0300-\\u036f]', 'g');
+
+  /* Túi từ của một bài: chỉ quan tâm từ nào có mặt, không đếm số lần */
+  function relatedTokens(post) {
+    var words = [post.title, post.excerpt, (post.tags || []).join(' ')].join(' ')
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(DIACRITICS, '')
+      .replace(/đ/g, 'd')
+      .split(/[^a-z0-9]+/);
+
+    var bag = {};
+    for (var i = 0; i < words.length; i++) {
+      var w = words[i];
+      if (w.length < 2) continue;          // bỏ chữ cái lẻ, giữ mã như bwe, hpg
+      if (/^\d+$/.test(w)) continue;       // bỏ số trần
+      if (RELATED_STOP.indexOf(w) !== -1) continue;
+      bag[w] = 1;
+    }
+    return bag;
+  }
+
+  /* Bảng bài liên quan tính sẵn trong posts/related.json, do build.ps1 dựng từ
+     TOÀN VĂN các bài. Đó là bản tốt hơn hẳn, vì hai bài cùng ngành có thể
+     không dùng chung chữ nào ở tiêu đề với tóm tắt nhưng lại trùng rất nhiều
+     trong thân bài. Tải hỏng hoặc chưa chạy build.ps1 thì rơi về cách tính
+     ngay trong trình duyệt ở dưới. */
+  var relatedMap = null;
+  var relatedLoading = null;
+
+  function loadRelated() {
+    if (relatedMap) return Promise.resolve(relatedMap);
+    if (relatedLoading) return relatedLoading;
+
+    relatedLoading = fetch('posts/related.json', { cache: 'no-cache' })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (m) { relatedMap = m || {}; return relatedMap; })
+      .catch(function () { relatedMap = {}; return relatedMap; });
+
+    return relatedLoading;
+  }
+
+  /* Nhãn hiện trên thẻ bài: lấy thẻ trùng hiếm nhất, vì thẻ phổ biến như
+     "Cổ phiếu" thì bài nào cũng có, hiện lên không nói được gì. */
+  function pickSharedTag(post, myTags, tagCount) {
+    var shared = (post.tags || [])
+      .filter(function (t) { return myTags.indexOf(t) !== -1; })
+      .sort(function (a, b) { return (tagCount[a] || 0) - (tagCount[b] || 0); });
+    return shared[0] || (post.tags || [])[0] || '';
+  }
+
+  function countTags(posts) {
+    var c = {};
+    posts.forEach(function (p) {
+      (p.tags || []).forEach(function (t) { c[t] = (c[t] || 0) + 1; });
+    });
+    return c;
+  }
+
   function pickRelated(posts, current, limit) {
     limit = limit || 3;
-    var myTags = (current.tags || []);
 
-    var scored = posts
-      .filter(function (p) { return p.slug !== current.slug; })
-      .map(function (p) {
-        var shared = (p.tags || []).filter(function (t) {
-          return myTags.indexOf(t) !== -1;
+    var others = posts.filter(function (p) { return p.slug !== current.slug; });
+    if (!others.length) return [];
+
+    // Có bảng tính sẵn thì dùng, giữ nguyên thứ tự đã xếp
+    var precomputed = relatedMap && relatedMap[current.slug];
+    if (precomputed && precomputed.length) {
+      var bySlug = {};
+      others.forEach(function (p) { bySlug[p.slug] = p; });
+
+      var tagCountA = countTags(posts);
+      var myTagsA = current.tags || [];
+
+      var fromMap = precomputed
+        .map(function (slug) { return bySlug[slug]; })
+        .filter(Boolean)
+        .slice(0, limit)
+        .map(function (p) {
+          return { post: p, sharedTag: pickSharedTag(p, myTagsA, tagCountA) };
         });
-        return { post: p, score: shared.length, sharedTag: shared[0] || (p.tags || [])[0] || '' };
-      })
-      .sort(function (a, b) {
-        if (b.score !== a.score) return b.score - a.score;
-        return String(b.post.date).localeCompare(String(a.post.date));
+
+      if (fromMap.length) return fromMap;
+    }
+
+    // Bài đang đọc xếp cuối, để chỉ số của others khớp với chỉ số của bags
+    var all = others.concat([current]);
+    var bags = all.map(relatedTokens);
+
+    // Đếm số bài chứa mỗi từ, từ đó ra trọng số
+    var df = {};
+    bags.forEach(function (bag) {
+      Object.keys(bag).forEach(function (w) { df[w] = (df[w] || 0) + 1; });
+    });
+
+    var total = all.length;
+    function weight(w) { return Math.log(total / (df[w] || 1)); }
+
+    // Độ dài của một túi từ, để bài có tóm tắt dài không tự nhiên được ưu ái
+    function magnitude(bag) {
+      var s = 0;
+      Object.keys(bag).forEach(function (w) { var v = weight(w); s += v * v; });
+      return Math.sqrt(s) || 1;
+    }
+
+    var myBag = bags[bags.length - 1];
+    var myMag = magnitude(myBag);
+
+    var tagCount = countTags(all);
+    var myTags = current.tags || [];
+
+    var scored = others.map(function (p, i) {
+      var bag = bags[i];
+      var overlap = 0;
+      Object.keys(bag).forEach(function (w) {
+        if (myBag[w]) { var v = weight(w); overlap += v * v; }
       });
+
+      return {
+        post: p,
+        score: overlap / (myMag * magnitude(bag)),
+        sharedTag: pickSharedTag(p, myTags, tagCount)
+      };
+    }).sort(function (a, b) {
+      if (b.score !== a.score) return b.score - a.score;
+      return String(b.post.date).localeCompare(String(a.post.date));
+    });
+
+    // Không có từ hiếm nào chung: quay về bài mới nhất
+    if (!scored[0] || scored[0].score <= 0) {
+      return others.slice()
+        .sort(function (a, b) { return String(b.date).localeCompare(String(a.date)); })
+        .slice(0, limit)
+        .map(function (p) { return { post: p, sharedTag: (p.tags || [])[0] || '' }; });
+    }
 
     return scored.slice(0, limit);
   }
@@ -417,6 +551,7 @@
     postUrl: postUrl,
     buildSidebar: buildSidebar,
     buildRelated: buildRelated,
+    loadRelated: loadRelated,
     mountChrome: mountChrome,
     loadPostIndex: loadPostIndex,
     formatDate: formatDate,

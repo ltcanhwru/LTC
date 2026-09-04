@@ -297,6 +297,132 @@ foreach ($p in $posts) {
     Write-Host ("  bai\{0}.html" -f $slug)
 }
 
+# ---------- posts/related.json: bai lien quan ----------
+# Ba the "Kien thuc", "Phan tich", "Co phieu" phu gan het so bai, nen dem the
+# trung khong phan biet duoc gi. Con so theo tieu de voi tom tat thi qua ngan:
+# hai bai cung nganh gan nhu khong dung chung chu nao.
+#
+# Nen o day so tren TOAN VAN bai viet. Moi bai thanh mot tui tu, moi tu mang
+# trong so nghich voi do pho bien cua no (tu hiem noi len nhieu hon tu bai nao
+# cung co), chu trong tieu de duoc tinh nang hon chu trong than bai. Hai bai
+# giong nhau o nhung tu hiem - ma co phieu, ten nganh, ten nha dau tu - se duoc
+# ghep lai. Tinh san o day de trang khong phai tai 84 file .md luc chay.
+
+Write-Host ''
+Write-Host '  Dang tinh bai lien quan...'
+
+# Bo dau tieng Viet. Chu d gach ngang khong tach ra khi chuan hoa nen phai
+# thay tay truoc.
+function Remove-Diacritics {
+    param([string]$s)
+    $s = $s.Replace([char]0x0111, 'd').Replace([char]0x0110, 'D')
+    $norm = $s.Normalize([Text.NormalizationForm]::FormD)
+    $sb = New-Object System.Text.StringBuilder
+    foreach ($ch in $norm.ToCharArray()) {
+        $cat = [Globalization.CharUnicodeInfo]::GetUnicodeCategory($ch)
+        if ($cat -ne [Globalization.UnicodeCategory]::NonSpacingMark) { [void]$sb.Append($ch) }
+    }
+    return $sb.ToString()
+}
+
+$RelatedStop = @('va','cua','la','nhung','mot','cac','cho','voi','trong','khi','da',
+    'duoc','co','khong','nguoi','nay','do','thi','ma','tu','den','ra','vao','len',
+    'xuong','vi','nen','se','dang','con','cung','chi','nhu','hon','nhat','toi','ban',
+    'ho','no','theo','tren','duoi','sau','truoc','giua','cai','viec','dieu','phai',
+    'boi','nua','muc','ty','dong','nam','thang','quy','lan','bang','moi','hay','noi',
+    'neu','tuc','phan','tram','so','ca','deu','tai','ve','o','an','em','anh','minh')
+
+# Dem so lan xuat hien cua tung tu. Chu trong tieu de tinh gap ba, trong tom
+# tat gap hai - do la cho noi len chu de cua bai ro nhat.
+function Get-TermFreq {
+    param([string]$Title, [string]$Excerpt, [string]$Body)
+
+    $tf = @{}
+    $parts = @(@{ t = $Title; w = 3 }, @{ t = $Excerpt; w = 2 }, @{ t = $Body; w = 1 })
+
+    foreach ($part in $parts) {
+        $text = [string]$part.t
+        if (-not $text) { continue }
+        $text = Remove-Diacritics $text
+        $text = $text.ToLowerInvariant() -replace '[^a-z0-9]+', ' '
+        foreach ($w in $text.Split(' ')) {
+            if ($w.Length -lt 2) { continue }
+            if ($w -match '^\d+$') { continue }
+            if ($RelatedStop -contains $w) { continue }
+            $tf[$w] = [int]$tf[$w] + $part.w
+        }
+    }
+    return $tf
+}
+
+# Doc than bai, bo phan khong phai chu: khoi ma, duong dan anh, ky hieu bang
+function Get-BodyText {
+    param([string]$Path)
+    if (-not (Test-Path $Path)) { return '' }
+    $t = Get-Content -Raw -Encoding UTF8 $Path
+    $t = [regex]::Replace($t, '(?s)```.*?```', ' ')          # khoi ma
+    $t = [regex]::Replace($t, '!\[[^\]]*\]\([^)]*\)', ' ')   # anh
+    $t = [regex]::Replace($t, '\[([^\]]*)\]\([^)]*\)', '$1') # link, giu chu
+    $t = [regex]::Replace($t, 'https?://\S+', ' ')
+    return $t
+}
+
+$docs = @()
+foreach ($p in $posts) {
+    $body = Get-BodyText (Join-Path $root ('posts\' + $(if ($p.file) { $p.file } else { "$($p.slug).md" })))
+    $docs += [pscustomobject]@{
+        slug = [string]$p.slug
+        tf   = Get-TermFreq ([string]$p.title) ([string]$p.excerpt) $body
+    }
+}
+
+# So bai chua moi tu, tu do ra trong so
+$docFreq = @{}
+foreach ($d in $docs) {
+    foreach ($w in $d.tf.Keys) { $docFreq[$w] = [int]$docFreq[$w] + 1 }
+}
+
+$nDocs = $docs.Count
+$vectors = @{}
+foreach ($d in $docs) {
+    $v = @{}
+    $sum = 0.0
+    foreach ($w in $d.tf.Keys) {
+        $val = (1 + [math]::Log([double]$d.tf[$w])) * [math]::Log($nDocs / [double]$docFreq[$w])
+        if ($val -le 0) { continue }
+        $v[$w] = $val
+        $sum += $val * $val
+    }
+    $mag = [math]::Sqrt($sum)
+    if ($mag -le 0) { $mag = 1 }
+    $vectors[$d.slug] = [pscustomobject]@{ v = $v; mag = $mag }
+}
+
+$relLines = New-Object System.Collections.Generic.List[string]
+foreach ($d in $docs) {
+    $me = $vectors[$d.slug]
+
+    # Chay tu ben nao it tu hon cho nhanh
+    $best = foreach ($o in $docs) {
+        if ($o.slug -eq $d.slug) { continue }
+        $ov = $vectors[$o.slug]
+        $dot = 0.0
+        $small = $me.v; $large = $ov.v
+        if ($small.Count -gt $large.Count) { $small = $ov.v; $large = $me.v }
+        foreach ($w in $small.Keys) {
+            if ($large.ContainsKey($w)) { $dot += $small[$w] * $large[$w] }
+        }
+        [pscustomobject]@{ slug = $o.slug; score = $dot / ($me.mag * $ov.mag) }
+    }
+
+    $top = @($best | Sort-Object -Property score -Descending | Select-Object -First 4)
+    $slugs = ($top | ForEach-Object { '"' + $_.slug + '"' }) -join ', '
+    $relLines.Add('  "' + $d.slug + '": [' + $slugs + ']')
+}
+
+Write-Utf8 (Join-Path $root 'posts\related.json') ("{`r`n" + ($relLines -join ",`r`n") + "`r`n}`r`n")
+Write-Host ("  posts\related.json ({0} bai)" -f $docs.Count)
+
 # ---------- Danh sach du phong tren trang chu ----------
 # Trang chu dung JavaScript de dung cac the bai viet, nen trong HTML tho khong
 # co lien ket nao tro toi bai. Khoi <noscript> nay cho cong cu tim kiem mot

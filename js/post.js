@@ -145,14 +145,17 @@
       var sidebar = document.getElementById('sidebar');
       if (sidebar) sidebar.innerHTML = S.buildSidebar(data.posts, '');
 
-      // Gợi ý bài liên quan ở cuối bài
+      // Gợi ý bài liên quan ở cuối bài. Bảng bài liên quan nằm ở
+      // posts/related.json nên phải chờ tải xong mới dựng được.
       var relatedEl = document.getElementById('relatedPosts');
       if (relatedEl) {
-        var html = S.buildRelated(data.posts, post, 3);
-        if (html) {
-          relatedEl.innerHTML = html;
-          relatedEl.hidden = false;
-        }
+        S.loadRelated().then(function () {
+          var html = S.buildRelated(data.posts, post, 3);
+          if (html) {
+            relatedEl.innerHTML = html;
+            relatedEl.hidden = false;
+          }
+        });
       }
 
       S.setMeta(

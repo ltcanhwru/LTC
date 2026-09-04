@@ -280,6 +280,7 @@ Chạy `.\build.ps1`, script đọc `posts/posts.json` rồi sinh ra:
 | `sitemap.xml` | Danh sách địa chỉ để khai báo với công cụ tìm kiếm |
 | `robots.txt` | Trỏ tới sitemap |
 | `feed.xml` | Nguồn RSS cho ai muốn theo dõi bài mới |
+| `posts/related.json` | Bảng bài liên quan, tính từ toàn văn từng bài |
 | Khối trong `index.html` | Danh sách bài dạng `<noscript>` và dữ liệu có cấu trúc |
 
 ### Vì sao ảnh bìa phải có bản PNG
@@ -287,6 +288,14 @@ Chạy `.\build.ps1`, script đọc `posts/posts.json` rồi sinh ra:
 Facebook, Zalo và X **không đọc được ảnh định dạng SVG** trong ô xem trước. Để nguyên `.svg` thì link chia sẻ chỉ hiện tiêu đề và tóm tắt, không có ảnh.
 
 `build.ps1` tự giải quyết: nó gọi Chrome ở chế độ ẩn để chụp lại chính file SVG thành PNG, rồi trỏ `og:image` vào bản PNG đó. Không phải cài thêm phần mềm nào. Ảnh chỉ chụp lại khi file SVG mới hơn bản PNG, nên chạy lần hai rất nhanh. Máy không có Chrome hay Edge thì script bỏ qua bước này và `og:image` quay về dùng SVG như cũ.
+
+### Bài liên quan chọn thế nào
+
+Ba thẻ `Kiến thức`, `Phân tích`, `Cổ phiếu` phủ gần hết số bài, nên nếu chỉ đếm thẻ trùng thì bài nào cũng ngang điểm và mục "Bài liên quan" cuối bài rơi về "ba bài mới nhất" — chẳng liên quan gì tới bài đang đọc.
+
+`build.ps1` so trên **toàn văn** thay vì chỉ tiêu đề với tóm tắt. Mỗi bài thành một túi từ; mỗi từ mang trọng số nghịch với độ phổ biến, nên từ hiếm — mã cổ phiếu, tên ngành, tên nhà đầu tư — mới là thứ quyết định. Chữ trong tiêu đề tính nặng gấp ba, trong tóm tắt gấp hai. Kết quả ghi sẵn vào `posts/related.json` để trang không phải tải cả trăm file `.md` lúc chạy.
+
+Nếu `related.json` chưa có hoặc tải hỏng, `site.js` tự tính ngay trong trình duyệt từ tiêu đề và tóm tắt — kém chính xác hơn nhưng không bao giờ để trống.
 
 ### Dữ liệu có cấu trúc
 
@@ -339,6 +348,7 @@ js/post.js          Logic trang bài viết
 
 posts/posts.json    <- Danh mục bài viết. Thêm bài mới là sửa file này
 posts/*.md          Nội dung từng bài viết
+posts/related.json  <- build.ps1 sinh ra. Bảng bài liên quan
 posts/assets/       Ảnh và biểu đồ .svg dùng trong bài
                     (kèm bản .png do build.ps1 chụp, để chia sẻ link)
 
