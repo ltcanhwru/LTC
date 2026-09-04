@@ -1,5 +1,135 @@
 [
   {
+    "slug": "investment-thesis-viet-luan-diem-dau-tu",
+    "title": "Bài 39 — Investment thesis: viết luận điểm đầu tư thế nào để không tự lừa mình?",
+    "date": "2026-09-04",
+    "excerpt": "Một luận điểm phải là giả thuyết có thể bị bác bỏ — nếu không thể bị bác bỏ, nó không phải luận điểm mà là niềm tin. Bài cuối của loạt: mười ô phải điền được trước khi mua, và điều kiện viết sẵn để thừa nhận mình sai.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "investment-thesis-viet-luan-diem-dau-tu.md"
+  },
+  {
+    "slug": "portfolio-construction-tap-trung-hay-da-dang-hoa",
+    "title": "Bài 38 — Portfolio construction: tập trung hay đa dạng hóa?",
+    "date": "2026-09-04",
+    "excerpt": "Năm ngân hàng, năm chứng khoán, năm bất động sản, năm xây dựng — ba mươi mã nhưng chỉ một cược vĩ mô. Vấn đề không phải bạn có bao nhiêu cổ phiếu, mà bao nhiêu nguồn rủi ro thực sự độc lập.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "portfolio-construction-tap-trung-hay-da-dang-hoa.md"
+  },
+  {
+    "slug": "position-sizing-biet-mua-bao-nhieu",
+    "title": "Bài 37 — Position sizing: biết mua đã khó, biết mua bao nhiêu còn khó hơn",
+    "date": "2026-09-04",
+    "excerpt": "Cùng một cổ phiếu giảm 50%: tỷ trọng 10% thì danh mục mất 5%, tỷ trọng 50% thì mất 25%. Định cỡ vị thế không bắt đầu bằng câu hỏi tôi tin đến đâu, mà bằng câu hỏi nếu tôi sai thì cho phép mình mất bao nhiêu.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "position-sizing-biet-mua-bao-nhieu.md"
+  },
+  {
+    "slug": "margin-of-safety-bien-an-toan-bao-nhieu-la-du",
+    "title": "Bài 36 — Margin of safety: biên an toàn bao nhiêu là đủ?",
+    "date": "2026-09-04",
+    "excerpt": "Không có con số cố định — và hiểu tại sao không có mới là phần quan trọng. Một tập tài sản 13.000 tỷ trên sổ sách có thể chỉ thu hồi được 9.400 tỷ, và biên an toàn phải tính trên con số thứ hai.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "margin-of-safety-bien-an-toan-bao-nhieu-la-du.md"
+  },
+  {
+    "slug": "catalyst-dieu-gi-khien-gia-tien-ve-gia-tri",
+    "title": "Bài 35 — Catalyst: điều gì khiến giá cổ phiếu tiến về giá trị?",
+    "date": "2026-09-04",
+    "excerpt": "63 trong 69 cổ phiếu chiết khấu sâu nhất sàn Việt, sau ba năm vẫn dưới 0,8 lần giá trị sổ sách. Rẻ không phải một chất xúc tác — và thị trường sẽ nhận ra cũng không phải một luận điểm.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "catalyst-dieu-gi-khien-gia-tien-ve-gia-tri.md"
+  },
+  {
+    "slug": "activist-investing-thay-doi-ca-doanh-nghiep",
+    "title": "Bài 34 — Activist investing: khi nhà đầu tư không chỉ mua cổ phiếu, mà thay đổi cả doanh nghiệp",
+    "date": "2026-09-04",
+    "excerpt": "Deep value hỏi tôi mua rẻ đến mức nào. Activist hỏi tôi có thể làm gì để giá trị đó được giải phóng. Nhưng rủi ro lớn nhất là đúng mà không thắng: bạn có thể hoàn toàn đúng và không có quyền lực nào để thay đổi.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "activist-investing-thay-doi-ca-doanh-nghiep.md"
+  },
+  {
+    "slug": "deep-value-khi-doanh-nghiep-xau-la-mon-hoi",
+    "title": "Bài 33 — Deep value: khi doanh nghiệp xấu lại có thể là món hời",
+    "date": "2026-09-04",
+    "excerpt": "DCF hỏi doanh nghiệp sẽ tạo ra bao nhiêu tiền. Deep value hỏi nếu mọi thứ không như kỳ vọng thì tôi còn lại gì. Một bên nhìn về phía trước, một bên nhìn xuống dưới — và cổ phiếu giảm 90% chưa chắc rẻ.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "deep-value-khi-doanh-nghiep-xau-la-mon-hoi.md"
+  },
+  {
+    "slug": "dinh-gia-dcf-dung-bien-excel-thanh-may-tien-tri",
+    "title": "Bài 32 — Định giá DCF: đừng biến Excel thành máy tiên tri",
+    "date": "2026-09-04",
+    "excerpt": "Một điểm phần trăm ở chi phí vốn và một điểm ở tăng trưởng dài hạn làm giá trị cuối kỳ mất 23%. DCF không phải máy tính giá cổ phiếu — nó là khung buộc bạn viết ra giả định, và cách dùng tốt nhất là chạy nó ngược lại.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "dinh-gia-dcf-dung-bien-excel-thanh-may-tien-tri.md"
+  },
+  {
+    "slug": "tang-truong-tot-hay-tang-truong-doc-hai",
+    "title": "Bài 31 — Growth: tăng trưởng tốt hay tăng trưởng độc hại?",
+    "date": "2026-09-04",
+    "excerpt": "Muốn tăng 25% một năm với ROIC 8%, doanh nghiệp phải tái đầu tư 312% lợi nhuận — điều chỉ làm được bằng tiền của người khác. Cùng mục tiêu ấy ở ROIC 25% chỉ cần giữ lại 40%.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "tang-truong-tot-hay-tang-truong-doc-hai.md"
+  },
+  {
+    "slug": "moat-doanh-nghiep-bao-ve-loi-nhuan-bang-cach-nao",
+    "title": "Bài 30 — Moat: doanh nghiệp bảo vệ lợi nhuận bằng cách nào?",
+    "date": "2026-09-04",
+    "excerpt": "Năm nguồn hào kinh tế, và một bài kiểm tra rất đơn giản: nếu tôi có 100 tỷ và một đội ngũ giỏi, tôi có xây được doanh nghiệp giống công ty này không? ROIC là bằng chứng, moat là lời giải thích, thời gian là bài kiểm tra.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "moat-doanh-nghiep-bao-ve-loi-nhuan-bang-cach-nao.md"
+  },
+  {
+    "slug": "roic-mot-dong-von-tao-ra-bao-nhieu-gia-tri",
+    "title": "Bài 29 — ROIC: một đồng vốn tạo ra bao nhiêu đồng giá trị?",
+    "date": "2026-09-04",
+    "excerpt": "ROE 30% nghe đẹp hơn 20% — cho tới khi thấy công ty đầu vay gấp bốn lần vốn chủ. Và câu hỏi quan trọng hơn ROIC hiện tại luôn là: đồng vốn tiếp theo doanh nghiệp bỏ ra sẽ sinh lời bao nhiêu?",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "roic-mot-dong-von-tao-ra-bao-nhieu-gia-tri.md"
+  },
+  {
+    "slug": "owner-earnings-loi-nhuan-thuoc-ve-co-dong",
+    "title": "Bài 28 — Owner earnings: lợi nhuận thực sự thuộc về cổ đông là bao nhiêu?",
+    "date": "2026-09-04",
+    "excerpt": "Hai công ty cùng báo lãi 1.000 tỷ, cùng EPS, cùng P/E. Nhưng một công ty đưa được 700 tỷ vào túi chủ sở hữu, công ty kia chỉ 150 tỷ. Khác biệt nằm ở khoản chi đầu tư chỉ để giữ nguyên hiện trạng.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "owner-earnings-loi-nhuan-thuoc-ve-co-dong.md"
+  },
+  {
+    "slug": "doc-bao-cao-tai-chinh-nhu-mot-nha-dau-tu",
+    "title": "Bài 27 — Đọc báo cáo tài chính như một nhà đầu tư: đừng để những con số đẹp đánh lừa",
+    "date": "2026-09-04",
+    "excerpt": "Doanh thu tăng, lợi nhuận tăng, nhưng dòng tiền kinh doanh giảm bốn năm liên tiếp. Lợi nhuận là một ý kiến kế toán, dòng tiền là bằng chứng — và mười câu hỏi phải trả lời được trước khi nghĩ tới định giá.",
+    "tags": ["Kiến thức"],
+    "cover": "",
+    "video": "",
+    "file": "doc-bao-cao-tai-chinh-nhu-mot-nha-dau-tu.md"
+  },
+  {
     "slug": "robert-hagstrom-he-thong-dau-tu",
     "title": "Bài 26 — Robert Hagstrom: biến tư duy Buffett thành một hệ thống đầu tư",
     "date": "2026-09-04",
