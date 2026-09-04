@@ -1,0 +1,29 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 438" width="880" height="438" role="img" aria-label="Loi nhuan sau muoi nam theo toc do tang truong">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12.5px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11.5px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}</style>
+<rect x="0.5" y="0.5" width="879" height="437" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Cùng xuất phát 100 tỷ, mười năm sau cách nhau gần sáu lần</text>
+<text class="s" x="36" y="62">Lợi nhuận sau mười năm của một doanh nghiệp bắt đầu với 100 tỷ đồng, theo tốc độ tăng trưởng kép mỗi năm.</text>
+<line class="bl" x1="120" y1="330.0" x2="836" y2="330.0"/><text class="ax" x="110" y="334.0" text-anchor="end">0</text>
+<line class="gl" x1="120" y1="286.0" x2="836" y2="286.0"/><text class="ax" x="110" y="290.0" text-anchor="end">+200</text>
+<line class="gl" x1="120" y1="242.0" x2="836" y2="242.0"/><text class="ax" x="110" y="246.0" text-anchor="end">+400</text>
+<line class="gl" x1="120" y1="198.0" x2="836" y2="198.0"/><text class="ax" x="110" y="202.0" text-anchor="end">+600</text>
+<line class="gl" x1="120" y1="154.0" x2="836" y2="154.0"/><text class="ax" x="110" y="158.0" text-anchor="end">+800</text>
+<line class="gl" x1="120" y1="110.0" x2="836" y2="110.0"/><text class="ax" x="110" y="114.0" text-anchor="end">+1000</text>
+<rect x="157.0" y="294.1" width="88.0" height="35.9" rx="2" fill="var(--cv-n1,#a9bfb0)"/>
+<text class="v" x="201.0" y="287.1" text-anchor="middle">+163</text>
+<text class="c" x="201.0" y="356" text-anchor="middle">5%/năm</text>
+<rect x="299.0" y="273.0" width="88.0" height="57.0" rx="2" fill="var(--cv-n1,#a9bfb0)"/>
+<text class="v" x="343.0" y="266.0" text-anchor="middle">+259</text>
+<text class="c" x="343.0" y="356" text-anchor="middle">10%/năm</text>
+<rect x="441.0" y="240.9" width="88.0" height="89.1" rx="2" fill="var(--cv-a2,#9ecbaa)"/>
+<text class="v" x="485.0" y="233.9" text-anchor="middle">+405</text>
+<text class="c" x="485.0" y="356" text-anchor="middle">15%/năm</text>
+<rect x="583.0" y="193.8" width="88.0" height="136.2" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="627.0" y="186.8" text-anchor="middle">+619</text>
+<text class="c" x="627.0" y="356" text-anchor="middle">20%/năm</text>
+<rect x="725.0" y="125.2" width="88.0" height="204.8" rx="2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="769.0" y="118.2" text-anchor="middle">+931</text>
+<text class="c" x="769.0" y="356" text-anchor="middle">25%/năm</text>
+<text class="s" x="36" y="400">Đơn vị: tỷ đồng. Chênh lệch giữa 5% và 25% một năm không phải năm lần tốc độ, mà gần sáu lần kết quả.</text>
+<text class="s" x="36" y="420">Phép tính số học thuần túy, giả định tốc độ giữ nguyên suốt mười năm — điều gần như không doanh nghiệp nào làm được.</text>
+</svg>
