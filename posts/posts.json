@@ -1,5 +1,55 @@
 [
   {
+    "slug": "sip-05-moat-o-dau",
+    "title": "SIP – Bài 05: moat ở đâu, tại sao đối thủ không dễ “copy” mô hình Saigon VRG?",
+    "date": "2026-09-05",
+    "excerpt": "Nếu có 10.000 tỷ và một đội ngũ giỏi, có dựng lại được Saigon VRG không? Năm loại hào — quỹ đất gốc cao su, vị trí cụm, chi phí chuyển đổi, hệ sinh thái tiện ích, và 'float' 14.000 tỷ của khách hàng — và thứ mà tiền không mua được trong ngắn hạn.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "sip-05-moat-o-dau.md"
+  },
+  {
+    "slug": "sip-04-roic-mot-dong-von-lai-bao-nhieu",
+    "title": "SIP – Bài 04: ROIC — một đồng vốn tạo ra bao nhiêu đồng lợi nhuận?",
+    "date": "2026-09-04",
+    "excerpt": "Lấy toàn bộ 28.670 tỷ tài sản làm mẫu số thì ROIC chỉ 3,3%; nhưng phần lớn tài sản đó là tiền và 13.375 tỷ khách trả trước. Câu hỏi không phải SIP có bao nhiêu tài sản, mà cần bao nhiêu vốn thật để tạo ra lợi nhuận cốt lõi.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "sip-04-roic-mot-dong-von-lai-bao-nhieu.md"
+  },
+  {
+    "slug": "sip-03-dong-tien-va-owner-earnings",
+    "title": "SIP – Bài 03: kiếm được 1 đồng lợi nhuận, thực sự giữ lại được bao nhiêu đồng tiền?",
+    "date": "2026-09-03",
+    "excerpt": "LNST 1.467 tỷ nhưng dòng tiền kinh doanh 2.440 tỷ. Con số đẹp, cho tới khi tách phần đến từ vốn lưu động và thu nhập tài chính — và hỏi mỗi đồng SIP tái đầu tư sinh lời bao nhiêu.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "sip-03-dong-tien-va-owner-earnings.md"
+  },
+  {
+    "slug": "sip-02-mo-xe-bang-can-doi",
+    "title": "SIP – Bài 02: 28.000 tỷ tài sản — SIP đang “nợ” hay được khách hàng tài trợ?",
+    "date": "2026-09-02",
+    "excerpt": "22.856 tỷ nợ phải trả, nhưng nợ vay ngân hàng thật chỉ 4.817 tỷ. Phần lớn 'đòn bẩy' của SIP là 13.375 tỷ tiền khách thuê trả trước — một dạng vốn không lãi mà đối thủ khó có.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "sip-02-mo-xe-bang-can-doi.md"
+  },
+  {
+    "slug": "sip-01-khu-cong-nghiep-hay-co-may-dong-tien",
+    "title": "SIP – Bài 01: doanh nghiệp khu công nghiệp hay “cỗ máy dòng tiền” bị che khuất?",
+    "date": "2026-09-01",
+    "excerpt": "Doanh thu 8.596 tỷ dễ khiến người ta xếp SIP vào nhóm bất động sản KCN. Nhưng biên gộp chỉ 15,6%, và câu hỏi thật là: trong 1.467 tỷ lợi nhuận, bao nhiêu là cốt lõi, bao nhiêu là tài chính và một lần?",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "sip-01-khu-cong-nghiep-hay-co-may-dong-tien.md"
+  },
+  {
     "slug": "investment-thesis-viet-luan-diem-dau-tu",
     "title": "Bài 39 — Investment thesis: viết luận điểm đầu tư thế nào để không tự lừa mình?",
     "date": "2026-09-04",

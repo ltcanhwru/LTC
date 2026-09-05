@@ -6,7 +6,21 @@
   <description>Nơi tôi lưu lại những bài viết, vlog và phân tích cá nhân về công nghệ, cổ phiếu, sách vở và cuộc sống.</description>
   <language>vi</language>
   <atom:link href="https://ltcanhwru.github.io/LTC/feed.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0700</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 00:00:00 +0700</lastBuildDate>
+  <item>
+    <title>SIP – Bài 05: moat ở đâu, tại sao đối thủ không dễ “copy” mô hình Saigon VRG?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/sip-05-moat-o-dau.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/sip-05-moat-o-dau.html</guid>
+    <pubDate>Sat, 05 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Nếu có 10.000 tỷ và một đội ngũ giỏi, có dựng lại được Saigon VRG không? Năm loại hào — quỹ đất gốc cao su, vị trí cụm, chi phí chuyển đổi, hệ sinh thái tiện ích, và 'float' 14.000 tỷ của khách hàng — và thứ mà tiền không mua được trong ngắn hạn.</description>
+  </item>
+  <item>
+    <title>Bài 25 — William Ruane: nghệ thuật xây một danh mục chỉ với vài doanh nghiệp</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/william-ruane-danh-muc-tap-trung.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/william-ruane-danh-muc-tap-trung.html</guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Năm 1970 Buffett đóng cửa công ty hợp danh và giới thiệu nhà đầu tư của mình cho Ruane. Sequoia đạt 13,33% một năm suốt hơn nửa thế kỷ — nhưng riêng năm 2022 giảm 30,5%, và đó mới là bài học về danh mục tập trung.</description>
+  </item>
   <item>
     <title>Bài 24 — Mason Hawkins: mua sáu mươi xu cho một đô la, rồi chờ thị trường tỉnh lại</title>
     <link>https://ltcanhwru.github.io/LTC/bai/mason-hawkins-60-cent-cho-mot-do-la.html</link>
@@ -22,20 +36,6 @@
     <description>Doanh nghiệp tốt, con người tốt, tái đầu tư tốt — thiếu một chân thì đừng ngồi. Và một phép tính: cùng 1.000 tỷ vốn, ROIC 25% cho 9.313 tỷ sau mười năm trong khi ROIC 10% chỉ cho 2.594 tỷ.</description>
   </item>
   <item>
-    <title>Bài 22 — Li Lu: hiểu doanh nghiệp sâu đến mức thời gian trở thành đồng minh</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/li-lu-tu-duy-dau-tu-dai-han.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/li-lu-tu-duy-dau-tu-dai-han.html</guid>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Năm 2002 ông nhìn BYD như một nhà sản xuất pin và mua doanh nghiệp của mười năm sau. Nhưng phần ít người kể là năm 2021 ông bán 10,8 triệu cổ phiếu — vì nắm giữ dài hạn chưa bao giờ là mục tiêu, hiểu doanh nghiệp mới là.</description>
-  </item>
-  <item>
-    <title>Bài 27 — Đọc báo cáo tài chính như một nhà đầu tư: đừng để những con số đẹp đánh lừa</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/doc-bao-cao-tai-chinh-nhu-mot-nha-dau-tu.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/doc-bao-cao-tai-chinh-nhu-mot-nha-dau-tu.html</guid>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Doanh thu tăng, lợi nhuận tăng, nhưng dòng tiền kinh doanh giảm bốn năm liên tiếp. Lợi nhuận là một ý kiến kế toán, dòng tiền là bằng chứng — và mười câu hỏi phải trả lời được trước khi nghĩ tới định giá.</description>
-  </item>
-  <item>
     <title>Bài 26 — Robert Hagstrom: biến tư duy Buffett thành một hệ thống đầu tư</title>
     <link>https://ltcanhwru.github.io/LTC/bai/robert-hagstrom-he-thong-dau-tu.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/robert-hagstrom-he-thong-dau-tu.html</guid>
@@ -43,11 +43,25 @@
     <description>Nếu không thể trở thành Warren Buffett, liệu có thể biến cách Buffett tư duy thành một quy trình học được? Hagstrom trả lời có — với bốn nguyên tắc, ba lớp câu hỏi và một cảnh báo: doanh nghiệp tốt và cổ phiếu tốt là hai khái niệm khác nhau.</description>
   </item>
   <item>
-    <title>Bài 25 — William Ruane: nghệ thuật xây một danh mục chỉ với vài doanh nghiệp</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/william-ruane-danh-muc-tap-trung.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/william-ruane-danh-muc-tap-trung.html</guid>
+    <title>Bài 29 — ROIC: một đồng vốn tạo ra bao nhiêu đồng giá trị?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/roic-mot-dong-von-tao-ra-bao-nhieu-gia-tri.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/roic-mot-dong-von-tao-ra-bao-nhieu-gia-tri.html</guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Năm 1970 Buffett đóng cửa công ty hợp danh và giới thiệu nhà đầu tư của mình cho Ruane. Sequoia đạt 13,33% một năm suốt hơn nửa thế kỷ — nhưng riêng năm 2022 giảm 30,5%, và đó mới là bài học về danh mục tập trung.</description>
+    <description>ROE 30% nghe đẹp hơn 20% — cho tới khi thấy công ty đầu vay gấp bốn lần vốn chủ. Và câu hỏi quan trọng hơn ROIC hiện tại luôn là: đồng vốn tiếp theo doanh nghiệp bỏ ra sẽ sinh lời bao nhiêu?</description>
+  </item>
+  <item>
+    <title>Bài 28 — Owner earnings: lợi nhuận thực sự thuộc về cổ đông là bao nhiêu?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/owner-earnings-loi-nhuan-thuoc-ve-co-dong.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/owner-earnings-loi-nhuan-thuoc-ve-co-dong.html</guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Hai công ty cùng báo lãi 1.000 tỷ, cùng EPS, cùng P/E. Nhưng một công ty đưa được 700 tỷ vào túi chủ sở hữu, công ty kia chỉ 150 tỷ. Khác biệt nằm ở khoản chi đầu tư chỉ để giữ nguyên hiện trạng.</description>
+  </item>
+  <item>
+    <title>Bài 27 — Đọc báo cáo tài chính như một nhà đầu tư: đừng để những con số đẹp đánh lừa</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/doc-bao-cao-tai-chinh-nhu-mot-nha-dau-tu.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/doc-bao-cao-tai-chinh-nhu-mot-nha-dau-tu.html</guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Doanh thu tăng, lợi nhuận tăng, nhưng dòng tiền kinh doanh giảm bốn năm liên tiếp. Lợi nhuận là một ý kiến kế toán, dòng tiền là bằng chứng — và mười câu hỏi phải trả lời được trước khi nghĩ tới định giá.</description>
   </item>
   <item>
     <title>Bài 18 — David Swensen và mô hình Yale</title>
@@ -71,6 +85,20 @@
     <description>Sau Đại khủng hoảng, khi cả thị trường chỉ tìm cổ tức cao, ông nhìn về hướng ngược lại. Cùng xuất phát 100 tỷ, doanh nghiệp tăng 20% một năm có lợi nhuận gần 3,8 lần doanh nghiệp tăng 5% sau mười năm.</description>
   </item>
   <item>
+    <title>Bài 19 — Nick Sleep: người săn những doanh nghiệp có thể tự lớn lên</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/nick-sleep-doanh-nghiep-tu-lon-len.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/nick-sleep-doanh-nghiep-tu-lon-len.html</guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Từ 2001 tới cuối 2013, Nomad tăng 921,1% trong khi MSCI World chỉ tăng 116,9%. Ông không hỏi doanh nghiệp tăng trưởng bao nhiêu phần trăm, mà hỏi tăng trưởng đó có làm doanh nghiệp mạnh hơn không.</description>
+  </item>
+  <item>
+    <title>Bài 22 — Li Lu: hiểu doanh nghiệp sâu đến mức thời gian trở thành đồng minh</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/li-lu-tu-duy-dau-tu-dai-han.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/li-lu-tu-duy-dau-tu-dai-han.html</guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Năm 2002 ông nhìn BYD như một nhà sản xuất pin và mua doanh nghiệp của mười năm sau. Nhưng phần ít người kể là năm 2021 ông bán 10,8 triệu cổ phiếu — vì nắm giữ dài hạn chưa bao giờ là mục tiêu, hiểu doanh nghiệp mới là.</description>
+  </item>
+  <item>
     <title>Bài 21 — Chris Davis: nếu tôi sở hữu 100% doanh nghiệp này, tôi kiếm được bao nhiêu?</title>
     <link>https://ltcanhwru.github.io/LTC/bai/chris-davis-owner-earnings.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/chris-davis-owner-earnings.html</guid>
@@ -85,11 +113,11 @@
     <description>Trong hơn 80.000 cổ phiếu niêm yết toàn cầu, Fundsmith chỉ tìm được chưa tới 200 doanh nghiệp đạt chuẩn. Nhưng chính việc bán Amazon năm 2023 đã dạy Smith rằng người theo trường phái đừng-làm-gì vẫn có thể sai vì làm quá nhiều.</description>
   </item>
   <item>
-    <title>Bài 19 — Nick Sleep: người săn những doanh nghiệp có thể tự lớn lên</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/nick-sleep-doanh-nghiep-tu-lon-len.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/nick-sleep-doanh-nghiep-tu-lon-len.html</guid>
+    <title>Bài 37 — Position sizing: biết mua đã khó, biết mua bao nhiêu còn khó hơn</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/position-sizing-biet-mua-bao-nhieu.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/position-sizing-biet-mua-bao-nhieu.html</guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Từ 2001 tới cuối 2013, Nomad tăng 921,1% trong khi MSCI World chỉ tăng 116,9%. Ông không hỏi doanh nghiệp tăng trưởng bao nhiêu phần trăm, mà hỏi tăng trưởng đó có làm doanh nghiệp mạnh hơn không.</description>
+    <description>Cùng một cổ phiếu giảm 50%: tỷ trọng 10% thì danh mục mất 5%, tỷ trọng 50% thì mất 25%. Định cỡ vị thế không bắt đầu bằng câu hỏi tôi tin đến đâu, mà bằng câu hỏi nếu tôi sai thì cho phép mình mất bao nhiêu.</description>
   </item>
   <item>
     <title>Bài 36 — Margin of safety: biên an toàn bao nhiêu là đủ?</title>
@@ -99,18 +127,18 @@
     <description>Không có con số cố định — và hiểu tại sao không có mới là phần quan trọng. Một tập tài sản 13.000 tỷ trên sổ sách có thể chỉ thu hồi được 9.400 tỷ, và biên an toàn phải tính trên con số thứ hai.</description>
   </item>
   <item>
-    <title>Bài 35 — Catalyst: điều gì khiến giá cổ phiếu tiến về giá trị?</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/catalyst-dieu-gi-khien-gia-tien-ve-gia-tri.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/catalyst-dieu-gi-khien-gia-tien-ve-gia-tri.html</guid>
+    <title>Bài 38 — Portfolio construction: tập trung hay đa dạng hóa?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/portfolio-construction-tap-trung-hay-da-dang-hoa.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/portfolio-construction-tap-trung-hay-da-dang-hoa.html</guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>63 trong 69 cổ phiếu chiết khấu sâu nhất sàn Việt, sau ba năm vẫn dưới 0,8 lần giá trị sổ sách. Rẻ không phải một chất xúc tác — và thị trường sẽ nhận ra cũng không phải một luận điểm.</description>
+    <description>Năm ngân hàng, năm chứng khoán, năm bất động sản, năm xây dựng — ba mươi mã nhưng chỉ một cược vĩ mô. Vấn đề không phải bạn có bao nhiêu cổ phiếu, mà bao nhiêu nguồn rủi ro thực sự độc lập.</description>
   </item>
   <item>
-    <title>Bài 34 — Activist investing: khi nhà đầu tư không chỉ mua cổ phiếu, mà thay đổi cả doanh nghiệp</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/activist-investing-thay-doi-ca-doanh-nghiep.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/activist-investing-thay-doi-ca-doanh-nghiep.html</guid>
+    <title>SIP – Bài 04: ROIC — một đồng vốn tạo ra bao nhiêu đồng lợi nhuận?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/sip-04-roic-mot-dong-von-lai-bao-nhieu.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/sip-04-roic-mot-dong-von-lai-bao-nhieu.html</guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Deep value hỏi tôi mua rẻ đến mức nào. Activist hỏi tôi có thể làm gì để giá trị đó được giải phóng. Nhưng rủi ro lớn nhất là đúng mà không thắng: bạn có thể hoàn toàn đúng và không có quyền lực nào để thay đổi.</description>
+    <description>Lấy toàn bộ 28.670 tỷ tài sản làm mẫu số thì ROIC chỉ 3,3%; nhưng phần lớn tài sản đó là tiền và 13.375 tỷ khách trả trước. Câu hỏi không phải SIP có bao nhiêu tài sản, mà cần bao nhiêu vốn thật để tạo ra lợi nhuận cốt lõi.</description>
   </item>
   <item>
     <title>Bài 39 — Investment thesis: viết luận điểm đầu tư thế nào để không tự lừa mình?</title>
@@ -120,18 +148,18 @@
     <description>Một luận điểm phải là giả thuyết có thể bị bác bỏ — nếu không thể bị bác bỏ, nó không phải luận điểm mà là niềm tin. Bài cuối của loạt: mười ô phải điền được trước khi mua, và điều kiện viết sẵn để thừa nhận mình sai.</description>
   </item>
   <item>
-    <title>Bài 38 — Portfolio construction: tập trung hay đa dạng hóa?</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/portfolio-construction-tap-trung-hay-da-dang-hoa.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/portfolio-construction-tap-trung-hay-da-dang-hoa.html</guid>
+    <title>Bài 35 — Catalyst: điều gì khiến giá cổ phiếu tiến về giá trị?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/catalyst-dieu-gi-khien-gia-tien-ve-gia-tri.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/catalyst-dieu-gi-khien-gia-tien-ve-gia-tri.html</guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Năm ngân hàng, năm chứng khoán, năm bất động sản, năm xây dựng — ba mươi mã nhưng chỉ một cược vĩ mô. Vấn đề không phải bạn có bao nhiêu cổ phiếu, mà bao nhiêu nguồn rủi ro thực sự độc lập.</description>
+    <description>63 trong 69 cổ phiếu chiết khấu sâu nhất sàn Việt, sau ba năm vẫn dưới 0,8 lần giá trị sổ sách. Rẻ không phải một chất xúc tác — và thị trường sẽ nhận ra cũng không phải một luận điểm.</description>
   </item>
   <item>
-    <title>Bài 37 — Position sizing: biết mua đã khó, biết mua bao nhiêu còn khó hơn</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/position-sizing-biet-mua-bao-nhieu.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/position-sizing-biet-mua-bao-nhieu.html</guid>
+    <title>Bài 31 — Growth: tăng trưởng tốt hay tăng trưởng độc hại?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/tang-truong-tot-hay-tang-truong-doc-hai.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/tang-truong-tot-hay-tang-truong-doc-hai.html</guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Cùng một cổ phiếu giảm 50%: tỷ trọng 10% thì danh mục mất 5%, tỷ trọng 50% thì mất 25%. Định cỡ vị thế không bắt đầu bằng câu hỏi tôi tin đến đâu, mà bằng câu hỏi nếu tôi sai thì cho phép mình mất bao nhiêu.</description>
+    <description>Muốn tăng 25% một năm với ROIC 8%, doanh nghiệp phải tái đầu tư 312% lợi nhuận — điều chỉ làm được bằng tiền của người khác. Cùng mục tiêu ấy ở ROIC 25% chỉ cần giữ lại 40%.</description>
   </item>
   <item>
     <title>Bài 30 — Moat: doanh nghiệp bảo vệ lợi nhuận bằng cách nào?</title>
@@ -141,18 +169,18 @@
     <description>Năm nguồn hào kinh tế, và một bài kiểm tra rất đơn giản: nếu tôi có 100 tỷ và một đội ngũ giỏi, tôi có xây được doanh nghiệp giống công ty này không? ROIC là bằng chứng, moat là lời giải thích, thời gian là bài kiểm tra.</description>
   </item>
   <item>
-    <title>Bài 29 — ROIC: một đồng vốn tạo ra bao nhiêu đồng giá trị?</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/roic-mot-dong-von-tao-ra-bao-nhieu-gia-tri.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/roic-mot-dong-von-tao-ra-bao-nhieu-gia-tri.html</guid>
+    <title>Bài 32 — Định giá DCF: đừng biến Excel thành máy tiên tri</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/dinh-gia-dcf-dung-bien-excel-thanh-may-tien-tri.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dinh-gia-dcf-dung-bien-excel-thanh-may-tien-tri.html</guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>ROE 30% nghe đẹp hơn 20% — cho tới khi thấy công ty đầu vay gấp bốn lần vốn chủ. Và câu hỏi quan trọng hơn ROIC hiện tại luôn là: đồng vốn tiếp theo doanh nghiệp bỏ ra sẽ sinh lời bao nhiêu?</description>
+    <description>Một điểm phần trăm ở chi phí vốn và một điểm ở tăng trưởng dài hạn làm giá trị cuối kỳ mất 23%. DCF không phải máy tính giá cổ phiếu — nó là khung buộc bạn viết ra giả định, và cách dùng tốt nhất là chạy nó ngược lại.</description>
   </item>
   <item>
-    <title>Bài 28 — Owner earnings: lợi nhuận thực sự thuộc về cổ đông là bao nhiêu?</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/owner-earnings-loi-nhuan-thuoc-ve-co-dong.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/owner-earnings-loi-nhuan-thuoc-ve-co-dong.html</guid>
+    <title>Bài 34 — Activist investing: khi nhà đầu tư không chỉ mua cổ phiếu, mà thay đổi cả doanh nghiệp</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/activist-investing-thay-doi-ca-doanh-nghiep.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/activist-investing-thay-doi-ca-doanh-nghiep.html</guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Hai công ty cùng báo lãi 1.000 tỷ, cùng EPS, cùng P/E. Nhưng một công ty đưa được 700 tỷ vào túi chủ sở hữu, công ty kia chỉ 150 tỷ. Khác biệt nằm ở khoản chi đầu tư chỉ để giữ nguyên hiện trạng.</description>
+    <description>Deep value hỏi tôi mua rẻ đến mức nào. Activist hỏi tôi có thể làm gì để giá trị đó được giải phóng. Nhưng rủi ro lớn nhất là đúng mà không thắng: bạn có thể hoàn toàn đúng và không có quyền lực nào để thay đổi.</description>
   </item>
   <item>
     <title>Bài 33 — Deep value: khi doanh nghiệp xấu lại có thể là món hời</title>
@@ -162,18 +190,25 @@
     <description>DCF hỏi doanh nghiệp sẽ tạo ra bao nhiêu tiền. Deep value hỏi nếu mọi thứ không như kỳ vọng thì tôi còn lại gì. Một bên nhìn về phía trước, một bên nhìn xuống dưới — và cổ phiếu giảm 90% chưa chắc rẻ.</description>
   </item>
   <item>
-    <title>Bài 32 — Định giá DCF: đừng biến Excel thành máy tiên tri</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/dinh-gia-dcf-dung-bien-excel-thanh-may-tien-tri.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dinh-gia-dcf-dung-bien-excel-thanh-may-tien-tri.html</guid>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Một điểm phần trăm ở chi phí vốn và một điểm ở tăng trưởng dài hạn làm giá trị cuối kỳ mất 23%. DCF không phải máy tính giá cổ phiếu — nó là khung buộc bạn viết ra giả định, và cách dùng tốt nhất là chạy nó ngược lại.</description>
+    <title>SIP – Bài 03: kiếm được 1 đồng lợi nhuận, thực sự giữ lại được bao nhiêu đồng tiền?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/sip-03-dong-tien-va-owner-earnings.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/sip-03-dong-tien-va-owner-earnings.html</guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:00 +0700</pubDate>
+    <description>LNST 1.467 tỷ nhưng dòng tiền kinh doanh 2.440 tỷ. Con số đẹp, cho tới khi tách phần đến từ vốn lưu động và thu nhập tài chính — và hỏi mỗi đồng SIP tái đầu tư sinh lời bao nhiêu.</description>
   </item>
   <item>
-    <title>Bài 31 — Growth: tăng trưởng tốt hay tăng trưởng độc hại?</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/tang-truong-tot-hay-tang-truong-doc-hai.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/tang-truong-tot-hay-tang-truong-doc-hai.html</guid>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Muốn tăng 25% một năm với ROIC 8%, doanh nghiệp phải tái đầu tư 312% lợi nhuận — điều chỉ làm được bằng tiền của người khác. Cùng mục tiêu ấy ở ROIC 25% chỉ cần giữ lại 40%.</description>
+    <title>SIP – Bài 02: 28.000 tỷ tài sản — SIP đang “nợ” hay được khách hàng tài trợ?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/sip-02-mo-xe-bang-can-doi.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/sip-02-mo-xe-bang-can-doi.html</guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 +0700</pubDate>
+    <description>22.856 tỷ nợ phải trả, nhưng nợ vay ngân hàng thật chỉ 4.817 tỷ. Phần lớn 'đòn bẩy' của SIP là 13.375 tỷ tiền khách thuê trả trước — một dạng vốn không lãi mà đối thủ khó có.</description>
+  </item>
+  <item>
+    <title>SIP – Bài 01: doanh nghiệp khu công nghiệp hay “cỗ máy dòng tiền” bị che khuất?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/sip-01-khu-cong-nghiep-hay-co-may-dong-tien.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/sip-01-khu-cong-nghiep-hay-co-may-dong-tien.html</guid>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Doanh thu 8.596 tỷ dễ khiến người ta xếp SIP vào nhóm bất động sản KCN. Nhưng biên gộp chỉ 15,6%, và câu hỏi thật là: trong 1.467 tỷ lợi nhuận, bao nhiêu là cốt lõi, bao nhiêu là tài chính và một lần?</description>
   </item>
   <item>
     <title>DCM: lợi nhuận tăng 55%, tiền đi ra 863 tỷ</title>
