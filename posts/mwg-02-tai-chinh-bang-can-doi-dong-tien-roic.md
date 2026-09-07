@@ -43,7 +43,7 @@ Lấy lợi nhuận từ hoạt động cốt lõi (lợi nhuận gộp trừ ch
 
 ROIC lịch sử là bằng chứng quá khứ; điều quyết định giá trị tương lai là **mỗi đồng vốn mới bỏ vào Bách Hóa Xanh sinh lời bao nhiêu**. Đây là chỗ dòng tiền hôm nay gặp giá trị ngày mai: tiền đang chảy ra để lấp hàng cho cửa hàng mới, đó là lý do CFO thấp. Nếu những cửa hàng đó đạt doanh thu và biên kỳ vọng, mỗi đồng vốn lưu động tạo ra dòng lợi nhuận lặp lại nhiều năm — khoản đầu tư xứng đáng. Nếu cửa hàng ở vùng thưa dân không đạt ngưỡng, cùng số vốn tạo ra ít lợi nhuận hơn. Vì thế, dòng tiền yếu đi trong giai đoạn mở rộng chưa đủ để kết luận xấu — phải theo dõi hiệu quả cửa hàng mới từng quý.
 
-## 6. Chỗ tôi có thể sai
+## 6. Một số lưu ý
 
 - **Hai dòng 13.315 tỷ và 13.241 tỷ chưa được giải thích** — cần đọc thuyết minh gốc. Nếu quý sau chúng biến mất cùng lúc, đúng là nghiệp vụ tạm thời; nếu ở lại hoặc lớn thêm, phải hỏi.
 - **Tồn kho 30.875 tỷ có nhiều hàng điện tử**, loại mất giá theo vòng đời sản phẩm; rủi ro lỗi thời không hiện ra cho tới khi phải trích lập.

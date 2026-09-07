@@ -36,7 +36,7 @@ Nếu lấy toàn bộ ~30.000 tỷ tài sản làm mẫu số, ROIC của SIP t
 
 Nhưng phải làm sạch đúng: ROIC hoạt động chỉ nên tính trên lợi nhuận từ đất + tiện ích, sau khi bỏ lãi tiền gửi, tài sản tài chính, và lợi nhuận từ liên kết (là bút toán, chưa phải tiền). Sau khi làm sạch, câu hỏi quan trọng hơn cả ROIC hiện tại là **Incremental ROIC**: mỗi đồng vốn bỏ vào Phước Đông B3 tạo ra bao nhiêu lợi nhuận — đó mới là thứ quyết định SIP là compounder hay chỉ là doanh nghiệp tài sản lớn.
 
-## 6. Chỗ tôi có thể sai
+## 6. Một số lưu ý
 
 - **Không được coi 14.023 tỷ doanh thu chưa thực hiện là “tiền miễn phí”.** Nó gắn với nghĩa vụ cung cấp hạ tầng, dịch vụ trong nhiều năm; càng nhận nhiều tiền trước, nghĩa vụ tương lai càng lớn.
 - **Lợi nhuận ngày càng phụ thuộc lãi tiền gửi (~37% LNTT)** — nhạy với lãi suất huy động; đây là phần đáng chiết khấu khi định giá.

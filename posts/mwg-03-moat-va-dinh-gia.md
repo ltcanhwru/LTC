@@ -46,7 +46,7 @@ Thị trường thực chất chỉ đang cân nhắc một biến: **biên gộ
 
 Nhìn theo **định giá từng phần**, phần lớn giá trị hôm nay nằm ở mảng điện máy cộng khối tiền ròng; Bách Hóa Xanh và quốc tế gần như được cho không ở giá hiện tại — đó là chỗ hấp dẫn, và cũng là chỗ rủi ro nếu tăng trưởng không tới.
 
-## 5. Chỗ tôi có thể sai
+## 5. Một số lưu ý
 
 - **Biên 22,2% là mức cao nhất trong chuỗi dữ liệu.** Vùng định giá cơ sở dựa trên giả định biên giữ 21–22%; nếu sai, nó sụp về kịch bản thận trọng.
 - **Lợi nhuận Bách Hóa Xanh và quốc tế là số doanh nghiệp công bố**, chưa tách trong báo cáo kiểm toán — định giá từng phần vì thế là ước lượng.
