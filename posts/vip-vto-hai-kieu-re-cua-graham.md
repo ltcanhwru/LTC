@@ -47,6 +47,25 @@ Lãi ròng Q2/2026 gấp 2,6 lần cùng kỳ. Điều quan trọng: cú nhảy 
 
 Kết quả: trừ tiền ròng 605 tỷ ra khỏi vốn hóa 847 tỷ, phần "kinh doanh" của VTO chỉ được định giá **242 tỷ đồng** — cho một cỗ máy vừa kiếm 181 tỷ trong bốn quý và trung bình 103 tỷ mỗi năm suốt ba năm. VTO trả cổ tức tiền mặt đều đặn, tỷ suất quanh 10%.
 
+### Mô hình kinh doanh: hai cánh tay chở dầu của Petrolimex, và đội tàu đang tan dần
+
+Cả hai đều là công ty vận tải trong hệ sinh thái Petrolimex, và đó là chỗ dựa lớn nhất của mô hình. Petrolimex sở hữu 51% VIPCO (qua Tổng công ty Vận tải thủy Petrolimex); đội 4 tàu ~150.000 DWT của VIP chủ yếu chạy tuyến quốc tế chở xăng dầu thành phẩm nhập khẩu cho tập đoàn mẹ. VTO có đội tàu ~143.000 DWT, mạnh ở tuyến ven biển — chiếm khoảng 40% thị phần vận tải nội địa toàn quốc, tương đương ~66% nhu cầu vận tải của Petrolimex. Nói cách khác, phần lớn hàng để chở là hàng của người nhà: một "hào" mỏng, đủ để đảm bảo sản lượng nhưng không cho quyền định giá — giá cước vẫn trôi theo chu kỳ tàu dầu.
+
+Vấn đề lớn hơn nằm ở bảng tài sản: **cả hai đang thu hẹp đội tàu chứ không mở rộng.**
+
+| Tài sản cố định ròng (tỷ đồng) | 2020 | 2022 | 2024 | 2025 |
+|---|---:|---:|---:|---:|
+| VIP | 872 | 530 | 331 | **239** |
+| VTO | 1.223 | 912 | 508 | **390** |
+| Khấu hao/năm — VIP | 151 | 143 | 107 | **94** |
+| Khấu hao/năm — VTO | 246 | 259 | 172 | **123** |
+
+Bảy năm qua, tài sản cố định của VIP co lại 70%, của VTO co 72%. Chi mua sắm tàu mới gần như bằng không: mỗi năm đội tàu khấu hao đi khoảng đúng bằng mức tài sản cố định giảm. Cả hai đang **biến những con tàu cũ thành tiền mặt** — VIP giữ lại trong tài khoản (tiền gửi phình lên, giá trị doanh nghiệp âm), VTO trả ra cho cổ đông (cổ tức ~10%).
+
+Điều này giải thích một phần lợi nhuận đẹp gần đây, nhất là ở VTO: khấu hao rơi từ 259 tỷ (2022) xuống 123 tỷ (2025) — khoản chênh 136 tỷ chảy gần như thẳng vào lợi nhuận. Một đội tàu đã khấu hao gần hết thì biên lãi và ROE trông rất cao, nhưng đó là lợi suất trên một tài sản sắp phải thay, không phải trên đồng vốn mới. Khi buộc phải đóng hoặc mua tàu thay thế, khấu hao bật lại, biên co về, và đúng khoản tiền mặt đang làm nên luận điểm đầu tư sẽ bị tiêu. Đây là mấu chốt mô hình: **hai doanh nghiệp không phải cỗ máy tăng trưởng, mà là hai cục nước đá đang tan — có điều tan ra thành tiền.**
+
+Chất lượng phân bổ vốn vì thế là biến số quyết định, và hai bên đi hai hướng. VTO trả cổ tức đều, kỷ luật — cổ đông cầm được tiền thật. VIP ôm 1.001 tỷ tiền gửi hưởng lãi ~5%, một cách giữ vốn thụ động và kém hiệu quả cho tới khi được chia hoặc tái đầu tư đúng chỗ.
+
 ### Chấm điểm theo bảy tiêu chí phòng thủ của Graham
 
 | Tiêu chí | VIP | VTO |
@@ -84,7 +103,8 @@ Nhưng với hai mã này, thước đo Graham sắc nhất là **tài sản, kh
 - **Tôi giả định "đầu tư tài chính ngắn hạn" (VIP 908 tỷ, VTO 434 tỷ) là tiền gửi ngân hàng thanh khoản cao.** Nếu là khoản đầu tư kém thanh khoản, luận điểm net-net của VIP yếu đi. Cần đọc thuyết minh dòng này.
 - **Cổ tức VIP là dấu hỏi.** Công ty trả đều ~1.000đ/năm, nhưng dữ liệu tỷ suất cổ tức trailing vừa tụt về 0 từ cuối tháng 7/2026 — cần xác nhận đợt chi cho năm 2025/2026 có thực sự diễn ra. Một doanh nghiệp ôm 1.001 tỷ tiền mà ngừng chia là vấn đề quản trị vốn, đúng rủi ro mà chiết khấu net-net phản ánh.
 - **Biên lợi nhuận của cả hai đều nhạy chu kỳ.** VTO đang hưởng giá cước cao; VIP đang chịu giá cước thấp. Chu kỳ đảo chiều có thể hoán đổi vị thế hai bên trong vài quý.
-- **Tuổi đội tàu là ẩn số.** Tàu dầu có vòng đời hữu hạn; một đội tàu già cần vốn tái đầu tư lớn — đúng khoản tiền mặt đang làm nên luận điểm.
+- **Tuổi đội tàu là ẩn số.** Tàu dầu có vòng đời hữu hạn; một đội tàu già cần vốn tái đầu tư lớn — đúng khoản tiền mặt đang làm nên luận điểm. Tôi không có tuổi bình quân chính xác của từng đội tàu, chỉ suy ra "đã khấu hao gần hết" từ tốc độ giảm của tài sản cố định.
+- **Lợi nhuận VTO đang được khấu hao thấp tô hồng.** Bao nhiêu phần trăm cú tăng lãi là giá cước, bao nhiêu là khấu hao giảm, tôi mới tách được định tính chứ chưa bóc tách chính xác từng đồng.
 - **Dữ liệu chỉ gồm mã còn niêm yết và báo cáo hợp nhất chưa kiểm toán;** cả hai đều thanh khoản giao dịch thấp, nên chiết khấu có thể tồn tại rất lâu.
 
 ### Kết luận
@@ -93,7 +113,9 @@ Nhưng với hai mã này, thước đo Graham sắc nhất là **tài sản, kh
 
 **Phỏng đoán:** VTO là lựa chọn cân bằng hơn giữa rẻ và chất lượng — một "món hời có động cơ" theo tinh thần Graham phòng thủ, với biên an toàn vẫn dày sau khi chuẩn hóa lợi nhuận đỉnh chu kỳ. VIP là canh bạc tài sản thuần: phần thắng không đến từ việc doanh nghiệp lớn lên mà từ việc khoản tiền 1.001 tỷ được trả về cho cổ đông thay vì tiêu vào đội tàu mới.
 
-**Ba thứ đáng theo dõi:** (1) VIP có thực trả cổ tức năm nay không, và có chia bớt tiền mặt bằng cổ tức đặc biệt không; (2) biên gộp của VTO có trụ trên 30% hay tụt khi giá cước hạ nhiệt; (3) kế hoạch đầu tư tàu của cả hai — vì đó là nơi khoản tiền mặt sẽ đi.
+Về mô hình, cần nhớ đây không phải hai câu chuyện tăng trưởng: cả hai đang vắt đội tàu cũ thành tiền, capex gần bằng không, và lợi nhuận đẹp một phần nhờ khấu hao giảm. Giá trị phụ thuộc vào chỗ dựa sản lượng từ Petrolimex và vào cách khoản tiền mặt được phân bổ.
+
+**Ba thứ đáng theo dõi:** (1) VIP có thực trả cổ tức năm nay không, và có chia bớt tiền mặt bằng cổ tức đặc biệt không; (2) biên gộp của VTO có trụ trên 30% hay tụt khi giá cước hạ nhiệt và khi phải tái đầu tư đội tàu; (3) kế hoạch đóng/mua tàu của cả hai — vì đó là nơi khoản tiền mặt sẽ đi, và là lúc biên lợi nhuận hiện tại bị thử thách.
 
 ---
 
