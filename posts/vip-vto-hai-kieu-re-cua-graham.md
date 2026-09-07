@@ -66,6 +66,17 @@ Bảy năm qua, tài sản cố định của VIP co lại 70%, của VTO co 72%
 
 Chất lượng phân bổ vốn vì thế là biến số quyết định, và hai bên đi hai hướng. VTO trả cổ tức đều, kỷ luật — cổ đông cầm được tiền thật. VIP ôm 1.001 tỷ tiền gửi hưởng lãi ~5%, một cách giữ vốn thụ động và kém hiệu quả cho tới khi được chia hoặc tái đầu tư đúng chỗ.
 
+### Và tái đầu tư sắp xảy ra — khoản tiền mặt sắp thành con tàu
+
+Đây không còn là ẩn số: cả hai đã có kế hoạch thay tàu được đại hội cổ đông thông qua.
+
+- **VIP** (ĐHĐCĐ 4/2025) đặt việc trẻ hóa đội tàu là "cấp bách", nhắm cỡ MR 40.000–55.000 DWT. Phương án cụ thể: mua một tàu MR1 khoảng **36 triệu USD (~850 tỷ đồng)**, nâng năng lực vận tải hơn 30%, với **ít nhất 40% vốn tự có, phần còn lại đi vay**. Hạn mức được duyệt lên tới 45–52,5 triệu USD tùy chọn tàu cũ hay đóng mới.
+- **VTO** (ĐHĐCĐ 2026) nhắm một tàu viễn dương ~40.000 DWT, dưới 10 tuổi, khoảng **45 triệu USD (~1.150 tỷ đồng)**, thay tàu Petrolimex 08 đã thanh lý, nâng tổng trọng tải khoảng 19%, triển khai nửa đầu 2026.
+
+Đặt cạnh bảng cân đối, con số nói lên tất cả: chiếc tàu 850 tỷ của VIP gần bằng đúng toàn bộ 908 tỷ tiền gửi; khoản 1.150 tỷ của VTO còn lớn hơn cả tiền ròng 605 tỷ, tức phải vay thêm hoặc bù bằng tiền bán tàu cũ. Nghĩa là luận điểm "mua VIP dưới tiền mặt" và "phần kinh doanh VTO gần như cho không" **có tuổi thọ hữu hạn** — chúng đúng chừng nào tiền còn nằm trong ngân hàng. Khi con tàu về, tiền mặt chuyển thành tài sản cố định (ở VIP kèm khoản nợ vay lần đầu), chiết khấu net-net biến mất, và câu chuyện chuyển từ "định giá tài sản" sang "con tàu mới đẻ ra bao nhiêu lãi". Nói cách khác, đây không phải hai kẻ ôm tiền vĩnh viễn mà là hai doanh nghiệp đang ở **đáy của một chu kỳ thay tàu**.
+
+Một chi tiết đáng chú ý: tính đến báo cáo quý II/2026, VIP vẫn còn nguyên 908 tỷ tiền gửi và không một đồng nợ vay — nghĩa là thương vụ vẫn chưa chốt, chậm so với mốc quý III–IV/2025 từng đặt ra. Chậm giải ngân giữ nguyên biên an toàn tài sản, nhưng cũng là tín hiệu về tốc độ ra quyết định.
+
 ### Chấm điểm theo bảy tiêu chí phòng thủ của Graham
 
 | Tiêu chí | VIP | VTO |
@@ -113,7 +124,7 @@ Nhưng với hai mã này, thước đo Graham sắc nhất là **tài sản, kh
 
 **Phỏng đoán:** VTO là lựa chọn cân bằng hơn giữa rẻ và chất lượng — một "món hời có động cơ" theo tinh thần Graham phòng thủ, với biên an toàn vẫn dày sau khi chuẩn hóa lợi nhuận đỉnh chu kỳ. VIP là canh bạc tài sản thuần: phần thắng không đến từ việc doanh nghiệp lớn lên mà từ việc khoản tiền 1.001 tỷ được trả về cho cổ đông thay vì tiêu vào đội tàu mới.
 
-Về mô hình, cần nhớ đây không phải hai câu chuyện tăng trưởng: cả hai đang vắt đội tàu cũ thành tiền, capex gần bằng không, và lợi nhuận đẹp một phần nhờ khấu hao giảm. Giá trị phụ thuộc vào chỗ dựa sản lượng từ Petrolimex và vào cách khoản tiền mặt được phân bổ.
+Về mô hình, cần nhớ đây không phải hai câu chuyện tăng trưởng: nhiều năm qua cả hai vắt đội tàu cũ thành tiền, capex gần bằng không, và lợi nhuận đẹp một phần nhờ khấu hao giảm. Nhưng chu kỳ đó sắp đảo: cả hai đã duyệt kế hoạch mua tàu ~36–45 triệu USD, tiêu gần hết — thậm chí vượt — khoản tiền mặt đang làm nên định giá. Đó vừa là rủi ro (chiết khấu tài sản tan, VIP gánh nợ lần đầu), vừa là cơ hội (năng lực vận tải tăng 19–30% đúng lúc giá cước cao). Giá trị vì thế phụ thuộc vào chỗ dựa sản lượng từ Petrolimex và vào việc con tàu mới sinh lời ra sao trên đồng vốn bỏ ra.
 
 **Ba thứ đáng theo dõi:** (1) VIP có thực trả cổ tức năm nay không, và có chia bớt tiền mặt bằng cổ tức đặc biệt không; (2) biên gộp của VTO có trụ trên 30% hay tụt khi giá cước hạ nhiệt và khi phải tái đầu tư đội tàu; (3) kế hoạch đóng/mua tàu của cả hai — vì đó là nơi khoản tiền mặt sẽ đi, và là lúc biên lợi nhuận hiện tại bị thử thách.
 
