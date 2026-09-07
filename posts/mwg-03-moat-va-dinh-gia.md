@@ -1,4 +1,4 @@
-# MWG – Bài 05: moat ở đâu, và trả giá bao nhiêu cho Thế Giới Di Động?
+# MWG – Bài 03: moat ở đâu, và trả giá bao nhiêu cho Thế Giới Di Động?
 
 ROIC cao là bằng chứng, nhưng không tự giải thích vì sao duy trì được. Câu hỏi cuối: MWG có lợi thế cạnh tranh bền, hay chỉ là một doanh nghiệp vận hành giỏi trong một ngành dễ bị bào mòn? Và ở giá hôm nay, trả bao nhiêu là hợp lý?
 
@@ -16,7 +16,7 @@ Bán lẻ gần như không có bằng sáng chế, không có chi phí chuyển
 | Thương hiệu & hậu mãi | Niềm tin hàng chính hãng, bảo hành | Vừa |
 | Văn hóa vận hành | Kỷ luật đóng/mở cửa hàng theo hiệu quả | Vừa |
 
-Ba điểm đáng tin nhất: **quy mô mua hàng** biến thành lợi thế tài chính cụ thể — nhà cung cấp tài trợ gần một nửa tồn kho ([Bài 03](post.html?p=mwg-03-bang-can-doi-va-von-luu-dong-am)); **khả năng sống sót qua cuộc chiến giá 2022–2023**, thứ đã xóa sổ nhiều chuỗi nhỏ và để MWG bước ra trong một thị trường hợp nhất — bản thân việc chịu đựng được một cuộc tiêu hao là một dạng hào; và **chuỗi cung ứng Bách Hóa Xanh**, con hào có thể sâu nhất nếu xây xong, vì vận hành kho lạnh – hàng tươi cho vài nghìn cửa hàng với hư hao thấp là việc tốn nhiều năm để làm đúng.
+Ba điểm đáng tin nhất: **quy mô mua hàng** biến thành lợi thế tài chính cụ thể — nhà cung cấp tài trợ gần một nửa tồn kho ([Bài 02](post.html?p=mwg-02-tai-chinh-bang-can-doi-dong-tien-roic)); **khả năng sống sót qua cuộc chiến giá 2022–2023**, thứ đã xóa sổ nhiều chuỗi nhỏ và để MWG bước ra trong một thị trường hợp nhất — bản thân việc chịu đựng được một cuộc tiêu hao là một dạng hào; và **chuỗi cung ứng Bách Hóa Xanh**, con hào có thể sâu nhất nếu xây xong, vì vận hành kho lạnh – hàng tươi cho vài nghìn cửa hàng với hư hao thấp là việc tốn nhiều năm để làm đúng.
 
 Nhưng hào này có trần. MWG **không có sức mạnh định giá** — họ cạnh tranh bằng giá thấp. Ngành điện thoại – điện máy tăng chậm và bị thương mại điện tử gặm dần. Nghĩa là hào của MWG giỏi ở việc bảo vệ thị phần và biên hiện có, chứ không tạo tăng trưởng biên cao; tăng trưởng phải đến từ Bách Hóa Xanh và quốc tế — nơi hào còn đang xây.
 
@@ -56,4 +56,4 @@ MWG là một doanh nghiệp vận hành xuất sắc đã qua đáy 2023 thuy�
 
 ---
 
-*Loạt 5 bài phân tích MWG. Số liệu tài chính từ dữ liệu VNDirect; cơ cấu chuỗi và kết quả 6 tháng 2026 từ công bố MWG, Vietstock, Tin nhanh Chứng khoán; giá và chỉ số định giá đầu tháng 9/2026, nguồn VNDirect và Simplize. Dự phóng và định giá do người viết tính.*
+*Loạt 3 bài phân tích MWG. Số liệu tài chính từ dữ liệu VNDirect; cơ cấu chuỗi và kết quả 6 tháng 2026 từ công bố MWG, Vietstock, Tin nhanh Chứng khoán; giá và chỉ số định giá đầu tháng 9/2026, nguồn VNDirect và Simplize. Dự phóng và định giá do người viết tính.*

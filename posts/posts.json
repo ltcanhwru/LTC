@@ -1,103 +1,63 @@
 [
   {
-    "slug": "mwg-05-moat-va-dinh-gia",
-    "title": "MWG – Bài 05: moat ở đâu, và trả giá bao nhiêu cho Thế Giới Di Động?",
+    "slug": "mwg-03-moat-va-dinh-gia",
+    "title": "MWG – Bài 03: moat ở đâu, và trả giá bao nhiêu cho Thế Giới Di Động?",
     "date": "2026-09-07",
     "excerpt": "Bán lẻ vốn ít moat, nhưng cuộc chiến giá 2022–2023 lại là lúc hào của MWG rộng ra. P/E gần 11 lần với 21.000 tỷ tiền ròng đang chiết khấu đúng một biến: biên gộp 22% là mặt bằng mới hay đỉnh chu kỳ?",
     "tags": ["Cổ phiếu", "Phân tích"],
     "cover": "",
     "video": "",
-    "file": "mwg-05-moat-va-dinh-gia.md"
+    "file": "mwg-03-moat-va-dinh-gia.md"
   },
   {
-    "slug": "mwg-04-dong-tien-va-roic",
-    "title": "MWG – Bài 04: dòng tiền và ROIC — lợi nhuận có về, một đồng vốn sinh lời bao nhiêu?",
+    "slug": "mwg-02-tai-chinh-bang-can-doi-dong-tien-roic",
+    "title": "MWG – Bài 02: ai tài trợ cho Thế Giới Di Động, lợi nhuận có về, và vốn sinh lời bao nhiêu?",
     "date": "2026-09-07",
-    "excerpt": "6 tháng lãi 6.113 tỷ nhưng dòng tiền kinh doanh chỉ 2.382 tỷ — chênh lệch nằm ở tồn kho bỏ vào mở 632 cửa hàng Bách Hóa Xanh. Vốn cố định chỉ 600 tỷ/năm, và đó là lý do ROIC của MWG rất cao.",
+    "excerpt": "Nhà cung cấp gánh gần nửa tồn kho, MWG dư tiền ròng 21.254 tỷ; dòng tiền 6 tháng chỉ 2.382 tỷ vì tiền chảy vào mở cửa hàng; và ROIC rất cao nhờ nhẹ tài sản, không phải nhờ biên dày.",
     "tags": ["Cổ phiếu", "Phân tích"],
     "cover": "",
     "video": "",
-    "file": "mwg-04-dong-tien-va-roic.md"
+    "file": "mwg-02-tai-chinh-bang-can-doi-dong-tien-roic.md"
   },
   {
-    "slug": "mwg-03-bang-can-doi-va-von-luu-dong-am",
-    "title": "MWG – Bài 03: bảng cân đối, vốn lưu động, và ai đang tài trợ cho Thế Giới Di Động",
-    "date": "2026-09-07",
-    "excerpt": "Nhà cung cấp tài trợ gần một nửa tồn kho, MWG dư tiền ròng 21.254 tỷ mà vẫn vay ngắn để ăn chênh lãi suất, và một cú nhảy tài sản 20.900 tỷ chỉ là nghiệp vụ khóa sổ — đọc lướt là sai 20%.",
-    "tags": ["Cổ phiếu", "Phân tích"],
-    "cover": "",
-    "video": "",
-    "file": "mwg-03-bang-can-doi-va-von-luu-dong-am.md"
-  },
-  {
-    "slug": "mwg-02-bach-hoa-xanh-canh-bac-lon",
-    "title": "MWG – Bài 02: Bách Hóa Xanh, canh bạc lớn nhất của Thế Giới Di Động",
+    "slug": "mwg-01-hoi-sinh-ba-mang-va-bach-hoa-xanh",
+    "title": "MWG – Bài 01: từ lãi 168 tỷ đến 7.000 tỷ, và canh bạc Bách Hóa Xanh",
     "date": "2026-09-06",
-    "excerpt": "Từ khối u lỗ nghìn tỷ đến mục tiêu lãi 1.800 tỷ và 3.191 cửa hàng. Nhưng 'hơn 800 cửa hàng có lãi' không đồng nghĩa mảng này lãi to — biên tạp hóa chỉ khoảng 3%, và đây là ván thắng bằng quy mô, không phải biên.",
+    "excerpt": "Năm 2023 MWG lãi vỏn vẹn 168 tỷ — một lần suýt chết; hai năm sau lãi gấp 42 lần. Ba cỗ máy rất khác nhau, và Bách Hóa Xanh vừa lật ngửa ván bài với mục tiêu lãi 1.800 tỷ trên biên chỉ 3%.",
     "tags": ["Cổ phiếu", "Phân tích"],
     "cover": "",
     "video": "",
-    "file": "mwg-02-bach-hoa-xanh-canh-bac-lon.md"
+    "file": "mwg-01-hoi-sinh-ba-mang-va-bach-hoa-xanh.md"
   },
   {
-    "slug": "mwg-01-hoi-sinh-va-ba-mang",
-    "title": "MWG – Bài 01: từ lãi 168 tỷ đến 7.000 tỷ, và ba cỗ máy bên trong Thế Giới Di Động",
-    "date": "2026-09-06",
-    "excerpt": "Năm 2023 MWG lãi vỏn vẹn 168 tỷ trên doanh thu 118.000 tỷ — một lần suýt chết. Hai năm sau lãi gấp 42 lần. Bên trong là ba cỗ máy rất khác nhau, và không thể định giá bằng một P/E duy nhất.",
-    "tags": ["Cổ phiếu", "Phân tích"],
-    "cover": "",
-    "video": "",
-    "file": "mwg-01-hoi-sinh-va-ba-mang.md"
-  },
-  {
-    "slug": "sip-05-moat-o-dau",
-    "title": "SIP – Bài 05: moat ở đâu, tại sao đối thủ không dễ “copy” mô hình Saigon VRG?",
-    "date": "2026-09-05",
-    "excerpt": "Nếu có 10.000 tỷ và một đội ngũ giỏi, có dựng lại được Saigon VRG không? Năm loại hào — quỹ đất gốc cao su, vị trí cụm, chi phí chuyển đổi, hệ sinh thái tiện ích, và 'float' 14.000 tỷ của khách hàng — và thứ mà tiền không mua được trong ngắn hạn.",
-    "tags": ["Cổ phiếu", "Phân tích"],
-    "cover": "",
-    "video": "",
-    "file": "sip-05-moat-o-dau.md"
-  },
-  {
-    "slug": "sip-04-roic-mot-dong-von-lai-bao-nhieu",
-    "title": "SIP – Bài 04: ROIC — một đồng vốn tạo ra bao nhiêu đồng lợi nhuận?",
-    "date": "2026-09-04",
-    "excerpt": "Lấy toàn bộ 28.670 tỷ tài sản làm mẫu số thì ROIC chỉ 3,3%; nhưng phần lớn tài sản đó là tiền và 13.375 tỷ khách trả trước. Câu hỏi không phải SIP có bao nhiêu tài sản, mà cần bao nhiêu vốn thật để tạo ra lợi nhuận cốt lõi.",
-    "tags": ["Cổ phiếu", "Phân tích"],
-    "cover": "",
-    "video": "",
-    "file": "sip-04-roic-mot-dong-von-lai-bao-nhieu.md"
-  },
-  {
-    "slug": "sip-03-dong-tien-va-owner-earnings",
-    "title": "SIP – Bài 03: kiếm được 1 đồng lợi nhuận, thực sự giữ lại được bao nhiêu đồng tiền?",
+    "slug": "sip-03-moat-va-dinh-gia",
+    "title": "SIP – Bài 03: moat ở đâu, và định giá bao nhiêu là hợp lý?",
     "date": "2026-09-03",
-    "excerpt": "LNST 1.467 tỷ nhưng dòng tiền kinh doanh 2.440 tỷ. Con số đẹp, cho tới khi tách phần đến từ vốn lưu động và thu nhập tài chính — và hỏi mỗi đồng SIP tái đầu tư sinh lời bao nhiêu.",
+    "excerpt": "Ba chân hào khó copy — quỹ đất gốc cao su, hệ sinh thái tiện ích trói khách, và 'float' 14.000 tỷ khách trả trước. Ở P/E 8,3 lần so với lịch sử ~12, SIP đang chiết khấu ~20% dưới vùng hợp lý.",
     "tags": ["Cổ phiếu", "Phân tích"],
     "cover": "",
     "video": "",
-    "file": "sip-03-dong-tien-va-owner-earnings.md"
+    "file": "sip-03-moat-va-dinh-gia.md"
   },
   {
-    "slug": "sip-02-mo-xe-bang-can-doi",
-    "title": "SIP – Bài 02: 28.000 tỷ tài sản — SIP đang “nợ” hay được khách hàng tài trợ?",
+    "slug": "sip-02-tai-chinh-float-dong-tien-roic",
+    "title": "SIP – Bài 02: 24.700 tỷ “nợ”, nhưng ai đang tài trợ cho ai?",
     "date": "2026-09-02",
-    "excerpt": "22.856 tỷ nợ phải trả, nhưng nợ vay ngân hàng thật chỉ 4.817 tỷ. Phần lớn 'đòn bẩy' của SIP là 13.375 tỷ tiền khách thuê trả trước — một dạng vốn không lãi mà đối thủ khó có.",
+    "excerpt": "Nợ/vốn chủ 4,6 lần nghe đáng sợ, nhưng nợ vay thật chỉ 5.507 tỷ — phần lớn là 14.023 tỷ khách thuê trả trước. SIP dư tiền ròng ~6.850 tỷ và thu 379 tỷ lãi tiền gửi nửa năm, một cỗ máy 'float' nhạy lãi suất.",
     "tags": ["Cổ phiếu", "Phân tích"],
     "cover": "",
     "video": "",
-    "file": "sip-02-mo-xe-bang-can-doi.md"
+    "file": "sip-02-tai-chinh-float-dong-tien-roic.md"
   },
   {
-    "slug": "sip-01-khu-cong-nghiep-hay-co-may-dong-tien",
+    "slug": "sip-01-dien-nuoc-va-cho-thue-dat",
     "title": "SIP – Bài 01: doanh nghiệp khu công nghiệp hay “cỗ máy dòng tiền” bị che khuất?",
     "date": "2026-09-01",
-    "excerpt": "Doanh thu 8.596 tỷ dễ khiến người ta xếp SIP vào nhóm bất động sản KCN. Nhưng biên gộp chỉ 15,6%, và câu hỏi thật là: trong 1.467 tỷ lợi nhuận, bao nhiêu là cốt lõi, bao nhiêu là tài chính và một lần?",
+    "excerpt": "Doanh thu 2.400 tỷ mỗi quý nhưng biên gộp chỉ 15%: điện – nước gánh 80% doanh thu ở biên 8,6%, còn cho thuê đất chỉ 5% doanh thu nhưng biên 69%. Đừng nhìn doanh thu để đánh giá SIP.",
     "tags": ["Cổ phiếu", "Phân tích"],
     "cover": "",
     "video": "",
-    "file": "sip-01-khu-cong-nghiep-hay-co-may-dong-tien.md"
+    "file": "sip-01-dien-nuoc-va-cho-thue-dat.md"
   },
   {
     "slug": "investment-thesis-viet-luan-diem-dau-tu",
