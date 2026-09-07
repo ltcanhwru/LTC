@@ -6,7 +6,42 @@
   <description>Nơi tôi lưu lại những bài viết, vlog và phân tích cá nhân về công nghệ, cổ phiếu, sách vở và cuộc sống.</description>
   <language>vi</language>
   <atom:link href="https://ltcanhwru.github.io/LTC/feed.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Sat, 05 Sep 2026 00:00:00 +0700</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0700</lastBuildDate>
+  <item>
+    <title>MWG – Bài 03: bảng cân đối, vốn lưu động, và ai đang tài trợ cho Thế Giới Di Động</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/mwg-03-bang-can-doi-va-von-luu-dong-am.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mwg-03-bang-can-doi-va-von-luu-dong-am.html</guid>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Nhà cung cấp tài trợ gần một nửa tồn kho, MWG dư tiền ròng 21.254 tỷ mà vẫn vay ngắn để ăn chênh lãi suất, và một cú nhảy tài sản 20.900 tỷ chỉ là nghiệp vụ khóa sổ — đọc lướt là sai 20%.</description>
+  </item>
+  <item>
+    <title>MWG – Bài 04: dòng tiền và ROIC — lợi nhuận có về, một đồng vốn sinh lời bao nhiêu?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/mwg-04-dong-tien-va-roic.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mwg-04-dong-tien-va-roic.html</guid>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 +0700</pubDate>
+    <description>6 tháng lãi 6.113 tỷ nhưng dòng tiền kinh doanh chỉ 2.382 tỷ — chênh lệch nằm ở tồn kho bỏ vào mở 632 cửa hàng Bách Hóa Xanh. Vốn cố định chỉ 600 tỷ/năm, và đó là lý do ROIC của MWG rất cao.</description>
+  </item>
+  <item>
+    <title>MWG – Bài 05: moat ở đâu, và trả giá bao nhiêu cho Thế Giới Di Động?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/mwg-05-moat-va-dinh-gia.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mwg-05-moat-va-dinh-gia.html</guid>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Bán lẻ vốn ít moat, nhưng cuộc chiến giá 2022–2023 lại là lúc hào của MWG rộng ra. P/E gần 11 lần với 21.000 tỷ tiền ròng đang chiết khấu đúng một biến: biên gộp 22% là mặt bằng mới hay đỉnh chu kỳ?</description>
+  </item>
+  <item>
+    <title>MWG – Bài 01: từ lãi 168 tỷ đến 7.000 tỷ, và ba cỗ máy bên trong Thế Giới Di Động</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/mwg-01-hoi-sinh-va-ba-mang.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mwg-01-hoi-sinh-va-ba-mang.html</guid>
+    <pubDate>Sun, 06 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Năm 2023 MWG lãi vỏn vẹn 168 tỷ trên doanh thu 118.000 tỷ — một lần suýt chết. Hai năm sau lãi gấp 42 lần. Bên trong là ba cỗ máy rất khác nhau, và không thể định giá bằng một P/E duy nhất.</description>
+  </item>
+  <item>
+    <title>MWG – Bài 02: Bách Hóa Xanh, canh bạc lớn nhất của Thế Giới Di Động</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/mwg-02-bach-hoa-xanh-canh-bac-lon.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mwg-02-bach-hoa-xanh-canh-bac-lon.html</guid>
+    <pubDate>Sun, 06 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Từ khối u lỗ nghìn tỷ đến mục tiêu lãi 1.800 tỷ và 3.191 cửa hàng. Nhưng 'hơn 800 cửa hàng có lãi' không đồng nghĩa mảng này lãi to — biên tạp hóa chỉ khoảng 3%, và đây là ván thắng bằng quy mô, không phải biên.</description>
+  </item>
   <item>
     <title>SIP – Bài 05: moat ở đâu, tại sao đối thủ không dễ “copy” mô hình Saigon VRG?</title>
     <link>https://ltcanhwru.github.io/LTC/bai/sip-05-moat-o-dau.html</link>
