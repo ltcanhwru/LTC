@@ -1,0 +1,83 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="440" role="img" aria-label="So luot tau cap ben HTIT theo thang tu thang 5 nam 2025 den thang 9 nam 2026, tach phan tau tu 100.000 DWT tro len">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12px;font-weight:650}.cvi .c{font-size:12.5px}.cvi .ax{font-size:11px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}</style>
+<rect x="0.5" y="0.5" width="879" height="439" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Lượt tàu cập bến HTIT theo tháng</text>
+<text class="s" x="36" y="62">Phần đậm là tàu từ 100.000 DWT trở lên. Mở bến tháng 4/2025; cột T9/26 mới có 12 ngày.</text>
+<line class="bl" x1="118" y1="330" x2="832" y2="330"/><text class="ax" x="110" y="334" text-anchor="end">0</text>
+<line class="gl" x1="118" y1="290.4" x2="832" y2="290.4"/><text class="ax" x="110" y="294.4" text-anchor="end">5</text>
+<line class="gl" x1="118" y1="250.7" x2="832" y2="250.7"/><text class="ax" x="110" y="254.7" text-anchor="end">10</text>
+<line class="gl" x1="118" y1="211.1" x2="832" y2="211.1"/><text class="ax" x="110" y="215.1" text-anchor="end">15</text>
+<line class="gl" x1="118" y1="171.4" x2="832" y2="171.4"/><text class="ax" x="110" y="175.4" text-anchor="end">20</text>
+<line class="gl" x1="118" y1="131.8" x2="832" y2="131.8"/><text class="ax" x="110" y="135.8" text-anchor="end">25</text>
+<rect x="126" y="282.4" width="26" height="47.6" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="126" y="330" width="26" height="0" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="139" y="275.4" text-anchor="middle">6</text>
+<text class="ax" x="139" y="352" text-anchor="middle">T5/25</text>
+<rect x="168" y="290.4" width="26" height="39.6" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="168" y="330" width="26" height="0" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="181" y="283.4" text-anchor="middle">5</text>
+<text class="ax" x="181" y="352" text-anchor="middle">T6/25</text>
+<rect x="210" y="266.6" width="26" height="63.4" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="210" y="330" width="26" height="0" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="223" y="259.6" text-anchor="middle">8</text>
+<text class="ax" x="223" y="352" text-anchor="middle">T7/25</text>
+<rect x="252" y="250.7" width="26" height="71.4" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="252" y="322.1" width="26" height="7.9" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="265" y="243.7" text-anchor="middle">10</text>
+<text class="ax" x="265" y="352" text-anchor="middle">T8/25</text>
+<rect x="294" y="219" width="26" height="55.5" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="294" y="274.5" width="26" height="55.5" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="307" y="212" text-anchor="middle">14</text>
+<text class="ax" x="307" y="352" text-anchor="middle">T9/25</text>
+<rect x="336" y="219" width="26" height="63.4" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="336" y="282.4" width="26" height="47.6" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="349" y="212" text-anchor="middle">14</text>
+<text class="ax" x="349" y="352" text-anchor="middle">T10/25</text>
+<rect x="378" y="187.3" width="26" height="55.5" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="378" y="242.8" width="26" height="87.2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="391" y="180.3" text-anchor="middle">18</text>
+<text class="ax" x="391" y="352" text-anchor="middle">T11/25</text>
+<rect x="420" y="195.2" width="26" height="47.6" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="420" y="242.8" width="26" height="87.2" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="433" y="188.2" text-anchor="middle">17</text>
+<text class="ax" x="433" y="352" text-anchor="middle">T12/25</text>
+<rect x="462" y="163.5" width="26" height="47.6" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="462" y="211.1" width="26" height="118.9" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="475" y="156.5" text-anchor="middle">21</text>
+<text class="ax" x="475" y="352" text-anchor="middle">T1/26</text>
+<rect x="504" y="226.9" width="26" height="47.6" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="504" y="274.5" width="26" height="55.5" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="517" y="219.9" text-anchor="middle">13</text>
+<text class="ax" x="517" y="352" text-anchor="middle">T2/26</text>
+<rect x="546" y="163.5" width="26" height="71.4" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="546" y="234.9" width="26" height="95.1" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="559" y="156.5" text-anchor="middle">21</text>
+<text class="ax" x="559" y="352" text-anchor="middle">T3/26</text>
+<rect x="588" y="171.4" width="26" height="103.1" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="588" y="274.5" width="26" height="55.5" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="601" y="164.4" text-anchor="middle">20</text>
+<text class="ax" x="601" y="352" text-anchor="middle">T4/26</text>
+<rect x="630" y="155.6" width="26" height="71.3" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="630" y="226.9" width="26" height="103.1" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="643" y="148.6" text-anchor="middle">22</text>
+<text class="ax" x="643" y="352" text-anchor="middle">T5/26</text>
+<rect x="672" y="123.9" width="26" height="87.2" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="672" y="211.1" width="26" height="118.9" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="685" y="116.9" text-anchor="middle">26</text>
+<text class="ax" x="685" y="352" text-anchor="middle">T6/26</text>
+<rect x="714" y="123.9" width="26" height="95.1" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="714" y="219" width="26" height="111" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="727" y="116.9" text-anchor="middle">26</text>
+<text class="ax" x="727" y="352" text-anchor="middle">T7/26</text>
+<rect x="756" y="139.7" width="26" height="63.4" fill="var(--cv-a2,#9ecbaa)"/>
+<rect x="756" y="203.1" width="26" height="126.9" fill="var(--cv-a1,#2e7d43)"/>
+<text class="v" x="769" y="132.7" text-anchor="middle">24</text>
+<text class="ax" x="769" y="352" text-anchor="middle">T8/26</text>
+<rect x="798" y="250.7" width="26" height="39.7" fill="var(--cv-a2,#9ecbaa)" opacity="0.55"/>
+<rect x="798" y="290.4" width="26" height="39.6" fill="var(--cv-a1,#2e7d43)" opacity="0.55"/>
+<text class="v" x="811" y="243.7" text-anchor="middle">10</text>
+<text class="ax" x="811" y="352" text-anchor="middle">T9/26</text>
+<rect x="118" y="378" width="13" height="13" fill="var(--cv-a1,#2e7d43)"/><text class="c" x="138" y="389">tàu ≥ 100.000 DWT</text>
+<rect x="290" y="378" width="13" height="13" fill="var(--cv-a2,#9ecbaa)"/><text class="c" x="310" y="389">tàu &lt; 100.000 DWT</text>
+<text class="s" x="832" y="389" text-anchor="end">Nguồn: kế hoạch điều động tàu, Cảng vụ hàng hải Hải Phòng</text>
+</svg>

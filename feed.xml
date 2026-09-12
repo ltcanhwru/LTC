@@ -6,7 +6,14 @@
   <description>Nơi tôi lưu lại những bài viết, vlog và phân tích cá nhân về công nghệ, cổ phiếu, sách vở và cuộc sống.</description>
   <language>vi</language>
   <atom:link href="https://ltcanhwru.github.io/LTC/feed.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0700</lastBuildDate>
+  <lastBuildDate>Sat, 12 Sep 2026 00:00:00 +0700</lastBuildDate>
+  <item>
+    <title>Đếm tàu vào HTIT: từ 6 lượt lên 26 một tháng, rồi chững</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/htit-dem-tau-tu-6-len-26-luot.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/htit-dem-tau-tu-6-len-26-luot.html</guid>
+    <pubDate>Sat, 12 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Tháng 5/2025 bến số 3, 4 Lạch Huyện đón 6 lượt tàu, chiếc lớn nhất 42.011 DWT; tháng 8/2026 là 24 lượt với hai phần ba từ 100.000 DWT trở lên. Đếm 293 lượt từ kế hoạch điều động tàu của Cảng vụ Hải Phòng cho thấy tải trọng bình quân tăng từ 38.559 lên 102.469 DWT — nhưng ba tháng gần nhất đã đi ngang quanh 6 lượt mỗi tuần, và nhịp đó chỉ cho khoảng 600–675 nghìn TEU cả năm, dưới kế hoạch 700 nghìn.</description>
+  </item>
   <item>
     <title>DRI tháng 8: sản lượng hụt, và đã bán nhiều hơn làm ra</title>
     <link>https://ltcanhwru.github.io/LTC/bai/dri-thang-8-san-luong-hut.html</link>
