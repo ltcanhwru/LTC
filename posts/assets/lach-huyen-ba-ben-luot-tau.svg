@@ -1,0 +1,83 @@
+<svg class="cvi" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="440" role="img" aria-label="So luot tau moi thang tai ba ben nuoc sau Lach Huyen: HICT ben 1-2, HTIT ben 3-4, HHIT ben 5-6, tu thang 4 nam 2025 den thang 8 nam 2026">
+<style>.cvi text{font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;fill:var(--cv-tx,#15261a)}.cvi .t{font-size:17.5px;font-weight:650}.cvi .s{font-size:12.5px;fill:var(--cv-mu,#4b6551)}.cvi .v{font-size:12px;font-weight:650}.cvi .c{font-size:12.5px;font-weight:650}.cvi .ax{font-size:11px;fill:var(--cv-mu,#4b6551)}.cvi .gl{stroke:var(--cv-gr,#dceed4);stroke-width:1}.cvi .bl{stroke:var(--cv-bd,#c8e2bd);stroke-width:1}</style>
+<rect x="0.5" y="0.5" width="879" height="439" rx="14" fill="var(--cv-bg,#f6fbf3)" stroke="var(--cv-bd,#c8e2bd)"/>
+<text class="t" x="36" y="40">Lượt tàu mỗi tháng ở ba bến nước sâu Lạch Huyện</text>
+<text class="s" x="36" y="62">Bến 1-2 (HICT) đi ngang, bến 3-4 (HTIT) vượt bến 5-6 (HHIT) từ tháng 6/2026.</text>
+<line class="bl" x1="110" y1="332" x2="790" y2="332"/><text class="ax" x="102" y="336" text-anchor="end">0</text>
+<line class="gl" x1="110" y1="285.8" x2="790" y2="285.8"/><text class="ax" x="102" y="289.8" text-anchor="end">10</text>
+<line class="gl" x1="110" y1="239.5" x2="790" y2="239.5"/><text class="ax" x="102" y="243.5" text-anchor="end">20</text>
+<line class="gl" x1="110" y1="193.2" x2="790" y2="193.2"/><text class="ax" x="102" y="197.2" text-anchor="end">30</text>
+<line class="gl" x1="110" y1="147" x2="790" y2="147"/><text class="ax" x="102" y="151" text-anchor="end">40</text>
+<polyline points="110,142.4 152.5,184 195,128.5 237.5,160.9 280,170.1 322.5,193.2 365,165.5 407.5,156.2 450,147 492.5,128.5 535,156.2 577.5,128.5 620,128.5 662.5,142.4 705,160.9 747.5,179.4 790,184" fill="none" stroke="var(--cv-a2,#9ecbaa)" stroke-width="3"/>
+<circle cx="110" cy="142.4" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="152.5" cy="184" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="195" cy="128.5" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="237.5" cy="160.9" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="280" cy="170.1" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="322.5" cy="193.2" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="365" cy="165.5" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="407.5" cy="156.2" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="450" cy="147" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="492.5" cy="128.5" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="535" cy="156.2" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="577.5" cy="128.5" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="620" cy="128.5" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="662.5" cy="142.4" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="705" cy="160.9" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="747.5" cy="179.4" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<circle cx="790" cy="184" r="3.4" fill="var(--cv-a2,#9ecbaa)"/>
+<text class="c" x="800" y="188" text-anchor="start" fill="var(--cv-a2,#9ecbaa)">HICT</text>
+<text class="v" x="800" y="204" text-anchor="start" fill="var(--cv-a2,#9ecbaa)">32</text>
+<polyline points="110,332 152.5,304.2 195,308.9 237.5,295 280,285.8 322.5,267.2 365,271.9 407.5,248.8 450,258 492.5,234.9 535,271.9 577.5,234.9 620,239.5 662.5,225.6 705,211.8 747.5,211.8 790,221" fill="none" stroke="var(--cv-neg,#c0562f)" stroke-width="3"/>
+<circle cx="110" cy="332" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="152.5" cy="304.2" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="195" cy="308.9" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="237.5" cy="295" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="280" cy="285.8" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="322.5" cy="267.2" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="365" cy="271.9" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="407.5" cy="248.8" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="450" cy="258" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="492.5" cy="234.9" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="535" cy="271.9" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="577.5" cy="234.9" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="620" cy="239.5" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="662.5" cy="225.6" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="705" cy="211.8" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="747.5" cy="211.8" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<circle cx="790" cy="221" r="3.4" fill="var(--cv-neg,#c0562f)"/>
+<text class="c" x="800" y="225" text-anchor="start" fill="var(--cv-neg,#c0562f)">HTIT</text>
+<text class="v" x="800" y="241" text-anchor="start" fill="var(--cv-neg,#c0562f)">24</text>
+<polyline points="110,239.5 152.5,197.9 195,239.5 237.5,244.1 280,211.8 322.5,248.8 365,234.9 407.5,216.4 450,221 492.5,211.8 535,234.9 577.5,211.8 620,207.1 662.5,207.1 705,221 747.5,225.6 790,234.9" fill="none" stroke="var(--cv-a1,#2e7d43)" stroke-width="3"/>
+<circle cx="110" cy="239.5" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="152.5" cy="197.9" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="195" cy="239.5" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="237.5" cy="244.1" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="280" cy="211.8" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="322.5" cy="248.8" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="365" cy="234.9" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="407.5" cy="216.4" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="450" cy="221" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="492.5" cy="211.8" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="535" cy="234.9" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="577.5" cy="211.8" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="620" cy="207.1" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="662.5" cy="207.1" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="705" cy="221" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="747.5" cy="225.6" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<circle cx="790" cy="234.9" r="3.4" fill="var(--cv-a1,#2e7d43)"/>
+<text class="c" x="800" y="238.9" text-anchor="start" fill="var(--cv-a1,#2e7d43)">HHIT</text>
+<text class="v" x="800" y="254.9" text-anchor="start" fill="var(--cv-a1,#2e7d43)">21</text>
+<line x1="705" y1="100" x2="705" y2="332" stroke="var(--cv-wa,#bf860f)" stroke-width="2" stroke-dasharray="5 4"/>
+<text class="ax" x="699" y="104" text-anchor="end" fill="var(--cv-wa,#bf860f)">HTIT vượt HHIT</text>
+<text class="ax" x="110" y="354" text-anchor="middle">T4/25</text>
+<text class="ax" x="195" y="354" text-anchor="middle">T6</text>
+<text class="ax" x="280" y="354" text-anchor="middle">T8</text>
+<text class="ax" x="365" y="354" text-anchor="middle">T10</text>
+<text class="ax" x="450" y="354" text-anchor="middle">T12</text>
+<text class="ax" x="535" y="354" text-anchor="middle">T2</text>
+<text class="ax" x="620" y="354" text-anchor="middle">T4</text>
+<text class="ax" x="705" y="354" text-anchor="middle">T6</text>
+<text class="ax" x="790" y="354" text-anchor="middle">T8</text>
+<text class="s" x="36" y="392">Đếm từ kế hoạch điều động tàu hằng ngày, Cảng vụ hàng hải Hải Phòng — lượt tàu rời bến, bỏ sà lan dưới 5.000 DWT.</text>
+</svg>

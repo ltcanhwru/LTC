@@ -44,6 +44,8 @@ Bảy tháng đầu có đủ số liệu của năm 2025 (T5–T11) cho 75 lư�
 
 Bốn tháng cuối năm phải chạy nhanh hơn nhịp tám tháng đầu từ 12% đến 47% thì kế hoạch 700.000 TEU mới về đích. Quý IV đúng là mùa cao điểm, nhưng nhịp tàu tháng 9 chưa cho thấy bước nhảy nào. Giữ nguyên nhịp hiện tại, cả năm rơi vào vùng **600–675 nghìn TEU** — vẫn gấp 2,6–2,9 lần mức 234 nghìn TEU của 2025, chỉ là dưới kế hoạch.
 
+Hệ số quy đổi là chỗ mong manh nhất của phép tính này. Bến 1, 2 bên cạnh — HICT — làm hơn 746.000 TEU qua 281 lượt tàu trong bảy tháng đầu 2026, tức **2.655 TEU mỗi lượt**. Thay hệ số 2025 bằng con số đó thì cả năm của HTIT lên quanh 690 nghìn TEU, vừa đủ chạm kế hoạch. [Ba bến Lạch Huyện đặt cạnh nhau ở bài này](post.html?p=hhit-htit-lach-huyen-ai-lay-tau-cua-ai).
+
 Với PHP, khoảng hụt đó không đổi bức tranh lớn. Dòng lợi nhuận từ công ty liên doanh, liên kết đã đi từ 23,1 tỷ đồng quý I/2025 lên **92,0 tỷ quý II/2026**, trong khi lợi nhuận sau thuế cổ đông công ty mẹ quý II đạt 425,1 tỷ. Nhưng nhịp lượt tàu là chỉ báo sớm hơn báo cáo quý vài tháng, và nó vừa đi ngang.
 
 ### Chỗ tôi có thể sai
@@ -57,7 +59,7 @@ Với PHP, khoảng hụt đó không đổi bức tranh lớn. Dòng lợi nhu�
 
 Gần như chắc chắn: HTIT đã qua giai đoạn chạy rà. Sản lượng năm nay gấp ít nhất 2,5 lần năm ngoái, cỡ tàu bình quân tăng hai phần ba, và bến đang chạy quanh 6 lượt mỗi tuần.
 
-Chỉ là phỏng đoán: rằng mức 24–26 lượt tháng là trần tự nhiên của hai cầu bến này trong điều kiện hiện tại, và rằng kế hoạch 700.000 TEU sẽ hụt khoảng 5–15%.
+Chỉ là phỏng đoán: rằng mức 24–26 lượt tháng là trần tự nhiên của hai cầu bến này trong điều kiện hiện tại, còn kế hoạch 700.000 TEU thì nằm đúng ranh giới: hụt 5–15% nếu mỗi lượt tàu vẫn xếp như năm 2025, vừa đủ chạm nếu xếp bằng bến 1, 2.
 
 Ba thứ đáng theo dõi: nhịp lượt mỗi tuần trong quý IV có vượt được 6 không; tỷ trọng tàu từ 100.000 DWT trở lên có giữ trên 60% không; và dòng lợi nhuận liên doanh trong báo cáo quý III của PHP.
 
