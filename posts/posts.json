@@ -1,5 +1,75 @@
 [
   {
+    "slug": "sgb-ngan-hang-nho-nhat-san-va-hai-quy-lo",
+    "title": "SGB: ngân hàng nhỏ nhất sàn, và hai quý lỗ trong sáu quý",
+    "date": "2026-09-13",
+    "excerpt": "Tổng tài sản bằng 1/94 của BIDV, CIR 70% cao nhất ngành, dư nợ năm 2025 tăng đúng 1%. Ngân hàng duy nhất không phát hành đồng giấy tờ có giá nào — và vẫn giao dịch trên giá trị sổ sách.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "sgb-ngan-hang-nho-nhat-san-va-hai-quy-lo.md"
+  },
+  {
+    "slug": "pgb-tong-tai-san-tang-81-phan-tram-bien-lai-giam",
+    "title": "PGB: tổng tài sản tăng 81%, biên lãi giảm",
+    "date": "2026-09-13",
+    "excerpt": "Dư nợ chỉ tăng 60% nên phần bảng cân đối nở thêm chảy vào tài sản sinh lời thấp. CIR cải thiện 12 điểm và lợi nhuận trước dự phòng tăng 76%, nhưng dự phòng ăn gần một nửa phần đó.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "pgb-tong-tai-san-tang-81-phan-tram-bien-lai-giam.md"
+  },
+  {
+    "slug": "bab-bon-nam-roe-8-9-phan-tram-va-cir-60",
+    "title": "BAB: bốn năm ROE 8–9%, CIR luôn quanh 60%",
+    "date": "2026-09-13",
+    "excerpt": "Chất lượng tài sản không phải vấn đề — dự phòng chỉ ăn 10–14% lợi nhuận, ngang nhóm tốt nhất ngành. Toàn bộ khoảng cách với một ngân hàng khá nằm ở dòng chi phí vận hành.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "bab-bon-nam-roe-8-9-phan-tram-va-cir-60.md"
+  },
+  {
+    "slug": "vbb-trai-phieu-gap-46-lan-va-bien-lai-185-phan-tram",
+    "title": "VBB: trái phiếu gấp 4,6 lần, biên lãi 1,85%",
+    "date": "2026-09-13",
+    "excerpt": "Mức tăng trái phiếu lớn thứ hai trong 28 ngân hàng, LDR đi từ 84% lên 104% — nhưng biên lãi vẫn ở nhóm thấp nhất, và thu phí chỉ chiếm 4% tổng thu nhập.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "vbb-trai-phieu-gap-46-lan-va-bien-lai-185-phan-tram.md"
+  },
+  {
+    "slug": "bvb-chi-phi-va-du-phong-an-82-phan-tram-thu-nhap",
+    "title": "BVB: chi phí và dự phòng ăn 82% thu nhập",
+    "date": "2026-09-13",
+    "excerpt": "Thu nhập lãi thuần tăng 56% trong ba năm nhưng ROE chỉ 6%, vì CIR 59–80% suốt bốn năm. Và 92% thu nhập đến từ lãi cho vay — thu dịch vụ gần như bằng không.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "bvb-chi-phi-va-du-phong-an-82-phan-tram-thu-nhap.md"
+  },
+  {
+    "slug": "nvb-bon-nam-lo-5792-ty-von-hoa-34000-ty",
+    "title": "NVB: bốn năm lỗ 5.792 tỷ, vốn hóa 34.218 tỷ",
+    "date": "2026-09-13",
+    "excerpt": "Năm 2024 tổng thu nhập hoạt động âm 1.472 tỷ và lỗ 5.128 tỷ — gần bằng toàn bộ vốn chủ. Nửa đầu 2026 hồi phục thật, nhưng P/B 2,39 đã phản ánh một kịch bản tốt hơn nhiều.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "nvb-bon-nam-lo-5792-ty-von-hoa-34000-ty.md"
+  },
+  {
+    "slug": "vab-cir-26-phan-tram-va-mot-quy-thu-nhap-lai-bat-thuong",
+    "title": "VAB: CIR 26% và một quý thu nhập lãi bất thường",
+    "date": "2026-09-13",
+    "excerpt": "Biên lãi tăng 1,17 điểm — lớn thứ hai trong 28 ngân hàng — mà không cần nguồn vốn đắt. Nhưng quý 4/2025 có thu nhập lãi thuần bằng 47% cả năm, và nó làm đẹp mọi tỷ số.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "vab-cir-26-phan-tram-va-mot-quy-thu-nhap-lai-bat-thuong.md"
+  },
+  {
     "slug": "klb-chuyen-tai-san-sang-cho-vay-va-bien-lai-tang-139-diem",
     "title": "KLB: chuyển tài sản sang cho vay, biên lãi tăng 1,39 điểm",
     "date": "2026-09-13",
