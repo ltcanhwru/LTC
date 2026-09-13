@@ -55,7 +55,7 @@ Vốn chủ sở hữu tăng từ 11.795 lên 21.164 tỷ — gần gấp đôi,
 
 Biên gộp bốn năm: 50%, 76%, 53%, 59%.
 
-Đây là mức cao trong ngành — cao hơn [NLG](post.html?p=nlg-nam-long-doanh-thu-quy-2-giam-46-phan-tram) (42–49%), [DXG](post.html?p=dxg-dat-xanh-bien-gop-55-phan-tram-loi-nhuan-38-ty) (43–55%), [TCH](post.html?p=tch-hoang-huy-bien-gop-tu-41-xuong-7-phan-tram) (19–40%).
+Đây là mức cao trong ngành — cao hơn [NLG](post.html?p=nlg-nam-long-ton-kho-giam-41-phan-tram) (42–49%), [DXG](post.html?p=dxg-dat-xanh-bien-gop-55-phan-tram-loi-nhuan-38-ty) (43–55%), [TCH](post.html?p=tch-hoang-huy-doanh-thu-giam-65-tien-khach-hang-gap-33-lan) (19–40%).
 
 Và lợi nhuận từ lõi chiếm 76–124% lợi nhuận trước thuế trong bốn năm — tức lợi nhuận cả năm đến từ bán hàng thật, không từ khoản một lần.
 
