@@ -54,6 +54,50 @@ Năm 2025 chênh 2.387 tỷ.
 
 Điểm cần theo dõi là nhịp: lãi vay quý 2/2026 là 1.520 tỷ, tức khoảng 6.000 tỷ mỗi năm nếu giữ nguyên — gấp đôi mức 3.115 tỷ của năm 2025.
 
+## Dung Quất 2 đã lên bảng cân đối
+
+| Năm | **Xây dựng cơ bản dở dang** | **Nguyên giá TSCĐ hữu hình** | Hao mòn lũy kế | **Hao mòn / nguyên giá** |
+|---|---:|---:|---:|---:|
+| 2022 | 13.334 tỷ | 98.976 tỷ | 28.777 tỷ | 29% |
+| 2023 | 26.053 tỷ | 106.923 tỷ | 35.136 tỷ | 33% |
+| 2024 | **63.656 tỷ** | 108.147 tỷ | 40.902 tỷ | **38%** |
+| 2025 | **10.721 tỷ** | **182.309 tỷ** | 48.888 tỷ | **27%** |
+
+Đây là con số quan trọng nhất trên bảng cân đối của Hòa Phát, và nó không xuất hiện ở bất kỳ dòng nào của bảng kết quả kinh doanh.
+
+Chi phí xây dựng cơ bản dở dang đi từ 13.334 lên **63.656 tỷ** trong hai năm, rồi rơi xuống **10.721 tỷ**.
+
+Cùng lúc, nguyên giá tài sản cố định hữu hình nhảy từ 108.147 lên **182.309 tỷ** — tăng **74.162 tỷ** trong một năm.
+
+Khối tài sản đang xây đã hoàn thành và chuyển sang vận hành.
+
+Hai hệ quả đọc được ngay từ bảng số:
+
+**Thứ nhất, khối tài sản của Hòa Phát vừa trẻ lại.** Tỷ lệ hao mòn lũy kế trên nguyên giá rơi từ 38% xuống **27%** — thấp nhất bốn năm. Với một doanh nghiệp sản xuất, đó là dấu hiệu năng lực còn nguyên vẹn cho nhiều năm tới.
+
+**Thứ hai, khấu hao sắp tăng mạnh.** Nguyên giá tăng 69%, nên chi phí khấu hao những năm tới cũng tăng theo tỷ lệ tương ứng — và nó nằm trong giá vốn, tức trực tiếp ăn vào biên gộp 19%.
+
+Điều này cũng giải thích chi phí lãi vay gấp 2,7 lần: khoản vay xây nhà máy trước đây được vốn hóa vào giá trị tài sản dở dang; khi tài sản vận hành, lãi vay chuyển thẳng vào chi phí.
+
+Nói cách khác, mức tăng lợi nhuận của năm 2026 đang phải gánh cả khấu hao lẫn lãi vay của khối tài sản 74.162 tỷ vừa đưa vào.
+
+Còn 10.721 tỷ vẫn đang xây dở.
+
+## Phải thu khách hàng gấp 2,5 lần
+
+| Năm | Doanh thu thuần | **Phải thu khách hàng** | **Tỷ lệ trên doanh thu** | Trả trước cho người bán |
+|---|---:|---:|---:|---:|
+| 2022 | 141.409 tỷ | 2.959 tỷ | 2% | 5.366 tỷ |
+| 2023 | 118.953 tỷ | 6.000 tỷ | 5% | 2.584 tỷ |
+| 2024 | 138.855 tỷ | 4.352 tỷ | 3% | 2.119 tỷ |
+| 2025 | 156.116 tỷ | **10.972 tỷ** | **7%** | 1.878 tỷ |
+
+Phải thu khách hàng gấp **2,5 lần** trong một năm, trong khi doanh thu chỉ tăng 12%.
+
+Tỷ lệ trên doanh thu đi từ 3% lên 7% — vẫn là mức thấp theo chuẩn chung, nhưng đây là mức cao nhất trong bốn năm và là dòng đáng theo dõi ở các kỳ sau.
+
+Nó cũng góp phần giải thích vì sao dòng tiền năm 2024 rơi xuống 55%.
+
 ## Dòng tiền
 
 | Năm | LNST | Tiền thuần từ kinh doanh | Tỷ lệ |
@@ -88,17 +132,19 @@ Chiều nghịch: lãi vay đang gấp 2,7 lần và sẽ còn tăng khi nợ 92
 - **Nội dung khoản doanh thu tài chính 5.938 tỷ ở quý 1/2026 chưa xác định được.** Nó chiếm 55% lợi nhuận trước thuế quý đó và cần thuyết minh.
 - Không có sản lượng thép theo tấn và giá bán bình quân — hai con số giải thích trực tiếp biên gộp.
 - Chưa tách được doanh thu giữa thép xây dựng, HRC, ống thép và các mảng khác. Mỗi mảng có biên rất khác nhau, và tỷ trọng HRC quyết định phần lớn biên tổng.
-- Chưa tách được số khấu hao khỏi giá vốn, nên phần lập luận về dòng tiền là suy luận từ đặc thù tài sản.
-- Không có tiến độ và công suất thực tế của Dung Quất 2 — biến số quyết định doanh thu những năm tới.
+- **Chưa tách được số khấu hao khỏi giá vốn**, nên chưa ước tính được khấu hao tăng thêm từ 74.162 tỷ nguyên giá mới — con số sẽ quyết định biên gộp những năm tới.
+- Không có công suất thực tế và tiến độ chạy máy của khối tài sản vừa đưa vào vận hành, cũng như nội dung của 10.721 tỷ còn đang xây dở.
+- Chưa xác định được bao nhiêu chi phí lãi vay trước đây được vốn hóa vào tài sản dở dang, nên phần lập luận về mức tăng lãi vay là suy luận từ thời điểm.
 - Không có cơ cấu kỳ hạn và lãi suất của khoản nợ vay 92.174 tỷ.
+- Chưa rõ nguyên nhân phải thu khách hàng gấp 2,5 lần trong năm 2025 khi doanh thu chỉ tăng 12%.
 
 ## Kết luận
 
-Gần như chắc chắn: biên gộp của Hòa Phát đi từ 11% (2023) lên 16% cả năm 2025 và 19% ở quý 2/2026, đưa lợi nhuận từ lõi tăng 111% lên 20.428 tỷ; lợi nhuận nửa đầu 2026 gấp 2 lần cùng kỳ nhưng quý 1 chứa 5.938 tỷ doanh thu tài chính bất thường; nợ vay tăng 59% lên 92.174 tỷ và chi phí lãi vay nửa đầu 2026 gấp 2,7 lần cùng kỳ; dòng tiền bốn năm đạt 105% lợi nhuận.
+Gần như chắc chắn: biên gộp của Hòa Phát đi từ 11% (2023) lên 16% cả năm 2025 và 19% ở quý 2/2026, đưa lợi nhuận từ lõi tăng 111% lên 20.428 tỷ; lợi nhuận nửa đầu 2026 gấp 2 lần cùng kỳ nhưng quý 1 chứa 5.938 tỷ doanh thu tài chính bất thường; **chi phí xây dựng cơ bản dở dang rơi từ 63.656 xuống 10.721 tỷ trong khi nguyên giá tài sản cố định tăng 74.162 tỷ lên 182.309 tỷ**, đưa tỷ lệ hao mòn trên nguyên giá từ 38% xuống 27%; nợ vay tăng 59% lên 92.174 tỷ và chi phí lãi vay nửa đầu 2026 gấp 2,7 lần cùng kỳ; phải thu khách hàng gấp 2,5 lần lên 10.972 tỷ; dòng tiền bốn năm đạt 105% lợi nhuận.
 
-Phỏng đoán: mức tăng lợi nhuận đến từ biên gộp chứ không từ sản lượng, nên nó phụ thuộc vào chu kỳ giá thép — trong khi chi phí lãi vay từ Dung Quất 2 là khoản cố định sẽ còn tăng.
+Phỏng đoán: khối tài sản 74.162 tỷ vừa vào vận hành là nguồn tăng trưởng thật của những năm tới — tài sản vừa trẻ lại rõ rệt — nhưng chính nó cũng mang theo hai khoản chi phí cố định mới là khấu hao và lãi vay, và mức biên gộp 19% hiện tại chưa phản ánh đủ cả hai.
 
-Ba thứ đáng theo dõi: biên gộp có giữ vùng 16–19% không; chi phí lãi vay sau khi chạm 1.520 tỷ một quý; và doanh thu tài chính có lặp lại mức nghìn tỷ không.
+Ba thứ đáng theo dõi: biên gộp có giữ vùng 16–19% không khi khấu hao của 74.162 tỷ nguyên giá mới hiện đủ; chi phí lãi vay sau khi chạm 1.520 tỷ một quý; và phải thu khách hàng sau khi lên 7% doanh thu.
 
 ---
 

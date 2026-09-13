@@ -4,6 +4,34 @@ Năm 2022, Vinpearl có doanh thu **7.173 tỷ đồng** và lợi nhuận gộp
 
 Tức bán một đồng thì mất thêm nửa đồng.
 
+## 15.900 phòng, và thị trường trả 9,7 tỷ cho mỗi phòng
+
+Vinpearl sở hữu và vận hành **44 cơ sở tại 17 tỉnh thành**: 30 khách sạn và khu nghỉ dưỡng với **trên 15.900 phòng**, 4 công viên chủ đề, 2 khu vui chơi giải trí và 1 công viên bảo tồn động vật. **9.876 nhân viên**.
+
+Đây là một trong số ít doanh nghiệp trong loạt bài này mà đơn vị đếm rất rõ ràng — số phòng. Chia mọi con số cho nó:
+
+| Chỉ số | Trên mỗi phòng |
+|---|---:|
+| Doanh thu 2025 (15.539 tỷ) | **977 triệu đồng/năm** |
+| — tức mỗi ngày | ≈ **2,7 triệu đồng** |
+| Tài sản cố định (33.153 tỷ) | **2,08 tỷ đồng** |
+| Nhân viên (9.876 người) | **0,62 người** |
+| **Vốn hóa thị trường (154.890 tỷ)** | **9,74 tỷ đồng** |
+
+Hai dòng cuối là điểm cần dừng lại.
+
+Giá trị sổ sách của tài sản là **2,08 tỷ đồng mỗi phòng**. Thị trường đang trả **9,74 tỷ** — gấp **4,7 lần**.
+
+Với doanh thu 977 triệu đồng mỗi phòng mỗi năm, mức 9,74 tỷ tương đương **10 năm doanh thu** — không phải lợi nhuận, mà doanh thu.
+
+Doanh thu 2,7 triệu đồng mỗi phòng mỗi ngày cũng đáng đọc kỹ: con số này gộp cả doanh thu công viên, vui chơi giải trí và bán bất động sản nghỉ dưỡng, nên phần thuần từ phòng thấp hơn. Ở công suất lấp đầy 60–70%, giá phòng bình quân thực tế sẽ nằm quanh vùng 3–4 triệu đồng một đêm.
+
+Phần định giá vượt trội, nếu có cơ sở, phải đến từ hai thứ mà bảng số không đo được: **vị trí của 44 cơ sở** — phần lớn ở các bãi biển đẹp nhất — và quỹ đất đi kèm.
+
+Đó cũng là lý do khoản người mua trả tiền trước 11.293 tỷ xuất hiện: phần quỹ đất đó đang được bán dưới dạng bất động sản nghỉ dưỡng.
+
+Còn 0,62 nhân viên mỗi phòng là con số vận hành tốt với mô hình nghỉ dưỡng có công viên giải trí đi kèm.
+
 Năm 2025: doanh thu **15.539 tỷ**, lợi nhuận gộp **dương 5.394 tỷ**, biên gộp **35%**.
 
 | Năm | Doanh thu | Lợi nhuận gộp | Biên gộp | CP bán hàng | CP quản lý | Lợi nhuận từ lõi |
@@ -103,7 +131,8 @@ Cách đọc khác: cộng nợ vay 11.592 tỷ và trừ tiền 3.679 tỷ, gi�
 
 ## Một số lưu ý
 
-- **Không có số phòng, công suất phòng và giá phòng bình quân** — ba chỉ số đo đúng lõi của mô hình nghỉ dưỡng, và không chỉ số nào có trong báo cáo tài chính.
+- **Không có công suất lấp đầy và giá phòng bình quân thực tế.** Con số 15.900 phòng lấy từ giới thiệu của doanh nghiệp và không ghi thời điểm; mọi tỷ suất tính trên nó chỉ đúng ở mức độ lớn.
+- Doanh thu 977 triệu đồng mỗi phòng là doanh thu tổng chia cho số phòng, đã gộp cả công viên giải trí và bán bất động sản nghỉ dưỡng — không phải doanh thu thuần từ lưu trú.
 - **Chưa xác định được nội dung khoản doanh thu tài chính 13.472 tỷ (2022) và 1.975 tỷ (quý 1/2026).** Đây là dòng quyết định lợi nhuận trong cả bốn năm.
 - Chưa tách được doanh thu giữa khách sạn, vui chơi giải trí, sân golf và bán bất động sản nghỉ dưỡng.
 - Khoản người mua trả tiền trước 11.293 tỷ chưa bóc được theo sản phẩm và tiến độ bàn giao.

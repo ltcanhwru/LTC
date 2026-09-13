@@ -6,6 +6,33 @@ Quý 2/2026: **380 tỷ**.
 
 Giữa hai mốc đó, không quý nào cao hơn quý liền trước.
 
+## Nhà máy 5.111 tỷ, tiền gửi 13.437 tỷ
+
+Sản phẩm cốt lõi của Đức Giang là **phốt pho vàng** cùng bột giặt và chất tẩy rửa; ngoài ra doanh nghiệp sản xuất nhiều hóa chất cơ bản khác và đang mở sang hóa chất nông nghiệp, phân bón. **2.680 nhân viên** — doanh thu 11.262 tỷ, tức 4,2 tỷ đồng mỗi người.
+
+Nhưng cấu trúc tài sản mới là điều đáng nói nhất:
+
+| Năm | Nguyên giá TSCĐ hữu hình | Hao mòn / nguyên giá | Xây dựng cơ bản dở dang | **Tiền + đầu tư ngắn hạn** | **Tiền / nguyên giá nhà máy** |
+|---|---:|---:|---:|---:|---:|
+| 2022 | 3.852 tỷ | 54% | 234 tỷ | 9.006 tỷ | **2,3 lần** |
+| 2023 | 4.640 tỷ | 55% | 225 tỷ | 10.403 tỷ | 2,2 lần |
+| 2024 | 5.037 tỷ | 57% | 161 tỷ | 10.686 tỷ | 2,1 lần |
+| 2025 | 5.111 tỷ | **62%** | **805 tỷ** | **13.437 tỷ** | **2,6 lần** |
+
+Toàn bộ dây chuyền sản xuất của Đức Giang có nguyên giá **5.111 tỷ** và đã khấu hao 62%.
+
+Khối tiền và tiền gửi: **13.437 tỷ** — gấp **2,6 lần**.
+
+Nghĩa là xét theo tài sản, đây đã là một doanh nghiệp mà phần tài chính lớn hơn phần sản xuất. Và điều đó hiện ra ở bảng kết quả kinh doanh: doanh thu tài chính chiếm **39%** lợi nhuận trước thuế ở quý gần nhất.
+
+Hiệu quả của phần sản xuất thì rất cao: nguyên giá 5.111 tỷ tạo ra 11.262 tỷ doanh thu — **2,2 lần** — và ở năm 2022 tạo ra 5.998 tỷ lợi nhuận từ lõi trên nền tài sản còn nhỏ hơn.
+
+Đó là lý do P/E thấp và P/B chỉ 1,12: thị trường đang định giá 13.437 tỷ tiền gần đúng bằng mệnh giá, và trả rất ít cho phần nhà máy.
+
+Điểm mới của năm 2025: khoản xây dựng cơ bản dở dang nhảy từ 161 lên **805 tỷ** — gấp năm lần, và là mức lớn nhất bốn năm.
+
+Sau hai năm chi 4.219 tỷ đầu tư mà nguyên giá tài sản gần như không nhúc nhích, đây là lần đầu có một khối năng lực mới hiện rõ trên bảng cân đối.
+
 | Quý | Doanh thu | Biên gộp | Lợi nhuận từ lõi | Doanh thu tài chính | LNTT | LNST mẹ |
 |---|---:|---:|---:|---:|---:|---:|
 | 2025/Q1 | 2.810 tỷ | 35% | 829 tỷ | 165 tỷ | 978 tỷ | 809 tỷ |

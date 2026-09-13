@@ -6,6 +6,30 @@ Cuối năm 2025: **120.144 tỷ**.
 
 Gấp **5,8 lần** trong mười hai tháng.
 
+## 120.144 tỷ tài sản, 515 tỷ là nhà xưởng
+
+Sunshine Group đầu tư phát triển và kinh doanh bất động sản, với các dự án như Sunshine Riverside, Sunshine City Sài Gòn, sân golf Hòn Rơm và khu du lịch Hòn Rơm – Mũi Né. Doanh nghiệp có **1.469 nhân viên** — doanh thu 20.198 tỷ, tức **13,7 tỷ đồng mỗi người**.
+
+Cấu trúc tài sản nói rõ đây là doanh nghiệp gì:
+
+| Khoản mục cuối 2025 | Giá trị | Tỷ trọng tổng tài sản |
+|---|---:|---:|
+| **Hàng tồn kho** (bất động sản dở dang) | 14.687 tỷ | 12% |
+| Tiền + đầu tư ngắn hạn | 7.050 tỷ | 6% |
+| Đầu tư vào công ty liên kết | 2.653 tỷ | 2% |
+| **Tài sản cố định** | **515 tỷ** | **0,4%** |
+| Phần còn lại | ≈ 95.239 tỷ | **79%** |
+
+Tài sản cố định chỉ **515 tỷ** trên tổng tài sản 120.144 tỷ.
+
+Đây không phải doanh nghiệp sản xuất. Toàn bộ giá trị nằm ở **đất và dự án**, và ở các khoản phải thu cùng đầu tư tài chính.
+
+Dòng đáng chú ý nhất là dòng cuối: gần **79% tổng tài sản** không nằm ở hàng tồn kho, tiền, hay tài sản cố định. Với một chủ đầu tư bất động sản, phần này thường là các khoản phải thu, trả trước và đầu tư vào dự án qua đơn vị khác.
+
+Nó cũng là phần đã phình lên gần 100 nghìn tỷ trong một năm — và là phần bảng số tổng hợp nói ít nhất về nó.
+
+Mô hình kinh doanh thì đọc được rõ từ hai dòng còn lại: **thu tiền của người mua trước** (24.556 tỷ), **xây** (hàng tồn kho 14.687 tỷ), **bàn giao và ghi doanh thu một lần**. Đó là lý do 83% lợi nhuận cả năm rơi vào một quý.
+
 | Năm | Tổng tài sản | Hàng tồn kho | **Người mua trả tiền trước** | Nợ vay | Nợ phải trả | Vốn chủ sở hữu |
 |---|---:|---:|---:|---:|---:|---:|
 | 2022 | 12.601 tỷ | 265 tỷ | 698 tỷ | 849 tỷ | 5.839 tỷ | 6.762 tỷ |

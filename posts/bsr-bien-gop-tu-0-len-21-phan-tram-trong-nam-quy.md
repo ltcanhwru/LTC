@@ -6,6 +6,44 @@ Lợi nhuận từ hoạt động cốt lõi năm đó: **âm 722 tỷ**.
 
 Quý 1/2026: biên gộp **21%**, lợi nhuận từ lõi **8.957 tỷ** — trong một quý.
 
+## Một nhà máy, 1.946 người
+
+BSR vận hành **một tài sản duy nhất**: Nhà máy lọc dầu Dung Quất, công suất **6,5 triệu tấn dầu thô mỗi năm** — tương đương 148.000 thùng một ngày — đáp ứng khoảng **30% nhu cầu năng lượng cả nước**.
+
+Toàn bộ do **1.946 người** vận hành.
+
+| Chỉ số (năm 2025) | Mức |
+|---|---:|
+| Doanh thu / tấn dầu chế biến | 141.582 tỷ ÷ 6,5 triệu tấn ≈ **21,8 triệu đồng** |
+| **Doanh thu / nhân viên** | ≈ **72,8 tỷ đồng** |
+| Nguyên giá nhà máy | **46.500 tỷ** |
+| Doanh thu / nguyên giá tài sản | ≈ **3 lần** |
+
+**72,8 tỷ đồng doanh thu mỗi nhân viên** là mức cao nhất em thấy trong các doanh nghiệp niêm yết. Đây là bản chất của lọc dầu: một dây chuyền hóa học khổng lồ, rất ít người.
+
+Hệ quả quan trọng nhất của cấu trúc đó: **chi phí vận hành gần như không co giãn theo giá**. Nhà máy chạy hay không chạy thì lương, bảo dưỡng và khấu hao gần như không đổi.
+
+Nên biên gộp không phản ánh điều gì về vận hành. Nó phản ánh đúng một thứ: **chênh lệch giữa giá bán xăng dầu và giá dầu thô** — crack spread.
+
+Doanh nghiệp mua một tấn dầu thô, bán ra khoảng 21,8 triệu đồng sản phẩm, và giữ lại phần chênh. Năm 2024 phần chênh đó bằng không.
+
+## Và nhà máy đã khấu hao gần hết
+
+| Năm | Nguyên giá TSCĐ hữu hình | Hao mòn lũy kế | **Hao mòn / nguyên giá** | Xây dựng cơ bản dở dang |
+|---|---:|---:|---:|---:|
+| 2022 | 47.551 tỷ | 29.666 tỷ | 62% | 1.275 tỷ |
+| 2023 | 47.678 tỷ | 31.851 tỷ | 67% | 1.195 tỷ |
+| 2024 | 46.261 tỷ | 33.241 tỷ | 72% | 1.352 tỷ |
+| 2025 | 46.500 tỷ | 35.341 tỷ | **76%** | 2.032 tỷ |
+
+Hao mòn lũy kế chiếm **76%** nguyên giá — nhà máy đã khấu hao gần hết sau 15 năm vận hành.
+
+Đây là điều giải thích vì sao BSR sống sót được qua năm 2024 với biên gộp bằng không: **phần khấu hao còn phải trích mỗi năm đã rất nhỏ**, nên điểm hòa vốn của nhà máy thấp hơn nhiều so với thời mới xây.
+
+Mặt còn lại của cùng con số: tài sản đang già đi, và khoản xây dựng cơ bản dở dang chỉ 2.032 tỷ — tức chưa có khối năng lực mới nào đáng kể đang hình thành.
+
+Mọi kế hoạch nâng cấp mở rộng, nếu có, vẫn chưa xuất hiện trên bảng cân đối.
+
 | Năm | Doanh thu | Biên gộp | Lợi nhuận từ lõi | % từ lõi | LNTT | LNST |
 |---|---:|---:|---:|---:|---:|---:|
 | 2022 | 167.124 tỷ | 10% | **14.673 tỷ** | 94% | 15.586 tỷ | 14.669 tỷ |
@@ -87,10 +125,10 @@ Với ROE dài hạn khoảng 12% (bình quân bốn năm) thay vì 31% của n�
 
 ## Một số lưu ý
 
-- **Không có crack spread thực tế, sản lượng chế biến và giá dầu thô đầu vào** — ba con số quyết định toàn bộ kết quả và không con số nào có trong báo cáo tài chính.
+- **Không có crack spread thực tế, sản lượng chế biến thực tế và giá dầu thô đầu vào** — ba con số quyết định toàn bộ kết quả và không con số nào có trong báo cáo tài chính. Mọi tỷ suất tính trên 6,5 triệu tấn ở trên là tính theo công suất thiết kế, không phải sản lượng thực.
 - Chưa tách được doanh thu theo sản phẩm (xăng, dầu DO, nhiên liệu bay, hạt nhựa) — mỗi loại có biên khác nhau.
-- Không có thông tin về kế hoạch nâng cấp mở rộng nhà máy, biến số lớn với công suất những năm tới.
-- Chưa tách được số khấu hao khỏi giá vốn.
+- Khoản xây dựng cơ bản dở dang chỉ 2.032 tỷ cho thấy chưa có năng lực mới đáng kể đang hình thành, nhưng em không có kế hoạch nâng cấp mở rộng để đối chiếu.
+- **Chưa tách được số khấu hao khỏi giá vốn**, nên phần lập luận về điểm hòa vốn thấp là suy ra từ tỷ lệ hao mòn 76%, không phải từ số đo trực tiếp.
 - Tồn kho dầu thô và thành phẩm có thể tạo lãi/lỗ đánh giá lại đáng kể khi giá dầu biến động; em chưa bóc được phần này.
 - Chính sách giá bán trong nước và thuế nhập khẩu ảnh hưởng trực tiếp tới biên nhưng không nằm trong bảng số.
 

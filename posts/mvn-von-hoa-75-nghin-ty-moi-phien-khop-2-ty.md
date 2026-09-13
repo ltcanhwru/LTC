@@ -10,6 +10,31 @@ Tức **0,0026%** vốn hóa được giao dịch mỗi ngày.
 
 Con số đó quyết định cách đọc mọi chỉ số định giá còn lại.
 
+## Đội tàu chiếm 31% dung tích cả nước — và đang nhỏ dần
+
+Vinalines quản lý đội tàu biển đa chủng loại — container, hàng rời, tàu dầu — chiếm **31% tổng dung tích đội tàu Việt Nam**, và mỗi năm chuyên chở khoảng **60% hàng hóa xuất nhập khẩu** của cả nước. Đây cũng là đơn vị duy nhất khai thác tàu container chuyên tuyến Bắc – Nam với lịch chạy hàng ngày.
+
+Toàn bộ do **1.201 nhân viên** ở công ty mẹ điều hành — doanh thu 19.017 tỷ, tức **15,8 tỷ đồng mỗi người**.
+
+Nhưng bảng cân đối cho thấy trọng tâm đang dịch chuyển:
+
+| Năm | **Nguyên giá TSCĐ hữu hình** | Hao mòn / nguyên giá | **Đầu tư liên doanh liên kết** | **Bất động sản đầu tư** |
+|---|---:|---:|---:|---:|
+| 2022 | 31.097 tỷ | 72% | 1.545 tỷ | 494 tỷ |
+| 2023 | 31.225 tỷ | 73% | 1.642 tỷ | 456 tỷ |
+| 2024 | 29.963 tỷ | 72% | 1.849 tỷ | 417 tỷ |
+| 2025 | **28.809 tỷ** | **70%** | **3.271 tỷ** | **2.984 tỷ** |
+
+Nguyên giá tài sản cố định **giảm** 2.416 tỷ trong hai năm — đội tàu đang thu hẹp, không mở rộng. Và phần còn lại đã khấu hao **70%**.
+
+Cùng lúc, hai khoản khác tăng mạnh trong năm 2025: đầu tư vào công ty liên kết gấp **1,8 lần** lên 3.271 tỷ, và bất động sản đầu tư gấp **7,2 lần** lên 2.984 tỷ.
+
+Đây là câu trả lời cho câu hỏi vì sao lợi nhuận từ lõi giảm 25% trong ba năm mà lợi nhuận trước thuế vẫn tăng: **giá trị đang chuyển từ vận tải sang cảng, liên doanh và bất động sản**.
+
+Lãi từ công ty liên kết đi từ 174 lên 471 tỷ đúng theo nhịp đó.
+
+Phần vận tải biển — thứ mà 31% dung tích đội tàu đại diện — là phần có biên gộp rơi từ 28% xuống 18% và có tài sản đang già đi.
+
 ## P/B 4,90 với ROE 14,5%
 
 P/E **26,8**, P/B **4,90**, ROE **14,5%**. Sàn UPCOM.
@@ -103,6 +128,8 @@ Chi đầu tư tăng đều: 835 → 3.356 tỷ mỗi năm, phần lớn đi và
 - Chưa tách được doanh thu giữa vận tải biển, khai thác cảng và dịch vụ hàng hải. Ba mảng có chu kỳ hoàn toàn khác nhau.
 - **Chưa xác định được nội dung khoản lợi nhuận khác 1.356 tỷ của năm 2024** — khoản chiếm 43% lợi nhuận trước thuế năm đó.
 - Chưa bóc được danh mục công ty liên kết đóng góp 471 tỷ và khoản đầu tư 3.271 tỷ trên bảng cân đối, mà đây là phần đang tăng nhanh nhất.
+- **Chưa xác định được nội dung khoản bất động sản đầu tư tăng từ 417 lên 2.984 tỷ trong năm 2025** — mức nhảy 7,2 lần ở một doanh nghiệp vận tải biển.
+- Không có số tàu, tuổi tàu và dung tích thực tế, nên tỷ lệ hao mòn 70% là chỉ dấu gián tiếp về tuổi đội tàu chứ không phải số đo.
 - Phần lợi ích cổ đông thiểu số lấy 26% lợi nhuận sau thuế; em chưa tách được theo từng đơn vị thành viên.
 - Nguyên nhân dòng tiền kinh doanh rơi từ 2.798 xuống 1.021 tỷ trong năm 2025 chưa xác định được.
 

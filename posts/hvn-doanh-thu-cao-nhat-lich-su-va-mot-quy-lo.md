@@ -4,6 +4,37 @@ Quý 2/2026, Vietnam Airlines có doanh thu **38.303 tỷ đồng** — cao nh�
 
 Lợi nhuận sau thuế của cổ đông công ty mẹ quý đó: **âm 792 tỷ**.
 
+## Một đội bay đã trả xong và 23.173 người
+
+Vietnam Airlines chiếm **30,6% thị phần hàng không** trong nước, khai thác gần **100 đường bay** nội địa và quốc tế, với **23.173 nhân viên**.
+
+Con số nhân sự đó là điểm khởi đầu để hiểu mọi thứ còn lại:
+
+| Chỉ số (năm 2025) | HVN | [VJC](post.html?p=vjc-bon-nam-lai-1496-ty-dong-tien-am-6813-ty) |
+|---|---:|---:|
+| Doanh thu | 121.207 tỷ | 82.093 tỷ |
+| Nhân viên | **23.173** | **7.807** |
+| **Doanh thu / nhân viên** | **5,2 tỷ** | **10,5 tỷ** |
+| Nguyên giá tài sản cố định | 53.666 tỷ | 25.527 tỷ |
+| **Hao mòn / nguyên giá** | **77%** | **6%** |
+| Nợ vay | 13.104 tỷ | 69.000 tỷ |
+
+Vietjet tạo ra doanh thu gấp đôi trên mỗi nhân viên. Đó là khác biệt giữa mô hình hàng không truyền thống và mô hình giá rẻ, và nó không thay đổi được trong ngắn hạn.
+
+Nhưng dòng quan trọng hơn là dòng áp chót.
+
+**Đội bay và tài sản của Vietnam Airlines đã khấu hao 77%.** Của Vietjet mới 6%.
+
+Điều này giải thích gần như toàn bộ phần còn lại của bài.
+
+Khi một tài sản đã khấu hao gần hết, mỗi năm nó vẫn sinh ra chi phí khấu hao trên sổ sách — 3.536 đến 5.986 tỷ mỗi năm ở HVN — nhưng **không còn phải chi tiền tương ứng**, vì tiền đã chi từ nhiều năm trước.
+
+Đó là lý do doanh nghiệp lỗ 11.223 tỷ trong năm 2022 mà dòng tiền kinh doanh vẫn dương 6.894 tỷ.
+
+Mặt kia của cùng một con số: tài sản đang già. Chi mua sắm tài sản cố định chỉ 220–409 tỷ mỗi năm, và khoản xây dựng cơ bản dở dang chỉ **254 tỷ** — gần như không có năng lực mới nào đang hình thành.
+
+Đội bay được bổ sung chủ yếu bằng thuê, và nghĩa vụ thuê đó nằm ở chi phí trả trước dài hạn **10.263 tỷ** cùng phần lớn 66.445 tỷ nợ phải trả — chứ không nằm ở dòng tài sản cố định.
+
 | Quý | Doanh thu | Biên gộp | Lợi nhuận từ lõi | Doanh thu tài chính | Lãi vay | LNTT | LNST mẹ |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | 2025/Q1 | 30.551 tỷ | **21%** | 4.145 tỷ | 480 tỷ | 251 tỷ | 3.625 tỷ | 3.401 tỷ |

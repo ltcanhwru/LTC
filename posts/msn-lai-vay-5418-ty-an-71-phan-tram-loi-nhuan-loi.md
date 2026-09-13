@@ -6,6 +6,29 @@ Chi phí lãi vay: **5.418 tỷ**.
 
 Tức **71%** lợi nhuận từ bán hàng đi vào lãi vay.
 
+## Masan là bốn doanh nghiệp trong một
+
+Masan là công ty quản lý vốn đầu tư và tài sản, với **40.411 nhân viên** trên toàn hệ thống. Các mảng chính:
+
+- **Hàng tiêu dùng** — Masan Consumer, mảng có biên cao nhất
+- **Bán lẻ** — WinCommerce, chuỗi cửa hàng và siêu thị, mảng có doanh thu lớn nhất
+- **Đạm động vật** — Masan MEATLife, nhà sản xuất lớn nhất Việt Nam
+- **Khoáng sản** — [Masan High-Tech Materials](post.html?p=msr-bon-nam-lo-3001-ty-roi-mot-quy-lai-1666-ty), nhà cung cấp vonfram và bismuth lớn nhất ngoài Trung Quốc
+
+Cộng thêm khoản đầu tư vào **Techcombank**.
+
+Doanh thu 81.621 tỷ trên 40.411 người là **2,0 tỷ đồng mỗi nhân viên** — mức thấp, và đó là điều bình thường với một tập đoàn mà phần lớn lao động nằm ở bán lẻ và chế biến thực phẩm.
+
+Bốn mảng này có bản chất hoàn toàn khác nhau, và bảng số hợp nhất gộp chúng thành một dòng duy nhất. Ba hệ quả khi đọc Masan:
+
+**Biên gộp 31% là bình quân gia quyền**, không phải biên của bất kỳ mảng nào. Hàng tiêu dùng có biên cao hơn nhiều; bán lẻ thấp hơn nhiều. Khi biên tổng cải thiện từ 28% lên 31%, không thể biết đó là do mảng nào tốt lên hay do tỷ trọng dịch chuyển giữa các mảng.
+
+**Mức tăng lợi nhuận từ lõi 64% trong ba năm cũng vậy** — có thể đến từ bán lẻ đạt điểm hòa vốn, từ giá vonfram, hoặc từ cả hai.
+
+**Và mỗi mảng có cổ đông riêng.** Đó là nguồn gốc của chênh lệch lớn và biến động giữa lợi nhuận hợp nhất và lợi nhuận cổ đông mẹ.
+
+Quý 2/2026 là một minh họa cụ thể: riêng MSR lãi **1.666 tỷ** trong quý đó — và con số ấy nằm trong 4.163 tỷ lợi nhuận trước thuế hợp nhất của tập đoàn, nhưng chỉ một phần thuộc về cổ đông MSN.
+
 | Năm | Doanh thu | Biên gộp | Lợi nhuận từ lõi | **Chi phí lãi vay** | LNTT | LNST | Nợ vay | Vốn chủ |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | 2022 | 76.189 tỷ | 28% | 4.669 tỷ | **4.848 tỷ** | 5.147 tỷ | 4.754 tỷ | **70.993 tỷ** | 36.637 tỷ |

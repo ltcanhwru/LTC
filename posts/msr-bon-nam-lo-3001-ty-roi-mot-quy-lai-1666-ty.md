@@ -4,6 +4,37 @@ Bốn năm 2022–2025, Masan High-Tech Materials có lợi nhuận sau thuế c
 
 Quý 2/2026: lãi **1.666 tỷ** trong một quý.
 
+## Một mỏ, bốn sản phẩm
+
+MSR khai thác và chế biến **mỏ Núi Pháo** tại Đại Từ, Thái Nguyên — trữ lượng ước tính khoảng **66 triệu tấn quặng**. Bốn sản phẩm chính: **vonfram, florit, bismuth và đồng**. **2.237 nhân viên**.
+
+Vonfram là điểm mấu chốt. Đây là kim loại chiến lược dùng trong cắt gọt kim loại, khoan và quốc phòng, và nguồn cung thế giới tập trung gần như hoàn toàn ở Trung Quốc. Núi Pháo là một trong số rất ít mỏ lớn nằm ngoài Trung Quốc.
+
+Nghĩa là giá bán của MSR không do thị trường Việt Nam quyết định, mà do cân đối cung cầu toàn cầu của một nhóm kim loại hiếm — thứ có thể biến động rất mạnh và rất nhanh.
+
+## Dấu vết của mảng đã thoái
+
+| Năm | Nguyên giá TSCĐ hữu hình | **TSCĐ vô hình** | **Xây dựng cơ bản dở dang** | Bất động sản đầu tư | Hao mòn / nguyên giá |
+|---|---:|---:|---:|---:|---:|
+| 2022 | 29.390 tỷ | **3.321 tỷ** | 2.082 tỷ | 722 tỷ | 43% |
+| 2023 | **30.596 tỷ** | **3.353 tỷ** | 2.511 tỷ | 703 tỷ | 45% |
+| 2024 | **24.295 tỷ** | **437 tỷ** | 1.209 tỷ | 0 tỷ | 43% |
+| 2025 | 24.718 tỷ | 399 tỷ | **164 tỷ** | 0 tỷ | 45% |
+
+Năm 2024, ba dòng cùng biến mất một lúc: nguyên giá tài sản cố định **giảm 6.301 tỷ**, tài sản cố định vô hình rơi từ 3.353 xuống **437 tỷ**, và bất động sản đầu tư về **0**.
+
+Khoản tài sản vô hình 3.353 tỷ bốc hơi là dấu vết rõ nhất: đó là lợi thế thương mại và công nghệ của một đơn vị chế biến đã được bán đi, không phải của mỏ.
+
+Sau khi thoái, doanh nghiệp còn lại phần mỏ và chế biến tại Việt Nam: nguyên giá 24.718 tỷ, hao mòn 45%, và khoản xây dựng cơ bản dở dang chỉ còn **164 tỷ**.
+
+Hai điều đọc được:
+
+**Phần còn lại có biên cao hơn hẳn** — biên gộp đi từ 6% lên 18% rồi 25–31%, và chi phí bán hàng cùng quản lý giảm hơn 80%. Đây là mỏ, không phải nhà máy gia công.
+
+**Nhưng không có năng lực mới nào đang hình thành.** 164 tỷ xây dở trên nguyên giá 24.718 tỷ là gần bằng không. Sản lượng những năm tới sẽ đến từ chính khối tài sản hiện có.
+
+Nên doanh thu 8.138 tỷ của một quý — nhiều hơn cả năm 2025 — rất khó giải thích bằng sản lượng. Nhiều khả năng đó là giá.
+
 | Quý | Doanh thu | Biên gộp | Lợi nhuận từ lõi | Lãi vay | LNTT | LNST mẹ |
 |---|---:|---:|---:|---:|---:|---:|
 | 2025/Q1 | 1.393 tỷ | 11% | 108 tỷ | 257 tỷ | −216 tỷ | **−222 tỷ** |
@@ -84,8 +115,9 @@ Doanh nghiệp là công ty con của [Masan](post.html?p=msn-lai-vay-5418-ty-an
 ## Một số lưu ý
 
 - **Chưa xác định được nguyên nhân doanh thu quý 2/2026 gấp 5 lần cùng kỳ.** Đây là con số quan trọng nhất của bài và bảng số tổng hợp không giải thích được — giá bán, sản lượng, hay ghi nhận một hợp đồng lớn.
-- **Chưa xác định được mảng kinh doanh nào đã được thoái trong năm 2024–2025**, dù dấu vết rất rõ: tổng tài sản giảm 13.912 tỷ, doanh thu giảm gần một nửa, chi phí bán hàng và quản lý giảm hơn 80%.
-- Không có sản lượng và giá bán các sản phẩm chính — hai con số giải thích trực tiếp biên gộp đi từ 6% lên 31%.
+- **Chưa xác định được đơn vị nào đã được thoái trong năm 2024.** Dấu vết rất rõ — tài sản cố định vô hình rơi từ 3.353 xuống 437 tỷ, nguyên giá giảm 6.301 tỷ, bất động sản đầu tư về 0 — nhưng bảng số không cho biết bán cho ai, giá bao nhiêu và ghi nhận lãi lỗ thế nào.
+- Không có sản lượng và giá bán của vonfram, florit, bismuth và đồng — bốn con số giải thích trực tiếp biên gộp đi từ 6% lên 31%, và đây là thiếu sót lớn nhất của bài.
+- Không có trữ lượng còn lại và tuổi đời mỏ; con số 66 triệu tấn là ước tính doanh nghiệp công bố, không ghi thời điểm.
 - **Chưa xác định được nội dung khoản doanh thu tài chính 1.917 tỷ và lợi nhuận khác âm 675 tỷ của năm 2024.**
 - Không có cơ cấu kỳ hạn và lãi suất của khoản nợ vay 11.304 tỷ, mà đây là khoản đã gây lỗ trong hai năm.
 - Chưa tách được phần doanh thu xuất khẩu và ảnh hưởng tỷ giá, vốn lớn với một doanh nghiệp khoáng sản.

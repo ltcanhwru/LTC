@@ -6,6 +6,44 @@ Năm 2025: **32.718 tỷ** — gấp đôi.
 
 Lợi nhuận từ hoạt động cốt lõi trong bốn năm đó: **107 tỷ, âm 13 tỷ, âm 265 tỷ, 481 tỷ**.
 
+## Doanh nghiệp này thật ra có hai nửa
+
+PVS cung cấp dịch vụ kỹ thuật cho ngành dầu khí: **tàu dịch vụ chuyên ngành, căn cứ cảng dầu khí, cơ khí chế tạo**, và **kho nổi chứa xử lý xuất dầu thô (FSO/FPSO)**. Doanh nghiệp có **8.201 nhân viên** — doanh thu 32.718 tỷ, tức 4 tỷ đồng mỗi người.
+
+Nhưng hai mảng trong danh sách đó nằm ở hai chỗ hoàn toàn khác nhau trên báo cáo tài chính.
+
+| | Nằm ở đâu | Quy mô 2025 | Đóng góp lợi nhuận |
+|---|---|---:|---:|
+| Cơ khí chế tạo, tàu dịch vụ, căn cứ cảng | Doanh thu hợp nhất | **32.718 tỷ** | **481 tỷ** |
+| Kho nổi FSO/FPSO (qua liên doanh) | Một dòng duy nhất | vốn góp **4.865 tỷ** | **826 tỷ** |
+
+Mảng nhận thầu chế tạo có doanh thu 32.718 tỷ và tạo ra 481 tỷ lợi nhuận — tức **1,5%**.
+
+Mảng kho nổi không có doanh thu nào trên bảng, chỉ có 4.865 tỷ vốn góp, và tạo ra **826 tỷ** — tức **17%** trên vốn.
+
+Nói cách khác: **phần tạo ra lợi nhuận thì không hiện trong doanh thu, còn phần chiếm toàn bộ doanh thu thì gần như không tạo ra lợi nhuận.**
+
+Đó là lý do mọi chỉ số tính trên doanh thu của PVS đều gây hiểu nhầm.
+
+Bản chất hai mảng cũng khác hẳn. Kho nổi là tài sản cho thuê dài hạn theo hợp đồng nhiều năm — dòng tiền đều, biên cao. Cơ khí chế tạo là nhận thầu theo dự án: giá đấu thầu cạnh tranh, rủi ro chi phí thuộc về nhà thầu, và doanh thu ghi theo tiến độ nghiệm thu.
+
+Đó cũng là lý do biên gộp dao động 3–16% giữa các quý.
+
+## Tài sản: đã khấu hao 70%
+
+| Năm | Nguyên giá TSCĐ hữu hình | Hao mòn lũy kế | **Hao mòn / nguyên giá** | Xây dựng cơ bản dở dang |
+|---|---:|---:|---:|---:|
+| 2022 | 12.409 tỷ | 9.428 tỷ | 76% | 102 tỷ |
+| 2023 | 13.209 tỷ | 9.881 tỷ | 75% | 303 tỷ |
+| 2024 | 13.956 tỷ | 10.430 tỷ | 75% | 360 tỷ |
+| 2025 | **15.852 tỷ** | 11.146 tỷ | **70%** | 441 tỷ |
+
+Nguyên giá tăng 28% trong ba năm và tỷ lệ hao mòn bắt đầu giảm — doanh nghiệp đang đầu tư trở lại sau nhiều năm tài sản già đi.
+
+Nhưng quy mô còn nhỏ: 441 tỷ xây dở trên nguyên giá 15.852 tỷ.
+
+Và cần đọc kèm một con số: khoản góp vốn liên doanh **4.865 tỷ gần như không đổi bốn năm**. Phần sinh lời tốt nhất của doanh nghiệp không được mở rộng.
+
 | Năm | Doanh thu | Lợi nhuận gộp | Biên gộp | CP quản lý | **Lợi nhuận từ lõi** | **% từ lõi** |
 |---|---:|---:|---:|---:|---:|---:|
 | 2022 | 16.366 tỷ | 1.014 tỷ | 6% | 828 tỷ | **107 tỷ** | **8%** |

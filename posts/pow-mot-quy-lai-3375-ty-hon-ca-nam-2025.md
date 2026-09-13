@@ -4,6 +4,27 @@ Cả năm 2025, Điện lực Dầu khí Việt Nam lãi sau thuế cổ đông 
 
 Riêng quý 2/2026: **3.375 tỷ**.
 
+## Doanh nghiệp này bán gì
+
+PV Power vận hành **7 nhà máy điện** với tổng công suất lắp đặt **4.205 MW** — điện khí, điện than và thủy điện — và đưa lên lưới khoảng **21 tỷ kWh mỗi năm**, tương đương 13–15% sản lượng điện thương phẩm cả nước. Đây là nhà sản xuất điện lớn thứ hai sau EVN.
+
+Toàn bộ hoạt động đó do **2.182 người** vận hành.
+
+Ba con số này cho một cách đọc bảng tài chính khác hẳn cách đọc thông thường:
+
+| Chỉ số | Mức 2025 |
+|---|---:|
+| Doanh thu / sản lượng | 34.306 tỷ ÷ 21 tỷ kWh ≈ **1.634 đồng/kWh** |
+| Doanh thu / MW công suất | ≈ **8,2 tỷ đồng mỗi MW mỗi năm** |
+| Nguyên giá tài sản / MW | 70.535 tỷ ÷ 4.205 MW ≈ **16,8 tỷ đồng mỗi MW** |
+| Doanh thu / nhân viên | ≈ **15,7 tỷ đồng** |
+
+Mô hình rất đơn giản: doanh nghiệp có một lượng công suất cố định, bán ra một lượng điện gần như cố định, ở một mức giá mà cơ chế thị trường điện và giá nhiên liệu quyết định.
+
+Doanh thu vì thế chỉ tăng được theo hai cách — **thêm công suất**, hoặc **giá bán cao hơn**. Không có cách thứ ba.
+
+Đó là khung để đọc mọi con số phía dưới.
+
 | Quý | Doanh thu | Biên gộp | Lợi nhuận từ lõi | Doanh thu tài chính | Lãi vay | LNTT | LNST mẹ |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | 2025/Q1 | 8.150 tỷ | 10% | 478 tỷ | 208 tỷ | 119 tỷ | 510 tỷ | 445 tỷ |
@@ -30,7 +51,57 @@ Nửa đầu 2026: doanh thu 32.633 tỷ so với 17.549 tỷ cùng kỳ — tă
 
 Tài sản cố định tăng **21.468 tỷ** trong năm 2025 — gần gấp đôi, sau ba năm liên tục giảm vì khấu hao.
 
-Đó là thời điểm một khối tài sản lớn đang xây dựng dở dang được đưa vào vận hành.
+Bảng cân đối cho biết chính xác khối tài sản đó đến từ đâu:
+
+| Năm | **Xây dựng cơ bản dở dang** | **Nguyên giá TSCĐ hữu hình** | Hao mòn lũy kế | **Hao mòn / nguyên giá** |
+|---|---:|---:|---:|---:|
+| 2022 | 936 tỷ | 69.759 tỷ | 40.636 tỷ | 58% |
+| 2023 | 9.032 tỷ | 69.803 tỷ | 43.441 tỷ | 62% |
+| 2024 | **19.759 tỷ** | 70.535 tỷ | 46.265 tỷ | **66%** |
+| 2025 | **909 tỷ** | **94.835 tỷ** | 49.097 tỷ | **52%** |
+
+Chi phí xây dựng cơ bản dở dang tích lên **19.759 tỷ** trong hai năm rồi rơi về **909 tỷ**.
+
+Cùng lúc, nguyên giá tài sản cố định nhảy từ 70.535 lên **94.835 tỷ** — tăng 24.300 tỷ.
+
+Khối tài sản xây dở đã hoàn thành và chuyển sang vận hành, gần như toàn bộ.
+
+Cột cuối cùng cho biết ý nghĩa với lợi nhuận: tỷ lệ hao mòn lũy kế trên nguyên giá rơi từ **66% xuống 52%** — khối tài sản của POW vừa trẻ lại đáng kể sau nhiều năm già đi.
+
+Đó là nền tảng vật chất của mức doanh thu 20.306 tỷ ở quý 2/2026.
+
+Nhưng nó cũng có mặt kia: **khấu hao của 24.300 tỷ nguyên giá mới sẽ hiện đủ từ năm 2026**, và nó nằm trong giá vốn, tức trực tiếp trừ vào biên gộp 23%.
+
+Khấu hao cả năm 2025 là 2.859 tỷ trên nguyên giá 70.535 tỷ đầu kỳ — khoảng 4%. Áp cùng tỷ lệ cho phần tăng thêm, khoản chi phí mới vào khoảng **970 tỷ mỗi năm**.
+
+Và khoản xây dở chỉ còn 909 tỷ, nên chu kỳ đầu tư này đã gần khép lại.
+
+## Thêm bao nhiêu MW?
+
+Bảng số không ghi công suất, nhưng suất đầu tư của chính doanh nghiệp cho phép ước lượng.
+
+Khối tài sản cũ: **70.535 tỷ nguyên giá trên 4.205 MW**, tức khoảng 16,8 tỷ đồng mỗi MW.
+
+Áp cùng suất đầu tư cho 24.300 tỷ nguyên giá tăng thêm: khoảng **1.450 MW**.
+
+Tức công suất lắp đặt tăng khoảng **34%**, lên vùng 5.650 MW.
+
+Con số đó kiểm chứng được ngay với doanh thu quý 2/2026:
+
+| | Ước tính |
+|---|---:|
+| Công suất sau đầu tư | ≈ 5.650 MW |
+| Sản lượng tối đa một quý (91 ngày) | ≈ 12,3 tỷ kWh |
+| Nhân với giá 1.634 đồng/kWh | ≈ **20.100 tỷ** |
+| Doanh thu thực tế quý 2/2026 | **20.306 tỷ** |
+
+Hai con số gần như trùng nhau.
+
+Nghĩa là quý 2/2026 không phải một khoản bất thường về kế toán. Nó là **khối công suất mới chạy gần hết công suất trong một quý cao điểm**.
+
+Đây cũng là giới hạn: với 5.650 MW, doanh thu một quý khó vượt xa mức 20.306 tỷ trừ khi giá bán tăng. Mức nền của bốn quý tới, nếu hệ số vận hành về bình thường, sẽ thấp hơn quý 2 chứ không cao hơn.
+
+Đây là ước lượng của em từ suất đầu tư bình quân, không phải số liệu công bố — nên nó chỉ đúng ở mức độ lớn, không đúng đến từng MW.
 
 Tiền chi cho đầu tư bốn năm cộng lại **33.571 tỷ**, và nguồn là nợ vay: từ 9.017 lên **28.887 tỷ**, gấp 3,2 lần.
 
@@ -94,22 +165,23 @@ Cần cân nhắc thêm: lãi vay đang tăng nhanh, và khấu hao của khối
 
 ## Một số lưu ý
 
-- **Không xác định được từ dữ liệu này nhà máy nào đã đi vào vận hành làm tài sản cố định tăng 21.468 tỷ.** Đây là biến số quan trọng nhất và nó cần đọc thuyết minh.
-- **Chưa xác định được nguyên nhân doanh thu quý 2/2026 gấp 2,2 lần cùng kỳ** — sản lượng, giá bán, hay hợp nhất thêm đơn vị.
-- Không có sản lượng điện theo nhà máy và giá bán bình quân — hai con số giải thích trực tiếp biên gộp 7–23%.
-- Chưa tách được doanh thu bán theo hợp đồng dài hạn và bán trên thị trường điện cạnh tranh, hai cơ chế giá khác nhau.
+- **Ước lượng 1.450 MW công suất tăng thêm là suy luận từ suất đầu tư bình quân 16,8 tỷ đồng mỗi MW của khối tài sản cũ**, không phải số liệu công bố. Nhà máy mới có thể có suất đầu tư khác hẳn, nên con số này chỉ đúng ở mức độ lớn.
+- Không xác định được từ dữ liệu này nhà máy nào đã vận hành và mốc thời gian cụ thể.
+- **Không có sản lượng điện thực tế theo nhà máy và theo quý**, nên hệ số vận hành trong phần kiểm chứng doanh thu là giả định, không phải số đo.
+- Con số 21 tỷ kWh và 4.205 MW lấy từ giới thiệu của doanh nghiệp và không ghi thời điểm; nếu nó đã cũ, mọi tỷ suất tính theo nó đều lệch.
+- Chưa tách được doanh thu bán theo hợp đồng dài hạn và bán trên thị trường điện cạnh tranh, hai cơ chế giá khác nhau — đây là yếu tố quyết định biên gộp 7–23%.
+- Chưa bóc được giá khí và giá than đầu vào khỏi giá vốn.
 - Không có cơ cấu kỳ hạn và lãi suất của khoản nợ vay 28.887 tỷ, mà lãi vay đã chạm 539 tỷ một quý.
-- Chưa ước tính được mức khấu hao tăng thêm từ 45.789 tỷ tài sản cố định khi chạy đủ năm.
 - **Chưa xác định được nội dung khoản lợi nhuận khác 500 tỷ của năm 2024.**
-- Công nợ phải thu từ đơn vị mua điện là rủi ro thường được nhắc với các doanh nghiệp phát điện; em chưa bóc được từ dữ liệu này.
+- Phải thu khách hàng 14.197 tỷ bằng 41% doanh thu và dự phòng khó đòi 543 tỷ; em chưa tách được theo đối tượng mua điện.
 
 ## Kết luận
 
-Gần như chắc chắn: POW lãi 3.375 tỷ trong quý 2/2026 — nhiều hơn cả năm 2025 (2.427 tỷ) — với doanh thu 20.306 tỷ gấp 2,2 lần cùng kỳ và biên gộp 23%, cao nhất bốn năm rưỡi; tài sản cố định tăng 21.468 tỷ trong năm 2025 sau ba năm giảm, tài trợ bằng nợ vay gấp 3,2 lần lên 28.887 tỷ, bằng 78% vốn chủ; dòng tiền bốn năm bằng 161% lợi nhuận nhưng vẫn thiếu 20.625 tỷ so với 33.571 tỷ chi đầu tư; và P/B 0,94 với ROE 15,3%.
+Gần như chắc chắn: POW vận hành 7 nhà máy với 4.205 MW công suất và khoảng 21 tỷ kWh mỗi năm, tức 13–15% điện thương phẩm cả nước; doanh nghiệp lãi 3.375 tỷ trong quý 2/2026 — nhiều hơn cả năm 2025 — với doanh thu 20.306 tỷ gấp 2,2 lần cùng kỳ và biên gộp 23%; chi phí xây dựng cơ bản dở dang tích lên 19.759 tỷ rồi rơi về 909 tỷ trong khi nguyên giá tài sản cố định tăng 24.300 tỷ lên 94.835 tỷ, đưa tỷ lệ hao mòn từ 66% xuống 52%; nợ vay gấp 3,2 lần lên 28.887 tỷ để tài trợ 33.571 tỷ chi đầu tư bốn năm; và P/B 0,94 với ROE 15,3%.
 
-Phỏng đoán: mức nhảy của nửa đầu 2026 có cơ sở vật chất thật — khối tài sản mới vận hành — nhưng biên gộp 23% thì cao gấp ba mức đáy 2024 và phụ thuộc vào giá nhiên liệu, nên phần "mặt bằng mới" nhỏ hơn con số 4,4 lần gợi ý.
+Phỏng đoán: theo suất đầu tư bình quân của chính doanh nghiệp, 24.300 tỷ nguyên giá mới tương đương khoảng 1.450 MW — đủ để giải thích trọn vẹn doanh thu 20.306 tỷ của quý 2/2026 mà không cần giả định gì thêm. Nếu đúng, mức nhảy là thật và bền; nhưng nó cũng có nghĩa quý 2 đã gần chạm trần công suất, nên các quý sau khó cao hơn nếu giá bán không tăng, trong khi khấu hao khoảng 970 tỷ mỗi năm và lãi vay đang tăng đều thì đã chắc chắn.
 
-Ba thứ đáng theo dõi: biên gộp quý 3/2026 sau khi chạm 23%; chi phí lãi vay sau khi chạm 539 tỷ một quý; và mức khấu hao của năm 2026 so với 2.859 tỷ của năm 2025.
+Ba thứ đáng theo dõi: doanh thu quý 3/2026 so với mức trần công suất khoảng 20.000 tỷ; biên gộp sau khi chạm 23%; và mức khấu hao của năm 2026 so với 2.859 tỷ của năm 2025.
 
 ---
 

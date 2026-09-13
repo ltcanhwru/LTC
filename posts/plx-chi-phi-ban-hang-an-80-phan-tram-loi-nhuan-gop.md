@@ -6,6 +6,29 @@ Lợi nhuận sau thuế: **3.027 tỷ**.
 
 Tức biên lãi ròng **0,98%**.
 
+## 4.365 cửa hàng
+
+Petrolimex phân phối xăng dầu qua mạng lưới **4.365 cửa hàng** — gồm trạm bán lẻ của tập đoàn và đại lý — với **26.123 nhân viên**. Đây là nhà cung cấp lớn nhất thị trường nội địa ở mọi loại sản phẩm xăng dầu.
+
+Chia doanh thu và chi phí cho số cửa hàng, mô hình hiện ra rất rõ:
+
+| Chỉ số (năm 2025) | Mức trên mỗi cửa hàng |
+|---|---:|
+| Doanh thu | 309.875 tỷ ÷ 4.365 ≈ **71 tỷ đồng** |
+| Lợi nhuận gộp | 18.113 tỷ ÷ 4.365 ≈ **4,15 tỷ đồng** |
+| **Chi phí bán hàng** | 14.467 tỷ ÷ 4.365 ≈ **3,31 tỷ đồng** |
+| **Còn lại** | ≈ **0,84 tỷ đồng** |
+
+Mỗi cửa hàng bán ra 71 tỷ đồng hàng, tạo ra 4,15 tỷ lợi nhuận gộp, và tiêu tốn 3,31 tỷ để vận hành.
+
+Phần còn lại: **840 triệu đồng mỗi cửa hàng mỗi năm**.
+
+Đó là toàn bộ biên an toàn của mô hình. Chỉ cần lợi nhuận gộp mỗi cửa hàng giảm 20% — tương đương biên gộp lùi từ 5,8% xuống 4,7% — là phần dư biến mất hoàn toàn.
+
+Năm 2022, điều đó gần như đã xảy ra: lợi nhuận gộp mỗi cửa hàng là 2,82 tỷ và chi phí bán hàng 2,41 tỷ, còn lại 410 triệu.
+
+Chi phí bán hàng là mặt bằng, nhân sự, vận chuyển và hao hụt — nó gắn với **số cửa hàng**, không gắn với giá xăng. Doanh thu 309.875 tỷ nghe rất lớn, nhưng nó chỉ là 71 tỷ nhân với 4.365.
+
 | Năm | Doanh thu | Lợi nhuận gộp | Biên gộp | **Chi phí bán hàng** | CP quản lý | Lợi nhuận từ lõi |
 |---|---:|---:|---:|---:|---:|---:|
 | 2022 | 304.064 tỷ | 12.320 tỷ | 4,1% | **10.500 tỷ** | 823 tỷ | **997 tỷ** |

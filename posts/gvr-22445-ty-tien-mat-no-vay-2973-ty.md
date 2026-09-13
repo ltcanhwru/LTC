@@ -17,6 +17,32 @@ Nợ vay giảm **60%** trong một năm. Chi phí lãi vay giảm từ 491 xu�
 
 Đây là bảng cân đối sạch bậc nhất trong các doanh nghiệp vốn hóa trên 100 nghìn tỷ.
 
+## 395.000 hecta, ghi sổ 154 triệu đồng mỗi hecta
+
+GVR quản lý **395.000 ha cao su**, chế biến trung bình **400.000 tấn mủ mỗi năm**, và vận hành **10 khu công nghiệp với 6.000 ha, trong đó 4.013 ha là đất thương phẩm**. Tập đoàn có **84.828 nhân viên** — nhiều nhất trong các doanh nghiệp niêm yết em đã viết.
+
+Doanh thu 29.078 tỷ trên 84.828 người là **343 triệu đồng mỗi người mỗi năm**. Trên mỗi hecta cao su: **73,6 triệu đồng**.
+
+Nhưng con số quan trọng nhất là con số này:
+
+| | Mức 2025 |
+|---|---:|
+| Diện tích cao su | **395.000 ha** |
+| Nguyên giá tài sản cố định hữu hình | **60.751 tỷ** |
+| **Giá trị sổ sách mỗi hecta** | ≈ **154 triệu đồng** |
+| Hao mòn lũy kế | 25.647 tỷ (42%) |
+| Giá trị còn lại mỗi hecta | ≈ **89 triệu đồng** |
+
+Toàn bộ đất, vườn cây và nhà máy của GVR đang nằm trên sổ sách ở mức **154 triệu đồng mỗi hecta** — và đó là nguyên giá, tức chi phí trồng trọt cùng đầu tư tích lũy từ nhiều thập kỷ trước, chưa trừ khấu hao.
+
+Để so sánh: đất khu công nghiệp ở các tỉnh phía Nam được cho thuê ở mức hàng chục tỷ đồng mỗi hecta.
+
+Khoảng cách giữa hai con số đó là toàn bộ luận điểm đầu tư của GVR, và nó **không xuất hiện ở bất kỳ dòng nào của báo cáo tài chính** — trừ một chỗ: dòng "lợi nhuận khác" 867–1.323 tỷ mỗi năm, phần giá trị hiện ra mỗi khi một khu đất được chuyển đổi.
+
+Riêng 4.013 ha đất thương phẩm khu công nghiệp đã có quy mô đủ lớn để so với vốn hóa 120.000 tỷ, mà đó mới chỉ là 1% trong 395.000 ha.
+
+Một dòng nữa trên bảng cân đối đi đúng theo logic này: **chi phí xây dựng cơ bản dở dang giảm đều từ 11.910 xuống 7.269 tỷ** trong bốn năm — phần hạ tầng khu công nghiệp đang lần lượt hoàn thành và chuyển sang khai thác.
+
 ## Biên gộp từ 22% lên 30%
 
 | Năm | Doanh thu | Biên gộp | Lợi nhuận từ lõi | % từ lõi | LNTT | LNST | LNST mẹ |
@@ -105,9 +131,10 @@ Thị trường đang trả P/B 1,98 cho khối tài sản đó.
 
 ## Một số lưu ý
 
-- **Không có diện tích đất, vị trí và tiến độ pháp lý của phần đất dự kiến chuyển đổi.** Đây là biến số quan trọng nhất với GVR và toàn bộ nó nằm ngoài báo cáo tài chính.
+- **Không có vị trí, quy hoạch và tiến độ pháp lý của phần đất dự kiến chuyển đổi.** Diện tích 395.000 ha và 4.013 ha đất thương phẩm là con số doanh nghiệp công bố, nhưng bao nhiêu trong đó đủ điều kiện chuyển đổi và khi nào thì bảng số không nói.
+- Con số so sánh "hàng chục tỷ đồng mỗi hecta" của đất khu công nghiệp là mức tham chiếu chung của thị trường, không phải giá đã thẩm định cho quỹ đất của GVR; chênh lệch thực tế có thể nhỏ hơn nhiều sau chi phí chuyển đổi, đền bù và hạ tầng.
 - Chưa tách được doanh thu giữa cao su, gỗ, khu công nghiệp và các mảng khác — bốn mảng có biên rất khác nhau.
-- Không có sản lượng mủ và giá bán bình quân, hai con số giải thích trực tiếp biên gộp 22–30%.
+- Không có sản lượng mủ thực tế và giá bán bình quân; con số 400.000 tấn lấy từ giới thiệu của doanh nghiệp và không ghi thời điểm.
 - **Chưa xác định được nội dung cụ thể của khoản lợi nhuận khác 867–1.323 tỷ mỗi năm.** Em suy luận là thanh lý vườn cây và đền bù đất, nhưng bảng số tổng hợp không nói rõ.
 - Chưa rõ vì sao chi phí quản lý doanh nghiệp tăng 38% trong năm 2025 và dồn vào quý 4.
 - Tập đoàn có hàng chục công ty con niêm yết và chưa niêm yết; phần lợi ích cổ đông thiểu số chiếm 11–22% lợi nhuận và em chưa bóc được theo từng công ty.

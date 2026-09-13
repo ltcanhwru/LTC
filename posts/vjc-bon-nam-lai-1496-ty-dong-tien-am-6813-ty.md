@@ -4,6 +4,37 @@ Bốn năm 2022–2025, Vietjet Air báo lợi nhuận sau thuế cộng lại *
 
 Tiền thuần từ hoạt động kinh doanh cùng giai đoạn: **âm 6.813 tỷ**.
 
+## Hãng đang mua đội bay của chính mình
+
+Vietjet khai thác **125 đường bay** nội địa và quốc tế với **7.807 nhân viên** — tạo ra 82.093 tỷ doanh thu, tức **10,5 tỷ đồng mỗi nhân viên**, gấp đôi [Vietnam Airlines](post.html?p=hvn-doanh-thu-cao-nhat-lich-su-va-mot-quy-lo) (5,2 tỷ).
+
+Đó là hiệu quả thật của mô hình giá rẻ, và nó thể hiện đúng ở dòng doanh thu.
+
+Nhưng bảng cân đối đang kể một câu chuyện khác, và đó mới là câu chuyện chính của bốn năm qua:
+
+| Năm | Nguyên giá TSCĐ hữu hình | Hao mòn lũy kế | **Hao mòn / nguyên giá** | **Xây dựng cơ bản dở dang** | TSCĐ vô hình |
+|---|---:|---:|---:|---:|---:|
+| 2022 | 6.114 tỷ | 432 tỷ | 7% | 309 tỷ | 28 tỷ |
+| 2023 | 4.639 tỷ | 648 tỷ | 14% | 381 tỷ | 47 tỷ |
+| 2024 | 9.121 tỷ | 837 tỷ | 9% | 1.528 tỷ | 56 tỷ |
+| 2025 | **25.527 tỷ** | 1.436 tỷ | **6%** | **13.917 tỷ** | **5.329 tỷ** |
+
+Nguyên giá tài sản cố định hữu hình gấp **2,8 lần** trong một năm: 9.121 → 25.527 tỷ.
+
+Khoản xây dựng cơ bản dở dang gấp **9 lần**: 1.528 → 13.917 tỷ.
+
+Tài sản cố định vô hình đi từ 56 lên **5.329 tỷ**.
+
+Cộng lại, doanh nghiệp đã đưa khoảng **44.000 tỷ tài sản mới** lên bảng cân đối trong một năm.
+
+Tỷ lệ hao mòn **6%** nói rõ tình trạng: đây là một khối tài sản gần như mới tinh.
+
+Và đó chính là lời giải thích cho dòng tiền âm 6.813 tỷ. Vietjet không thiếu tiền vì bán vé lỗ — biên gộp 10% và lợi nhuận từ lõi 3.931 tỷ là dương. Nó âm tiền vì **đang trả tiền cho khối tài sản mà Vietnam Airlines đã trả xong từ nhiều năm trước**.
+
+Hai hãng đang ở hai đầu đối diện của cùng một chu kỳ: một bên khấu hao 77% và dòng tiền dương bốn năm liền; một bên khấu hao 6% và dòng tiền âm ba năm liền.
+
+Chi phí trả trước dài hạn **12.312 tỷ** là phần nghĩa vụ thuê tàu bay còn lại — vẫn lớn, dù đội bay đang chuyển dần sang sở hữu.
+
 | Năm | LNST | Tiền thuần từ kinh doanh | Tiền thuần từ đầu tư | Tiền thuần từ tài chính |
 |---|---:|---:|---:|---:|
 | 2022 | −2.262 tỷ | **−2.393 tỷ** | −1.118 tỷ | +3.480 tỷ |
@@ -94,7 +125,8 @@ So với [HVN](post.html?p=hvn-doanh-thu-cao-nhat-lich-su-va-mot-quy-lo), hình 
 - Không có số ghế cung ứng, hệ số lấp đầy và doanh thu trên mỗi ghế-km.
 - **Chưa xác định được nguyên nhân biên gộp rơi xuống 5–6% ở hai quý doanh thu cao nhất.**
 - Không có cơ cấu kỳ hạn và lãi suất của khoản nợ vay 69.000 tỷ.
-- Chưa bóc được tài sản cố định 34.938 tỷ thành tàu bay sở hữu, tàu bay thuê tài chính và tài sản khác.
+- Chưa bóc được tài sản cố định 34.938 tỷ thành tàu bay sở hữu, tàu bay thuê tài chính và tài sản khác; cũng chưa xác định được nội dung 13.917 tỷ xây dựng cơ bản dở dang và 5.329 tỷ tài sản cố định vô hình vừa xuất hiện trong năm 2025.
+- Không có số tàu bay và tuổi trung bình đội bay, nên tỷ lệ hao mòn 6% là chỉ dấu gián tiếp chứ không phải số đo tuổi đội bay.
 - Phần vay ngắn hạn tăng gấp đôi lên 26.056 tỷ trong một năm; em chưa xác định được kỳ hạn cụ thể và khả năng đảo nợ.
 - Chưa bóc được 45.582 tỷ nợ phải trả ngoài nợ vay thành phải trả người bán, nghĩa vụ thuê tàu bay và các khoản khác.
 - Dòng "mua sắm tài sản cố định" trong báo cáo lưu chuyển tiền tệ bằng 0 trong khi tài sản cố định tăng 20.772 tỷ — tức tài sản vào bảng cân đối qua con đường khác, và em chưa xác định được là con đường nào.

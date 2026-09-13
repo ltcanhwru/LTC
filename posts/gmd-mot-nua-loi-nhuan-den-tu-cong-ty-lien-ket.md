@@ -4,6 +4,31 @@ Năm 2025, Gemadept có doanh thu **5.956 tỷ đồng** và lợi nhuận trư�
 
 Trong đó, **1.158 tỷ** đến từ lãi trong các công ty liên doanh liên kết — tức **46%**.
 
+## Một nửa hệ thống cảng không nằm trong bảng doanh thu
+
+Gemadept khai thác cảng và logistics, sở hữu hệ thống cảng cùng hạ tầng kho vận trải dài từ Bắc vào Nam và mở rộng sang Singapore, Hong Kong, Trung Quốc, Campuchia. Đây là một trong số ít doanh nghiệp logistics Việt Nam cung cấp được dịch vụ trọn gói từ cảng biển tới kho hàng và vận tải. **1.646 nhân viên** — doanh thu 5.956 tỷ, tức **3,6 tỷ đồng mỗi người**.
+
+Điểm mấu chốt nằm ở cách hệ thống đó được sở hữu:
+
+| Năm | Nguyên giá TSCĐ hữu hình | **Đầu tư vào liên doanh liên kết** | **Tỷ lệ** | Hao mòn / nguyên giá |
+|---|---:|---:|---:|---:|
+| 2022 | 5.691 tỷ | 3.026 tỷ | 53% | 48% |
+| 2023 | 6.235 tỷ | 3.085 tỷ | 49% | 38% |
+| 2024 | 6.272 tỷ | 3.805 tỷ | 61% | 40% |
+| 2025 | **8.165 tỷ** | **4.828 tỷ** | **59%** | **35%** |
+
+Cứ mỗi 100 đồng tài sản cảng mà Gemadept sở hữu trực tiếp, có thêm khoảng **59 đồng** nằm ở các cảng mà doanh nghiệp góp vốn nhưng không hợp nhất.
+
+Sản lượng, doanh thu và chi phí của phần 59 đó **không xuất hiện ở bất kỳ dòng nào trong bảng kết quả kinh doanh**. Chỉ có một dòng duy nhất: lãi 1.158 tỷ.
+
+Đó là lý do doanh thu của Gemadept chỉ 5.956 tỷ — nhỏ so với vị thế thực tế của hệ thống cảng mà nó vận hành — trong khi lợi nhuận trước thuế là 2.521 tỷ.
+
+Và nó cũng là lý do biên gộp 46% cao bất thường: dòng doanh thu chỉ chứa phần hợp nhất, vốn là các cảng đã vận hành ổn định.
+
+Tỷ lệ hao mòn **35%** — thấp nhất trong các doanh nghiệp hạ tầng ở loạt bài này — cho biết hệ thống cảng còn mới. Nguyên giá tăng 30% riêng trong năm 2025, và còn 1.270 tỷ đang xây dở.
+
+Đây là doanh nghiệp duy nhất trong nhóm vừa có tài sản trẻ, vừa có nợ vay chỉ 16% vốn chủ.
+
 | Năm | Doanh thu | Biên gộp | Lợi nhuận từ lõi | **Lãi liên doanh liên kết** | Doanh thu tài chính | Lợi nhuận khác | LNTT |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | 2022 | 3.898 tỷ | 44% | 1.051 tỷ | 399 tỷ | 24 tỷ | 0 tỷ | 1.308 tỷ |
