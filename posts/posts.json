@@ -1,5 +1,75 @@
 [
   {
+    "slug": "tpb-ty-trong-thu-dich-vu-cao-nhat-nganh",
+    "title": "TPB: tỷ trọng thu dịch vụ cao nhất ngành, và LDR từ 83% lên 110%",
+    "date": "2026-09-13",
+    "excerpt": "Thu dịch vụ chiếm 22% tổng thu nhập — cao nhất trong 28 ngân hàng niêm yết. Nhưng phần lớn tăng trưởng ba năm qua đến từ việc tiêu hết bộ đệm thanh khoản dư thừa, và nguồn đó đã cạn.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "tpb-ty-trong-thu-dich-vu-cao-nhat-nganh.md"
+  },
+  {
+    "slug": "msb-tong-tai-san-tang-87-nghin-ty-thu-nhap-giam",
+    "title": "MSB: tổng tài sản tăng 87 nghìn tỷ, tổng thu nhập giảm",
+    "date": "2026-09-13",
+    "excerpt": "Ba năm bảng cân đối nở 92% mà lợi nhuận chỉ tăng 22% — dấu hiệu khối tài sản mới sinh lời rất thấp. Bù lại, đây là một trong hai ngân hàng huy động kịp tốc độ cho vay.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "msb-tong-tai-san-tang-87-nghin-ty-thu-nhap-giam.md"
+  },
+  {
+    "slug": "vib-cho-vay-them-65-phan-tram-thu-nhap-lai-giam-13",
+    "title": "VIB: cho vay thêm 65%, thu nhập lãi thuần giảm 13%",
+    "date": "2026-09-13",
+    "excerpt": "Tổng thu nhập và lợi nhuận cùng giảm hai năm liền từ đỉnh 2023, ROE từ 26% xuống 16%, CIR xấu đi từ 30% lên 37%. Nguyên nhân gốc: tiền gửi năm 2025 chỉ tăng 6,6% trong khi dư nợ tăng 18%.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "vib-cho-vay-them-65-phan-tram-thu-nhap-lai-giam-13.md"
+  },
+  {
+    "slug": "shb-pb-075-va-4811-ty-thu-nhap-khac",
+    "title": "SHB: P/B 0,75 và 4.811 tỷ thu nhập khác",
+    "date": "2026-09-13",
+    "excerpt": "CIR 22% thấp nhất trong 28 ngân hàng niêm yết và ROE 18%, nhưng cổ phiếu rẻ nhất ngành. Lợi nhuận 2025 tăng 30% — bỏ dòng thu hồi nợ cũ ra thì giảm 2%.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "shb-pb-075-va-4811-ty-thu-nhap-khac.md"
+  },
+  {
+    "slug": "hdb-ngan-hang-duy-nhat-huy-dong-nhanh-hon-cho-vay",
+    "title": "HDB: ngân hàng duy nhất huy động nhanh hơn cho vay",
+    "date": "2026-09-13",
+    "excerpt": "Cả ngành đi từ LDR 97% lên 110%; HDBank đi từ 122% về 97%. Đó là lý do biên lãi chỉ mất 0,29 điểm trong khi MBB mất 1,63 và VPB mất 1,59.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "hdb-ngan-hang-duy-nhat-huy-dong-nhanh-hon-cho-vay.md"
+  },
+  {
+    "slug": "lpb-pb-cao-nhat-nganh-va-so-du-du-phong-dung-yen",
+    "title": "LPB: P/B cao nhất ngành, và số dư dự phòng đứng yên bốn năm",
+    "date": "2026-09-13",
+    "excerpt": "Dư nợ tăng 66%, số dư dự phòng tăng 9 tỷ đồng. Lợi nhuận gấp 2,5 lần — nhanh nhất ngành — nhưng nửa đầu 2026 đã giảm 3% với chi phí dự phòng gấp 2,4 lần cùng kỳ.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "lpb-pb-cao-nhat-nganh-va-so-du-du-phong-dung-yen.md"
+  },
+  {
+    "slug": "stb-mot-quy-trich-9232-ty-va-mot-quy-lo",
+    "title": "STB: một quý trích 9.232 tỷ dự phòng và một quý lỗ",
+    "date": "2026-09-13",
+    "excerpt": "Quý 1 trích 195 tỷ, quý 4 trích 9.232 tỷ và lỗ 2.752 tỷ — trong khi lợi nhuận trước dự phòng cao nhất bốn năm. Tỷ lệ dự phòng trên dư nợ lên 3,20%, cao nhất trong 28 ngân hàng.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "stb-mot-quy-trich-9232-ty-va-mot-quy-lo.md"
+  },
+  {
     "slug": "acb-cho-vay-them-106-nghin-ty-thu-nhap-lai-giam",
     "title": "ACB: cho vay thêm 106 nghìn tỷ, thu nhập lãi thuần giảm",
     "date": "2026-09-13",
