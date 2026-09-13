@@ -1,5 +1,85 @@
 [
   {
+    "slug": "vgc-viglacera-tien-ve-gap-doi-loi-nhuan",
+    "title": "VGC: tiền về gấp đôi lợi nhuận, bốn năm liền",
+    "date": "2026-09-13",
+    "excerpt": "Tỷ lệ 219% — cao nhất nhóm khu công nghiệp — và lợi nhuận hoàn toàn từ hoạt động cốt lõi. Nhưng doanh thu 2025 vẫn thấp hơn 2022, và P/B 2,48 đang trả cho một triển vọng chưa xuất hiện.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "vgc-viglacera-tien-ve-gap-doi-loi-nhuan.md"
+  },
+  {
+    "slug": "vcg-pe-26-va-3766-ty-doanh-thu-tai-chinh",
+    "title": "VCG: P/E 2,6 và 3.766 tỷ doanh thu tài chính",
+    "date": "2026-09-13",
+    "excerpt": "Chỉ 33% lợi nhuận trước thuế năm 2025 đến từ hoạt động cốt lõi. Bỏ khoản tài chính một lần ra thì P/E là 9,6 chứ không phải 2,6 — nhưng phần kinh doanh thì đang tốt lên thật.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "vcg-pe-26-va-3766-ty-doanh-thu-tai-chinh.md"
+  },
+  {
+    "slug": "idc-idico-tien-ve-vuot-loi-nhuan-bon-nam-lien",
+    "title": "IDC: tiền về vượt lợi nhuận bốn năm liền",
+    "date": "2026-09-13",
+    "excerpt": "152% trong khi cả ngành bất động sản chỉ đạt 35%. Hàng tồn kho chỉ bằng 16% vốn chủ — doanh nghiệp không giam vốn vào quỹ đất. ROE 26% và P/E 5,8.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "idc-idico-tien-ve-vuot-loi-nhuan-bon-nam-lien.md"
+  },
+  {
+    "slug": "kbc-mot-nam-chi-ra-17344-ty-tien",
+    "title": "KBC: một năm chi ra 17.344 tỷ tiền mặt",
+    "date": "2026-09-13",
+    "excerpt": "Mức âm lớn nhất trong 38 doanh nghiệp bất động sản được soi. Hàng tồn kho gần gấp đôi và nợ vay gấp 2,8 lần trong cùng năm — một đợt mua quỹ đất quy mô lớn bằng vốn vay.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "kbc-mot-nam-chi-ra-17344-ty-tien.md"
+  },
+  {
+    "slug": "nvl-bon-nam-lai-134-ty-tien-ra-22789-ty",
+    "title": "NVL: bốn năm lãi 134 tỷ, tiền ra 22.789 tỷ",
+    "date": "2026-09-13",
+    "excerpt": "Bốn năm dòng tiền âm liên tiếp. Hàng tồn kho 153.324 tỷ — gấp 5,2 lần vốn hóa — trong khi khoản đặt cọc của khách hàng đứng yên suốt bốn năm.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "nvl-bon-nam-lai-134-ty-tien-ra-22789-ty.md"
+  },
+  {
+    "slug": "vhm-ban-gap-25-lan-lai-gop-chi-tang-mot-nua",
+    "title": "VHM: bán gấp 2,5 lần, lãi gộp chỉ tăng một nửa",
+    "date": "2026-09-13",
+    "excerpt": "Biên gộp rơi từ 49% xuống 30% trong ba năm. Nợ vay gấp 4 lần và chi phí lãi vay gấp 5,4 lần — nhưng khoản người mua trả tiền trước cũng hơn gấp đôi lên 87.603 tỷ.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "vhm-ban-gap-25-lan-lai-gop-chi-tang-mot-nua.md"
+  },
+  {
+    "slug": "vic-70-phan-tram-loi-nhuan-den-tu-dong-loi-nhuan-khac",
+    "title": "VIC: 70% lợi nhuận trước thuế đến từ dòng \"lợi nhuận khác\"",
+    "date": "2026-09-13",
+    "excerpt": "Lợi nhuận từ hoạt động cốt lõi âm ba năm liền, năm 2025 mới dương ở biên 1,1%. Nợ vay 335.420 tỷ — lớn nhất trong các doanh nghiệp phi tài chính niêm yết — bằng 2,21 lần vốn chủ.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "vic-70-phan-tram-loi-nhuan-den-tu-dong-loi-nhuan-khac.md"
+  },
+  {
+    "slug": "35-doanh-nghiep-bat-dong-san-bon-nam-tien-ra-46-nghin-ty",
+    "title": "35 doanh nghiệp bất động sản: bốn năm lãi 69 nghìn tỷ, tiền ra 46 nghìn tỷ",
+    "date": "2026-09-13",
+    "excerpt": "Bốn năm dòng tiền âm liên tiếp, không năm nào dương. Hàng tồn kho tăng 50 nghìn tỷ, nợ vay tăng 42 nghìn tỷ — trong khi khoản đặt cọc của khách hàng đứng yên.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "35-doanh-nghiep-bat-dong-san-bon-nam-tien-ra-46-nghin-ty.md"
+  },
+  {
     "slug": "vci-von-chu-gap-28-lan-loi-nhuan-tang-54-phan-tram",
     "title": "VCI: vốn chủ gấp 2,8 lần, lợi nhuận tăng 54%",
     "date": "2026-09-13",
