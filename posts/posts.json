@@ -1,5 +1,195 @@
 [
   {
+    "slug": "vea-roe-27-phan-tram-loi-lo-bon-nam",
+    "title": "VEA: ROE 27%, và hoạt động cốt lõi lỗ bốn năm liền",
+    "date": "2026-09-13",
+    "excerpt": "Năm 2025 VEAM báo lãi trước thuế 7.424 tỷ, trong khi hoạt động kinh doanh của chính công ty lỗ 108 tỷ. Toàn bộ lợi nhuận đến từ phần vốn góp ở Honda, Toyota và Ford — còn dòng tiền kinh doanh thì bằng 1% lợi nhuận.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "vea-roe-27-phan-tram-loi-lo-bon-nam.md"
+  },
+  {
+    "slug": "scs-bien-gop-78-phan-tram-va-long-thanh",
+    "title": "SCS: biên lợi nhuận gộp 78%, và câu hỏi mang tên Long Thành",
+    "date": "2026-09-13",
+    "excerpt": "Không mã nào trong 1.524 cổ phiếu niêm yết có biên gộp gần với SCS, và ROE chưa năm nào dưới 44% kể từ 2019. Nhưng toàn bộ tài sản vận hành nằm ở Tân Sơn Nhất, và chi đầu tư năm 2025 chỉ bằng 19% khấu hao.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "scs-bien-gop-78-phan-tram-va-long-thanh.md"
+  },
+  {
+    "slug": "pnj-quy-lo-739-ty-va-bon-nam-tien-khong-ve",
+    "title": "PNJ: quý lỗ 739 tỷ, và bốn năm lợi nhuận không thành tiền",
+    "date": "2026-09-13",
+    "excerpt": "Quý 2/2026 giá vốn lớn hơn doanh thu, lỗ gộp 667 tỷ. Nhưng vấn đề sâu hơn đã có từ trước: năm 2025 PNJ báo lãi 2.828 tỷ và thu về đúng 19 tỷ tiền từ hoạt động kinh doanh.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "pnj-quy-lo-739-ty-va-bon-nam-tien-khong-ve.md"
+  },
+  {
+    "slug": "bmp-bien-gop-tu-28-len-47-phan-tram",
+    "title": "BMP: biên lợi nhuận gộp đi từ 28% lên 47% trong ba năm",
+    "date": "2026-09-13",
+    "excerpt": "Doanh thu năm 2025 thấp hơn năm 2022, nhưng lợi nhuận gộp cao hơn 58%. Nợ vay chỉ bằng 2% vốn chủ, cổ tức 10,6% — và toàn bộ định giá nằm ở một câu hỏi duy nhất về nguồn gốc của mức biên đó.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "bmp-bien-gop-tu-28-len-47-phan-tram.md"
+  },
+  {
+    "slug": "ntp-quy-ky-luc-va-bien-gop-38-phan-tram",
+    "title": "NTP: quý kỷ lục, biên gộp 38% và một khoản đầu tư ít ai nhìn",
+    "date": "2026-09-13",
+    "excerpt": "Ba năm doanh thu tăng 19% còn lợi nhuận sau thuế tăng 107%. Hai doanh nghiệp ống nhựa dẫn đầu hai miền cùng ghi nhận một mẫu hình — nhưng chênh nhau 15 điểm biên gộp.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "ntp-quy-ky-luc-va-bien-gop-38-phan-tram.md"
+  },
+  {
+    "slug": "phr-cao-su-chi-la-mot-phan-tu-loi-nhuan",
+    "title": "PHR: cao su chỉ là một phần tư lợi nhuận",
+    "date": "2026-09-13",
+    "excerpt": "Năm 2022 có 698 tỷ nằm ở dòng lợi nhuận khác trên tổng 1.132 tỷ trước thuế, còn mủ cao su đóng góp 245 tỷ. Lợi nhuận quý dao động từ 32 tỷ lên 364 tỷ chỉ sau hai quý — P/E không nói lên điều gì.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "phr-cao-su-chi-la-mot-phan-tu-loi-nhuan.md"
+  },
+  {
+    "slug": "sab-doanh-thu-mat-mot-phan-tu-bien-van-mo-ra",
+    "title": "SAB: doanh thu mất một phần tư, biên lợi nhuận vẫn mở ra",
+    "date": "2026-09-13",
+    "excerpt": "Ba năm doanh thu giảm 26% nhưng biên gộp đi từ 31% lên 36%. Một phần tư lợi nhuận đến từ kho tiền 19.002 tỷ, và năm 2025 Sabeco trả cổ tức bằng 142% lợi nhuận cả năm.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "sab-doanh-thu-mat-mot-phan-tu-bien-van-mo-ra.md"
+  },
+  {
+    "slug": "gas-doanh-thu-tang-34-phan-tram-bien-gop-mat-mot-phan-ba",
+    "title": "GAS: doanh thu tăng 34%, biên lợi nhuận gộp mất một phần ba",
+    "date": "2026-09-13",
+    "excerpt": "Ba năm bán nhiều hơn 34% nhưng lợi nhuận gộp giảm 20%. Quý 4/2025 doanh thu cao kỷ lục mà lãi chỉ 1.361 tỷ; quý 2/2026 doanh thu tương đương, lãi 5.860 tỷ — cùng một mức doanh thu, cách nhau 4.500 tỷ.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "gas-doanh-thu-tang-34-phan-tram-bien-gop-mat-mot-phan-ba.md"
+  },
+  {
+    "slug": "mch-pb-115-lan-va-khoan-co-tuc-23000-ty",
+    "title": "MCH: P/B 11,55 lần, và khoản cổ tức 23.070 tỷ",
+    "date": "2026-09-13",
+    "excerpt": "Masan Consumer có ROE chưa năm nào dưới 29% và biên gộp 46%. Nhưng doanh thu đã đứng yên hai năm, dòng tiền kinh doanh năm 2025 chỉ bằng 32% lợi nhuận, và thị trường đang trả gần gấp đôi mức định giá lịch sử của chính nó.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "mch-pb-115-lan-va-khoan-co-tuc-23000-ty.md"
+  },
+  {
+    "slug": "ctr-bien-gop-7-phan-tram-va-roe-30-phan-tram",
+    "title": "CTR: biên lợi nhuận gộp 7%, ROE 30%",
+    "date": "2026-09-13",
+    "excerpt": "Mỗi đồng vốn chủ tạo ra gần bảy đồng doanh thu — biên mỏng nhân vòng quay nhanh. Nhưng khấu hao tăng 73% trong ba năm và chi đầu tư vượt khấu hao ba năm liền, dấu hiệu của một chuyển dịch mô hình.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "ctr-bien-gop-7-phan-tram-va-roe-30-phan-tram.md"
+  },
+  {
+    "slug": "qns-gan-mot-nua-von-hoa-la-tien-gui",
+    "title": "QNS: gần một nửa vốn hóa là tiền gửi",
+    "date": "2026-09-13",
+    "excerpt": "8.404 tỷ tiền trên vốn hóa 18.081 tỷ, nhưng khác nhiều doanh nghiệp nhiều tiền, QNS không sống nhờ lãi tiền gửi. Trừ kho tiền ra, phần kinh doanh đang được định giá quanh 4–5 lần lợi nhuận.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "qns-gan-mot-nua-von-hoa-la-tien-gui.md"
+  },
+  {
+    "slug": "hah-khau-hao-tang-gap-doi-va-mot-doi-tau-moi",
+    "title": "HAH: khấu hao tăng gấp đôi trong ba năm, và một đội tàu đang lớn lên",
+    "date": "2026-09-13",
+    "excerpt": "Bốn năm chi cho tài sản mới gấp 2,4 đến 5,8 lần khấu hao, dòng tiền kinh doanh vượt lợi nhuận cả bốn năm. Nhưng P/E 6,9 đang tính trên lợi nhuận gần đỉnh chu kỳ — năm 2023 cùng mức giá sẽ cho P/E khoảng 25.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "hah-khau-hao-tang-gap-doi-va-mot-doi-tau-moi.md"
+  },
+  {
+    "slug": "dgw-lai-nam-nam-tien-kinh-doanh-am-ba-nam",
+    "title": "DGW: bốn năm lãi, ba năm tiền kinh doanh âm",
+    "date": "2026-09-13",
+    "excerpt": "Lãi cộng dồn 2.051 tỷ, dòng tiền kinh doanh cộng dồn âm 767 tỷ. Tăng trưởng của nhà phân phối này đang được tài trợ bằng nợ — nhưng quý 2/2026 biên gộp vừa nhảy từ 9% lên 13%.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "dgw-lai-nam-nam-tien-kinh-doanh-am-ba-nam.md"
+  },
+  {
+    "slug": "tng-loi-nhuan-loi-gap-doi-loi-nhuan-bao-cao",
+    "title": "TNG: lợi nhuận cốt lõi gấp rưỡi lợi nhuận báo cáo, phần chênh đi đâu?",
+    "date": "2026-09-13",
+    "excerpt": "Nhà máy làm ra 680 tỷ, ngân hàng lấy trước gần 200 tỷ. Nợ vay bằng 166% vốn chủ — mức cao nhất trong mẻ lọc, và là lý do doanh thu tăng 28% mà lợi nhuận cổ đông gần như đứng yên.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "tng-loi-nhuan-loi-gap-doi-loi-nhuan-bao-cao.md"
+  },
+  {
+    "slug": "dbd-chi-dau-tu-gap-tam-lan-khau-hao",
+    "title": "DBD: chi đầu tư gấp tám lần khấu hao",
+    "date": "2026-09-13",
+    "excerpt": "51 tỷ khấu hao, 409 tỷ chi mua sắm tài sản — bằng 140% lợi nhuận cả năm. Biên gộp 47–49% ổn định suốt bốn năm, nhưng lợi nhuận chỉ tăng 4,6% mỗi năm, nghĩa là phần đầu tư chưa sinh lời.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "dbd-chi-dau-tu-gap-tam-lan-khau-hao.md"
+  },
+  {
+    "slug": "msh-co-tuc-168-phan-tram-va-mot-kho-tien",
+    "title": "MSH: cổ tức 16,8%, và gần một nửa vốn hóa là tiền",
+    "date": "2026-09-13",
+    "excerpt": "Năm 2023 lãi tiền gửi 191 tỷ lớn hơn cả lợi nhuận cốt lõi 187 tỷ — kho tiền gánh hơn nửa kết quả trong năm xấu nhất. Trừ tiền ra, phần may mặc đang được định giá quanh 2,5 lần lợi nhuận.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "msh-co-tuc-168-phan-tram-va-mot-kho-tien.md"
+  },
+  {
+    "slug": "vtp-pe-288-lan-va-hai-quy-loi-nhuan-di-lui",
+    "title": "VTP: P/E 28,8 lần và hai quý lợi nhuận đi lùi",
+    "date": "2026-09-13",
+    "excerpt": "Doanh thu năm 2025 thấp hơn năm 2022, lợi nhuận đứng yên ba năm, hai quý gần nhất giảm 43% và 29%. Chi đầu tư gấp gần ba lần khấu hao — doanh nghiệp đang đánh cược rằng hạ tầng mới sẽ nâng biên gộp khỏi mức 6%.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "vtp-pe-288-lan-va-hai-quy-loi-nhuan-di-lui.md"
+  },
+  {
+    "slug": "csv-mot-quy-bien-gop-bat-tu-20-len-33-phan-tram",
+    "title": "CSV: một quý biên gộp bật từ 20% lên 33%",
+    "date": "2026-09-13",
+    "excerpt": "Năm 2025 doanh thu cao nhất bốn năm nhưng lợi nhuận chỉ bằng 56% mức 2022, và giá cổ phiếu giảm 36% trong một năm. Rồi quý 2/2026 biên gộp tăng 13 điểm phần trăm trong một quý.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "csv-mot-quy-bien-gop-bat-tu-20-len-33-phan-tram.md"
+  },
+  {
+    "slug": "tlg-bien-gop-50-phan-tram-nhung-tien-chi-ve-mot-nua",
+    "title": "TLG: biên gộp 50%, nhưng tiền chỉ về một nửa",
+    "date": "2026-09-13",
+    "excerpt": "Biên gộp cao nhất lịch sử doanh nghiệp, nhưng lợi nhuận sau thuế 2025 lại giảm — chi phí bán hàng tăng nhanh hơn cả doanh thu lẫn lợi nhuận gộp. Và cả năm gần như được quyết định trong đúng một quý.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "tlg-bien-gop-50-phan-tram-nhung-tien-chi-ve-mot-nua.md"
+  },
+  {
     "slug": "hhit-htit-lach-huyen-ai-lay-tau-cua-ai",
     "title": "Bến 5, 6 Lạch Huyện chạy trước một năm, rồi bị bến 3, 4 vượt",
     "date": "2026-09-12",
