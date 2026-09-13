@@ -141,9 +141,25 @@
       S.inlineCharts(headEl);
       S.inlineCharts(bodyEl);
 
-      // Cột dọc bên phải — cùng ô "Bài xem nhiều" như ở trang chủ
+      // Cột dọc bên phải: Mục lục (bài dài) → Loạt bài → Bài xem nhiều
       var sidebar = document.getElementById('sidebar');
-      if (sidebar) sidebar.innerHTML = S.buildSidebar(data.posts, '');
+      if (sidebar) {
+        var toc = S.buildTOC(bodyEl);
+        var seriesWidget = S.buildSeriesWidget(data.posts, post);
+        sidebar.innerHTML = toc + seriesWidget + S.buildSidebar(data.posts, '');
+        S.initScrollSpy(bodyEl, sidebar.querySelector('.toc'));
+      }
+
+      // Thanh tiến độ đọc mảnh trên đầu trang
+      S.initReadingProgress(bodyEl);
+
+      // Nút ← Bài trước / Bài sau → khi bài nằm trong một loạt
+      var seriesNav = S.buildSeriesNav(data.posts, post);
+      if (seriesNav) {
+        var navWrap = document.createElement('div');
+        navWrap.innerHTML = seriesNav;
+        footEl.parentNode.insertBefore(navWrap.firstChild, footEl.nextSibling);
+      }
 
       // Gợi ý bài liên quan ở cuối bài. Bảng bài liên quan nằm ở
       // posts/related.json nên phải chờ tải xong mới dựng được.

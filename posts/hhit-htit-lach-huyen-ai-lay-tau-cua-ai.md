@@ -58,7 +58,7 @@ HICT vẫn là bến lớn nhất nhưng đang nhả dần chỗ; toàn bộ ph�
 
 Bảy tháng đầu 2026, HICT công bố hơn **746.000 TEU** qua 281 lượt tàu, tức **2.655 TEU mỗi lượt** — con số này cho một hệ số quy đổi có thật, thay vì phải ước. Hệ số đó cao hơn dải 2.330–2.598 tôi dùng ở bài về HTIT; áp lại, tám tháng 2026 của HTIT tương đương khoảng 462.000 TEU và của HHIT khoảng 518.000 TEU. Nếu giữ nhịp, HTIT kết thúc năm quanh 690.000 TEU — vừa đủ chạm kế hoạch 700.000, chứ không hụt 5–15% như tôi ước ở bài trước.
 
-### Chỗ tôi có thể sai
+### Một số lưu ý
 
 - Một chuyến kết thúc bằng cách **chuyển sang bến khác** sẽ được tính cho bến tàu rời đi, không phải bến làm hàng chính. Cả kỳ có 44 lượt di chuyển nội bộ giữa ba bến, riêng cặp HICT–HHIT là 27 — đủ để xê dịch vài lượt mỗi tháng, không đủ để đổi xu hướng.
 - HHIT không công bố sản lượng TEU. Toàn bộ phần quy đổi ở trên suy từ hệ số của HICT, một bến đã chạy ổn định tám năm; bến mới có thể xếp nhẹ hơn trên mỗi chuyến.

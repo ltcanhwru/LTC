@@ -68,6 +68,7 @@
     search: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>',
     play: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>',
     arrowLeft: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>',
+    arrowRight: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>',
     link: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg>',
     eye: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7-10-7-10-7z"/><circle cx="12" cy="12" r="3"/></svg>'
   };
@@ -214,6 +215,191 @@
       '<h3>Sách tiêu biểu</h3>' +
       '<ul class="book-list">' + items + '</ul>' +
     '</section>';
+  }
+
+  /* ---------- Loạt bài (series) ----------
+     Bài thuộc loạt nào được nhận ra từ tiêu đề, theo các mẫu khai báo trong
+     config.series. Nhờ vậy đăng bài mới trong loạt chỉ cần đặt đúng tiêu đề. */
+
+  /* Trả về { def, order } nếu bài thuộc một loạt, ngược lại null */
+  function detectSeries(post) {
+    var defs = CFG.series || [];
+    for (var i = 0; i < defs.length; i++) {
+      var def = defs[i];
+      if (!def || !def.match) continue;
+      if (def.match.test(post.title || '')) {
+        var order = 0;
+        if (def.order) {
+          var m = String(post.title || '').match(def.order);
+          if (m) order = parseInt(m[1], 10) || 0;
+        }
+        return { def: def, order: order };
+      }
+    }
+    return null;
+  }
+
+  /* Mọi bài trong cùng loạt với 'def', xếp theo số thứ tự tăng dần */
+  function seriesMembers(posts, def) {
+    return posts
+      .map(function (p) {
+        var d = detectSeries(p);
+        return (d && d.def.id === def.id) ? { post: p, order: d.order } : null;
+      })
+      .filter(Boolean)
+      .sort(function (a, b) {
+        if (a.order !== b.order) return a.order - b.order;
+        return String(a.post.date).localeCompare(String(b.post.date));
+      });
+  }
+
+  /* Hộp "Loạt bài này" ở cột phải: liệt kê cả loạt, làm nổi bài đang đọc */
+  function buildSeriesWidget(posts, current) {
+    var d = detectSeries(current);
+    if (!d) return '';
+    var members = seriesMembers(posts, d.def);
+    if (members.length < 2) return '';
+
+    var items = members.map(function (entry) {
+      var p = entry.post;
+      var isCurrent = p.slug === current.slug;
+      var num = entry.order > 0
+        ? '<span class="series-num">' + entry.order + '</span>'
+        : '<span class="series-num series-num-intro">•</span>';
+      var label = escapeHtml(p.title);
+      var inner = isCurrent
+        ? '<span class="series-current">' + label + '</span>'
+        : '<a href="' + postUrl(p.slug) + '">' + label + '</a>';
+      return '<li class="series-item' + (isCurrent ? ' is-current' : '') + '">' +
+        num + '<span class="series-text">' + inner + '</span></li>';
+    }).join('');
+
+    return '<section class="widget series-widget">' +
+      '<h3>Loạt bài này</h3>' +
+      '<p class="series-name">' + escapeHtml(d.def.title) + '</p>' +
+      '<ol class="series-list">' + items + '</ol>' +
+    '</section>';
+  }
+
+  /* Nút ← Bài trước / Bài sau → ở cuối bài, trong cùng loạt */
+  function buildSeriesNav(posts, current) {
+    var d = detectSeries(current);
+    if (!d) return '';
+    var members = seriesMembers(posts, d.def);
+    if (members.length < 2) return '';
+
+    var idx = -1;
+    for (var i = 0; i < members.length; i++) {
+      if (members[i].post.slug === current.slug) { idx = i; break; }
+    }
+    if (idx === -1) return '';
+
+    var prev = idx > 0 ? members[idx - 1].post : null;
+    var next = idx < members.length - 1 ? members[idx + 1].post : null;
+    if (!prev && !next) return '';
+
+    function card(p, dir) {
+      var isPrev = dir === 'prev';
+      return '<a class="series-nav-card series-nav-' + dir + '" href="' + postUrl(p.slug) + '">' +
+        '<span class="series-nav-dir">' +
+          (isPrev ? ICONS.arrowLeft + 'Bài trước' : 'Bài sau' + ICONS.arrowRight) +
+        '</span>' +
+        '<span class="series-nav-title">' + escapeHtml(p.title) + '</span>' +
+      '</a>';
+    }
+
+    return '<nav class="series-nav" aria-label="Điều hướng loạt bài">' +
+      (prev ? card(prev, 'prev') : '<span></span>') +
+      (next ? card(next, 'next') : '<span></span>') +
+    '</nav>';
+  }
+
+  /* ---------- Mục lục (table of contents) ----------
+     Dựng từ các tiêu đề h2/h3 trong thân bài SAU khi đã render, và bảo đảm mỗi
+     tiêu đề có id duy nhất để nhảy tới. Trả về '' nếu bài quá ít mục. */
+  function buildTOC(bodyEl) {
+    if (!bodyEl) return '';
+    var heads = bodyEl.querySelectorAll('h2, h3');
+    if (heads.length < 3) return '';
+
+    var seen = {};
+    var items = [];
+    Array.prototype.forEach.call(heads, function (h) {
+      var id = h.id || slugify(h.textContent);
+      if (!id) id = 'muc';
+      if (seen[id]) { seen[id]++; id = id + '-' + seen[id]; } else { seen[id] = 1; }
+      h.id = id;
+      var level = h.nodeName.toLowerCase() === 'h3' ? ' toc-sub' : '';
+      items.push('<li class="toc-item' + level + '">' +
+        '<a href="#' + id + '">' + escapeHtml(h.textContent) + '</a></li>');
+    });
+
+    return '<nav class="widget toc" aria-label="Mục lục">' +
+      '<h3>Mục lục</h3>' +
+      '<ul class="toc-list">' + items.join('') + '</ul>' +
+    '</nav>';
+  }
+
+  function slugify(s) {
+    return String(s || '').toLowerCase().normalize('NFD')
+      .replace(new RegExp('[\\u0300-\\u036f]', 'g'), '').replace(/đ/g, 'd')
+      .replace(/[^a-z0-9\s-]/g, '').trim().replace(/\s+/g, '-');
+  }
+
+  /* Tô đậm mục đang đọc trong Mục lục theo vị trí cuộn */
+  function initScrollSpy(bodyEl, tocEl) {
+    if (!bodyEl || !tocEl || !global.IntersectionObserver) return;
+    var links = tocEl.querySelectorAll('a[href^="#"]');
+    if (!links.length) return;
+
+    var map = {};
+    Array.prototype.forEach.call(links, function (a) {
+      map[a.getAttribute('href').slice(1)] = a;
+    });
+    var heads = bodyEl.querySelectorAll('h2, h3');
+    var current = null;
+
+    function setActive(id) {
+      if (current === id) return;
+      current = id;
+      Array.prototype.forEach.call(links, function (a) { a.classList.remove('is-active'); });
+      if (map[id]) map[id].classList.add('is-active');
+    }
+
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting) setActive(e.target.id);
+      });
+    }, { rootMargin: '-88px 0px -70% 0px', threshold: 0 });
+
+    Array.prototype.forEach.call(heads, function (h) { io.observe(h); });
+  }
+
+  /* Thanh tiến độ đọc mảnh trên đầu trang */
+  function initReadingProgress(bodyEl) {
+    if (!bodyEl) return;
+    var bar = document.createElement('div');
+    bar.className = 'reading-progress';
+    bar.innerHTML = '<span></span>';
+    document.body.appendChild(bar);
+    var fill = bar.firstChild;
+
+    function update() {
+      var rect = bodyEl.getBoundingClientRect();
+      var total = rect.height - global.innerHeight;
+      var passed = -rect.top;
+      var pct = total > 0 ? Math.min(1, Math.max(0, passed / total)) : 0;
+      fill.style.width = (pct * 100).toFixed(2) + '%';
+    }
+    update();
+    var ticking = false;
+    function onScroll() {
+      if (ticking) return;
+      ticking = true;
+      global.requestAnimationFrame(function () { update(); ticking = false; });
+    }
+    global.addEventListener('scroll', onScroll, { passive: true });
+    global.addEventListener('resize', onScroll, { passive: true });
   }
 
   /* ---------- Bài liên quan ----------
@@ -550,6 +736,11 @@
     icons: ICONS,
     postUrl: postUrl,
     buildSidebar: buildSidebar,
+    buildSeriesWidget: buildSeriesWidget,
+    buildSeriesNav: buildSeriesNav,
+    buildTOC: buildTOC,
+    initScrollSpy: initScrollSpy,
+    initReadingProgress: initReadingProgress,
     buildRelated: buildRelated,
     loadRelated: loadRelated,
     mountChrome: mountChrome,

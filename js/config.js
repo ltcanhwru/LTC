@@ -75,6 +75,32 @@ window.SITE = {
     }
   ],
 
+  // ---------- Loạt bài (series) ----------
+  // Gom các bài cùng một loạt lại: hiện hộp "Loạt bài này" ở cột phải và nút
+  // ← Bài trước / Bài sau → ở cuối mỗi bài. Việc thuộc loạt nào được nhận ra
+  // TỰ ĐỘNG từ tiêu đề, nên khi đăng bài mới trong loạt bạn chỉ cần đặt tiêu đề
+  // đúng mẫu (ví dụ "SIP – Bài 06: ..."), không phải khai báo gì thêm.
+  //
+  //   title : tên loạt hiện cho người đọc — sửa tùy thích.
+  //   match : bài có tiêu đề khớp mẫu này thì thuộc loạt (biểu thức chính quy).
+  //   order : nhóm 1 trong mẫu này là SỐ THỨ TỰ bài trong loạt; không khớp thì
+  //           coi là bài mở đầu (xếp trước bài 1).
+  // Phần match/order là kỹ thuật, thường không phải đụng tới sau khi đã đặt xong.
+  series: [
+    {
+      id: 'sip',
+      title: 'Phân tích SIP – Saigon VRG',
+      match: /^SIP(\s|:|–|-)/i,
+      order: /Bài\s*(\d+)/i
+    },
+    {
+      id: 'legends',
+      title: 'Đầu tư giá trị: huyền thoại & công cụ',
+      match: /^Bài\s*\d+\s*[—–-]/i,
+      order: /^Bài\s*(\d+)/i
+    }
+  ],
+
   // Số bài hiện trong ô "Bài xem nhiều" ở cột phải
   popularCount: 5,
 

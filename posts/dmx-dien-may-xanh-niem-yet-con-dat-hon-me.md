@@ -51,7 +51,7 @@ Chính hai người trong cuộc cũng đặt cược ngược nhau đúng vào 
 - **Tính chu kỳ.** Điện máy – điện thoại gắn với sức mua, lãi suất và bất động sản; lợi nhuận nửa đầu 2026 đang ở pha thuận, chưa phải bài kiểm tra lúc ngược gió.
 - **Giao dịch với MWG.** Kho vận, hệ thống, thương hiệu, mặt bằng vẫn đan xen với tập đoàn mẹ — nơi lợi nhuận có thể dịch chuyển giữa mẹ và con.
 
-## Chỗ tôi có thể sai
+## Một số lưu ý
 
 - **P/B thì tôi để ngỏ.** Vốn chủ 30/6 là 22.677 tỷ; IPO bơm thêm 13.315 tỷ nên vốn chủ hậu IPO quãng 36.000 tỷ, ứng với P/B chỉ khoảng **2,6 lần** — thấp hơn nhiều con số ~5,6 mà vài trang dữ liệu đang hiển thị (họ dùng giá trị sổ sách trước khi tiền IPO vào). Con số chính xác phải đợi báo cáo quý đầu tiên sau niêm yết.
 - **ROE 31% là của trước IPO.** Khi mẫu số vốn chủ phình thêm 13.315 tỷ mà lợi nhuận chưa đổi, ROE forward sẽ hạ về quãng 22% — vẫn tốt, nhưng không phải 31%.

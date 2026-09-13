@@ -48,7 +48,7 @@ Hệ số quy đổi là chỗ mong manh nhất của phép tính này. Bến 1,
 
 Với PHP, khoảng hụt đó không đổi bức tranh lớn. Dòng lợi nhuận từ công ty liên doanh, liên kết đã đi từ 23,1 tỷ đồng quý I/2025 lên **92,0 tỷ quý II/2026**, trong khi lợi nhuận sau thuế cổ đông công ty mẹ quý II đạt 425,1 tỷ. Nhưng nhịp lượt tàu là chỉ báo sớm hơn báo cáo quý vài tháng, và nó vừa đi ngang.
 
-### Chỗ tôi có thể sai
+### Một số lưu ý
 
 - Kế hoạch điều động là kế hoạch: giờ tàu đổi được, lượt hủy được. Tôi đếm theo ngày tàu **rời** bến nên một chuyến nằm bến qua nhiều ngày vẫn chỉ tính một lượt — bản đếm tháng 8/2026 khớp đúng 24/24 lượt với bảng theo dõi riêng, nhưng đó mới là một tháng được đối chiếu.
 - DWT là cỡ tàu, không phải hàng xuống bến. Tàu 160.000 DWT ghé Hải Phòng thường chỉ dỡ một phần rồi đi tiếp.
