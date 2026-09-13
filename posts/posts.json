@@ -1,5 +1,75 @@
 [
   {
+    "slug": "klb-chuyen-tai-san-sang-cho-vay-va-bien-lai-tang-139-diem",
+    "title": "KLB: chuyển tài sản sang cho vay, biên lãi tăng 1,39 điểm",
+    "date": "2026-09-13",
+    "excerpt": "Toàn ngành mất 0,67 điểm biên lãi; Kienlongbank tăng 1,39 — mức cải thiện lớn nhất trong 28 ngân hàng. Cách làm nằm ở việc rút 12 nghìn tỷ khỏi liên ngân hàng để chuyển sang cho vay.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "klb-chuyen-tai-san-sang-cho-vay-va-bien-lai-tang-139-diem.md"
+  },
+  {
+    "slug": "pcb-7223-ty-thu-nhap-khac-va-mot-nam-thu-nhap-lai-am",
+    "title": "PCB: 7.223 tỷ thu nhập khác, và một năm thu nhập lãi thuần âm",
+    "date": "2026-09-13",
+    "excerpt": "Năm 2023 chi phí lãi lớn hơn thu nhập lãi — trường hợp duy nhất trong 28 ngân hàng. Năm 2025 lãi 1.704 tỷ, nhưng bỏ dòng thu nhập khác ra thì lỗ 5.519 tỷ.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "pcb-7223-ty-thu-nhap-khac-va-mot-nam-thu-nhap-lai-am.md"
+  },
+  {
+    "slug": "abb-93-phan-tram-loi-nhuan-den-tu-mot-dong",
+    "title": "ABB: 93% lợi nhuận đến từ một dòng",
+    "date": "2026-09-13",
+    "excerpt": "Lợi nhuận gấp 4,8 lần, nhưng loại dòng thu nhập khác 3.304 tỷ ra thì chỉ còn 236 tỷ. Bù lại, phần lõi cải thiện thật: thu nhập lãi thuần tăng 68% và LDR rơi từ 109% xuống 85%.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "abb-93-phan-tram-loi-nhuan-den-tu-mot-dong.md"
+  },
+  {
+    "slug": "ocb-trai-phieu-chiem-30-phan-tram-nguon-von",
+    "title": "OCB: trái phiếu chiếm 30% nguồn vốn huy động — cao nhất ngành",
+    "date": "2026-09-13",
+    "excerpt": "Cao hơn cả Techcombank, và LDR 132% đứng thứ hai trong 28 ngân hàng. Nhưng đây là ngân hàng có bộ đệm dự phòng dày nhất nhóm tư nhân quy mô vừa, và lợi nhuận đang hồi phục thật.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "ocb-trai-phieu-chiem-30-phan-tram-nguon-von.md"
+  },
+  {
+    "slug": "ssb-2621-ty-lai-gop-von-trong-mot-quy",
+    "title": "SSB: 2.621 tỷ lãi góp vốn trong một quý",
+    "date": "2026-09-13",
+    "excerpt": "Một quý bằng gần ba quý còn lại cộng lại, và khoản đó chiếm 38% lợi nhuận cả năm. Loại ra thì lợi nhuận giảm 30% — trong khi thu dịch vụ đã giảm 47% suốt bốn năm.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "ssb-2621-ty-lai-gop-von-trong-mot-quy.md"
+  },
+  {
+    "slug": "nab-tong-tai-san-tang-71-phan-tram-du-no-tang-18",
+    "title": "NAB: tổng tài sản tăng 71%, dư nợ tăng 18%",
+    "date": "2026-09-13",
+    "excerpt": "Ngân hàng vay 118 nghìn tỷ trên liên ngân hàng và gửi lại đúng 118 nghìn tỷ cũng trên liên ngân hàng. Điều đó làm mọi tỷ số tính trên tổng tài sản bị pha loãng — biên lãi thật trên dư nợ là 4,72%.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "nab-tong-tai-san-tang-71-phan-tram-du-no-tang-18.md"
+  },
+  {
+    "slug": "eib-chi-phi-van-hanh-an-58-phan-tram-thu-nhap",
+    "title": "EIB: chi phí vận hành ăn 58% thu nhập, lợi nhuận giảm 64%",
+    "date": "2026-09-13",
+    "excerpt": "Thu nhập giảm 15% trong khi chi phí tăng 25%, thu dịch vụ rơi 78%, quý 4/2025 lỗ 472 tỷ và ROE còn 4% — nhưng cổ phiếu vẫn giao dịch trên giá trị sổ sách.",
+    "tags": ["Cổ phiếu", "Phân tích"],
+    "cover": "",
+    "video": "",
+    "file": "eib-chi-phi-van-hanh-an-58-phan-tram-thu-nhap.md"
+  },
+  {
     "slug": "tpb-ty-trong-thu-dich-vu-cao-nhat-nganh",
     "title": "TPB: tỷ trọng thu dịch vụ cao nhất ngành, và LDR từ 83% lên 110%",
     "date": "2026-09-13",
