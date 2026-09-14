@@ -6,7 +6,14 @@
   <description>Nơi tôi lưu lại những bài viết, vlog và phân tích cá nhân về công nghệ, cổ phiếu, sách vở và cuộc sống.</description>
   <language>vi</language>
   <atom:link href="https://ltcanhwru.github.io/LTC/feed.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Sun, 13 Sep 2026 00:00:00 +0700</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0700</lastBuildDate>
+  <item>
+    <title>DRI: mùa hái quả của vườn cao su bên Lào</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/dri-gia-tri-cot-loi.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dri-gia-tri-cot-loi.html</guid>
+    <pubDate>Mon, 14 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Năng suất vườn cây nhảy từ 1,34 lên 1,81 tấn/ha trong đúng một năm, trên cùng những gốc cao su cũ. Không có giống mới nào được trồng — công ty chặn được nạn trộm mủ và thay tổng giám đốc. Đó cũng là lý do kế hoạch 2026 được đặt thấp hơn.</description>
+  </item>
   <item>
     <title>AST: doanh thu gấp gần ba lần, biên lợi nhuận gộp 64%</title>
     <link>https://ltcanhwru.github.io/LTC/bai/ast-taseco-doanh-thu-gap-ba-bien-gop-64-phan-tram.html</link>
@@ -785,13 +792,6 @@
     <description>Lãi 795 tỷ, chi 1.219 tỷ cổ tức. Doanh nghiệp dược lớn nhất sàn có biên gộp 48%, ROE trên 22% suốt tám năm, không nợ — và vốn hóa 12.486 tỷ nhưng mỗi phiên chỉ giao dịch 700 triệu.</description>
   </item>
   <item>
-    <title>VAB: CIR 26% và một quý thu nhập lãi bất thường</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/vab-cir-26-phan-tram-va-mot-quy-thu-nhap-lai-bat-thuong.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vab-cir-26-phan-tram-va-mot-quy-thu-nhap-lai-bat-thuong.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Biên lãi tăng 1,17 điểm — lớn thứ hai trong 28 ngân hàng — mà không cần nguồn vốn đắt. Nhưng quý 4/2025 có thu nhập lãi thuần bằng 47% cả năm, và nó làm đẹp mọi tỷ số.</description>
-  </item>
-  <item>
     <title>BMS: vốn chủ gấp 3,1 lần, dư nợ cho vay 126 tỷ</title>
     <link>https://ltcanhwru.github.io/LTC/bai/bms-bao-minh-von-chu-gap-31-lan-du-no-126-ty.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/bms-bao-minh-von-chu-gap-31-lan-du-no-126-ty.html</guid>
@@ -813,6 +813,20 @@
     <description>Tổng lỗ bốn năm 764 tỷ, gần bằng toàn bộ vốn chủ hiện tại. Lãi cho vay cao nhất 18 tỷ, phí môi giới cao nhất 13 tỷ — phần lớn vốn không được sử dụng.</description>
   </item>
   <item>
+    <title>IVS: công ty chứng khoán duy nhất không có tự doanh</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/ivs-cong-ty-chung-khoan-duy-nhat-khong-tu-doanh.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/ivs-cong-ty-chung-khoan-duy-nhat-khong-tu-doanh.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Doanh thu tự doanh bằng không ở cả bốn năm và sáu quý. Lợi nhuận vì thế rất ổn định — nhưng doanh thu 107 tỷ một năm là quá nhỏ để mô hình ấy tạo ra giá trị.</description>
+  </item>
+  <item>
+    <title>VFS: dư nợ cho vay gấp 5,9 lần trong ba năm</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/vfs-nhat-viet-du-no-gap-59-lan-trong-ba-nam.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vfs-nhat-viet-du-no-gap-59-lan-trong-ba-nam.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Tỷ trọng tự doanh giảm từ 47% xuống 11% — đi ngược xu hướng ngành. Nhưng 44% doanh thu năm 2025 nằm ở các dòng chưa bóc được.</description>
+  </item>
+  <item>
     <title>ABW: một quý lãi tự doanh 213 tỷ, bằng cả bốn năm trước cộng lại</title>
     <link>https://ltcanhwru.github.io/LTC/bai/abw-an-binh-mot-quy-lai-tu-doanh-213-ty.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/abw-an-binh-mot-quy-lai-tu-doanh-213-ty.html</guid>
@@ -825,20 +839,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/psi-dau-khi-du-no-186-lan-von-chu-nhung-loi-nhuan-nho.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Doanh thu 477 tỷ chỉ tạo ra 55 tỷ lợi nhuận — tỷ lệ 12%, thấp nhất trong 36 công ty niêm yết. Đòn bẩy nằm ở chi phí, vì dư nợ đã gần trần.</description>
-  </item>
-  <item>
-    <title>IVS: công ty chứng khoán duy nhất không có tự doanh</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/ivs-cong-ty-chung-khoan-duy-nhat-khong-tu-doanh.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/ivs-cong-ty-chung-khoan-duy-nhat-khong-tu-doanh.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Doanh thu tự doanh bằng không ở cả bốn năm và sáu quý. Lợi nhuận vì thế rất ổn định — nhưng doanh thu 107 tỷ một năm là quá nhỏ để mô hình ấy tạo ra giá trị.</description>
-  </item>
-  <item>
-    <title>TCI: một quý lỗ 92 tỷ xóa sạch lợi nhuận ba quý trước</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/tci-thanh-cong-mot-quy-lo-92-ty.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/tci-thanh-cong-mot-quy-lo-92-ty.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Doanh thu 2025 gần gấp đôi 2022 nhưng lợi nhuận chỉ bằng 16%. Tỷ trọng tự doanh đi từ 25% lên 52% — và đó là nguyên nhân.</description>
   </item>
   <item>
     <title>WSS và VIG: hai công ty chứng khoán không còn khách hàng</title>
@@ -862,6 +862,20 @@
     <description>ROE 81% và P/B 3,28 — cả hai đều cao nhất trong các tổ chức tín dụng niêm yết. Nhưng ba năm trước, chi phí dự phòng ăn 90–128% lợi nhuận trước dự phòng.</description>
   </item>
   <item>
+    <title>HAC: vốn hóa 1.163 tỷ, doanh thu 86 tỷ</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/hac-hai-phong-von-hoa-1163-ty-doanh-thu-86-ty.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/hac-hai-phong-von-hoa-1163-ty-doanh-thu-86-ty.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Quý 2/2025 một mình tạo ra 98% lợi nhuận cả năm. Với thanh khoản gần như bằng không, mức giá này phản ánh việc cổ phiếu không giao dịch hơn là định giá của thị trường.</description>
+  </item>
+  <item>
+    <title>TCI: một quý lỗ 92 tỷ xóa sạch lợi nhuận ba quý trước</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/tci-thanh-cong-mot-quy-lo-92-ty.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/tci-thanh-cong-mot-quy-lo-92-ty.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Doanh thu 2025 gần gấp đôi 2022 nhưng lợi nhuận chỉ bằng 16%. Tỷ trọng tự doanh đi từ 25% lên 52% — và đó là nguyên nhân.</description>
+  </item>
+  <item>
     <title>TVB: 97% tự doanh, và một quý doanh thu âm</title>
     <link>https://ltcanhwru.github.io/LTC/bai/tvb-t-cap-97-phan-tram-tu-doanh-va-mot-quy-doanh-thu-am.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/tvb-t-cap-97-phan-tram-tu-doanh-va-mot-quy-doanh-thu-am.html</guid>
@@ -874,20 +888,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/apg-hai-nam-lo-375-ty-va-du-no-tang-gap-95-lan.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Vốn chủ tăng 54% nhờ phát hành cổ phiếu dù bốn năm lỗ. Mảng cho vay đang được xây, nhưng phí môi giới 6 tỷ một năm cho thấy nền khách hàng quá nhỏ.</description>
-  </item>
-  <item>
-    <title>HAC: vốn hóa 1.163 tỷ, doanh thu 86 tỷ</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/hac-hai-phong-von-hoa-1163-ty-doanh-thu-86-ty.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/hac-hai-phong-von-hoa-1163-ty-doanh-thu-86-ty.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Quý 2/2025 một mình tạo ra 98% lợi nhuận cả năm. Với thanh khoản gần như bằng không, mức giá này phản ánh việc cổ phiếu không giao dịch hơn là định giá của thị trường.</description>
-  </item>
-  <item>
-    <title>VFS: dư nợ cho vay gấp 5,9 lần trong ba năm</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/vfs-nhat-viet-du-no-gap-59-lan-trong-ba-nam.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vfs-nhat-viet-du-no-gap-59-lan-trong-ba-nam.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Tỷ trọng tự doanh giảm từ 47% xuống 11% — đi ngược xu hướng ngành. Nhưng 44% doanh thu năm 2025 nằm ở các dòng chưa bóc được.</description>
   </item>
   <item>
     <title>TIG: chi phí quản lý gấp 3,5 lần, lợi nhuận giảm 56%</title>
@@ -911,6 +911,20 @@
     <description>Hàng tồn kho chỉ bằng 12% vốn chủ — phần lớn tài sản nằm ở nơi khác. Dòng tiền bốn năm âm 2.673 tỷ, và thị trường định giá doanh nghiệp ở một nửa giá trị sổ sách.</description>
   </item>
   <item>
+    <title>IDJ: một năm lỗ 160 tỷ sau ba năm lãi</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/idj-mot-nam-lo-160-ty-sau-ba-nam-lai.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/idj-mot-nam-lo-160-ty-sau-ba-nam-lai.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Doanh thu tăng 47% lên mức cao nhất bốn năm nhưng ba dòng chi phí cùng nhảy. Và khoản người mua trả tiền trước giảm 85% — từ 2.091 xuống 313 tỷ.</description>
+  </item>
+  <item>
+    <title>LDG: hai năm lỗ 2.033 tỷ và doanh thu âm</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/ldg-hai-nam-lo-2033-ty-va-doanh-thu-am.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/ldg-hai-nam-lo-2033-ty-va-doanh-thu-am.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Doanh thu thuần âm hai năm liền và vốn chủ mất 63%. Nhưng năm 2025 thu về 1.908 tỷ tiền mặt — gấp 20 lần lợi nhuận, và nợ vay giảm 36%.</description>
+  </item>
+  <item>
     <title>KHG: lợi nhuận gần như toàn bộ đến từ doanh thu tài chính</title>
     <link>https://ltcanhwru.github.io/LTC/bai/khg-khai-hoan-land-loi-nhuan-gan-nhu-toan-bo-tu-tai-chinh.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/khg-khai-hoan-land-loi-nhuan-gan-nhu-toan-bo-tu-tai-chinh.html</guid>
@@ -923,20 +937,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/scr-ttc-land-doanh-thu-tai-chinh-gap-ba-lan-loi-nhuan.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Hai dòng tài chính lớn gần bằng doanh thu bán hàng, và phần chênh giữa chúng quyết định lợi nhuận cả năm. Bốn năm dòng tiền âm 3.277 tỷ trên lợi nhuận 143 tỷ.</description>
-  </item>
-  <item>
-    <title>IDJ: một năm lỗ 160 tỷ sau ba năm lãi</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/idj-mot-nam-lo-160-ty-sau-ba-nam-lai.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/idj-mot-nam-lo-160-ty-sau-ba-nam-lai.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Doanh thu tăng 47% lên mức cao nhất bốn năm nhưng ba dòng chi phí cùng nhảy. Và khoản người mua trả tiền trước giảm 85% — từ 2.091 xuống 313 tỷ.</description>
-  </item>
-  <item>
-    <title>LSG: doanh thu 8 tỷ, vốn hóa 3.147 tỷ</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/lsg-doanh-thu-8-ty-von-hoa-3147-ty.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/lsg-doanh-thu-8-ty-von-hoa-3147-ty.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Lợi nhuận từ lõi âm cả bốn năm; toàn bộ nguồn thu là doanh thu tài chính. Hàng tồn kho 1.074 tỷ về không trong một năm mà doanh thu bán hàng chỉ 1 tỷ.</description>
   </item>
   <item>
     <title>DSC: doanh thu gấp 4,2 lần trong ba năm</title>
@@ -960,6 +960,20 @@
     <description>Tự doanh chỉ 0–6% doanh thu — thấp nhất ngành. Nhưng năm 2024 lợi nhuận trước thuế bằng 0, và nửa đầu 2026 giảm 58% dù doanh thu tăng.</description>
   </item>
   <item>
+    <title>FIR: doanh thu mất hai phần ba, nợ vay giảm 66%</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/fir-first-real-no-vay-giam-66-phan-tram.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/fir-first-real-no-vay-giam-66-phan-tram.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Biên gộp giữ được 53–65% cả bốn năm — vấn đề là tốc độ bán, không phải chất lượng sản phẩm. Cổ phiếu giao dịch ở 29% giá trị sổ sách.</description>
+  </item>
+  <item>
+    <title>LSG: doanh thu 8 tỷ, vốn hóa 3.147 tỷ</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/lsg-doanh-thu-8-ty-von-hoa-3147-ty.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/lsg-doanh-thu-8-ty-von-hoa-3147-ty.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Lợi nhuận từ lõi âm cả bốn năm; toàn bộ nguồn thu là doanh thu tài chính. Hàng tồn kho 1.074 tỷ về không trong một năm mà doanh thu bán hàng chỉ 1 tỷ.</description>
+  </item>
+  <item>
     <title>NRC: hai năm doanh thu 5 tỷ</title>
     <link>https://ltcanhwru.github.io/LTC/bai/nrc-danh-khoi-hai-nam-doanh-thu-5-ty.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/nrc-danh-khoi-hai-nam-doanh-thu-5-ty.html</guid>
@@ -972,20 +986,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/big-doanh-thu-gap-ba-lan-va-pe-34.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Biên gộp gấp ba lần trong một năm từ 5% lên 12%, đưa lợi nhuận từ 1 lên 46 tỷ. Nhưng hàng tồn kho chỉ 13 tỷ và dòng tiền âm cả bốn năm.</description>
-  </item>
-  <item>
-    <title>FIR: doanh thu mất hai phần ba, nợ vay giảm 66%</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/fir-first-real-no-vay-giam-66-phan-tram.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/fir-first-real-no-vay-giam-66-phan-tram.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Biên gộp giữ được 53–65% cả bốn năm — vấn đề là tốc độ bán, không phải chất lượng sản phẩm. Cổ phiếu giao dịch ở 29% giá trị sổ sách.</description>
-  </item>
-  <item>
-    <title>HPG: biên gộp từ 11% lên 19%</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/hpg-bien-gop-tu-11-len-19-phan-tram.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/hpg-bien-gop-tu-11-len-19-phan-tram.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Lợi nhuận từ lõi tăng 111% lên 20.428 tỷ. Nhưng lãi vay nửa đầu 2026 gấp 2,7 lần cùng kỳ, và quý 1 chứa 5.938 tỷ doanh thu tài chính bất thường.</description>
   </item>
   <item>
     <title>KSV: biên gộp từ 9% lên 47%</title>
@@ -1009,6 +1009,20 @@
     <description>Sáu cái giàn khoan. Mỗi cái trị giá 2.435 tỷ và tạo ra 175 tỷ lợi nhuận một năm — đó chính là ROE, nhìn từ phía tài sản.</description>
   </item>
   <item>
+    <title>GEE: ROE 44%, và một khoản 1.563 tỷ trong một quý</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/gee-roe-44-phan-tram-va-mot-khoan-1563-ty-trong-mot-quy.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/gee-roe-44-phan-tram-va-mot-khoan-1563-ty-trong-mot-quy.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Doanh thu tăng 53% trong khi tài sản cố định giảm 77% — tỷ lệ doanh thu trên tài sản lên 16,7 lần. Đó là nguồn của ROE cao.</description>
+  </item>
+  <item>
+    <title>PVS: doanh thu gấp đôi, lợi nhuận lõi gần bằng không</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/pvs-doanh-thu-gap-doi-loi-nhuan-loi-gan-bang-khong.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/pvs-doanh-thu-gap-doi-loi-nhuan-loi-gan-bang-khong.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Bốn năm, lợi nhuận từ hoạt động cốt lõi lần lượt là 107 tỷ, âm 13 tỷ, âm 265 tỷ và 481 tỷ. Toàn bộ lợi nhuận đến từ liên doanh và lãi tiền gửi.</description>
+  </item>
+  <item>
     <title>MSR: bốn năm lỗ 3.001 tỷ, rồi một quý lãi 1.666 tỷ</title>
     <link>https://ltcanhwru.github.io/LTC/bai/msr-bon-nam-lo-3001-ty-roi-mot-quy-lai-1666-ty.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/msr-bon-nam-lo-3001-ty-roi-mot-quy-lai-1666-ty.html</guid>
@@ -1021,20 +1035,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/gex-mot-nua-loi-nhuan-khong-thuoc-co-dong-cong-ty-me.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Bốn năm, chỉ 47% lợi nhuận hợp nhất về tới cổ đông tập đoàn. Một quý lãi trước thuế 1.178 tỷ mà cổ đông mẹ lỗ 35 tỷ.</description>
-  </item>
-  <item>
-    <title>GEE: ROE 44%, và một khoản 1.563 tỷ trong một quý</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/gee-roe-44-phan-tram-va-mot-khoan-1563-ty-trong-mot-quy.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/gee-roe-44-phan-tram-va-mot-khoan-1563-ty-trong-mot-quy.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Doanh thu tăng 53% trong khi tài sản cố định giảm 77% — tỷ lệ doanh thu trên tài sản lên 16,7 lần. Đó là nguồn của ROE cao.</description>
-  </item>
-  <item>
-    <title>DPM: từ 5.565 tỷ xuống 519 tỷ rồi quay lại</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/dpm-tu-5565-ty-xuong-519-ty-roi-quay-lai.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dpm-tu-5565-ty-xuong-519-ty-roi-quay-lai.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Một nhà máy 800 nghìn tấn ure đã khấu hao 87% — và khoảng một nửa doanh thu không đến từ nó. Biên gộp đi từ 42% xuống 12% rồi lên 24%.</description>
   </item>
   <item>
     <title>KDC: ba năm lợi nhuận lõi âm</title>
@@ -1058,6 +1058,20 @@
     <description>Hơn 400 chi nhánh tự đầu tư: mỗi chi nhánh tạo 10,6 tỷ lợi nhuận gộp và tốn 7,3 tỷ để vận hành. Năm 2022, phép tính đó cho ra số âm.</description>
   </item>
   <item>
+    <title>OIL: doanh thu 91.705 tỷ một quý và khoản lỗ 132 tỷ</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/oil-doanh-thu-91705-ty-mot-quy-va-khoan-lo-132-ty.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/oil-doanh-thu-91705-ty-mot-quy-va-khoan-lo-132-ty.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Doanh thu gấp 20 lần nguyên giá tài sản cố định — đây là mạng phân phối, không phải nhà máy. Biên gộp giảm bốn năm liền xuống 2,9%.</description>
+  </item>
+  <item>
+    <title>DPM: từ 5.565 tỷ xuống 519 tỷ rồi quay lại</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/dpm-tu-5565-ty-xuong-519-ty-roi-quay-lai.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dpm-tu-5565-ty-xuong-519-ty-roi-quay-lai.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Một nhà máy 800 nghìn tấn ure đã khấu hao 87% — và khoảng một nửa doanh thu không đến từ nó. Biên gộp đi từ 42% xuống 12% rồi lên 24%.</description>
+  </item>
+  <item>
     <title>GEL: P/E 135 và ROE 0,9%</title>
     <link>https://ltcanhwru.github.io/LTC/bai/gel-pe-135-va-roe-09-phan-tram.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/gel-pe-135-va-roe-09-phan-tram.html</guid>
@@ -1070,20 +1084,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/sbt-lai-vay-1434-ty-tren-loi-nhuan-loi-937-ty.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Nợ vay 18.481 tỷ không dùng để xây nhà máy — nhà máy đã khấu hao 72%. Nó tài trợ cho 6.574 tỷ trả trước người bán và một danh mục tài chính 13.730 tỷ.</description>
-  </item>
-  <item>
-    <title>OIL: doanh thu 91.705 tỷ một quý và khoản lỗ 132 tỷ</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/oil-doanh-thu-91705-ty-mot-quy-va-khoan-lo-132-ty.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/oil-doanh-thu-91705-ty-mot-quy-va-khoan-lo-132-ty.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Doanh thu gấp 20 lần nguyên giá tài sản cố định — đây là mạng phân phối, không phải nhà máy. Biên gộp giảm bốn năm liền xuống 2,9%.</description>
-  </item>
-  <item>
-    <title>PVS: doanh thu gấp đôi, lợi nhuận lõi gần bằng không</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/pvs-doanh-thu-gap-doi-loi-nhuan-loi-gan-bang-khong.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/pvs-doanh-thu-gap-doi-loi-nhuan-loi-gan-bang-khong.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Bốn năm, lợi nhuận từ hoạt động cốt lõi lần lượt là 107 tỷ, âm 13 tỷ, âm 265 tỷ và 481 tỷ. Toàn bộ lợi nhuận đến từ liên doanh và lãi tiền gửi.</description>
   </item>
   <item>
     <title>GVR: 22.445 tỷ tiền mặt, nợ vay 2.973 tỷ</title>
@@ -1107,6 +1107,20 @@
     <description>Nợ vay gấp 3,7 lần lên 69.000 tỷ, bằng 278% vốn chủ. Lãi vay 3.620 tỷ ăn 92% lợi nhuận từ bán vé.</description>
   </item>
   <item>
+    <title>MSN: lãi vay 5.418 tỷ ăn 71% lợi nhuận lõi</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/msn-lai-vay-5418-ty-an-71-phan-tram-loi-nhuan-loi.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/msn-lai-vay-5418-ty-an-71-phan-tram-loi-nhuan-loi.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Nợ vay 64.877 tỷ, bằng 144% vốn chủ. Năm 2023, lãi vay 6.946 tỷ vượt lợi nhuận lõi và lợi nhuận sau thuế rơi 61%.</description>
+  </item>
+  <item>
+    <title>HPG: biên gộp từ 11% lên 19%</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/hpg-bien-gop-tu-11-len-19-phan-tram.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/hpg-bien-gop-tu-11-len-19-phan-tram.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Lợi nhuận từ lõi tăng 111% lên 20.428 tỷ. Nhưng lãi vay nửa đầu 2026 gấp 2,7 lần cùng kỳ, và quý 1 chứa 5.938 tỷ doanh thu tài chính bất thường.</description>
+  </item>
+  <item>
     <title>ACV: biên gộp 60%, lợi nhuận lõi gấp ba trong ba năm</title>
     <link>https://ltcanhwru.github.io/LTC/bai/acv-bien-gop-60-phan-tram-va-loi-nhuan-loi-gap-ba.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/acv-bien-gop-60-phan-tram-va-loi-nhuan-loi-gap-ba.html</guid>
@@ -1119,20 +1133,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/bsr-bien-gop-tu-0-len-21-phan-tram-trong-nam-quy.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Năm 2024 lợi nhuận từ lõi âm 722 tỷ; quý 1/2026 lãi 8.957 tỷ từ lõi trong một quý. P/E 6,9 ở đỉnh, 233 ở đáy.</description>
-  </item>
-  <item>
-    <title>MSN: lãi vay 5.418 tỷ ăn 71% lợi nhuận lõi</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/msn-lai-vay-5418-ty-an-71-phan-tram-loi-nhuan-loi.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/msn-lai-vay-5418-ty-an-71-phan-tram-loi-nhuan-loi.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Nợ vay 64.877 tỷ, bằng 144% vốn chủ. Năm 2023, lãi vay 6.946 tỷ vượt lợi nhuận lõi và lợi nhuận sau thuế rơi 61%.</description>
-  </item>
-  <item>
-    <title>PLX: chi phí bán hàng ăn 80% lợi nhuận gộp</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/plx-chi-phi-ban-hang-an-80-phan-tram-loi-nhuan-gop.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/plx-chi-phi-ban-hang-an-80-phan-tram-loi-nhuan-gop.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Doanh thu 309.875 tỷ — lớn nhất thị trường niêm yết — nhưng biên lãi ròng 0,98%. Một quý lỗ 763 tỷ, quý sau lãi 2.800 tỷ.</description>
   </item>
   <item>
     <title>GMD: gần một nửa lợi nhuận đến từ công ty liên kết</title>
@@ -1156,6 +1156,20 @@
     <description>Biên gộp đi từ 47% (2022) xuống 19% (quý 2/2026). Vốn hóa 17.755 tỷ, trong đó 13.437 tỷ là tiền và tiền gửi.</description>
   </item>
   <item>
+    <title>MVN: vốn hóa 75 nghìn tỷ, mỗi phiên khớp 2 tỷ</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/mvn-von-hoa-75-nghin-ty-moi-phien-khop-2-ty.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mvn-von-hoa-75-nghin-ty-moi-phien-khop-2-ty.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>0,0026% vốn hóa được giao dịch mỗi ngày. P/B 4,90 với ROE 14,5%, trong khi lợi nhuận từ lõi giảm 25% so với 2022.</description>
+  </item>
+  <item>
+    <title>PLX: chi phí bán hàng ăn 80% lợi nhuận gộp</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/plx-chi-phi-ban-hang-an-80-phan-tram-loi-nhuan-gop.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/plx-chi-phi-ban-hang-an-80-phan-tram-loi-nhuan-gop.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Doanh thu 309.875 tỷ — lớn nhất thị trường niêm yết — nhưng biên lãi ròng 0,98%. Một quý lỗ 763 tỷ, quý sau lãi 2.800 tỷ.</description>
+  </item>
+  <item>
     <title>KSF: tổng tài sản gấp 5,8 lần trong một năm</title>
     <link>https://ltcanhwru.github.io/LTC/bai/ksf-tong-tai-san-gap-58-lan-trong-mot-nam.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/ksf-tong-tai-san-gap-58-lan-trong-mot-nam.html</guid>
@@ -1168,20 +1182,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vpl-loi-nhuan-loi-duong-lan-dau-sau-hai-nam-lo.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Biên gộp đi từ âm 57% lên 35%, lợi nhuận từ lõi đảo chiều 8.792 tỷ. Nhưng lợi nhuận sau thuế lại giảm, vì doanh thu tài chính rơi 85%.</description>
-  </item>
-  <item>
-    <title>MVN: vốn hóa 75 nghìn tỷ, mỗi phiên khớp 2 tỷ</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/mvn-von-hoa-75-nghin-ty-moi-phien-khop-2-ty.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mvn-von-hoa-75-nghin-ty-moi-phien-khop-2-ty.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>0,0026% vốn hóa được giao dịch mỗi ngày. P/B 4,90 với ROE 14,5%, trong khi lợi nhuận từ lõi giảm 25% so với 2022.</description>
-  </item>
-  <item>
-    <title>LDG: hai năm lỗ 2.033 tỷ và doanh thu âm</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/ldg-hai-nam-lo-2033-ty-va-doanh-thu-am.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/ldg-hai-nam-lo-2033-ty-va-doanh-thu-am.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Doanh thu thuần âm hai năm liền và vốn chủ mất 63%. Nhưng năm 2025 thu về 1.908 tỷ tiền mặt — gấp 20 lần lợi nhuận, và nợ vay giảm 36%.</description>
   </item>
   <item>
     <title>VHM: bán gấp 2,5 lần, lãi gộp chỉ tăng một nửa</title>
@@ -1205,6 +1205,20 @@
     <description>Mức âm lớn nhất trong 38 doanh nghiệp bất động sản được soi. Hàng tồn kho gần gấp đôi và nợ vay gấp 2,8 lần trong cùng năm — một đợt mua quỹ đất quy mô lớn bằng vốn vay.</description>
   </item>
   <item>
+    <title>VIC: 70% lợi nhuận trước thuế đến từ dòng &quot;lợi nhuận khác&quot;</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/vic-70-phan-tram-loi-nhuan-den-tu-dong-loi-nhuan-khac.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vic-70-phan-tram-loi-nhuan-den-tu-dong-loi-nhuan-khac.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Lợi nhuận từ hoạt động cốt lõi âm ba năm liền, năm 2025 mới dương ở biên 1,1%. Nợ vay 335.420 tỷ — lớn nhất trong các doanh nghiệp phi tài chính niêm yết — bằng 2,21 lần vốn chủ.</description>
+  </item>
+  <item>
+    <title>VPX: gấp 10 lần trong ba năm</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/vpx-gap-10-lan-trong-ba-nam.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vpx-gap-10-lan-trong-ba-nam.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Tốc độ nhanh nhất trong 36 công ty chứng khoán niêm yết — nhưng phần lớn là lấp đầy khối vốn nhàn rỗi có sẵn từ 2022. Lợi nhuận hai quý liền nhau chênh 4,2 lần.</description>
+  </item>
+  <item>
     <title>VCI: vốn chủ gấp 2,8 lần, lợi nhuận tăng 54%</title>
     <link>https://ltcanhwru.github.io/LTC/bai/vci-von-chu-gap-28-lan-loi-nhuan-tang-54-phan-tram.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vci-von-chu-gap-28-lan-loi-nhuan-tang-54-phan-tram.html</guid>
@@ -1217,20 +1231,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/35-doanh-nghiep-bat-dong-san-bon-nam-tien-ra-46-nghin-ty.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Bốn năm dòng tiền âm liên tiếp, không năm nào dương. Hàng tồn kho tăng 50 nghìn tỷ, nợ vay tăng 42 nghìn tỷ — trong khi khoản đặt cọc của khách hàng đứng yên.</description>
-  </item>
-  <item>
-    <title>VIC: 70% lợi nhuận trước thuế đến từ dòng &quot;lợi nhuận khác&quot;</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/vic-70-phan-tram-loi-nhuan-den-tu-dong-loi-nhuan-khac.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vic-70-phan-tram-loi-nhuan-den-tu-dong-loi-nhuan-khac.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Lợi nhuận từ hoạt động cốt lõi âm ba năm liền, năm 2025 mới dương ở biên 1,1%. Nợ vay 335.420 tỷ — lớn nhất trong các doanh nghiệp phi tài chính niêm yết — bằng 2,21 lần vốn chủ.</description>
-  </item>
-  <item>
-    <title>IDC: tiền về vượt lợi nhuận bốn năm liền</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/idc-idico-tien-ve-vuot-loi-nhuan-bon-nam-lien.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/idc-idico-tien-ve-vuot-loi-nhuan-bon-nam-lien.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>152% trong khi cả ngành bất động sản chỉ đạt 35%. Hàng tồn kho chỉ bằng 16% vốn chủ — doanh nghiệp không giam vốn vào quỹ đất. ROE 26% và P/E 5,8.</description>
   </item>
   <item>
     <title>SHS: một quý lãi tự doanh âm 32 tỷ</title>
@@ -1254,6 +1254,20 @@
     <description>Tốc độ giành thị phần nhanh nhất ngành khi toàn ngành giảm 6%. Nhưng hai quý liền doanh thu giữ mức cao mà lợi nhuận chỉ còn 12–14 tỷ — chi phí đang đi trước doanh thu.</description>
   </item>
   <item>
+    <title>MBS: dư nợ margin gấp bốn lần, và đã ở 1,88 lần vốn chủ</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/mbs-du-no-margin-gap-bon-lan-va-sat-tran.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mbs-du-no-margin-gap-bon-lan-va-sat-tran.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Bằng 94% trần quy định — dư địa cho vay thêm chỉ còn khoảng 950 tỷ. Nhưng cơ cấu doanh thu cân và phí môi giới tăng 29% khi toàn ngành giảm 6%.</description>
+  </item>
+  <item>
+    <title>IDC: tiền về vượt lợi nhuận bốn năm liền</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/idc-idico-tien-ve-vuot-loi-nhuan-bon-nam-lien.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/idc-idico-tien-ve-vuot-loi-nhuan-bon-nam-lien.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>152% trong khi cả ngành bất động sản chỉ đạt 35%. Hàng tồn kho chỉ bằng 16% vốn chủ — doanh nghiệp không giam vốn vào quỹ đất. ROE 26% và P/E 5,8.</description>
+  </item>
+  <item>
     <title>VCG: P/E 2,6 và 3.766 tỷ doanh thu tài chính</title>
     <link>https://ltcanhwru.github.io/LTC/bai/vcg-pe-26-va-3766-ty-doanh-thu-tai-chinh.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vcg-pe-26-va-3766-ty-doanh-thu-tai-chinh.html</guid>
@@ -1266,20 +1280,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vgc-viglacera-tien-ve-gap-doi-loi-nhuan.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Tỷ lệ 219% — cao nhất nhóm khu công nghiệp — và lợi nhuận hoàn toàn từ hoạt động cốt lõi. Nhưng doanh thu 2025 vẫn thấp hơn 2022, và P/B 2,48 đang trả cho một triển vọng chưa xuất hiện.</description>
-  </item>
-  <item>
-    <title>MBS: dư nợ margin gấp bốn lần, và đã ở 1,88 lần vốn chủ</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/mbs-du-no-margin-gap-bon-lan-va-sat-tran.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mbs-du-no-margin-gap-bon-lan-va-sat-tran.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Bằng 94% trần quy định — dư địa cho vay thêm chỉ còn khoảng 950 tỷ. Nhưng cơ cấu doanh thu cân và phí môi giới tăng 29% khi toàn ngành giảm 6%.</description>
-  </item>
-  <item>
-    <title>VPX: gấp 10 lần trong ba năm</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/vpx-gap-10-lan-trong-ba-nam.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vpx-gap-10-lan-trong-ba-nam.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Tốc độ nhanh nhất trong 36 công ty chứng khoán niêm yết — nhưng phần lớn là lấp đầy khối vốn nhàn rỗi có sẵn từ 2022. Lợi nhuận hai quý liền nhau chênh 4,2 lần.</description>
   </item>
   <item>
     <title>BAB: bốn năm ROE 8–9%, CIR luôn quanh 60%</title>
@@ -1303,6 +1303,20 @@
     <description>Tổng tài sản bằng 1/94 của BIDV, CIR 70% cao nhất ngành, dư nợ năm 2025 tăng đúng 1%. Ngân hàng duy nhất không phát hành đồng giấy tờ có giá nào — và vẫn giao dịch trên giá trị sổ sách.</description>
   </item>
   <item>
+    <title>VBB: trái phiếu gấp 4,6 lần, biên lãi 1,85%</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/vbb-trai-phieu-gap-46-lan-va-bien-lai-185-phan-tram.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vbb-trai-phieu-gap-46-lan-va-bien-lai-185-phan-tram.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Mức tăng trái phiếu lớn thứ hai trong 28 ngân hàng, LDR đi từ 84% lên 104% — nhưng biên lãi vẫn ở nhóm thấp nhất, và thu phí chỉ chiếm 4% tổng thu nhập.</description>
+  </item>
+  <item>
+    <title>VAB: CIR 26% và một quý thu nhập lãi bất thường</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/vab-cir-26-phan-tram-va-mot-quy-thu-nhap-lai-bat-thuong.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vab-cir-26-phan-tram-va-mot-quy-thu-nhap-lai-bat-thuong.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Biên lãi tăng 1,17 điểm — lớn thứ hai trong 28 ngân hàng — mà không cần nguồn vốn đắt. Nhưng quý 4/2025 có thu nhập lãi thuần bằng 47% cả năm, và nó làm đẹp mọi tỷ số.</description>
+  </item>
+  <item>
     <title>NVB: bốn năm lỗ 5.792 tỷ, vốn hóa 34.218 tỷ</title>
     <link>https://ltcanhwru.github.io/LTC/bai/nvb-bon-nam-lo-5792-ty-von-hoa-34000-ty.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/nvb-bon-nam-lo-5792-ty-von-hoa-34000-ty.html</guid>
@@ -1315,20 +1329,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/bvb-chi-phi-va-du-phong-an-82-phan-tram-thu-nhap.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Thu nhập lãi thuần tăng 56% trong ba năm nhưng ROE chỉ 6%, vì CIR 59–80% suốt bốn năm. Và 92% thu nhập đến từ lãi cho vay — thu dịch vụ gần như bằng không.</description>
-  </item>
-  <item>
-    <title>VBB: trái phiếu gấp 4,6 lần, biên lãi 1,85%</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/vbb-trai-phieu-gap-46-lan-va-bien-lai-185-phan-tram.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vbb-trai-phieu-gap-46-lan-va-bien-lai-185-phan-tram.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Mức tăng trái phiếu lớn thứ hai trong 28 ngân hàng, LDR đi từ 84% lên 104% — nhưng biên lãi vẫn ở nhóm thấp nhất, và thu phí chỉ chiếm 4% tổng thu nhập.</description>
-  </item>
-  <item>
-    <title>36 công ty chứng khoán: môi giới chỉ còn 16% doanh thu</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/36-cong-ty-chung-khoan-moi-gioi-chi-con-16-phan-tram.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/36-cong-ty-chung-khoan-moi-gioi-chi-con-16-phan-tram.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Doanh thu môi giới năm 2025 thấp hơn năm 2021, trong khi dư nợ cho vay margin gấp 3,5 lần trong ba năm lên 294 nghìn tỷ. Nghề chính của công ty chứng khoán đã đổi.</description>
   </item>
   <item>
     <title>SSI: doanh thu lớn nhất ngành, và ba chân gần cân</title>
@@ -1352,6 +1352,20 @@
     <description>Toàn ngành tăng 67%, VND giảm 3%. Dư nợ margin chỉ tăng 58% khi ngành tăng 254% — không phải vì thiếu vốn, mà vì hơn một nửa vốn cổ đông đang không được dùng để cho vay.</description>
   </item>
   <item>
+    <title>HCM: 47% doanh thu từ cho vay margin, và đã sát trần</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/hcm-47-phan-tram-doanh-thu-tu-cho-vay-margin.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/hcm-47-phan-tram-doanh-thu-tu-cho-vay-margin.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Tỷ trọng cho vay cao nhất ngành và dư nợ đã ở 1,94 lần vốn chủ — sát trần quy định. Nguồn thu chính đã chạm giới hạn tăng trưởng tự nhiên, trong khi P/E là 26 và ROE chỉ 8%.</description>
+  </item>
+  <item>
+    <title>36 công ty chứng khoán: môi giới chỉ còn 16% doanh thu</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/36-cong-ty-chung-khoan-moi-gioi-chi-con-16-phan-tram.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/36-cong-ty-chung-khoan-moi-gioi-chi-con-16-phan-tram.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Doanh thu môi giới năm 2025 thấp hơn năm 2021, trong khi dư nợ cho vay margin gấp 3,5 lần trong ba năm lên 294 nghìn tỷ. Nghề chính của công ty chứng khoán đã đổi.</description>
+  </item>
+  <item>
     <title>TCX: dư nợ margin lớn nhất ngành, 43.860 tỷ</title>
     <link>https://ltcanhwru.github.io/LTC/bai/tcx-du-no-margin-lon-nhat-nganh-43860-ty.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/tcx-du-no-margin-lon-nhat-nganh-43860-ty.html</guid>
@@ -1364,20 +1378,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vix-83-phan-tram-tu-doanh-va-mot-quy-lo-97-phan-tram.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Quý 3/2025 lãi 3.048 tỷ, quý 2/2026 còn 75 tỷ. Đây không phải công ty chứng khoán theo nghĩa thông thường — nó là một danh mục đầu tư có giấy phép môi giới.</description>
-  </item>
-  <item>
-    <title>HCM: 47% doanh thu từ cho vay margin, và đã sát trần</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/hcm-47-phan-tram-doanh-thu-tu-cho-vay-margin.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/hcm-47-phan-tram-doanh-thu-tu-cho-vay-margin.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Tỷ trọng cho vay cao nhất ngành và dư nợ đã ở 1,94 lần vốn chủ — sát trần quy định. Nguồn thu chính đã chạm giới hạn tăng trưởng tự nhiên, trong khi P/E là 26 và ROE chỉ 8%.</description>
-  </item>
-  <item>
-    <title>CTS: lợi nhuận từ 271 tỷ xuống 15 tỷ trong ba quý</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/cts-loi-nhuan-tu-271-ty-xuong-15-ty-trong-ba-quy.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/cts-loi-nhuan-tu-271-ty-xuong-15-ty-trong-ba-quy.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Lãi tự doanh rơi từ 386 xuống 97 tỷ, và vì tự doanh chiếm 56% doanh thu nên nửa đầu 2026 lợi nhuận giảm 71%. Mảng cho vay là điểm sáng duy nhất — nhưng đã gần trần.</description>
   </item>
   <item>
     <title>TVS: 59% tự doanh, và phí môi giới 21 tỷ một năm</title>
@@ -1401,6 +1401,20 @@
     <description>Hai trong sáu quý lỗ, vì lãi tự doanh dao động từ âm 21 tới 259 tỷ. Nhưng lãi cho vay tăng gần như liên tục sáu quý và chiếm 39–44% doanh thu cả bốn năm.</description>
   </item>
   <item>
+    <title>BVS: môi giới 34% doanh thu, và P/B 0,73</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/bvs-bao-viet-moi-gioi-34-phan-tram-va-pb-073.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/bvs-bao-viet-moi-gioi-34-phan-tram-va-pb-073.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Tỷ trọng môi giới cao thứ hai ngành và phí tăng 17% khi toàn ngành giảm 6%. Nhưng 1.101 tỷ doanh thu chỉ tạo ra 265 tỷ lợi nhuận — điểm yếu nằm ở chi phí vận hành.</description>
+  </item>
+  <item>
+    <title>SJS: P/B 4,37 — cao nhất ngành bất động sản</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/sjs-pb-437-lan-cao-nhat-nganh-bat-dong-san.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/sjs-pb-437-lan-cao-nhat-nganh-bat-dong-san.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Vốn hóa 16.837 tỷ trên vốn chủ 3.445 tỷ, với thanh khoản 2,1 tỷ mỗi phiên. Biên gộp đi từ 15% lên 71% — bằng chứng gián tiếp rằng giá vốn đất ghi sổ thấp hơn nhiều giá thị trường.</description>
+  </item>
+  <item>
     <title>TAL: tiền khách hàng gấp 11 lần, nợ vay gấp 3,7 lần</title>
     <link>https://ltcanhwru.github.io/LTC/bai/tal-taseco-land-tien-khach-hang-gap-11-lan.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/tal-taseco-land-tien-khach-hang-gap-11-lan.html</guid>
@@ -1413,20 +1427,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vpi-van-phu-bien-gop-tu-70-xuong-17-roi-len-38.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Hai năm doanh thu gần bằng nhau, lợi nhuận gộp chênh 4 lần. Chi phí lãi vay giảm 89% dù nợ vay tăng 38% — khoản đó nhiều khả năng đã được vốn hóa vào giá vốn dự án.</description>
-  </item>
-  <item>
-    <title>BVS: môi giới 34% doanh thu, và P/B 0,73</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/bvs-bao-viet-moi-gioi-34-phan-tram-va-pb-073.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/bvs-bao-viet-moi-gioi-34-phan-tram-va-pb-073.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Tỷ trọng môi giới cao thứ hai ngành và phí tăng 17% khi toàn ngành giảm 6%. Nhưng 1.101 tỷ doanh thu chỉ tạo ra 265 tỷ lợi nhuận — điểm yếu nằm ở chi phí vận hành.</description>
-  </item>
-  <item>
-    <title>AGR: bốn năm lợi nhuận trước thuế 169–185 tỷ</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/agr-agriseco-bon-nam-loi-nhuan-169-185-ty.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/agr-agriseco-bon-nam-loi-nhuan-169-185-ty.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Chuỗi lợi nhuận đều nhất trong 36 công ty chứng khoán niêm yết — dù doanh thu tăng 31%. Vốn chủ đứng yên bốn năm, không pha loãng, nhưng quy mô cũng không lớn lên.</description>
   </item>
   <item>
     <title>DXS: P/B 0,48 và lợi nhuận vừa quay lại mức 2022</title>
@@ -1450,6 +1450,20 @@
     <description>Bán 5.757 tỷ hàng tồn kho mà doanh thu chỉ 729 tỷ và dòng tiền kinh doanh dương 87 tỷ — khối tài sản đó không đi qua báo cáo kết quả kinh doanh.</description>
   </item>
   <item>
+    <title>KOS: bốn năm lợi nhuận trước thuế đúng 30–32 tỷ</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/kos-kosy-bon-nam-loi-nhuan-truoc-thue-dung-30-ty.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/kos-kosy-bon-nam-loi-nhuan-truoc-thue-dung-30-ty.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Chi phí lãi vay 95–123 tỷ ăn gần hết lợi nhuận từ lõi 102–135 tỷ, bốn năm liền. Vốn hóa 7.198 tỷ trên vốn chủ 2.338 tỷ và ROE 1%.</description>
+  </item>
+  <item>
+    <title>AGR: bốn năm lợi nhuận trước thuế 169–185 tỷ</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/agr-agriseco-bon-nam-loi-nhuan-169-185-ty.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/agr-agriseco-bon-nam-loi-nhuan-169-185-ty.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Chuỗi lợi nhuận đều nhất trong 36 công ty chứng khoán niêm yết — dù doanh thu tăng 31%. Vốn chủ đứng yên bốn năm, không pha loãng, nhưng quy mô cũng không lớn lên.</description>
+  </item>
+  <item>
     <title>ASM: doanh thu 11.317 tỷ, lợi nhuận cổ đông mẹ 38 tỷ</title>
     <link>https://ltcanhwru.github.io/LTC/bai/asm-sao-mai-doanh-thu-11317-ty-loi-nhuan-co-dong-me-38-ty.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/asm-sao-mai-doanh-thu-11317-ty-loi-nhuan-co-dong-me-38-ty.html</guid>
@@ -1462,20 +1476,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/ntl-tu-liem-doanh-thu-sap-tu-1441-ty-xuong-18-ty.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Lợi nhuận từ lõi âm 39 tỷ, toàn bộ lãi đến từ 112 tỷ doanh thu tài chính. Nhưng nợ vay chỉ 14 tỷ — thấp nhất trong 38 mã — và dòng tiền bốn năm đạt 82% lợi nhuận.</description>
-  </item>
-  <item>
-    <title>KOS: bốn năm lợi nhuận trước thuế đúng 30–32 tỷ</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/kos-kosy-bon-nam-loi-nhuan-truoc-thue-dung-30-ty.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/kos-kosy-bon-nam-loi-nhuan-truoc-thue-dung-30-ty.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Chi phí lãi vay 95–123 tỷ ăn gần hết lợi nhuận từ lõi 102–135 tỷ, bốn năm liền. Vốn hóa 7.198 tỷ trên vốn chủ 2.338 tỷ và ROE 1%.</description>
-  </item>
-  <item>
-    <title>SJS: P/B 4,37 — cao nhất ngành bất động sản</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/sjs-pb-437-lan-cao-nhat-nganh-bat-dong-san.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/sjs-pb-437-lan-cao-nhat-nganh-bat-dong-san.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Vốn hóa 16.837 tỷ trên vốn chủ 3.445 tỷ, với thanh khoản 2,1 tỷ mỗi phiên. Biên gộp đi từ 15% lên 71% — bằng chứng gián tiếp rằng giá vốn đất ghi sổ thấp hơn nhiều giá thị trường.</description>
   </item>
   <item>
     <title>PDR: hai quý lợi nhuận lõi âm, doanh thu tài chính bù vào</title>
@@ -1499,6 +1499,20 @@
     <description>Doanh nghiệp khu công nghiệp lớn nhất sàn nhưng dòng tiền bốn năm âm 3.515 tỷ — ngược hẳn IDC, VGC và SZC. Nợ vay 102% vốn chủ, và quý 2/2026 lỗ trước thuế.</description>
   </item>
   <item>
+    <title>KDH: một quý lãi 752 tỷ với doanh thu 161 tỷ</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/kdh-mot-quy-lai-752-ty-voi-doanh-thu-161-ty.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/kdh-mot-quy-lai-752-ty-voi-doanh-thu-161-ty.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Lợi nhuận từ lõi âm 52 tỷ, nhưng 906 tỷ doanh thu tài chính bù vào. Bốn năm dòng tiền âm 8.262 tỷ, tồn kho gần gấp đôi, và khoản đặt cọc của khách hàng giảm 73%.</description>
+  </item>
+  <item>
+    <title>CTS: lợi nhuận từ 271 tỷ xuống 15 tỷ trong ba quý</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/cts-loi-nhuan-tu-271-ty-xuong-15-ty-trong-ba-quy.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/cts-loi-nhuan-tu-271-ty-xuong-15-ty-trong-ba-quy.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Lãi tự doanh rơi từ 386 xuống 97 tỷ, và vì tự doanh chiếm 56% doanh thu nên nửa đầu 2026 lợi nhuận giảm 71%. Mảng cho vay là điểm sáng duy nhất — nhưng đã gần trần.</description>
+  </item>
+  <item>
     <title>ORS: mảng tư vấn sập 97%, và 7.638 tỷ vốn nằm không</title>
     <link>https://ltcanhwru.github.io/LTC/bai/ors-mang-tu-van-trai-phieu-sap-97-phan-tram.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/ors-mang-tu-van-trai-phieu-sap-97-phan-tram.html</guid>
@@ -1511,20 +1525,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/bsi-du-no-gap-32-lan-va-co-cau-can-bang.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Tự doanh 39%, cho vay 34%, môi giới 18% — không nguồn nào quá 40%. Tăng dư nợ 3,2 lần mà vốn chủ chỉ tăng 27%, nên lợi nhuận gấp 4,1 lần không đi kèm pha loãng.</description>
-  </item>
-  <item>
-    <title>KDH: một quý lãi 752 tỷ với doanh thu 161 tỷ</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/kdh-mot-quy-lai-752-ty-voi-doanh-thu-161-ty.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/kdh-mot-quy-lai-752-ty-voi-doanh-thu-161-ty.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Lợi nhuận từ lõi âm 52 tỷ, nhưng 906 tỷ doanh thu tài chính bù vào. Bốn năm dòng tiền âm 8.262 tỷ, tồn kho gần gấp đôi, và khoản đặt cọc của khách hàng giảm 73%.</description>
-  </item>
-  <item>
-    <title>DXG: biên gộp 55%, lợi nhuận cổ đông mẹ 38 tỷ một quý</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/dxg-dat-xanh-bien-gop-55-phan-tram-loi-nhuan-38-ty.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dxg-dat-xanh-bien-gop-55-phan-tram-loi-nhuan-38-ty.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Lợi nhuận về tay cổ đông công ty mẹ chỉ bằng 8–47% lợi nhuận trước thuế. Nhưng khoản người mua trả tiền trước gấp 5,8 lần trong một năm — mức tăng mạnh nhất trong 38 mã được soi.</description>
   </item>
   <item>
     <title>VRE: doanh thu đi ngang, lợi nhuận tăng 57%</title>
@@ -1548,6 +1548,20 @@
     <description>Chi phí vận hành chỉ bằng 9% doanh thu và nợ vay giảm 51% xuống còn 11% vốn chủ — thấp thứ hai trong 38 mã được soi. P/E 4,8 với ROE 15%.</description>
   </item>
   <item>
+    <title>SZC: dòng tiền gấp đôi lợi nhuận, nhưng nửa đầu 2026 giảm 84%</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/szc-sonadezi-chau-duc-nua-dau-2026-loi-nhuan-giam-84.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/szc-sonadezi-chau-duc-nua-dau-2026-loi-nhuan-giam-84.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Biên gộp cải thiện từ 36% lên 51% và dòng tiền bốn năm đạt 203% lợi nhuận. Nhưng doanh thu quý dao động gần 5 lần vì cách ghi nhận một lần khi bàn giao.</description>
+  </item>
+  <item>
+    <title>DXG: biên gộp 55%, lợi nhuận cổ đông mẹ 38 tỷ một quý</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/dxg-dat-xanh-bien-gop-55-phan-tram-loi-nhuan-38-ty.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dxg-dat-xanh-bien-gop-55-phan-tram-loi-nhuan-38-ty.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Lợi nhuận về tay cổ đông công ty mẹ chỉ bằng 8–47% lợi nhuận trước thuế. Nhưng khoản người mua trả tiền trước gấp 5,8 lần trong một năm — mức tăng mạnh nhất trong 38 mã được soi.</description>
+  </item>
+  <item>
     <title>NLG: hàng tồn kho giảm 41% trong một năm</title>
     <link>https://ltcanhwru.github.io/LTC/bai/nlg-nam-long-ton-kho-giam-41-phan-tram.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/nlg-nam-long-ton-kho-giam-41-phan-tram.html</guid>
@@ -1560,13 +1574,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/hdg-ha-do-bien-gop-63-phan-tram-lai-vay-an-mot-phan-ba.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
     <description>Năm 2024, lợi nhuận trước thuế chỉ bằng một nửa lợi nhuận từ lõi. Nhưng nợ vay đã giảm 23% trong ba năm, và dòng tiền bốn năm đạt 137% lợi nhuận nhờ mảng phát điện.</description>
-  </item>
-  <item>
-    <title>SZC: dòng tiền gấp đôi lợi nhuận, nhưng nửa đầu 2026 giảm 84%</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/szc-sonadezi-chau-duc-nua-dau-2026-loi-nhuan-giam-84.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/szc-sonadezi-chau-duc-nua-dau-2026-loi-nhuan-giam-84.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Biên gộp cải thiện từ 36% lên 51% và dòng tiền bốn năm đạt 203% lợi nhuận. Nhưng doanh thu quý dao động gần 5 lần vì cách ghi nhận một lần khi bàn giao.</description>
   </item>
   <item>
     <title>Đếm tàu vào HTIT: từ 6 lượt lên 26 một tháng, rồi chững</title>
@@ -1590,18 +1597,18 @@
     <description>Tháng 7 khai thác đạt 99,68% kế hoạch, tháng 8 còn 71,67% và thấp hơn cùng kỳ 524 tấn. Lũy kế tám tháng, DRI đã bán 11.265 tấn mủ trong khi chỉ làm ra 8.386 tấn — phần chênh là tồn kho đang rút.</description>
   </item>
   <item>
-    <title>MWG – Bài 03: moat ở đâu, và trả giá bao nhiêu cho Thế Giới Di Động?</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/mwg-03-moat-va-dinh-gia.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mwg-03-moat-va-dinh-gia.html</guid>
-    <pubDate>Mon, 07 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Bán lẻ vốn ít moat, nhưng cuộc chiến giá 2022–2023 lại là lúc hào của MWG rộng ra. P/E gần 11 lần với 21.000 tỷ tiền ròng đang chiết khấu đúng một biến: biên gộp 22% là mặt bằng mới hay đỉnh chu kỳ?</description>
-  </item>
-  <item>
     <title>MWG – Bài 02: ai tài trợ cho Thế Giới Di Động, lợi nhuận có về, và vốn sinh lời bao nhiêu?</title>
     <link>https://ltcanhwru.github.io/LTC/bai/mwg-02-tai-chinh-bang-can-doi-dong-tien-roic.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mwg-02-tai-chinh-bang-can-doi-dong-tien-roic.html</guid>
     <pubDate>Mon, 07 Sep 2026 00:00:00 +0700</pubDate>
     <description>Nhà cung cấp gánh gần nửa tồn kho, MWG dư tiền ròng 21.254 tỷ; dòng tiền 6 tháng chỉ 2.382 tỷ vì tiền chảy vào mở cửa hàng; và ROIC rất cao nhờ nhẹ tài sản, không phải nhờ biên dày.</description>
+  </item>
+  <item>
+    <title>MWG – Bài 03: moat ở đâu, và trả giá bao nhiêu cho Thế Giới Di Động?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/mwg-03-moat-va-dinh-gia.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mwg-03-moat-va-dinh-gia.html</guid>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Bán lẻ vốn ít moat, nhưng cuộc chiến giá 2022–2023 lại là lúc hào của MWG rộng ra. P/E gần 11 lần với 21.000 tỷ tiền ròng đang chiết khấu đúng một biến: biên gộp 22% là mặt bằng mới hay đỉnh chu kỳ?</description>
   </item>
   <item>
     <title>DMX – Điện Máy Xanh niêm yết: vì sao &quot;con&quot; đắt hơn &quot;mẹ&quot; MWG?</title>
@@ -1716,13 +1723,6 @@
     <description>Từ 2001 tới cuối 2013, Nomad tăng 921,1% trong khi MSCI World chỉ tăng 116,9%. Ông không hỏi doanh nghiệp tăng trưởng bao nhiêu phần trăm, mà hỏi tăng trưởng đó có làm doanh nghiệp mạnh hơn không.</description>
   </item>
   <item>
-    <title>Bài 29 — ROIC: một đồng vốn tạo ra bao nhiêu đồng giá trị?</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/roic-mot-dong-von-tao-ra-bao-nhieu-gia-tri.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/roic-mot-dong-von-tao-ra-bao-nhieu-gia-tri.html</guid>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>ROE 30% nghe đẹp hơn 20% — cho tới khi thấy công ty đầu vay gấp bốn lần vốn chủ. Và câu hỏi quan trọng hơn ROIC hiện tại luôn là: đồng vốn tiếp theo doanh nghiệp bỏ ra sẽ sinh lời bao nhiêu?</description>
-  </item>
-  <item>
     <title>Bài 36 — Margin of safety: biên an toàn bao nhiêu là đủ?</title>
     <link>https://ltcanhwru.github.io/LTC/bai/margin-of-safety-bien-an-toan-bao-nhieu-la-du.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/margin-of-safety-bien-an-toan-bao-nhieu-la-du.html</guid>
@@ -1758,11 +1758,11 @@
     <description>Năm ngân hàng, năm chứng khoán, năm bất động sản, năm xây dựng — ba mươi mã nhưng chỉ một cược vĩ mô. Vấn đề không phải bạn có bao nhiêu cổ phiếu, mà bao nhiêu nguồn rủi ro thực sự độc lập.</description>
   </item>
   <item>
-    <title>Bài 31 — Growth: tăng trưởng tốt hay tăng trưởng độc hại?</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/tang-truong-tot-hay-tang-truong-doc-hai.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/tang-truong-tot-hay-tang-truong-doc-hai.html</guid>
+    <title>Bài 34 — Activist investing: khi nhà đầu tư không chỉ mua cổ phiếu, mà thay đổi cả doanh nghiệp</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/activist-investing-thay-doi-ca-doanh-nghiep.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/activist-investing-thay-doi-ca-doanh-nghiep.html</guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Muốn tăng 25% một năm với ROIC 8%, doanh nghiệp phải tái đầu tư 312% lợi nhuận — điều chỉ làm được bằng tiền của người khác. Cùng mục tiêu ấy ở ROIC 25% chỉ cần giữ lại 40%.</description>
+    <description>Deep value hỏi tôi mua rẻ đến mức nào. Activist hỏi tôi có thể làm gì để giá trị đó được giải phóng. Nhưng rủi ro lớn nhất là đúng mà không thắng: bạn có thể hoàn toàn đúng và không có quyền lực nào để thay đổi.</description>
   </item>
   <item>
     <title>Bài 30 — Moat: doanh nghiệp bảo vệ lợi nhuận bằng cách nào?</title>
@@ -1772,18 +1772,18 @@
     <description>Năm nguồn hào kinh tế, và một bài kiểm tra rất đơn giản: nếu tôi có 100 tỷ và một đội ngũ giỏi, tôi có xây được doanh nghiệp giống công ty này không? ROIC là bằng chứng, moat là lời giải thích, thời gian là bài kiểm tra.</description>
   </item>
   <item>
-    <title>Bài 32 — Định giá DCF: đừng biến Excel thành máy tiên tri</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/dinh-gia-dcf-dung-bien-excel-thanh-may-tien-tri.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dinh-gia-dcf-dung-bien-excel-thanh-may-tien-tri.html</guid>
+    <title>Bài 29 — ROIC: một đồng vốn tạo ra bao nhiêu đồng giá trị?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/roic-mot-dong-von-tao-ra-bao-nhieu-gia-tri.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/roic-mot-dong-von-tao-ra-bao-nhieu-gia-tri.html</guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Một điểm phần trăm ở chi phí vốn và một điểm ở tăng trưởng dài hạn làm giá trị cuối kỳ mất 23%. DCF không phải máy tính giá cổ phiếu — nó là khung buộc bạn viết ra giả định, và cách dùng tốt nhất là chạy nó ngược lại.</description>
+    <description>ROE 30% nghe đẹp hơn 20% — cho tới khi thấy công ty đầu vay gấp bốn lần vốn chủ. Và câu hỏi quan trọng hơn ROIC hiện tại luôn là: đồng vốn tiếp theo doanh nghiệp bỏ ra sẽ sinh lời bao nhiêu?</description>
   </item>
   <item>
-    <title>Bài 34 — Activist investing: khi nhà đầu tư không chỉ mua cổ phiếu, mà thay đổi cả doanh nghiệp</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/activist-investing-thay-doi-ca-doanh-nghiep.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/activist-investing-thay-doi-ca-doanh-nghiep.html</guid>
+    <title>Bài 31 — Growth: tăng trưởng tốt hay tăng trưởng độc hại?</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/tang-truong-tot-hay-tang-truong-doc-hai.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/tang-truong-tot-hay-tang-truong-doc-hai.html</guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
-    <description>Deep value hỏi tôi mua rẻ đến mức nào. Activist hỏi tôi có thể làm gì để giá trị đó được giải phóng. Nhưng rủi ro lớn nhất là đúng mà không thắng: bạn có thể hoàn toàn đúng và không có quyền lực nào để thay đổi.</description>
+    <description>Muốn tăng 25% một năm với ROIC 8%, doanh nghiệp phải tái đầu tư 312% lợi nhuận — điều chỉ làm được bằng tiền của người khác. Cùng mục tiêu ấy ở ROIC 25% chỉ cần giữ lại 40%.</description>
   </item>
   <item>
     <title>Bài 33 — Deep value: khi doanh nghiệp xấu lại có thể là món hời</title>
@@ -1791,6 +1791,13 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/deep-value-khi-doanh-nghiep-xau-la-mon-hoi.html</guid>
     <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
     <description>DCF hỏi doanh nghiệp sẽ tạo ra bao nhiêu tiền. Deep value hỏi nếu mọi thứ không như kỳ vọng thì tôi còn lại gì. Một bên nhìn về phía trước, một bên nhìn xuống dưới — và cổ phiếu giảm 90% chưa chắc rẻ.</description>
+  </item>
+  <item>
+    <title>Bài 32 — Định giá DCF: đừng biến Excel thành máy tiên tri</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/dinh-gia-dcf-dung-bien-excel-thanh-may-tien-tri.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dinh-gia-dcf-dung-bien-excel-thanh-may-tien-tri.html</guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0700</pubDate>
+    <description>Một điểm phần trăm ở chi phí vốn và một điểm ở tăng trưởng dài hạn làm giá trị cuối kỳ mất 23%. DCF không phải máy tính giá cổ phiếu — nó là khung buộc bạn viết ra giả định, và cách dùng tốt nhất là chạy nó ngược lại.</description>
   </item>
   <item>
     <title>SIP – Bài 03: moat ở đâu, và định giá bao nhiêu là hợp lý?</title>
@@ -2052,13 +2059,6 @@
     <description>Cổ phiếu trung vị của sàn Việt Nam nhân 1,85 lần trong mười năm, tức khoảng 6,3% mỗi năm. Chỉ 3% số mã nhân được từ mười lần trở lên, và trái với lời khuyên của Peter Lynch, chúng tập trung ở nhóm vốn hóa lớn chứ không phải nhóm nhỏ.</description>
   </item>
   <item>
-    <title>Charlie Munger và mạng lưới mô hình</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/charlie-munger-mang-luoi-mo-hinh.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/charlie-munger-mang-luoi-mo-hinh.html</guid>
-    <pubDate>Sat, 29 Aug 2026 00:00:00 +0700</pubDate>
-    <description>19,8% một năm suốt mười bốn năm, trong đó hai năm 1973–1974 mất hơn nửa giá trị mà ông không bán. Ông không xây một phương pháp định giá, ông xây một phương pháp suy nghĩ — và coi việc chọn cổ phiếu chỉ là một ứng dụng của nó.</description>
-  </item>
-  <item>
     <title>Bài 4 — Charlie Munger: kiếm tiền bằng việc ít ngu ngốc hơn</title>
     <link>https://ltcanhwru.github.io/LTC/bai/charlie-munger-it-ngu-ngoc-hon.html</link>
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/charlie-munger-it-ngu-ngoc-hon.html</guid>
@@ -2178,11 +2178,11 @@
     <description>Những gia đình Patel mua nhà nghỉ ở Mỹ với 5.000 đô la vốn tự có rồi sống ngay tại đó để hạ chi phí xuống mức thấp nhất. Pabrai gọi cấu trúc ấy là Dhandho: phần mất nhỏ, phần được lớn — và nó bắt đầu bằng câu hỏi tôi có thể mất bao nhiêu.</description>
   </item>
   <item>
-    <title>CII: cứ 100 đồng lợi nhuận gộp thì 81 đồng đi trả lãi</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/cii-tam-muoi-dong-tren-mot-tram.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/cii-tam-muoi-dong-tren-mot-tram.html</guid>
+    <title>DIG: biên lợi nhuận gộp 7%, và lợi nhuận vẫn 135 tỷ</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/dig-bien-gop-bay-phan-tram.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dig-bien-gop-bay-phan-tram.html</guid>
     <pubDate>Sat, 29 Aug 2026 00:00:00 +0700</pubDate>
-    <description>CII thu 1.732 tỷ lợi nhuận gộp và trả 1.399 tỷ tiền lãi. Phần còn lại cho cổ đông công ty mẹ khoảng 110 tỷ — trên vốn hóa 9.878 tỷ. P/E 89,5 và P/B 1,02 nói hai điều hoàn toàn khác nhau.</description>
+    <description>Hoạt động cốt lõi của DIC Corp lỗ hai quý liên tiếp. Con số lãi 135 tỷ của quý II đến từ 164,2 tỷ doanh thu tài chính, xuất hiện đúng lúc doanh nghiệp vừa huy động hơn 3.000 tỷ và mang gửi ngân hàng.</description>
   </item>
   <item>
     <title>Jesse Livermore: người đọc bảng giá, và cái giá của việc chỉ đọc bảng giá</title>
@@ -2192,11 +2192,11 @@
     <description>Kiếm ba triệu đô năm 1907, khoảng một trăm triệu năm 1929, phá sản năm 1934. Ba quy tắc ông viết ra — cắt lỗ ngay, không trung bình giá xuống, ngồi yên khi đúng — vẫn đứng vững sau một trăm năm. Chính ông là người không theo nổi chúng.</description>
   </item>
   <item>
-    <title>VGI: lợi nhuận gấp đôi, và một dòng chi phí đảo dấu liên tục</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/vgi-loi-nhuan-va-ty-gia.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vgi-loi-nhuan-va-ty-gia.html</guid>
+    <title>Philip Fisher và phương pháp scuttlebutt</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/philip-fisher-va-phuong-phap-scuttlebutt.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/philip-fisher-va-phuong-phap-scuttlebutt.html</guid>
     <pubDate>Sat, 29 Aug 2026 00:00:00 +0700</pubDate>
-    <description>Viettel Global tăng doanh thu 29,2% và lợi nhuận 93,8% trong sáu tháng. Nhưng dòng chi phí tài chính năm quý gần nhất là 1.782, −457, 490, 1.401 và 236 tỷ — đổi dấu hai lần, biên độ gần 2.240 tỷ.</description>
+    <description>Ông mua Motorola năm 1955 và giữ tới khi qua đời năm 2004. Cách ông biết được điều đó trước khi mua là đi hỏi đối thủ, khách hàng, nhà cung cấp và nhân viên cũ — thông tin quyết định về một doanh nghiệp nằm ngoài báo cáo tài chính của nó.</description>
   </item>
   <item>
     <title>SIP: hơn một nửa lợi nhuận đến từ tiền gửi ngân hàng</title>
@@ -2206,11 +2206,11 @@
     <description>Đầu tư Sài Gòn VRG thu 760 tỷ doanh thu tài chính trong mười hai tháng — bằng 53% lợi nhuận cổ đông mẹ — trên 10.895 tỷ tiền gửi. Đó là hệ quả của việc thu tiền thuê đất một lần cho cả năm mươi năm.</description>
   </item>
   <item>
-    <title>John Templeton và điểm bi quan tối đa</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/john-templeton-diem-bi-quan-toi-da.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/john-templeton-diem-bi-quan-toi-da.html</guid>
+    <title>CII: cứ 100 đồng lợi nhuận gộp thì 81 đồng đi trả lãi</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/cii-tam-muoi-dong-tren-mot-tram.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/cii-tam-muoi-dong-tren-mot-tram.html</guid>
     <pubDate>Sat, 29 Aug 2026 00:00:00 +0700</pubDate>
-    <description>Tháng 9/1939 ông vay mười nghìn đô và mua một trăm cổ phiếu của mỗi công ty đang giao dịch dưới một đô la — 104 mã. Ba mươi tư mã phá sản. Bốn năm sau ông bán với số tiền gấp bốn lần. Ông không chọn mã, ông mua cả rổ và để số học làm việc.</description>
+    <description>CII thu 1.732 tỷ lợi nhuận gộp và trả 1.399 tỷ tiền lãi. Phần còn lại cho cổ đông công ty mẹ khoảng 110 tỷ — trên vốn hóa 9.878 tỷ. P/E 89,5 và P/B 1,02 nói hai điều hoàn toàn khác nhau.</description>
   </item>
   <item>
     <title>George Soros và thuyết phản thân</title>
@@ -2220,11 +2220,11 @@
     <description>Ngày 16/9/1992 ông lãi khoảng một tỷ đô trong một ngày khi nước Anh buông đồng bảng. Câu hỏi ông đặt không phải doanh nghiệp đáng bao nhiêu, mà: giả định nào đang giữ mức giá này đứng, và giả định đó có tự phá hủy chính nó không.</description>
   </item>
   <item>
-    <title>Philip Fisher và phương pháp scuttlebutt</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/philip-fisher-va-phuong-phap-scuttlebutt.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/philip-fisher-va-phuong-phap-scuttlebutt.html</guid>
+    <title>Charlie Munger và mạng lưới mô hình</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/charlie-munger-mang-luoi-mo-hinh.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/charlie-munger-mang-luoi-mo-hinh.html</guid>
     <pubDate>Sat, 29 Aug 2026 00:00:00 +0700</pubDate>
-    <description>Ông mua Motorola năm 1955 và giữ tới khi qua đời năm 2004. Cách ông biết được điều đó trước khi mua là đi hỏi đối thủ, khách hàng, nhà cung cấp và nhân viên cũ — thông tin quyết định về một doanh nghiệp nằm ngoài báo cáo tài chính của nó.</description>
+    <description>19,8% một năm suốt mười bốn năm, trong đó hai năm 1973–1974 mất hơn nửa giá trị mà ông không bán. Ông không xây một phương pháp định giá, ông xây một phương pháp suy nghĩ — và coi việc chọn cổ phiếu chỉ là một ứng dụng của nó.</description>
   </item>
   <item>
     <title>Peter Lynch và sáu nhóm cổ phiếu</title>
@@ -2234,18 +2234,18 @@
     <description>29,2% một năm trong mười ba năm ở quỹ Magellan. Câu &quot;đầu tư vào thứ mình biết&quot; là câu bị hiểu sai nhất trong ngành này — phần quyết định nằm ở bước xếp doanh nghiệp vào đúng một trong sáu nhóm, vì mỗi nhóm có cách đọc P/E riêng.</description>
   </item>
   <item>
-    <title>MWG: lợi nhuận gấp đôi, và một bước nhảy 20.900 tỷ trên bảng cân đối</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/mwg-bien-loi-nhuan-va-mot-buoc-nhay-tren-bang-can-doi.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mwg-bien-loi-nhuan-va-mot-buoc-nhay-tren-bang-can-doi.html</guid>
+    <title>John Templeton và điểm bi quan tối đa</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/john-templeton-diem-bi-quan-toi-da.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/john-templeton-diem-bi-quan-toi-da.html</guid>
     <pubDate>Sat, 29 Aug 2026 00:00:00 +0700</pubDate>
-    <description>Thế Giới Di Động lãi 3.302 tỷ trong quý II, gấp đôi cùng kỳ, trên biên gộp cao nhất nhiều năm. Nhưng tổng tài sản cũng nhảy 20.920 tỷ trong một quý, gần như trọn vẹn ở hai dòng &quot;khác&quot; đối ứng nhau.</description>
+    <description>Tháng 9/1939 ông vay mười nghìn đô và mua một trăm cổ phiếu của mỗi công ty đang giao dịch dưới một đô la — 104 mã. Ba mươi tư mã phá sản. Bốn năm sau ông bán với số tiền gấp bốn lần. Ông không chọn mã, ông mua cả rổ và để số học làm việc.</description>
   </item>
   <item>
-    <title>BWE: doanh thu đứng yên, biên lợi nhuận mở thêm tám điểm</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/bwe-doanh-thu-dung-yen-bien-mo-ra.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/bwe-doanh-thu-dung-yen-bien-mo-ra.html</guid>
+    <title>VGI: lợi nhuận gấp đôi, và một dòng chi phí đảo dấu liên tục</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/vgi-loi-nhuan-va-ty-gia.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/vgi-loi-nhuan-va-ty-gia.html</guid>
     <pubDate>Sat, 29 Aug 2026 00:00:00 +0700</pubDate>
-    <description>Biwase bán bằng đúng cùng kỳ nhưng lãi hơn 17,3%, nhờ biên gộp đi từ 38,4% lên 46,2%. Đổi lại là 7.188 tỷ nợ vay — lớn hơn vốn chủ sở hữu — và 2.817 tỷ nằm ở các công ty liên kết.</description>
+    <description>Viettel Global tăng doanh thu 29,2% và lợi nhuận 93,8% trong sáu tháng. Nhưng dòng chi phí tài chính năm quý gần nhất là 1.782, −457, 490, 1.401 và 236 tỷ — đổi dấu hai lần, biên độ gần 2.240 tỷ.</description>
   </item>
   <item>
     <title>HTG: 5.649 tỷ doanh thu, 1.464 tỷ vốn hóa</title>
@@ -2255,11 +2255,11 @@
     <description>Dệt may Hòa Thọ giao dịch ở 0,26 lần doanh thu, P/E 4,49 và cổ tức 8,85%. Nhưng biên ròng chỉ 5,8%, chi phí lãi vay vừa gấp đôi trong một năm, và mỗi phiên có 2.970 cổ phiếu đổi chủ.</description>
   </item>
   <item>
-    <title>DIG: biên lợi nhuận gộp 7%, và lợi nhuận vẫn 135 tỷ</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/dig-bien-gop-bay-phan-tram.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dig-bien-gop-bay-phan-tram.html</guid>
+    <title>DBC: doanh thu tăng 12,8%, lợi nhuận giảm 34,7%</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/dbc-chu-ky-lon-quay-dau.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dbc-chu-ky-lon-quay-dau.html</guid>
     <pubDate>Sat, 29 Aug 2026 00:00:00 +0700</pubDate>
-    <description>Hoạt động cốt lõi của DIC Corp lỗ hai quý liên tiếp. Con số lãi 135 tỷ của quý II đến từ 164,2 tỷ doanh thu tài chính, xuất hiện đúng lúc doanh nghiệp vừa huy động hơn 3.000 tỷ và mang gửi ngân hàng.</description>
+    <description>Biên lợi nhuận gộp của Dabaco rơi từ 21,6% xuống 15,4% trong một năm. Doanh nghiệp bước vào nửa sau chu kỳ với dư nợ vay cao hơn 46,6% và số cổ phiếu nhiều hơn 28,8% so với cùng kỳ.</description>
   </item>
   <item>
     <title>CEO: tồn kho tăng 2.208 tỷ trong một quý</title>
@@ -2269,11 +2269,11 @@
     <description>C.E.O Group đổ vào dở dang dự án số tiền gấp tám lần lợi nhuận cả năm chỉ trong ba tháng, chuyển từ dư tiền sang nợ ròng 946 tỷ. Cùng quý đó doanh thu giảm 30,4%, và cổ phiếu đang ở P/E 40,4.</description>
   </item>
   <item>
-    <title>ABT: mỗi năm có một quý được cộng thêm 23 tỷ</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/abt-mot-quy-hai-nguon-loi-nhuan.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/abt-mot-quy-hai-nguon-loi-nhuan.html</guid>
+    <title>BWE: doanh thu đứng yên, biên lợi nhuận mở thêm tám điểm</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/bwe-doanh-thu-dung-yen-bien-mo-ra.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/bwe-doanh-thu-dung-yen-bien-mo-ra.html</guid>
     <pubDate>Sat, 29 Aug 2026 00:00:00 +0700</pubDate>
-    <description>Thủy sản Bến Tre giao dịch ở P/E 4,04 và P/B 0,87. Nhưng 27,7% lợi nhuận đến từ một khoản tài chính rơi vào đúng quý II mỗi năm. Bỏ nó ra, P/E là 5,2 lần.</description>
+    <description>Biwase bán bằng đúng cùng kỳ nhưng lãi hơn 17,3%, nhờ biên gộp đi từ 38,4% lên 46,2%. Đổi lại là 7.188 tỷ nợ vay — lớn hơn vốn chủ sở hữu — và 2.817 tỷ nằm ở các công ty liên kết.</description>
   </item>
   <item>
     <title>PDN: cảng đắt nhất nhóm, và lý do</title>
@@ -2283,11 +2283,11 @@
     <description>Cảng Đồng Nai có P/B 3,35 — cao nhất trong ba cảng — nhưng cũng có ROE 31,1% mà hầu như không vay nợ. Bội số cao ở đây không phải thị trường trả quá, mà vì vốn chủ nhỏ so với năng lực sinh lời.</description>
   </item>
   <item>
-    <title>DBC: doanh thu tăng 12,8%, lợi nhuận giảm 34,7%</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/dbc-chu-ky-lon-quay-dau.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dbc-chu-ky-lon-quay-dau.html</guid>
+    <title>MWG: lợi nhuận gấp đôi, và một bước nhảy 20.900 tỷ trên bảng cân đối</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/mwg-bien-loi-nhuan-va-mot-buoc-nhay-tren-bang-can-doi.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/mwg-bien-loi-nhuan-va-mot-buoc-nhay-tren-bang-can-doi.html</guid>
     <pubDate>Sat, 29 Aug 2026 00:00:00 +0700</pubDate>
-    <description>Biên lợi nhuận gộp của Dabaco rơi từ 21,6% xuống 15,4% trong một năm. Doanh nghiệp bước vào nửa sau chu kỳ với dư nợ vay cao hơn 46,6% và số cổ phiếu nhiều hơn 28,8% so với cùng kỳ.</description>
+    <description>Thế Giới Di Động lãi 3.302 tỷ trong quý II, gấp đôi cùng kỳ, trên biên gộp cao nhất nhiều năm. Nhưng tổng tài sản cũng nhảy 20.920 tỷ trong một quý, gần như trọn vẹn ở hai dòng &quot;khác&quot; đối ứng nhau.</description>
   </item>
   <item>
     <title>FMC: bán ít hơn 21%, lãi nhiều hơn 91%</title>
@@ -2297,18 +2297,11 @@
     <description>Sao Ta giảm doanh thu một phần năm nhưng lợi nhuận gần gấp đôi, vì biên gộp đi từ 10,5% lên 14,6%. Phần doanh thu mất đi chủ yếu là những đơn hàng đẩy vội trong quý III/2025 với chi phí bán hàng gấp đôi bình thường.</description>
   </item>
   <item>
-    <title>DNW: mười hai năm chờ một quyết định giá</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/dnw-muoi-hai-nam-cho-mot-quyet-dinh-gia.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dnw-muoi-hai-nam-cho-mot-quyet-dinh-gia.html</guid>
-    <pubDate>Fri, 28 Aug 2026 00:00:00 +0700</pubDate>
-    <description>Khung giá nước Đồng Nai vẫn là bản ký năm 2014. Biên lợi nhuận gộp đã rơi từ 40,1% xuống 36,7%, phương án giá mới nằm trên bàn tỉnh từ 2023. Nếu được duyệt, nó đáng khoảng 17% EPS — và có thể vừa đủ bù khấu hao của đợt nâng công suất 23%.</description>
-  </item>
-  <item>
-    <title>Ngân hàng 2026: lợi nhuận tăng, bộ đệm mỏng đi</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/ngan-hang-2026-loi-nhuan-tang-bo-dem-mong-di.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/ngan-hang-2026-loi-nhuan-tang-bo-dem-mong-di.html</guid>
-    <pubDate>Fri, 28 Aug 2026 00:00:00 +0700</pubDate>
-    <description>Lợi nhuận trước thuế của 27 ngân hàng niêm yết tăng 19,6% trong nửa đầu năm, nhưng 20 trong 27 cổ phiếu giảm giá suốt mười hai tháng. Chỗ lệch nằm ở 65.191 tỷ đồng: khoảng cách giữa nợ xấu đang có và dự phòng đã trích.</description>
+    <title>ABT: mỗi năm có một quý được cộng thêm 23 tỷ</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/abt-mot-quy-hai-nguon-loi-nhuan.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/abt-mot-quy-hai-nguon-loi-nhuan.html</guid>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 +0700</pubDate>
+    <description>Thủy sản Bến Tre giao dịch ở P/E 4,04 và P/B 0,87. Nhưng 27,7% lợi nhuận đến từ một khoản tài chính rơi vào đúng quý II mỗi năm. Bỏ nó ra, P/E là 5,2 lần.</description>
   </item>
   <item>
     <title>Thủy sản 2026: 0 và 0,84 đô la một ký</title>
@@ -2316,6 +2309,13 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/thuy-san-2026-0-va-084-do-la-mot-ky.html</guid>
     <pubDate>Fri, 28 Aug 2026 00:00:00 +0700</pubDate>
     <description>Cùng một con cá tra, cùng thị trường Mỹ: Vĩnh Hoàn chịu thuế chống bán phá giá 0 đô la một ký, Nam Việt chịu 0,84. Nửa đầu năm, doanh thu Nam Việt tăng 33,4% mà lợi nhuận gộp giảm 10,1% — biên rơi 8,2 điểm, đúng theo dòng thuế suất đó.</description>
+  </item>
+  <item>
+    <title>DNW: mười hai năm chờ một quyết định giá</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/dnw-muoi-hai-nam-cho-mot-quyet-dinh-gia.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dnw-muoi-hai-nam-cho-mot-quyet-dinh-gia.html</guid>
+    <pubDate>Fri, 28 Aug 2026 00:00:00 +0700</pubDate>
+    <description>Khung giá nước Đồng Nai vẫn là bản ký năm 2014. Biên lợi nhuận gộp đã rơi từ 40,1% xuống 36,7%, phương án giá mới nằm trên bàn tỉnh từ 2023. Nếu được duyệt, nó đáng khoảng 17% EPS — và có thể vừa đủ bù khấu hao của đợt nâng công suất 23%.</description>
   </item>
   <item>
     <title>Cảng biển 2026: nước sâu và phần còn lại</title>
@@ -2330,6 +2330,13 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/co-phieu-nganh-nuoc-va-bay-thanh-khoan.html</guid>
     <pubDate>Fri, 28 Aug 2026 00:00:00 +0700</pubDate>
     <description>Ba mô hình kinh doanh nấp dưới một ngành tưởng như đồng nhất, và một khoảng cách thanh khoản hơn một trăm lần: có mã khớp 34.400 cổ phiếu một phiên, có mã cả phiên không khớp nổi một đơn vị nào. P/E 6,3 ở đây không phải món hời.</description>
+  </item>
+  <item>
+    <title>Ngân hàng 2026: lợi nhuận tăng, bộ đệm mỏng đi</title>
+    <link>https://ltcanhwru.github.io/LTC/bai/ngan-hang-2026-loi-nhuan-tang-bo-dem-mong-di.html</link>
+    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/ngan-hang-2026-loi-nhuan-tang-bo-dem-mong-di.html</guid>
+    <pubDate>Fri, 28 Aug 2026 00:00:00 +0700</pubDate>
+    <description>Lợi nhuận trước thuế của 27 ngân hàng niêm yết tăng 19,6% trong nửa đầu năm, nhưng 20 trong 27 cổ phiếu giảm giá suốt mười hai tháng. Chỗ lệch nằm ở 65.191 tỷ đồng: khoảng cách giữa nợ xấu đang có và dự phòng đã trích.</description>
   </item>
   <item>
     <title>Phân bón 2026: bên bán urê và bên mua urê</title>
@@ -2379,13 +2386,6 @@
     <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/hoa-phat-va-gia-than.html</guid>
     <pubDate>Thu, 27 Aug 2026 00:00:00 +0700</pubDate>
     <description>Lợi nhuận cao nhất bốn năm nhưng bội số thấp nhất kể từ 2021. Đi tìm chỗ lệch đó — và một mỏ than ở Sơn Tây.</description>
-  </item>
-  <item>
-    <title>DRI: mùa hái quả của vườn cao su bên Lào</title>
-    <link>https://ltcanhwru.github.io/LTC/bai/dri-gia-tri-cot-loi.html</link>
-    <guid isPermaLink="true">https://ltcanhwru.github.io/LTC/bai/dri-gia-tri-cot-loi.html</guid>
-    <pubDate>Thu, 27 Aug 2026 00:00:00 +0700</pubDate>
-    <description>Lợi nhuận bán niên tăng 83%, nợ vay giảm, cổ tức 7% sắp về tài khoản và một kế hoạch năm đã bị vượt 34% chỉ sau bảy tháng. Nhưng gần một nửa lợi nhuận kế toán không bao giờ đi tới túi cổ đông.</description>
   </item>
   <item>
     <title>Vlog mẫu: một ngày làm việc</title>

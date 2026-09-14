@@ -1,155 +1,183 @@
 # DRI: mùa hái quả của vườn cao su bên Lào
 
-**Giá cao su neo ở vùng cao nhất nhiều năm, lợi nhuận bán niên tăng 83%, nợ vay giảm và một khoản cổ tức 7% sắp về tài khoản. CTCP Đầu tư Cao su Đắk Lắk (DRI) đang ở giai đoạn thuận lợi hiếm có. Nhưng phía sau con số lợi nhuận hợp nhất đẹp đẽ là một cơ chế ít người để ý: gần một nửa số tiền đó không đi tới túi cổ đông. Với thị giá quanh 14.000 đồng, thị trường đã trả đủ giá cho DRI hay chưa?**
+**Năm 2025, DRI khai thác 15.152,83 tấn mủ — vượt kế hoạch 12,24% và cao hơn năm trước 4.036,83 tấn. Năng suất vườn cây nhảy từ 1,34 lên 1,81 tấn mỗi hecta trong đúng một năm, trên cùng những gốc cao su cũ. Không có giống mới nào được trồng. Thứ thay đổi là công ty đã chặn được nạn trộm mủ và thay tổng giám đốc. Đó vừa là lời giải cho năm 2025 rực rỡ, vừa là lý do kế hoạch 2026 được đặt thấp hơn.**
 
-### Cỗ máy cao su đang tăng tốc
+### Cỗ máy cao su, và nguồn thật của cú tăng tốc
 
-Nếu phải chọn một từ cho DRI lúc này, đó là **tăng tốc**.
+DRI là pháp nhân Việt Nam sở hữu **100%** Công ty TNHH Cao su Đắk Lắk (Daklaoruco) tại Lào — vốn điều lệ 25 triệu USD — và **83,87%** Công ty TNHH Nông nghiệp Công nghệ cao DRI tại Đắk Lắk. Công ty không có công ty liên kết nào.
 
-Sáu tháng đầu năm 2026, doanh nghiệp ghi nhận gần **490 tỷ đồng doanh thu** và **142 tỷ đồng lợi nhuận sau thuế hợp nhất**, tăng 82,98% so với cùng kỳ. Riêng quý II, lợi nhuận thuộc về cổ đông công ty mẹ đạt 63,8 tỷ đồng — gấp gần ba lần cùng kỳ.
+Daklaoruco quản lý **9.276,07 ha** tại hai tỉnh Champasak và Salavan, gồm 8.592,3 ha cao su, 465,67 ha điều, 30,48 ha sầu riêng và 191,23 ha đất trống cùng hành lang ven suối, cộng một nhà máy chế biến công suất **18.000 tấn/năm**.
 
-Điều đáng chú ý nằm ở nhịp độ: doanh thu bán hàng tăng 61,44% trong khi giá vốn chỉ tăng 58,23%. Chênh lệch nhỏ đó chính là biên lợi nhuận gộp được nới rộng, và nó là đặc trưng của một doanh nghiệp hàng hóa khi giá bán đi lên còn chi phí sản xuất đứng yên.
+Kết quả 2025 rất mạnh:
 
-Đằng sau kết quả ấy là một tài sản rất thực: **8.146 ha cao su đang khai thác** tại hai tỉnh Champasak và Salavan, Nam Lào — chiếm 96% tổng diện tích cao su của doanh nghiệp. Kế hoạch 2026 là khai thác 13.800 tấn mủ quy khô, cộng thêm 2.000 tấn mua ngoài để chạy nhà máy chế biến.
+| Chỉ tiêu 2025 | Kế hoạch | Thực hiện | Đạt |
+|---|---:|---:|---:|
+| Sản lượng cao su (tấn) | 13.500 | **15.152,83** | 112,24% |
+| Giá bán (triệu đồng/tấn) | 42,37 | 47,24 | 111,49% |
+| Doanh thu (tỷ đồng) | 612,96 | 707,12 | 115,36% |
+| Lợi nhuận trước thuế (tỷ đồng) | 137,38 | 190,01 | 138,31% |
 
-Nói cách khác, DRI không bán một câu chuyện tương lai. Gần như toàn bộ vườn cây đã bước vào tuổi tạo tiền.
+Nhưng nguồn của phần vượt trội thì cần đọc kỹ. Báo cáo thường niên giải thích: sản lượng tăng "do **thay đổi lãnh đạo chủ chốt** và sắp xếp lại tổ chức bộ máy tại Daklaoruco... **công tác bảo vệ sản phẩm được triển khai quyết liệt**". Ở mục rủi ro, công ty nói rõ hơn: tình trạng trộm cắp mủ cao su "**đã được giải quyết dứt điểm**" nhờ phối hợp với chính quyền địa phương và **đóng cửa các điểm thu mua mủ trái phép**.
 
-Và mùa vụ vẫn còn ở phía trước. Lũy kế đến hết tháng 7, công ty mới khai thác 6.228 tấn — **45,13% kế hoạch năm**. Cao su Nam Lào cho mủ mạnh nhất vào quý III và quý IV. Hơn một nửa sản lượng của năm 2026 sẽ rơi đúng vào giai đoạn giá tốt nhất trong nhiều năm.
+Tổng giám đốc Lê Thanh Cần bị miễn nhiệm ngày 1/5/2025; ông Nguyễn Độ — nguyên Phó tổng giám đốc Dakruco — được bổ nhiệm cùng ngày. Ngay năm đó năng suất tăng 35%.
+
+Đây là cải thiện **một lần**. Mủ đã ngừng bị mất thì không thể ngừng lần thứ hai, và ban lãnh đạo biết điều đó: kế hoạch 2026 đặt năng suất **1,69 tấn/ha**, thấp hơn mức 1,81 đã đạt được, với sản lượng 13.800 tấn — ít hơn thực hiện 2025 tới 8,9%.
+
+Nửa đầu 2026 vẫn rất tốt: doanh thu thuần 489,9 tỷ, lợi nhuận sau thuế hợp nhất **142,01 tỷ** theo báo cáo soát xét, tăng 82,98%. Doanh thu bán hàng tăng 61,44% trong khi giá vốn chỉ tăng 58,23%. Diễn biến sản lượng từng tháng sau đó nằm ở [bài cập nhật báo cáo tháng 8](post.html?p=dri-thang-8-san-luong-hut).
 
 ### Thị trường đang đứng về phía DRI
 
-Bức tranh cung cầu toàn cầu đang hẹp lại. Theo ANRPC, sản lượng cao su thiên nhiên thế giới năm 2026 dự kiến đạt 15,31 triệu tấn, thấp hơn mức tiêu thụ 15,41 triệu tấn — thâm hụt khoảng 101.000 tấn.
+Kế hoạch 2026 được xây trên hai giả định giá rất cụ thể: **giá bán bình quân 1.759 USD/tấn và giá vốn 1.430 USD/tấn** — chênh lệch 329 USD mỗi tấn.
 
-Con số thiếu hụt không lớn nếu đặt cạnh quy mô thị trường. Nhưng cao su là loại cây mất bảy năm mới cho mủ. Nguồn cung không thể phản ứng trong một mùa, và ANRPC dự báo sản lượng năm nay còn giảm tại Indonesia và Việt Nam.
+Giá bán bình quân thực hiện năm 2025 đã là **1.857,01 USD/tấn**, và bình quân tám tháng đầu 2026 là khoảng **2.000 USD/tấn**. Nghĩa là kế hoạch năm nay được đặt dưới cả mức đã đạt của năm ngoái.
 
-Giá phản ánh điều đó. Trong tháng 8, hợp đồng TSR20 kỳ hạn gần trên sàn SGX Singapore giao dịch quanh 237 US cent/kg, tương đương khoảng 2.370 USD/tấn. Giá xuất khẩu bình quân của Việt Nam sáu tháng đầu năm đạt 1.924 USD/tấn, riêng tháng 6 lên 2.130 USD/tấn — cao hơn 27,7% so với cùng kỳ.
+Vườn cây không quan tâm giá bán bao nhiêu. Công chăm sóc, tiền lương cho gần 2.500 lao động, phân bón, khấu hao — tất cả đã được quyết định từ đầu vụ. Phần chênh lệch giá vì thế rơi thẳng xuống lợi nhuận trước thuế:
 
-Với DRI, đây không đơn thuần là gió thuận. Đây là đòn bẩy.
+> Với kế hoạch tiêu thụ 14.900 tấn, **mỗi 100 USD/tấn thay đổi của giá bán tương đương khoảng 38,7 tỷ đồng lợi nhuận trước thuế** — bằng 26% toàn bộ kế hoạch lợi nhuận cả năm.
 
-Kế hoạch 2026 mà Hội đồng quản trị trình cổ đông được xây trên hai giả định giá rất cụ thể: **giá bán bình quân 1.759 USD/tấn và giá vốn 1.430 USD/tấn**. Chênh lệch kế hoạch vỏn vẹn 329 USD mỗi tấn.
+Đó là lý do sau bảy tháng, lợi nhuận trước thuế đã vượt kế hoạch cả năm. Đòn bẩy này chạy theo cả hai chiều: nếu giá về vùng 1.500 USD/tấn, biên lợi nhuận gần như biến mất so với giá vốn kế hoạch.
 
-Thực tế tháng 7: công ty xuất bán 703,44 tấn mủ, thu về 1.681.205 USD — tức **2.390 USD/tấn**, cao hơn giả định kế hoạch 631 USD.
+### Ba chỗ lợi nhuận rò rỉ trước khi tới cổ đông
 
-Vườn cây không quan tâm giá bán là bao nhiêu. Công chăm sóc, tiền lương cho 2.480 lao động, phân bón, khấu hao — tất cả đã được quyết định từ đầu vụ. Nên phần chênh lệch giá rơi thẳng xuống lợi nhuận trước thuế, gần như không hao hụt.
+Đây là phần quan trọng nhất khi định giá DRI, và cả ba đều mang tính cơ chế chứ không phải lựa chọn nhất thời.
 
-Phép tính đòn bẩy vì thế rất gọn: với kế hoạch tiêu thụ 14.900 tấn, **mỗi 100 USD/tấn thay đổi của giá bán tương đương khoảng 38,7 tỷ đồng lợi nhuận trước thuế — bằng 26% toàn bộ kế hoạch lợi nhuận cả năm**.
+**Thứ nhất: các quỹ bắt buộc tại Lào và thuế chuyển lợi nhuận.**
 
-Đó là lý do sau bảy tháng, lợi nhuận trước thuế đã đạt 200,37 tỷ đồng, tức **134,12% kế hoạch cả năm**, tăng 98,8% so với cùng kỳ.
-
-Nhưng đòn bẩy chạy theo cả hai chiều. Giá vốn kế hoạch là 1.430 USD/tấn. Nếu giá bán về vùng 1.500 USD, biên lợi nhuận gần như biến mất. Cao su là hàng hóa chu kỳ, và giá trị của DRI không thể xác định bằng cách lấy lợi nhuận năm 2026 nhân với một hệ số P/E.
-
-### Con số ít ai để ý
-
-Đây là phần quan trọng nhất, và cũng là phần hầu như không xuất hiện trong các bài viết về DRI.
-
-Lợi nhuận sau thuế hợp nhất năm 2025 là **158,2 tỷ đồng**. Nhưng theo tờ trình phân phối lợi nhuận được Đại hội đồng cổ đông thông qua tháng 6/2026, số tiền thực sự còn lại để chia chỉ là **79,5 tỷ đồng**.
-
-| Khoản mục | Số tiền |
+| Khoản | Số tiền |
 |---|---:|
 | Lợi nhuận sau thuế hợp nhất 2025 | 158,2 tỷ |
 | Trích quỹ dự phòng tài chính tại Lào (10%) | −12,3 tỷ |
 | Trích quỹ đầu tư phát triển tại Lào (30%) | −36,9 tỷ |
 | Trích quỹ khen thưởng, phúc lợi và thưởng người quản lý | −16,2 tỷ |
-| Thuế cổ tức chuyển lợi nhuận về chủ sở hữu (10%) | −11,1 tỷ |
+| Thuế chuyển lợi nhuận về nước (10%) | −11,1 tỷ |
 | **Còn lại để phân phối** | **79,5 tỷ** |
 
-Một nửa lợi nhuận kế toán bị giữ lại tại Lào dưới dạng các quỹ bắt buộc, hoặc bị đánh thuế khi chuyển về. Đây là cơ chế, không phải lựa chọn nhất thời của ban lãnh đạo.
+Một nửa lợi nhuận kế toán bị giữ lại tại Lào hoặc bị đánh thuế khi chuyển về. Bằng chứng rõ nhất nằm ở báo cáo riêng công ty mẹ: sáu tháng đầu 2026, trong khi lợi nhuận hợp nhất tăng 83%, **lợi nhuận sau thuế của riêng DRI chỉ 57,9 tỷ đồng, giảm 62,7%** — vì phần chuyển về từ Lào trong kỳ thấp hơn.
 
-Bằng chứng rõ nhất nằm ở báo cáo riêng của công ty mẹ. Sáu tháng đầu 2026, trong khi lợi nhuận hợp nhất tăng 83%, **lợi nhuận sau thuế của riêng công ty mẹ chỉ đạt 57,9 tỷ đồng, giảm 62,7%** so với cùng kỳ. Lý do công ty tự giải trình: khoản lợi nhuận từ công ty con tại Lào chuyển về trong kỳ thấp hơn năm trước.
+**Thứ hai: một lợi thế vừa bị chính sách xóa.** Từ 01/7/2025, chính sách thuế GTGT mới của Việt Nam **không hoàn thuế** đối với cao su nhập khẩu từ Lào để tái xuất. Doanh nghiệp xếp thẳng điều này vào mục điểm yếu: nó "làm gia tăng chi phí bán hàng và **giảm biên lợi nhuận — vốn là lợi thế trước đây của DRI**".
 
-Lợi nhuận hợp nhất và tiền thật chảy về công ty mẹ là hai dòng chảy khác nhau, và độ trễ giữa chúng có thể kéo dài cả năm.
+Hệ quả đo được ngay trong năm: tỷ lệ xuất khẩu 2025 chỉ đạt **49,13%** so với kế hoạch 65%. DRI phải chuyển sang bán nội địa nhiều hơn. Kèm theo đó là một bất lợi địa lý không đổi được: **Lào không có cảng biển**, mọi tấn mủ phải đi đường bộ ra cảng, chi phí vận chuyển cao hơn doanh nghiệp trong nước.
 
-Điều này không phủ định giá trị của DRI. Nó chỉ có nghĩa: khi định giá, con số EPS 3.030 đồng cần được đọc cùng với thực tế cổ tức 1.000 đồng.
+**Thứ ba: công ty con cho công ty mẹ vay tiền.** Báo cáo quản trị sáu tháng đầu 2026 ghi nhận hợp đồng vay số 01/2024/HĐVV ngày 22/11/2024 giữa DRI và Dakruco, giá trị gốc **40 tỷ đồng**. Dakruco trả gốc ngày 04/06/2026 và đã trả 3,61 tỷ tiền lãi trong kỳ; DRI vẫn **còn phải thu 3,40 tỷ đồng lãi vay**.
 
-### Sầu riêng: quân bài thứ hai, và cái bẫy của nó
+Đặt cạnh việc Dakruco chỉ chia cổ tức 169 đồng mỗi cổ phiếu cho năm 2025 trong khi DRI chuẩn bị trả 1.000 đồng, hướng chảy của dòng tiền giữa hai pháp nhân khá rõ. Cùng kỳ, HĐQT cũng thông qua chủ trương **hỗ trợ tài chính cho Công ty Nông nghiệp Công nghệ cao DRI** để cân đối dòng tiền năm 2026.
 
-Cao su tạo tiền hôm nay. Sầu riêng là thứ có thể đổi diện mạo DRI trong 5–10 năm tới.
+### Doanh nghiệp thuê đất, và hợp đồng có hạn
 
-Doanh nghiệp đang phát triển 91,14 ha sầu riêng tại Daklaoruco và khoảng 62 ha tại Công ty TNHH Nông nghiệp Công nghệ cao DRI — hơn 150 ha, nằm trong tổng vùng cây trồng ngoài cao su hơn 930 ha. Kế hoạch 2026: sản lượng 760 tấn, doanh thu 30,4 tỷ đồng.
+DRI không sở hữu đất ở Lào. Toàn bộ diện tích nằm trong **hợp đồng tô nhượng** có thời hạn, và điều đó ràng buộc trực tiếp kế hoạch dài hạn. Báo cáo viết: thực hiện lộ trình tái canh vườn cây chu kỳ thứ hai "**phù hợp với hợp đồng tô nhượng đất**", và ở chỗ khác, "phù hợp với **thời hạn tô nhượng** của dự án".
 
-Đó là **3,7% tổng doanh thu kế hoạch**. Chưa phải động cơ lợi nhuận. Đúng hơn, nó là một quyền chọn tăng trưởng.
+Chiến lược phát triển bền vững của công ty ghi mốc "giai đoạn 2027–2030, **tầm nhìn 2054**".
 
-Và quyền chọn ấy đang được mở ra đúng lúc thị trường sầu riêng bước vào giai đoạn khó. Sản lượng sầu riêng Việt Nam năm 2026 ước đạt **2,08 triệu tấn** trên diện tích khoảng 200.000 ha — gấp 3,1 lần so với năm năm trước. Riêng 1,3 triệu tấn sẽ được thu hoạch trong năm tháng cuối năm. Áp lực dư cung và giảm giá đã bắt đầu hiện hữu.
+Cây cao su cần bảy năm mới cho mủ và khai thác khoảng hai mươi năm. Nếu thời hạn tô nhượng kết thúc quanh 2054, những lô trồng sau khoảng 2027 sẽ không kịp khai thác hết chu kỳ — và đó là một ràng buộc thật lên giá trị dài hạn mà bội số P/E không phản ánh.
 
-Bản thân DRI cũng đang thận trọng. Báo cáo tháng 7 cho biết công ty đang phối hợp "đánh giá lại hiện trạng vườn sầu riêng trồng năm 2020" và đề xuất phương án đầu tư cho năm tháng cuối năm — cách diễn đạt cho thấy vườn cây này chưa đạt như kỳ vọng ban đầu.
+Tiền thuê đất đã nộp trong năm 2025 cho hơn 9.276 ha chỉ **2,67 tỷ đồng**, khoảng 288.000 đồng mỗi hecta mỗi năm. Rẻ, nhưng có hạn sử dụng.
 
-Nếu DRI xây được vùng trồng quy mô, kiểm soát chất lượng và truy xuất nguồn gốc, mảng này có thể tăng giá trị mạnh khi vào khai thác ổn định. Nếu không, cỗ máy cao su vẫn còn đó làm nền.
+### Sầu riêng và gỗ: hai lớp giá trị, cả hai đang khó
+
+**Gỗ cao su thanh lý.** Tháng 11/2024, Daklaoruco được cấp chứng nhận FSC-FM/CoC cho **6.148,03 ha** — 74,07% diện tích cao su kinh doanh. Trên lý thuyết, vườn cây đạt chuẩn thì gỗ thanh lý cũng đạt chuẩn.
+
+Trên thực tế, doanh nghiệp xếp khoản này vào mục **thách thức**:
+
+> "Thị trường gỗ cao su tại Lào **chưa hình thành**, hoạt động chế biến gỗ cao su nhỏ lẻ, gây ra thách thức về tiêu thụ gỗ cao su thanh lý, **làm chậm quá trình tái canh** vườn cây cao su và trồng sầu riêng theo kế hoạch, **giảm lợi nhuận từ thanh lý** vườn cao su."
+
+Không bán được gỗ thì không chặt được cây, không chặt được cây thì không tái canh. Kế hoạch tái canh năm 2026 vì thế chỉ **37,77 ha** trên 8.592 ha — 0,44% mỗi năm. HĐQT vừa cho chủ trương **hợp tác với CTCP TEKCOM** đầu tư nhà máy chế biến gỗ Veneer, Wood Pellet và Plywood. Đó là lời giải đang tìm, chưa phải đã có.
+
+**Chứng chỉ FSC cũng chưa ra tiền đáng kể.** Cả năm 2025, DRI bán được **784,32 tấn** hàng đạt chuẩn EUDR/FSC — 5,6% tổng sản lượng — với giá cao hơn bình quân 130 USD/tấn, mang lại thêm đúng **101.961 USD**.
+
+**Sầu riêng đang đi lùi, không đi lên:**
+
+| Sầu riêng 2025 | Kế hoạch | Thực hiện | Đạt |
+|---|---:|---:|---:|
+| Sản lượng (tấn) | 640 | 575,25 | 89,88% |
+| Giá bán (triệu đồng/tấn) | 50,06 | **34,93** | **69,77%** |
+| Doanh thu (tỷ đồng) | 32,04 | 20,09 | 62,70% |
+
+Lợi nhuận gộp từ sầu riêng **giảm từ 11,16 tỷ (2024) xuống 7,58 tỷ (2025)**, tỷ trọng trong tổng lợi nhuận gộp rơi từ 5,89% xuống 2,89%. Cùng lúc, tỷ trọng của cao su **tăng từ 93,11% lên 96,77%**.
+
+Mức độ phụ thuộc vào một sản phẩm đang tăng, không giảm. Kế hoạch mở rộng sầu riêng lên 238,12 ha đến năm 2030 vẫn còn đó, nhưng nó là quyền chọn dài hạn chứ chưa phải trụ cột.
 
 ### Bảng cân đối: tiền nhiều hơn nợ
 
-Cuối quý II/2026, DRI có 61,1 tỷ tiền mặt và 303,5 tỷ tiền gửi ngân hàng — tổng cộng **364,6 tỷ đồng**. Đối lại là 99,9 tỷ đồng nợ vay, giảm so với 104,7 tỷ hồi đầu năm.
+Tại 30/06/2026 (tỷ đồng):
 
-Tức là **tiền ròng 264,7 tỷ đồng, tương đương 3.616 đồng mỗi cổ phiếu — khoảng 25% thị giá**.
+| Khoản mục | Giá trị |
+|---|---:|
+| Tiền và tương đương tiền | 61,1 |
+| Đầu tư tài chính ngắn hạn | 303,5 |
+| **Tổng tiền và tiền gửi** | **364,6** |
+| Vay ngắn hạn | 77,2 |
+| Vay dài hạn | 22,7 |
+| **Tiền ròng** | **+264,7** |
+| Tổng tài sản | 1.031,2 |
+| Vốn chủ sở hữu | 805,5 |
 
-Đống tiền này không nằm im. Doanh thu tài chính sáu tháng đầu năm đạt 21,4 tỷ đồng trong khi chi phí lãi vay chỉ 4,5 tỷ, tức DRI thực thu ròng gần 17 tỷ từ hoạt động tài chính.
+Tiền ròng 264,7 tỷ đồng tương đương **3.616 đồng mỗi cổ phiếu, bằng 25% thị giá**. Toàn bộ **nợ vay dài hạn bằng USD đã được tất toán từ năm 2023**, nên rủi ro tỷ giá trên bảng cân đối gần như không còn.
 
-Với doanh nghiệp nông nghiệp, đây là yếu tố sống còn. Giá hàng hóa biến động, nhưng một bảng cân đối không nợ ròng cho phép doanh nghiệp đi qua chu kỳ xuống mà không phải bán tài sản hay pha loãng cổ đông — và còn nguyên sức để tận dụng chu kỳ lên kế tiếp.
+Đống tiền này không nằm im: doanh thu tài chính sáu tháng đầu 2026 đạt 21,4 tỷ trong khi chi phí lãi vay chỉ 4,5 tỷ.
 
-### Hai chất xúc tác và ba nút thắt
+Cần ghi nhận một khoản chi phí đã tăng và sẽ ở lại: thu nhập bình quân của lao động trực tiếp đi từ 4,93 lên **7,46 triệu đồng/người/tháng** trong năm 2025 — tăng 51,31%. Đó là cái giá đi kèm việc lấy lại sản lượng. Tổng lao động cuối 2025 là 2.543 người, trong đó 2.270 là người Lào làm việc trực tiếp.
 
-**Cổ tức tiền mặt 10%.** Đại hội đồng cổ đông đã thông qua mức 1.000 đồng/cổ phiếu cho năm 2025 — nâng từ 9% kế hoạch lên 10% do lợi nhuận vượt kỳ vọng. Công ty chưa tạm ứng đồng nào, thời gian chi trả dự kiến **01/10 – 30/10/2026**. Tỷ suất 7,0% trên thị giá hiện tại.
+### Ai đang nắm cổ phiếu, và hai chất xúc tác
 
-**Chuyển sàn HOSE.** Đại hội 2026 đã thông qua chủ trương niêm yết với hai điều kiện: lợi nhuận sau thuế bán niên 2026 có lãi theo báo cáo soát xét, và lợi nhuận lũy kế chưa phân phối không âm. **Cả hai đều đã thỏa mãn.** Hội đồng quản trị được ủy quyền chủ động nộp hồ sơ. Với một cổ phiếu UPCoM, việc lên HOSE mở cửa cho nhóm quỹ bị ràng buộc không được mua cổ phiếu chưa niêm yết.
+Cơ cấu cổ đông tại 01/08/2025:
 
-Nút thắt thứ nhất là **giá cao su**. Chu kỳ hàng hóa đảo chiều thì lợi nhuận giảm nhanh hơn nhiều so với tốc độ nó vừa tăng.
+| Nhóm | Cổ phiếu | Tỷ lệ | Số cổ đông |
+|---|---:|---:|---:|
+| Dakruco | 32.940.000 | 45% | 1 |
+| Cổ đông khác trong nước | 39.707.622 | 54,25% | 6.675 |
+| Nước ngoài | 552.378 | **0,75%** | 41 |
 
-Nút thắt thứ hai là **rủi ro quốc gia**. Toàn bộ vườn cây nằm trên đất Lào. Chính sách đất đai, thuế, lao động, tỷ giá kip — tất cả nằm ngoài tầm kiểm soát và cả tầm quan sát thường ngày của cổ đông Việt Nam.
+**Không có cổ đông lớn thứ hai.** 11,6 triệu cổ phiếu Dakruco bán ra đầu 2025 đã phân tán cho hàng nghìn nhà đầu tư nhỏ, không ai chạm ngưỡng 5%. Tỷ lệ tự do chuyển nhượng 55% là mức cao hiếm thấy ở nhóm doanh nghiệp gốc nhà nước — DRI không có rủi ro mất tư cách công ty đại chúng. Sở hữu nước ngoài mới 0,75%, tức dư địa rất rộng.
 
-Nút thắt thứ ba là **nguồn cung cổ phiếu**. Cao su Đắk Lắk (Dakruco, mã DRG) đã giảm sở hữu từ 60,84% xuống 45% — tương đương 32,94 triệu cổ phiếu — nhưng mục tiêu ban đầu là về 36%. Khoảng 6,6 triệu cổ phiếu vẫn có thể được chào bán tiếp. Ngắn hạn đó là áp lực; dài hạn, tỷ lệ tự do chuyển nhượng cao hơn lại giúp thanh khoản và khả năng được định giá lại.
+**Cổ tức tiền mặt 10%.** Đại hội đã thông qua mức 1.000 đồng mỗi cổ phiếu cho năm 2025, nâng từ 9% kế hoạch. Công ty chưa tạm ứng đồng nào, thời gian chi trả dự kiến **01/10 – 30/10/2026**, tỷ suất 6,9% trên thị giá hiện tại.
+
+**Chuyển sàn HOSE.** Hai điều kiện mà Đại hội đặt ra — lợi nhuận bán niên 2026 có lãi theo báo cáo soát xét, và lợi nhuận lũy kế chưa phân phối không âm — đều đã thỏa mãn. Ngày 17/06/2026, DRI phê duyệt kết quả lựa chọn nhà thầu cho gói tư vấn hồ sơ chuyển sàn, và đang thuê tư vấn chuyển đổi báo cáo tài chính sang chuẩn quốc tế.
+
+Ban lãnh đạo cũng vừa thay: ông Nguyễn Viết Tượng, chủ tịch HĐQT từ 16/9/2015, nghỉ hưu và miễn nhiệm ngày 16/6/2026; ông **Nguyễn Minh** được bầu chủ tịch ngày 19/6/2026.
 
 ### Giá trị nằm ở đâu
 
-Tính theo giá 14.200 đồng và 73,2 triệu cổ phiếu:
+Tại 14.447 đồng (11/09/2026) và 73,2 triệu cổ phiếu:
 
 | Chỉ số | Giá trị |
 |---|---:|
-| Vốn hóa | 1.039 tỷ đồng |
-| Lợi nhuận sau thuế 4 quý gần nhất | 221,8 tỷ đồng |
+| Vốn hóa | 1.057,5 tỷ đồng |
+| LNST cổ đông mẹ 4 quý gần nhất | 221,8 tỷ đồng |
 | EPS 4 quý gần nhất | 3.030 đồng |
-| P/E | 4,7 lần |
+| P/E | 4,8 |
 | Giá trị sổ sách/cổ phiếu | 11.004 đồng |
-| P/B | 1,29 lần |
-| Giá trị doanh nghiệp sau khi trừ tiền ròng | 774 tỷ đồng |
-| EV / lợi nhuận sau thuế | 3,5 lần |
-| ROE 4 quý gần nhất | ~31% |
-| Tỷ suất cổ tức | 7,0% |
+| P/B | 1,32 |
+| Giá trị doanh nghiệp sau khi trừ tiền ròng | 792,8 tỷ đồng |
+| EV / lợi nhuận sau thuế | 3,6 |
+| ROE | ~31% |
+| Tỷ suất cổ tức | 6,9% |
 
-Dòng đáng đọc kỹ nhất là EV. Sau khi trừ tiền ròng, thị trường đang định giá **toàn bộ 9.418 ha vườn cây, nhà máy chế biến và bộ máy 2.480 người ở mức 774 tỷ đồng — bằng 3,5 lần lợi nhuận một năm gần nhất**.
+Sau khi trừ tiền ròng, thị trường đang định giá toàn bộ 9.276 ha vườn cây, nhà máy 18.000 tấn và bộ máy 2.543 người ở mức **792,8 tỷ đồng — bằng 3,6 lần lợi nhuận một năm gần nhất**.
 
-Mức đó không tự động có nghĩa là rẻ. Nó có nghĩa thị trường đang giả định lợi nhuận hiện tại **không bền** — rằng 221,8 tỷ của mười hai tháng qua là đỉnh chu kỳ chứ không phải mặt bằng mới. Toàn bộ tranh luận về DRI nằm ở chỗ giả định đó đúng hay sai.
+Mức đó không tự động là rẻ. Nó có nghĩa thị trường giả định lợi nhuận hiện tại **không bền** — và ba phát hiện trong bài này cho thấy giả định đó có cơ sở: cú nhảy năng suất 2025 là một lần, chính sách thuế GTGT đã lấy đi một phần biên, và hợp đồng tô nhượng có thời hạn.
 
-Ba kịch bản, mỗi kịch bản gắn với một mức lợi nhuận bình thường hóa và một bội số cụ thể để người đọc có thể tự phản biện:
+**Thận trọng.** Giá cao su về đúng giả định kế hoạch 1.759 USD/tấn, sản lượng về mức 13.800 tấn. Lợi nhuận trước thuế quanh 149 tỷ, sau thuế khoảng 124 tỷ — EPS 1.694 đồng. Ở P/E 6,5–7 lần, tương đương **11.000–12.000 đồng**, xấp xỉ giá trị sổ sách.
 
-**Thận trọng.** Giá cao su về đúng giả định kế hoạch 1.759 USD/tấn, lợi nhuận trước thuế quanh 149 tỷ, sau thuế khoảng 124 tỷ — EPS 1.694 đồng. Ở P/E 6,5–7 lần, tương đương **11.000–12.000 đồng**, cũng xấp xỉ giá trị sổ sách hiện tại.
+**Cơ sở.** Giá duy trì vùng 1.900–2.000 USD/tấn, lợi nhuận sau thuế 240–270 tỷ — EPS 3.280–3.690 đồng. Ở P/E 5,5–6 lần, vùng **18.000–22.100 đồng**.
 
-**Cơ sở.** Giá duy trì vùng thuận lợi, lợi nhuận bình thường hóa 180–210 tỷ — EPS 2.460–2.870 đồng. Ở P/E 6,5–7 lần, vùng **16.000–20.000 đồng**.
-
-**Thuận lợi.** Giá neo cao, lợi nhuận vượt 230 tỷ, cộng thêm chuyển sàn HOSE thành công và tỷ lệ tự do chuyển nhượng cải thiện. Ở P/E 7–8,5 lần, vùng **22.000–27.000 đồng**.
-
-Khoảng cách giữa kịch bản thấp nhất và cao nhất — từ 11.000 lên 27.000 đồng — chính là thước đo mức độ phụ thuộc của DRI vào một biến số duy nhất mà không ai kiểm soát được: giá cao su.
+**Thuận lợi.** Giá neo cao, chuyển sàn HOSE thành công kéo dòng vốn tổ chức và khối ngoại vào một cổ phiếu mới có 0,75% sở hữu nước ngoài. Ở P/E 7 lần trên EPS 3.690 đồng, vùng **25.800 đồng**.
 
 ### Một số lưu ý
 
-- **Số liệu bán niên 2026 nên dùng bản soát xét.** Lợi nhuận sau thuế hợp nhất soát xét là 142,01 tỷ đồng, **thấp hơn báo cáo công ty tự lập 4,5 tỷ (giảm 3,07%)** do kiểm toán điều chỉnh tăng giá vốn liên quan đến giao dịch mua bán nội bộ trong tập đoàn. Nhiều nơi vẫn đang trích con số cũ khoảng 146,5 tỷ.
-- **Giá bán 2.390 USD/tấn là số của riêng tháng 7.** Bình quân bảy tháng chỉ khoảng 1.990 USD/tấn. Lấy một tháng tốt làm chuẩn cho cả năm là cách nhanh nhất để định giá sai.
-- **Số liệu tháng do công ty tự công bố là ước tính**, và dùng khái niệm "tổng doanh thu hợp nhất" gồm cả thu nhập khác — nên không khớp tuyệt đối với doanh thu thuần trên báo cáo tài chính.
-- **Tỷ lệ tái canh đang ở mức thấp.** Chỉ 337,88 ha nằm trong giai đoạn kiến thiết cơ bản so với 8.146 ha đang khai thác, tức khoảng 4% mỗi năm. Kế hoạch thanh lý và tái canh 4.080 ha giai đoạn 2026–2032 là câu trả lời cho việc này, nhưng cũng có nghĩa gần một nửa diện tích khai thác sẽ đi qua giai đoạn thay thế — diện tích cho mủ có thể giảm trước khi tăng trở lại.
-- **Có một lớp giá trị chưa nằm trong báo cáo kết quả kinh doanh.** Tháng 11/2024, Daklaoruco được cấp chứng nhận FSC-FM/CoC cho 6.849 ha. Trong bối cảnh quy định chống mất rừng của EU siết chuỗi cung cao su, đây là loại giấy tờ không mua được bằng tiền trong ngắn hạn. Nó cũng khiến gỗ cao su thanh lý — 104 ha với 5.500 m³ riêng năm 2026 — trở thành nguồn thu đạt chuẩn.
-- **Tỷ lệ sở hữu 45% của Dakruco** là con số sau đợt thoái vốn đầu năm 2025; giao dịch phát sinh sau đó có thể làm thay đổi bức tranh nguồn cung cổ phiếu.
-- **Các mức giá cao su nêu ở trên là giá đang diễn ra** trên sàn SGX, giá xuất khẩu bình quân của Việt Nam và giá DRI thực bán — không đến từ một mô hình cung cầu nào.
+- **Thời hạn tô nhượng đất chưa được công bố con số cụ thể.** Mốc 2054 là suy ra từ dòng "tầm nhìn 2054" trong chiến lược phát triển bền vững, không phải từ văn bản hợp đồng. Đây là ẩn số quan trọng nhất với giá trị dài hạn của DRI.
+- **Cú nhảy năng suất 2025 chưa được tách thành phần.** Bao nhiêu phần đến từ chặn trộm, bao nhiêu từ thời tiết, từ chế độ lương mới hay từ kỹ thuật chăm sóc — báo cáo không bóc. Việc coi toàn bộ là một lần có thể hơi cực đoan.
+- **Số liệu quý lấy từ báo cáo tài chính hợp nhất; riêng bán niên 2026 dùng bản soát xét**, thấp hơn báo cáo tự lập 4,5 tỷ do điều chỉnh giá vốn giao dịch nội bộ. Với mã này, số công bố nhanh có xu hướng cao hơn số cuối cùng.
+- **Bài này không định giá được tín chỉ carbon.** Công ty đang nghiên cứu xác lập tín chỉ cho vườn cao su tại Lào, nhưng chưa có quy mô, thời điểm hay cơ chế nào được công bố.
+- **Giá bán và giá vốn quy đổi USD phụ thuộc tỷ giá** lấy theo chính báo cáo của doanh nghiệp; tỷ giá biến động sẽ làm mọi phép tính lệch đi.
 
 ### Không chỉ là một cổ phiếu cao su
 
-Điều đáng chú ý ở DRI lúc này không phải việc đoán giá cao su ngày mai.
+Thứ DRI có là một tập hợp rõ ràng: 8.592 ha cao su gần như đã vào tuổi sinh lời, nhà máy 18.000 tấn, 264,7 tỷ tiền ròng, không nợ ngoại tệ, 55% cổ phiếu tự do chuyển nhượng, cổ tức 6,9% sắp chi trả và hồ sơ chuyển sàn đã thuê tư vấn.
 
-Đó là việc doanh nghiệp đang đứng ở giao điểm của ba dòng chảy: **một vườn cao su lớn đã vào tuổi tạo tiền, một chu kỳ hàng hóa đang thuận lợi, và một vùng cây ăn quả đang được gieo cho mùa sau** — trên nền một bảng cân đối có nhiều tiền hơn nợ.
+Thứ nó phải sống chung cũng rõ không kém: lợi nhuận phụ thuộc gần như tuyệt đối vào một mức giá nằm ngoài tầm kiểm soát; một nửa lợi nhuận kế toán bị giữ lại hoặc đánh thuế trước khi về tới cổ đông; toàn bộ tài sản nằm trên đất thuê có thời hạn ở một quốc gia không có cảng biển; và mức năng suất kỷ lục của năm 2025 đến từ việc sửa một lỗ hổng quản trị chứ không từ vườn cây.
 
-Đối trọng cũng rõ ràng không kém: lợi nhuận phụ thuộc gần như tuyệt đối vào một mức giá nằm ngoài tầm kiểm soát, gần một nửa lợi nhuận kế toán bị giữ lại hoặc đánh thuế trước khi về tới cổ đông, và toàn bộ tài sản nằm trên đất Lào.
-
-Nếu cao su là mỏ vàng đang cho thu hoạch, sầu riêng là phần đất DRI vừa gieo hạt. Câu hỏi với người cầm cổ phiếu vì thế không còn đơn giản là *"DRI có tăng giá không?"*.
-
-> **Với những gì doanh nghiệp đang sở hữu và đang tạo ra, thị trường đã trả đủ giá cho DRI, hay vẫn đang định giá nó bằng quá khứ?**
+> **Khi năng suất tăng 35% nhờ chặn được trộm mủ chứ không nhờ cây tốt hơn, mức lợi nhuận đó là một mặt bằng mới hay là một lần dọn nhà?**
 
 ---
 
-*Số liệu cập nhật đến 27/08/2026. Nguồn: báo cáo tài chính hợp nhất soát xét bán niên 2026 và giải trình chênh lệch lợi nhuận ngày 17/08/2026, tài liệu Đại hội đồng cổ đông thường niên 2026, báo cáo kết quả sản xuất kinh doanh tháng 07/2026 đăng tại [dri.com.vn](https://dri.com.vn); dự báo cung cầu của ANRPC; giá thị trường từ Simplize và VietstockFinance.*
+*Số liệu tài chính theo quý từ báo cáo tài chính hợp nhất của DRI, bán niên 2026 theo bản soát xét ngày 17/08/2026. Sản lượng, năng suất, cơ cấu cổ đông, cơ cấu lợi nhuận gộp, thuế đã nộp và phân tích rủi ro theo [Báo cáo thường niên 2025](https://dri.com.vn/bao-cao-thuong-nien-2025-13561.html); giao dịch với bên liên quan, thay đổi nhân sự HĐQT và chủ trương hợp tác với TEKCOM theo Báo cáo tình hình quản trị công ty 6 tháng năm 2026; kế hoạch 2026 theo tài liệu Đại hội đồng cổ đông thường niên 2026, tất cả công bố tại [dri.com.vn](https://dri.com.vn). Giá và chỉ số định giá tại ngày 11/09/2026, nguồn dữ liệu VNDirect.*
