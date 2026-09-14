@@ -53,6 +53,29 @@ Nhưng tiền đó không ở lại. Chi đầu tư 471, 712, 254, 689 tỷ — 
 
 Bằng chứng nằm ngay trong số liệu: doanh thu tăng 28% trong ba năm, nhưng lợi nhuận sau thuế chỉ tăng từ 293 lên 393 tỷ — và năm 2023 còn giảm về 219 tỷ.
 
+## 19.693 người
+
+TNG có **19.693 nhân viên** — doanh nghiệp thâm dụng lao động nhất trong nhóm sản xuất của loạt bài này.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **19.693** |
+| Nguyên giá tài sản cố định | 4.166 tỷ |
+| **Tài sản cố định / nhân viên** | **212 triệu đồng** |
+| Hao mòn / nguyên giá | **41%** |
+| Xây dựng cơ bản dở dang | 174 tỷ |
+| Bất động sản đầu tư | 304 tỷ |
+
+**212 triệu đồng tài sản cố định trên mỗi nhân viên** — đây là đặc trưng của ngành may: máy may rẻ, lao động đông.
+
+So sánh trong cùng loạt bài: [Sabeco](post.html?p=sab-doanh-thu-mat-mot-phan-tu-bien-van-mo-ra) là 1,95 tỷ mỗi người, PV GAS 22,3 tỷ. TNG thấp hơn Sabeco chín lần.
+
+Hệ quả: **chi phí chính là lương**, và biên lợi nhuận phụ thuộc vào năng suất lao động cùng đơn giá gia công — hai thứ đều chịu áp lực cạnh tranh từ các nước có chi phí thấp hơn.
+
+Tỷ lệ hao mòn **41%** khá thấp, cho thấy doanh nghiệp vẫn đầu tư thiết bị đều đặn.
+
+Khoản bất động sản đầu tư **304 tỷ** là dòng đáng chú ý riêng: doanh nghiệp may có một phần tài sản cho thuê, tạo nguồn thu không phụ thuộc vào đơn hàng.
+
 ## Định giá
 
 Ở giá 16.100 đồng: P/E 4,7, P/B 1,10, cổ tức **12,3%**.

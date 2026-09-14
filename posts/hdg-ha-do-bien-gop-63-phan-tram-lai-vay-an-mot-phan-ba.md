@@ -78,6 +78,31 @@ Biên gộp quý 2/2026 là **94%** — mức bất thường ngay cả với m�
 
 Bảng số không giải thích được. Với mảng thủy điện, biên phụ thuộc vào lượng nước và giá bán điện; nhưng 94% là mức cao hơn nhiều so với 42–70% của năm quý trước.
 
+## 737 người, 67 hecta đất và 1.683 tỷ nhà máy điện
+
+Hà Đô sở hữu khoảng **67 ha** quỹ đất, với **737 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | **769 tỷ** |
+| **Tồn kho / nhân viên** | **1,0 tỷ** |
+| **Xây dựng cơ bản dở dang** | **1.683 tỷ** |
+| Tài sản dở dang dài hạn | 1.757 tỷ |
+| Bất động sản đầu tư | 789 tỷ |
+| Phải thu khách hàng | 1.610 tỷ |
+
+Hàng tồn kho **769 tỷ** rất nhỏ so với quy mô doanh nghiệp — và nó nhỏ hơn cả khoản xây dựng cơ bản dở dang 1.683 tỷ.
+
+Đây là dấu hiệu rõ nhất cho thấy Hà Đô không còn chủ yếu là doanh nghiệp bất động sản.
+
+Khoản **1.683 tỷ đang xây dở** ở một doanh nghiệp có quỹ đất chỉ 67 ha không thể là dự án nhà ở. Đó là **nhà máy điện** — thủy điện và điện gió — mảng mà Hà Đô đã chuyển trọng tâm sang.
+
+Điều này giải thích trực tiếp nội dung chính của bài: biên gộp 63% là biên của phát điện, không phải của bán nhà. Nhà máy điện có chi phí gần như toàn bộ là khấu hao và lãi vay, nên biên gộp rất cao trong khi biên sau lãi vay thì không.
+
+Nó cũng giải thích vì sao lãi vay ăn một phần ba lợi nhuận: xây nhà máy điện là hoạt động thâm dụng vốn vay, và khoản vay chạy suốt vòng đời tài sản.
+
+Với 737 nhân viên, phần lớn vận hành nhà máy chứ không bán bất động sản, mọi chỉ số ngành bất động sản trong bài đều chỉ áp dụng được cho phần nhỏ 769 tỷ hàng tồn kho.
+
 ## Định giá
 
 P/E **6,9**, P/B **0,93**, ROE **11%**. Vốn hóa 6.491 tỷ. Thanh khoản 21 tỷ đồng mỗi phiên.

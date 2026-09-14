@@ -54,6 +54,24 @@ Dư nợ cho vay 720 tỷ, bằng **0,61 lần** vốn chủ. Dư địa còn kh
 
 Nhưng phí môi giới chỉ 21 tỷ một năm cho thấy nền khách hàng còn nhỏ.
 
+## 69 người
+
+Chứng khoán Guotai Junan Việt Nam có **69 nhân viên** — ít thứ tư trong 36 công ty.
+
+| Chỉ số 2025 | IVS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | 1.551 tr | 6.520 tr | 32/36 |
+| Dư nợ margin / nhân viên | 10,4 tỷ | 21,2 tỷ | 26/36 |
+| LNTT / nhân viên | 259 tr | 2.988 tr | 29/36 |
+
+Với 69 nhân viên và 107 tỷ doanh thu, đây là công ty rất nhỏ ở mọi chiều.
+
+Dư nợ margin 720 tỷ chia cho 69 người ra 10,4 tỷ mỗi người — gần một nửa mức bình quân ngành nhưng vẫn là hoạt động chính.
+
+Điều này nhất quán với nội dung chính của bài: đây là công ty chứng khoán duy nhất trong 36 mã không có hoạt động tự doanh. Doanh thu đến từ môi giới và cho vay, hai mảng đều có biên mỏng.
+
+Hệ quả: lợi nhuận trên mỗi nhân viên 259 triệu, thuộc nhóm thấp. Nhưng cũng vì không tự doanh, kết quả của công ty ổn định hơn nhiều so với các mã cùng quy mô — không có quý lỗ lớn nào trong chuỗi dữ liệu.
+
 ## Định giá
 
 P/E **30,3**, P/B **0,57**, ROE **2%**. Vốn hóa 682 tỷ. Thanh khoản 0,2 tỷ đồng mỗi phiên. Sàn HNX.

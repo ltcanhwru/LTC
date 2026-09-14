@@ -48,6 +48,26 @@ Lãi cho vay ổn định quanh 46–54 tỷ mỗi quý.
 
 Lãi tự doanh dao động mạnh: 9 đến 47 tỷ.
 
+## 162 người và 3 chi nhánh
+
+Chứng khoán Dầu khí có **162 nhân viên** và **3 chi nhánh**.
+
+| Chỉ số 2025 | PSI | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| **Doanh thu / nhân viên** | **2.945 tr** | 6.520 tr | **25/36** |
+| Dư nợ margin / nhân viên | 8,6 tỷ | 21,2 tỷ | 27/36 |
+| **LNTT / nhân viên** | **342 tr** | 2.988 tr | **27/36** |
+
+Doanh thu 477 tỷ trên 162 người ra 2.945 triệu mỗi nhân viên, bằng 45% mức bình quân ngành.
+
+Lợi nhuận trên mỗi người **342 triệu** đứng thứ 27 — thuộc nhóm thấp.
+
+Đây là bối cảnh cho nội dung chính của bài: dư nợ margin bằng 1,86 lần vốn chủ — sát trần quy định 2 lần — nhưng lợi nhuận tuyệt đối thì nhỏ.
+
+Vốn chủ 751 tỷ là mức thấp nhất trong nhóm công ty có dư nợ trên nghìn tỷ. Công ty đang dùng hết dư địa đòn bẩy trên một nền vốn mỏng, và kết quả thu được vẫn chỉ 55 tỷ lợi nhuận trước thuế.
+
+Muốn cho vay thêm thì phải tăng vốn; mà tăng vốn trên nền lợi nhuận này sẽ kéo ROE xuống tiếp.
+
 ## Định giá
 
 P/E **7,2**, P/B **0,61**, ROE **9%**. Vốn hóa 485 tỷ. Thanh khoản 1,4 tỷ đồng mỗi phiên. Sàn HNX.

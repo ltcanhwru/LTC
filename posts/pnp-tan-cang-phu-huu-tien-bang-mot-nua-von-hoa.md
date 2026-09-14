@@ -48,6 +48,26 @@ Trừ tiền ra, phần hoạt động kinh doanh đang được định giá �
 
 Nhưng đây là chỗ cần thận trọng. Một doanh nghiệp không tăng trưởng thì mức bội số thấp là hợp lý, không phải là cơ hội. Giá trị của nó gần như hoàn toàn nằm ở dòng cổ tức đều đặn, và dòng đó chỉ bằng khoảng 27 tỷ mỗi năm.
 
+## 155 người
+
+Tân Cảng – Phú Hữu hoạt động ở bốc xếp hàng hóa cảng biển, nạo vét và cho thuê cầu cảng, với **155 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 383 tỷ |
+| Hao mòn lũy kế | 271 tỷ (**71%**) |
+| **Tài sản cố định / nhân viên** | **2,5 tỷ** |
+| Xây dựng cơ bản dở dang | **40 tỷ** |
+| Phải thu khách hàng | 26 tỷ |
+
+Với **155 nhân viên** và 383 tỷ nguyên giá tài sản, đây là một cảng nhỏ.
+
+Hao mòn 71% cho biết cầu cảng và thiết bị đã qua phần lớn vòng đời khấu hao.
+
+Khoản **40 tỷ xây dựng cơ bản dở dang** bằng 10% nguyên giá — tỷ lệ đáng kể với quy mô này, cho thấy vẫn có đầu tư mở rộng đang diễn ra, khác với phần lớn các cảng khác trong nhóm.
+
+Với cảng biển, chỉ số cốt lõi là **sản lượng thông qua** tính bằng TEU hoặc tấn, và con số đó không có trong báo cáo tài chính. Mọi tỷ suất trên tài sản ở đây chỉ là chỉ báo gián tiếp.
+
 ## Định giá
 
 P/E 7,3, P/B 1,37. Thanh khoản **dưới 10 triệu đồng mỗi phiên**.

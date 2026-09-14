@@ -40,6 +40,24 @@ Tỷ trọng môi giới thì giảm từ 17% xuống 9%.
 
 Dư nợ cho vay 815 tỷ trên vốn chủ 1.402 tỷ — tỷ lệ 0,58 lần. Dư địa còn khoảng 2 nghìn tỷ.
 
+## 102 người
+
+Chứng khoán Thành Công có **102 nhân viên**.
+
+| Chỉ số 2025 | TCI | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | 3.874 tr | 6.520 tr | 20/36 |
+| Dư nợ margin / nhân viên | 8,0 tỷ | 21,2 tỷ | 28/36 |
+| **LNTT / nhân viên** | **142 tr** | 2.988 tr | **30/36** |
+
+Doanh thu trên mỗi nhân viên 3.874 triệu nằm ở nửa dưới bảng, nhưng lợi nhuận trên mỗi người chỉ **142 triệu** — đứng thứ 30.
+
+Khoảng cách mười bậc giữa hai chỉ số cho biết doanh thu 395 tỷ gần như không chuyển thành lợi nhuận: chi phí ăn hết.
+
+Đây là bối cảnh cho nội dung chính của bài — một quý lỗ 92 tỷ. Với nền lợi nhuận cả năm chỉ khoảng 14 tỷ, một quý lỗ ở quy mô đó xóa nhiều năm tích lũy.
+
+Dư nợ margin 815 tỷ trên vốn chủ 1.402 tỷ là **0,58 lần**, còn xa trần — tức công ty chưa dùng hết dư địa cho vay, mảng ổn định nhất trong ba mảng.
+
 ## Định giá
 
 P/E **68,3**, P/B **0,84**, ROE **1%**. Vốn hóa 1.110 tỷ. Thanh khoản 0,4 tỷ đồng mỗi phiên.

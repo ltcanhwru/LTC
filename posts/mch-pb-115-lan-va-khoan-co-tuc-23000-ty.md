@@ -48,6 +48,27 @@ Nhà đầu tư nhỏ lẻ nắm MCH cần đọc con số này theo đúng ngh�
 
 Và năm 2025, dòng tiền kinh doanh rơi về 2.132 tỷ — chỉ bằng **32% lợi nhuận**, thấp nhất bốn năm. Trong khi đó nợ vay đã lên 52% vốn chủ sở hữu.
 
+## 5.497 người
+
+Masan Consumer sản xuất nước mắm, nước tương, tương ớt, mì ăn liền, cà phê hòa tan và đồ uống, với **5.497 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | **10.341 tỷ** |
+| Hao mòn lũy kế | 5.749 tỷ (**56%**) |
+| Tài sản cố định / nhân viên | 1,9 tỷ |
+| **Xây dựng cơ bản dở dang** | **916 tỷ** |
+| Hàng tồn kho | 2.895 tỷ |
+| Đầu tư vào công ty liên kết | 416 tỷ |
+
+Hao mòn **56%** — khối tài sản đang ở giữa vòng đời, trẻ hơn nhiều so với [Sabeco](post.html?p=sab-doanh-thu-mat-mot-phan-tu-bien-van-mo-ra) (78%) hay [PV GAS](post.html?p=gas-doanh-thu-tang-34-phan-tram-bien-gop-mat-mot-phan-ba) (76%).
+
+Khoản **916 tỷ xây dựng cơ bản dở dang** bằng 8,9% nguyên giá — tỷ lệ cao nhất trong nhóm hàng tiêu dùng của loạt bài này, cho thấy doanh nghiệp vẫn đang mở rộng năng lực sản xuất.
+
+Đây là điểm phân biệt Masan Consumer với phần lớn các doanh nghiệp tiêu dùng đã khấu hao gần hết và ngừng đầu tư.
+
+Với 5.497 nhân viên và 10.341 tỷ nguyên giá, mỗi người tương ứng 1,9 tỷ đồng tài sản — mức thâm dụng vốn trung bình, phù hợp với dây chuyền thực phẩm đóng gói.
+
 ## Định giá
 
 Ở giá 141.800 đồng: P/E 26,5, P/B 11,55, cổ tức 2,8%. Cổ phiếu tăng 38% trong một năm và 270% trong ba năm.

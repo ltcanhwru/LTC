@@ -43,6 +43,29 @@ Dòng tiền: âm 9% lợi nhuận năm 2022, rồi 103%, 72%, 114% ba năm sau.
 
 Tiền và đầu tư tài chính 62 tỷ, bằng 13% vốn hóa 497 tỷ.
 
+## 161 người
+
+Điện nước An Giang có **161 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 147 tỷ |
+| Hao mòn lũy kế | 90 tỷ (**61%**) |
+| Tài sản cố định / nhân viên | 913 triệu đồng |
+| Hàng tồn kho | 13 tỷ |
+| Phải thu khách hàng | 55 tỷ |
+| Xây dựng cơ bản dở dang | **0** |
+
+Quy mô rất nhỏ: nguyên giá 147 tỷ, 161 nhân viên.
+
+Khoản xây dựng cơ bản dở dang **bằng không** — không có đầu tư mở rộng.
+
+Hao mòn 61% đặt tài sản ở giữa đến cuối vòng đời.
+
+Với mô hình dịch vụ tiện ích quy mô địa phương, doanh thu rất ổn định nhưng gần như không có động lực tăng trưởng: địa bàn cố định, giá do cơ quan quản lý quyết định, và không có đầu tư mở rộng.
+
+Khoản phải thu khách hàng 55 tỷ lớn gấp 4 lần hàng tồn kho — đặc trưng của doanh nghiệp cung cấp dịch vụ thay vì bán hàng hóa.
+
 ## Định giá
 
 Ở giá 49.500 đồng: P/E 9,0, P/B 3,12, cổ tức 3,7%. Giá tăng 124% trong ba năm nhưng gần như đi ngang một năm.

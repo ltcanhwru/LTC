@@ -50,6 +50,29 @@ Một phần đi ra theo cổ tức — 85% và 77% lợi nhuận hai năm gần
 
 Nợ vay bằng 31% vốn chủ sở hữu.
 
+## 776 người và 189 tỷ đang xây
+
+Khoáng sản và Vật liệu Xây dựng Lâm Đồng có **776 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 1.011 tỷ |
+| Hao mòn lũy kế | 614 tỷ (**61%**) |
+| Giá trị còn lại | **397 tỷ** |
+| **Xây dựng cơ bản dở dang** | **189 tỷ** |
+| Tài sản cố định / nhân viên | 1,3 tỷ |
+| Hàng tồn kho | 90 tỷ |
+
+Hai con số phân biệt Lâm Đồng với phần lớn các doanh nghiệp vật liệu xây dựng trong loạt bài.
+
+**Hao mòn 61%** — thấp hơn nhiều so với Xi măng La Hiên (91%), Gạch Mỹ Xuân (81%) hay Sơn Á Đông (89%).
+
+Và **189 tỷ đang xây dở**, bằng 19% nguyên giá tài sản hiện có.
+
+Nghĩa là doanh nghiệp đang ở giữa một chu kỳ đầu tư, không phải đang thu hoạch.
+
+Đó là bối cảnh cho điều bài đã nêu — doanh thu kỷ lục nhưng lợi nhuận đi lùi: khấu hao của khối tài sản còn trẻ vẫn đang trích đầy đủ, và khoản 189 tỷ sắp hoàn thành sẽ làm tăng tiếp chi phí này trước khi doanh thu tương ứng xuất hiện.
+
 ## Định giá
 
 P/E **10,2**, P/B 1,44. Thanh khoản 0,51 tỷ đồng mỗi phiên — mức cao nhất trong mười sáu mã cuối.

@@ -55,6 +55,28 @@ Con số cuối cùng này đáng chú ý: nó là tỷ lệ cao nhất trong 38
 
 Nhưng cần đọc thận trọng: với hàng tồn kho chỉ còn 1.271 tỷ, tỷ lệ cao một phần vì mẫu số đã nhỏ.
 
+## 166 người và 5.403 tỷ dở dang
+
+Quốc Cường Gia Lai sở hữu quỹ đất hơn **125 ha** tại các đô thị lớn, cùng khoảng 7.000 ha đất khác, với **166 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 1.271 tỷ |
+| **Tài sản dở dang dài hạn** | **5.403 tỷ** |
+| Xây dựng cơ bản dở dang | 0 |
+| Người mua trả tiền trước | 909 tỷ |
+| **Tỷ lệ đặt cọc trên tồn kho** | **72%** |
+
+Cấu trúc tài sản ở đây khác hẳn phần còn lại của nhóm.
+
+**Tài sản dở dang dài hạn 5.403 tỷ** lớn gấp **4,3 lần** hàng tồn kho 1.271 tỷ, trong khi chi phí xây dựng cơ bản dở dang bằng 0.
+
+Nghĩa là toàn bộ 5.403 tỷ là **chi phí sản xuất kinh doanh dở dang dài hạn** — chi phí phát triển dự án đã bỏ ra nhưng chưa đủ điều kiện kết chuyển sang hàng tồn kho hay ghi nhận doanh thu.
+
+Đây là khoản mục quan trọng nhất trên bảng cân đối của doanh nghiệp, và nó nằm ở phần tài sản dài hạn chứ không ở phần hàng để bán.
+
+Khoản người mua trả tiền trước 909 tỷ bằng 72% hàng tồn kho — tỷ lệ cao, nhưng cần đọc đúng: nó chỉ so với 1.271 tỷ đã chuyển sang hàng tồn kho, không so với 5.403 tỷ vẫn đang nằm ở dở dang.
+
 ## Định giá
 
 P/E **8,5**, P/B **0,62**, ROE **7%**. Vốn hóa 2.820 tỷ. Thanh khoản 1,2 tỷ đồng mỗi phiên.

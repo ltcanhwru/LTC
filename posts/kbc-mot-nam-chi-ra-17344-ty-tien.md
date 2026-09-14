@@ -69,6 +69,29 @@ Nhưng doanh thu dao động từ 950 tới 6.687 tỷ — chênh 7 lần giữa
 
 Với nhà đầu tư, điều này có nghĩa **đọc một năm của KBC không có giá trị dự báo.** Phải nhìn quỹ đất còn lại và tốc độ ký hợp đồng — hai con số không có trong báo cáo tài chính.
 
+## 554 người và quỹ đất 5.216 hecta
+
+Kinh Bắc quản lý quỹ đất **5.215,8 ha**, trong đó **1.177,7 ha** là đất khu đô thị và dân cư. Doanh nghiệp có **554 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Quỹ đất | **5.216 ha** |
+| Hàng tồn kho | 27.073 tỷ |
+| **Giá trị sổ sách mỗi hecta** | ≈ **5,19 tỷ đồng** |
+| Xây dựng cơ bản dở dang | 4.201 tỷ |
+| Đầu tư vào công ty liên kết | 7.325 tỷ |
+| Tồn kho / nhân viên | **48,9 tỷ** |
+
+**5,19 tỷ đồng mỗi hecta** là mức ghi sổ của toàn bộ quỹ đất — bao gồm chi phí đền bù, giải phóng mặt bằng và hạ tầng đã đầu tư.
+
+Đây là con số quan trọng nhất để đánh giá Kinh Bắc, vì giá cho thuê đất khu công nghiệp tại các tỉnh phía Bắc thường được tính bằng đơn vị USD trên mỗi mét vuông cho cả vòng đời thuê — tức cao hơn nhiều lần mức ghi sổ.
+
+Phần chênh đó là giá trị chưa hiện trên báo cáo, và nó chỉ được ghi nhận khi đất được cho thuê và bàn giao.
+
+Khoản **7.325 tỷ đầu tư vào công ty liên kết** cũng lớn — bằng 27% hàng tồn kho — và phần sinh lời của nó không nằm ở dòng doanh thu.
+
+Với 554 nhân viên quản lý 5.216 ha, mỗi người phụ trách khoảng 9,4 ha. Đây là mô hình rất nhẹ nhân sự, đúng với đặc thù cho thuê hạ tầng khu công nghiệp: hợp đồng dài hạn, ít giao dịch, khách hàng là doanh nghiệp.
+
 ## Định giá
 
 P/E **21,8**, P/B **1,00**. Vốn hóa 24.957 tỷ. Thanh khoản 34 tỷ đồng mỗi phiên.

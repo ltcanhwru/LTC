@@ -68,6 +68,29 @@ Hai cách đọc cùng một bộ số:
 
 Không có cách nào tính ra đáp án từ báo cáo tài chính. Nó nằm ở quy hoạch phân bổ chuyến bay và tiến độ hạ tầng.
 
+## 671 người
+
+Dịch vụ Hàng hóa Sài Gòn có **671 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 939 tỷ |
+| Hao mòn lũy kế | 597 tỷ (**64%**) |
+| Tài sản cố định / nhân viên | 1,4 tỷ |
+| Bất động sản đầu tư | 64 tỷ |
+| Xây dựng cơ bản dở dang | 3 tỷ |
+| Phải thu khách hàng | 106 tỷ |
+
+Nguyên giá **939 tỷ** cho một nhà ga hàng hóa hàng không — khối tài sản tập trung ở một địa điểm duy nhất.
+
+Hao mòn 64% và khoản xây dựng cơ bản dở dang chỉ **3 tỷ**: doanh nghiệp không mở rộng năng lực.
+
+Đó là đặc điểm quyết định mô hình này. Sản lượng hàng hóa qua nhà ga bị giới hạn bởi diện tích và công suất xử lý hiện có; tăng trưởng phải đến từ **giá dịch vụ và cơ cấu hàng**, không từ khối lượng vượt trần công suất.
+
+Mặt còn lại: với khấu hao còn phải trích ít và không cần tái đầu tư lớn, phần lớn lợi nhuận chuyển thành tiền và có thể chia cổ tức.
+
+Khoản phải thu chỉ 106 tỷ — nhỏ, đúng với mô hình thu phí dịch vụ từ các hãng hàng không và công ty giao nhận.
+
 ## Một số lưu ý
 
 - Em chưa có số liệu sản lượng hàng hóa qua ga theo tấn — đó mới là đơn vị đo đúng của doanh nghiệp này. Doanh thu chia cho sản lượng sẽ cho biết biên 78% đến từ giá dịch vụ hay từ khối lượng, và bài này chưa trả lời được.

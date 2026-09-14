@@ -62,6 +62,26 @@ Con số đó rẻ một cách bất thường, và nó chỉ hợp lý nếu th
 
 Với tỷ lệ chi trả cổ tức 65% và chi đầu tư chỉ bằng 80% khấu hao, giả thuyết thứ nhất khó đứng vững — tiền đang được trả về đều đặn. Giả thuyết thứ hai thì đáng cân nhắc: mảng đường chịu chu kỳ giá hàng hóa, còn sữa đậu nành đối mặt cạnh tranh.
 
+## 4.100 người và 16 chi nhánh
+
+Đường Quảng Ngãi có **4.100 nhân viên** và **16 chi nhánh**, hoạt động ở đường, sữa đậu nành, nước khoáng và bánh kẹo.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | **9.510 tỷ** |
+| Hao mòn lũy kế | 6.393 tỷ (**67%**) |
+| Tài sản cố định / nhân viên | **2,3 tỷ** |
+| Xây dựng cơ bản dở dang | 53 tỷ |
+| Hàng tồn kho | 1.366 tỷ |
+
+Nguyên giá **9.510 tỷ** trên 4.100 nhân viên ra 2,3 tỷ đồng mỗi người — mức thâm dụng vốn cao, đúng với doanh nghiệp vừa có nhà máy đường vừa có dây chuyền sữa đậu nành.
+
+Hao mòn **67%** cho biết khối tài sản đang ở giai đoạn sau của vòng đời, và khoản xây dựng cơ bản dở dang chỉ **53 tỷ** — gần như không có đầu tư mở rộng nào đang diễn ra.
+
+Đây là điều cần đọc cùng cơ cấu hai mảng: đường là mảng có biên phụ thuộc giá hàng hóa, sữa đậu nành là mảng tiêu dùng có thương hiệu và biên ổn định hơn.
+
+Với khấu hao còn phải trích ngày càng nhỏ, biên lợi nhuận những năm tới được lợi — nhưng năng lực sản xuất thì không tăng thêm.
+
 ## Một số lưu ý
 
 - Em chưa tách được doanh thu và biên theo từng mảng — sữa đậu nành, đường, bia, bánh kẹo. Đây là hạn chế lớn, vì bốn mảng này có kinh tế học và chu kỳ hoàn toàn khác nhau; biên hợp nhất 33% có thể che giấu một mảng rất tốt và một mảng đang lỗ.

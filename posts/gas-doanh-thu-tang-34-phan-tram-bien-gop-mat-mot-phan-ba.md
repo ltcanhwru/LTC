@@ -52,6 +52,25 @@ Dòng tiền cũng tốt: tỷ lệ tiền thuần từ kinh doanh trên lợi n
 
 Năm 2024, GAS trả **13.872 tỷ cổ tức** trên 10.590 tỷ lợi nhuận — 131%, rút bớt từ kho tiền.
 
+## 2.920 người vận hành 65.102 tỷ tài sản
+
+PV GAS thu gom, vận chuyển, lưu trữ, chế biến và kinh doanh khí, với **2.920 nhân viên** và **9 chi nhánh**.
+
+| Chỉ số cuối 2025 | Giá trị | Trên mỗi nhân viên |
+|---|---:|---:|
+| Nguyên giá tài sản cố định | **65.102 tỷ** | **22,3 tỷ** |
+| Hao mòn lũy kế | 49.528 tỷ (**76%**) | |
+| **Xây dựng cơ bản dở dang** | **2.877 tỷ** | |
+| **Phải thu khách hàng** | **20.895 tỷ** | 7,2 tỷ |
+
+Hai con số quyết định cách đọc doanh nghiệp này.
+
+**Hao mòn lũy kế chiếm 76% nguyên giá.** Hệ thống đường ống, kho chứa và nhà máy xử lý khí đã khấu hao gần hết. Đó là lý do biên lợi nhuận giữ được ở mức cao dù giá khí biến động: phần chi phí cố định lớn nhất đã trả xong.
+
+Mặt còn lại: khoản **2.877 tỷ đang xây dở** là nhỏ so với nguyên giá 65.102 tỷ. Chưa có khối năng lực mới đáng kể nào đang hình thành, trong khi tài sản hiện hữu đang già đi.
+
+Dòng thứ ba đáng chú ý riêng: **phải thu khách hàng 20.895 tỷ** — bằng 32% nguyên giá toàn bộ tài sản cố định, và tương đương 7,2 tỷ đồng trên mỗi nhân viên. Với một doanh nghiệp bán khí cho các nhà máy điện và đạm, đây là công nợ tập trung ở vài khách hàng lớn.
+
 ## Định giá
 
 Ở giá 82.900 đồng: P/E 15,7, P/B 2,91, cổ tức 2,5%. Giá tăng 34% trong một năm.

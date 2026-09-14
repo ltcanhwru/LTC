@@ -53,6 +53,27 @@ Và vốn chủ sở hữu chỉ chiếm **4,7% tổng tài sản** — cũng th
 
 CIR thì đang cải thiện: 82% → 83% → 60% → **46%**. Nhưng con số 46% này tính trên tổng thu nhập đã có 7.223 tỷ khoản một lần; trên thu nhập điều chỉnh, CIR là **122%**.
 
+## 5.755 người, chi phí cao và lợi nhuận thứ 24
+
+PCB có **5.755 nhân viên**.
+
+| Chỉ số 2025 | PCB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 26,4 tỷ | 48,1 tỷ | 25/28 |
+| TOI / nhân viên | 2.007 tr | 2.518 tr | 17/28 |
+| **Chi phí hoạt động / nhân viên** | **918 tr** | — | **cao thứ năm** |
+| **LNTT / nhân viên** | **296 tr** | 1.203 tr | **24/28** |
+
+Đây là tổ hợp bất thường: chi phí hoạt động trên mỗi nhân viên **918 triệu** — cao thứ năm trong 28 ngân hàng, trên cả ACB (800) và SHB (782) — trong khi dư nợ trên mỗi người chỉ 26,4 tỷ, đứng thứ 25.
+
+Ngân hàng chi ở mức của nhóm dẫn đầu nhưng cho vay ở mức của nhóm cuối.
+
+Kết quả là lợi nhuận trên mỗi nhân viên 296 triệu, đứng thứ 24 — bằng một phần tư mức bình quân ngành.
+
+Điều này bổ sung trực tiếp cho nội dung chính của bài: khi một năm có thu nhập lãi âm và 7.223 tỷ đến từ thu nhập khác, cấu trúc chi phí vẫn phải trả đủ.
+
+Cũng như MSB và NVB, **PCB không công bố tỷ lệ nợ xấu và tỷ lệ bao phủ** trong bộ dữ liệu em dùng — nên phần chất lượng tài sản của ngân hàng này vẫn là khoảng trống.
+
 ## Định giá
 
 P/E **4,9**, P/B **0,59**. Vốn hóa 7.615 tỷ. Thanh khoản 3,8 tỷ đồng mỗi phiên. Sàn UPCOM.
@@ -72,7 +93,7 @@ Nếu tính trên hoạt động thường xuyên, ngân hàng đang lỗ. Ở g
 - **Không có thông tin về tiến trình tái cơ cấu**, số dư trái phiếu đặc biệt, hay các khoản phải thu tồn đọng. Với một ngân hàng có hình dạng tài chính như thế này, đó là những con số quan trọng hơn toàn bộ bảng kết quả kinh doanh.
 - Giả thuyết rằng 7.223 tỷ "thu nhập khác" là thu hồi nợ hoặc xử lý tài sản tồn đọng là suy luận theo thông lệ ngành; chưa xác nhận bằng thuyết minh. Nếu nó là khoản khác, cách đọc cả bài sẽ thay đổi.
 - Nguyên nhân thu nhập lãi thuần âm 233 tỷ năm 2023 chưa xác định được.
-- **Không có tỷ lệ nợ xấu nhóm 3–5.**
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Dữ liệu quý của PCB trong nguồn này không đầy đủ, nên bài chỉ dựa trên số cả năm.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.
 - Không có hệ số an toàn vốn CAR — với vốn chủ chỉ 4,7% tổng tài sản, đây là thông tin quan trọng nhất còn thiếu.

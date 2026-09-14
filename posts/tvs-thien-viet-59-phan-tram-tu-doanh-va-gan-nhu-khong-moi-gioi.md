@@ -50,6 +50,28 @@ Hình dạng đó gợi ý danh mục không phải cổ phiếu giao dịch ng�
 
 Nếu vậy, "lãi tự doanh" ở đây gần với thu nhập từ đầu tư hơn là lãi giao dịch.
 
+## 122 người
+
+Chứng khoán Thiên Việt có **122 nhân viên** và **1 chi nhánh**.
+
+| Chỉ số 2025 | TVS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | **8.258 tr** | 6.520 tr | **9/36** |
+| **Dư nợ margin / nhân viên** | **3,7 tỷ** | 21,2 tỷ | **30/36** |
+| **LNTT / nhân viên** | **2.894 tr** | 2.988 tr | **7/36** |
+
+Bảng này mô tả gọn mô hình Thiên Việt.
+
+Dư nợ margin trên mỗi nhân viên **3,7 tỷ** đứng thứ 30 — công ty gần như không cho vay, đúng như bài đã nêu: 451 tỷ dư nợ trên vốn chủ 2.939 tỷ.
+
+Nhưng lợi nhuận trên mỗi người **2.894 triệu** lại đứng thứ bảy toàn ngành.
+
+Với 122 nhân viên — ít thứ năm trong ngành — công ty tạo ra 1.007 tỷ doanh thu và 353 tỷ lợi nhuận trước thuế.
+
+Nguồn của năng suất đó là tự doanh: 59% doanh thu. Đây là hoạt động không cần nhân sự tỷ lệ thuận với vốn, nên một đội ngũ nhỏ quản lý được danh mục lớn.
+
+Mặt còn lại là điều bài đã nêu: kết quả phụ thuộc vào thị trường chứ không vào khách hàng, và không có dòng doanh thu định kỳ nào đỡ khi danh mục xấu.
+
 ## Định giá
 
 P/E **18,2**, P/B **1,20**, ROE **7%**. Vốn hóa 3.572 tỷ. Thanh khoản **2,0 tỷ đồng mỗi phiên**.

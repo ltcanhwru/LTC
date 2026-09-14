@@ -70,6 +70,26 @@ ROE 8–11% là mức thấp — thấp hơn TCX (15%), VCK (19%), VPX (18%), VI
 
 Lý do là số học: để cho vay thêm, công ty phải liên tục phát hành cổ phiếu, và phần vốn mới cần thời gian để sinh lời.
 
+## 667 người và 42,2 tỷ dư nợ mỗi người
+
+HSC có **667 nhân viên** và **2 chi nhánh**.
+
+| Chỉ số 2025 | HCM | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| **Dư nợ margin / nhân viên** | **42,2 tỷ** | 21,2 tỷ | **3/36** |
+| Doanh thu / nhân viên | 7.700 tr | 6.520 tr | 8/36 |
+| LNTT / nhân viên | 2.210 tr | 2.988 tr | 13/36 |
+
+Dư nợ margin trên mỗi nhân viên **42,2 tỷ** — gấp đôi mức bình quân ngành và cao thứ ba, sau VIX và TCX.
+
+Con số này nhất quán với nội dung chính của bài: 47% doanh thu đến từ cho vay margin. Khi gần một nửa doanh thu là hoạt động cho vay, số người cần để tạo ra nó ít hơn hẳn so với mô hình môi giới.
+
+Nhưng lợi nhuận trên mỗi nhân viên **2.210 triệu** lại thấp hơn bình quân ngành và đứng thứ 13.
+
+Khoảng cách giữa vị trí 3 ở dư nợ và vị trí 13 ở lợi nhuận cho biết: HSC cho vay nhiều trên mỗi đầu người, nhưng phần chênh lệch lãi giữ lại được thì mỏng hơn các công ty cùng nhóm.
+
+Với 28.150 tỷ dư nợ margin trên vốn chủ 14.543 tỷ, công ty đang ở tỷ lệ **1,94 lần** — sát trần quy định 2 lần. Đó là ràng buộc thật: muốn cho vay thêm phải tăng vốn, và vốn mới sẽ pha loãng lợi nhuận trên mỗi cổ phần trước khi kịp sinh lời.
+
 ## Định giá
 
 P/E **26,0**, P/B **2,42**. Vốn hóa 34.424 tỷ. Thanh khoản 105 tỷ đồng mỗi phiên.

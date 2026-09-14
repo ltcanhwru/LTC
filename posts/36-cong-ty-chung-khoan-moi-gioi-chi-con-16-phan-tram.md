@@ -93,6 +93,58 @@ Sau đó phân hóa: những công ty sống bằng margin (TCX, VCK, HCM, SSI) 
 
 Đây là bài kiểm tra tự nhiên cho chất lượng mô hình kinh doanh, và nó vừa diễn ra xong.
 
+## 13.848 người, và so sánh với ngân hàng
+
+Ba mươi sáu công ty chứng khoán niêm yết có **13.848 nhân viên**.
+
+Con số đó đáng đặt cạnh ngành ngân hàng:
+
+| | 36 công ty chứng khoán | [28 ngân hàng](post.html?p=28-ngan-hang-khoang-trong-13-trieu-ty) | Tỷ lệ |
+|---|---:|---:|---:|
+| Nhân viên | **13.848** | **297.723** | 1 : 21,5 |
+| Dư nợ cho vay | 294.064 tỷ | 14.312.000 tỷ | 1 : 48,7 |
+| Lợi nhuận trước thuế | 41.382 tỷ | 358.000 tỷ | 1 : 8,7 |
+| **LNTT / nhân viên** | **2.988 triệu** | **1.203 triệu** | **2,5 lần** |
+
+Ngành chứng khoán dùng **1/21 số lao động** của ngành ngân hàng để làm ra **1/9 lợi nhuận**.
+
+Mỗi nhân viên công ty chứng khoán tạo ra **2.988 triệu đồng lợi nhuận trước thuế** — gấp 2,5 lần mức bình quân ngân hàng, và cao hơn cả Techcombank (2.513 triệu), ngân hàng năng suất nhất.
+
+Lý do nằm ở bản chất hai mô hình. Cho vay margin không cần chi nhánh, không cần thẩm định tín dụng phức tạp, không cần bộ máy huy động tiền gửi: tài sản bảo đảm là cổ phiếu niêm yết, giá cập nhật từng phút, và có thể bán giải chấp tự động.
+
+Đó là hoạt động cho vay được tự động hóa gần như hoàn toàn — và nó giải thích vì sao dư nợ margin trên mỗi nhân viên (21,2 tỷ) chỉ bằng 44% mức của ngân hàng (48,1 tỷ) nhưng lợi nhuận trên mỗi người lại gấp 2,5 lần.
+
+## Và khoảng cách bên trong ngành còn lớn hơn
+
+| Mã | Nhân viên | Doanh thu / NV | Margin / NV | **LNTT / NV** |
+|---|---:|---:|---:|---:|
+| **VIX** | **84** | 98.561 tr | **183,1 tỷ** | **79.964 tr** |
+| **TCX** | 590 | **19.013 tr** | 74,3 tỷ | **12.049 tr** |
+| VPX | 815 | 9.706 tr | 41,8 tỷ | 5.492 tr |
+| SHS | 392 | 9.359 tr | 23,2 tỷ | 4.208 tr |
+| VCI | 442 | 11.267 tr | 36,6 tỷ | 3.686 tr |
+| SSI | 1.637 | 7.899 tr | 23,8 tỷ | 3.105 tr |
+| HCM | 667 | 7.700 tr | 42,2 tỷ | 2.210 tr |
+| VND | 979 | 6.783 tr | 14,6 tỷ | 2.562 tr |
+| **VCK** | **1.977** | 4.178 tr | 11,4 tỷ | 2.262 tr |
+| FTS | 505 | 2.388 tr | 16,3 tỷ | 1.011 tr |
+| PHS | 382 | 1.621 tr | 10,8 tỷ | 306 tr |
+| **BVS** | **1.438** | **766 tr** | 3,2 tỷ | **184 tr** |
+| SBS | 79 | 1.766 tr | 6,4 tỷ | **−486 tr** |
+| APS | 53 | 3.418 tr | 3,3 tỷ | **−750 tr** |
+
+Bỏ VIX sang một bên, khoảng cách vẫn là **25 lần**: Chứng khoán Kỹ Thương làm ra 19.013 triệu doanh thu trên mỗi nhân viên, Bảo Việt làm ra 766 triệu.
+
+Hai trường hợp ở hai đầu đáng đọc kỹ.
+
+**BVS có 1.438 nhân viên** — đông thứ hai toàn ngành, chỉ sau VPS — nhưng doanh thu chỉ 1.101 tỷ. Lợi nhuận trên mỗi người 184 triệu, thấp nhất trong nhóm có lãi. Đây là bộ máy được xây cho một quy mô kinh doanh lớn hơn nhiều so với quy mô hiện tại.
+
+**VPS có 1.977 nhân viên** — đông nhất ngành — và giữ thị phần môi giới lớn nhất. Nhưng doanh thu trên mỗi người 4.178 triệu chỉ bằng 22% Chứng khoán Kỹ Thương. Thị phần môi giới được mua bằng nhân sự và bằng phí thấp, và bảng này cho thấy cái giá của nó.
+
+Riêng **VIX cần đọc rất thận trọng**: 84 nhân viên cho 15.380 tỷ dư nợ margin và 8.279 tỷ doanh thu là con số bất thường ở mọi khía cạnh. Nhiều khả năng đây là số lao động của riêng công ty mẹ hoặc số liệu đã cũ; em không dùng nó để kết luận.
+
+Hai công ty có lợi nhuận âm trên mỗi nhân viên: SBS (−486 triệu) và APS (−750 triệu).
+
 ## Một số lưu ý
 
 - **Không có thị phần môi giới** của từng công ty. Đây là chỉ số cạnh tranh quan trọng nhất của ngành và nó không nằm trong báo cáo tài chính.

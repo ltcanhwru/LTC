@@ -68,6 +68,27 @@ Hàng tồn kho giảm nhẹ và ổn định ở mức 4.019–4.740 tỷ — c
 
 Khoản người mua trả tiền trước giảm từ 2.402 xuống 1.201 tỷ — đi đúng chiều với doanh thu.
 
+## 8.405 người và 1.327 hecta
+
+Viglacera có **8.405 nhân viên** — đông thứ tư trong nhóm — và đã triển khai **1.327 ha** khu công nghiệp, bên cạnh mảng sản xuất vật liệu xây dựng.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| **Xây dựng cơ bản dở dang** | **5.912 tỷ** |
+| Hàng tồn kho | 4.019 tỷ |
+| Bất động sản đầu tư | 2.174 tỷ |
+| Tồn kho / nhân viên | **0,5 tỷ** |
+
+Tồn kho trên mỗi nhân viên **0,5 tỷ** là mức rất thấp — thấp hơn mức bình quân ngành mười một lần.
+
+Lý do nằm ở cơ cấu: Viglacera là doanh nghiệp hai mảng. Phần lớn trong 8.405 nhân viên làm ở **sản xuất vật liệu xây dựng** — kính, gạch, sứ vệ sinh — chứ không ở bất động sản.
+
+Đó là mảng cần nhiều lao động và có hàng tồn kho quay vòng nhanh, khác hẳn mô hình giữ đất chờ bán.
+
+Khoản **5.912 tỷ xây dựng cơ bản dở dang** lớn hơn hàng tồn kho — giống IDICO và khác các chủ đầu tư nhà ở. Đây là hạ tầng khu công nghiệp đang xây, sẽ cho thuê chứ không bán.
+
+Vì cấu trúc hai mảng này, mọi so sánh Viglacera với các doanh nghiệp bất động sản thuần đều cần thận trọng: biên gộp, vòng quay tồn kho và số nhân viên đều bị trộn giữa hai ngành.
+
 ## Định giá
 
 P/E **12,9**, P/B **2,48**, ROE **12%**. Vốn hóa 18.382 tỷ. Thanh khoản 13 tỷ đồng mỗi phiên.

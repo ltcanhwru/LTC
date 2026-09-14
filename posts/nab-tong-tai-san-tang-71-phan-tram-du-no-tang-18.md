@@ -99,6 +99,32 @@ Lợi nhuận nửa đầu 2026 là 2.518 tỷ, tăng **25%** so với 2.011 t�
 
 Thu nhập lãi thuần hai quý này gần như đi ngang so với cùng kỳ (4.281 so với 4.234 tỷ), trong khi dư nợ đã tăng 18%. CIR xấu đi lên 39–42%.
 
+## 5.586 người
+
+Nam A Bank vận hành **39 chi nhánh** với **5.586 nhân viên**.
+
+| Chỉ số 2025 | NAB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 35,4 tỷ | 48,1 tỷ | 13/28 |
+| TOI / nhân viên | 2.065 tr | 2.518 tr | 14/28 |
+| Chi phí hoạt động / nhân viên | 683 tr | — | |
+| LNTT / nhân viên | 940 tr | 1.203 tr | 15/28 |
+
+Ba thứ hạng đều nằm quanh vị trí 13–15 — đúng giữa bảng.
+
+Dư nợ trên mỗi chi nhánh: **5.067 tỷ**, mức trung bình khá.
+
+Chất lượng tài sản ở nửa dưới:
+
+| | NAB | Bình quân 28 NH |
+|---|---:|---:|
+| Tỷ lệ nợ xấu | **2,33%** | 0,58–3,74% |
+| Tỷ lệ bao phủ | **53%** | 40–258% |
+
+Nợ xấu 2,33% cao thứ mười trong 28 ngân hàng, và bao phủ 53% ở nhóm thấp — gần một nửa số nợ xấu chưa trích lập.
+
+Đây là điều cần đặt cạnh nội dung chính của bài: khi tổng tài sản tăng 71% mà dư nợ chỉ tăng 18%, phần tài sản tăng thêm nằm ngoài hoạt động cho vay; còn phần cho vay hiện có thì có tấm đệm mỏng hơn mặt bằng.
+
 ## Định giá
 
 P/E **5,2**, P/B **0,93**. Vốn hóa 24.179 tỷ. Thanh khoản 14 tỷ đồng mỗi phiên.
@@ -115,7 +141,7 @@ Và nửa đầu 2026 đang xác nhận hướng đó: lợi nhuận tăng 25% n
 
 - **Chưa xác định được mục đích của khối liên ngân hàng 155 nghìn tỷ.** Nó có thể là hoạt động kinh doanh nguồn vốn bình thường, hoặc là số dư tại một thời điểm chốt sổ. Cần thuyết minh và số liệu nhiều quý để phân biệt.
 - Giả thuyết rằng "thu nhập khác" 2.063 tỷ là thu hồi nợ đã xử lý là suy luận theo thông lệ ngành, chưa xác nhận bằng thuyết minh. Việc nó đi cùng chi phí dự phòng tăng 4,7 lần là bằng chứng gián tiếp, không phải trực tiếp.
-- **Không có tỷ lệ nợ xấu nhóm 3–5** — đặc biệt đáng tiếc khi bộ đệm chỉ 1,15% dư nợ.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Con số biên lãi trên dư nợ (4,72%) em tính từ thu nhập lãi thuần chia dư nợ bình quân; đây cũng không phải NIM chuẩn vì mẫu số bỏ qua các tài sản sinh lãi khác.
 - Không có CASA và không có hệ số an toàn vốn CAR.
 - Nguyên nhân hoàn nhập dự phòng 234 tỷ ở quý 1/2026 chưa xác định được.

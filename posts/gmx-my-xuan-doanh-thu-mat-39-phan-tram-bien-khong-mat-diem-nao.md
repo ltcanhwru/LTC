@@ -60,6 +60,28 @@ Quý 1 là quý thấp điểm cả hai năm — đúng nhịp mùa xây dựng.
 
 Nếu nửa cuối 2026 giữ nhịp quý 2, lợi nhuận cả năm sẽ vào khoảng 28–30 tỷ, cao hơn 2025 khoảng 30%. Vẫn còn xa mức 56 tỷ của 2022.
 
+## 352 người và nhà máy đã khấu hao 81%
+
+Gạch ngói Mỹ Xuân có **352 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 150 tỷ |
+| Hao mòn lũy kế | 122 tỷ (**81%**) |
+| Giá trị còn lại | **28 tỷ** |
+| **Xây dựng cơ bản dở dang** | **48 tỷ** |
+| Hàng tồn kho | 27 tỷ |
+
+Hai con số đáng đọc cùng nhau.
+
+Nhà máy hiện tại còn giá trị sổ sách **28 tỷ** sau khi đã khấu hao 81%.
+
+Nhưng khoản **xây dựng cơ bản dở dang 48 tỷ lớn hơn giá trị còn lại của toàn bộ tài sản đang dùng** — bằng 32% nguyên giá.
+
+Nghĩa là doanh nghiệp đang xây một khối năng lực mới lớn hơn những gì còn lại của khối cũ.
+
+Đó là bối cảnh quan trọng cho điều bài đã nêu: doanh thu mất 39% nhưng biên không mất điểm nào. Biên giữ được một phần nhờ khấu hao của tài sản cũ đã gần hết — và khi 48 tỷ kia hoàn thành, khấu hao sẽ quay lại.
+
 ## Định giá
 
 P/E **6,9**, P/B 1,39. Thanh khoản 0,04 tỷ đồng mỗi phiên.

@@ -57,6 +57,27 @@ Nửa đầu 2026: lợi nhuận sau thuế của cổ đông mẹ 123 tỷ so v
 
 Khoản người mua trả tiền trước cũng giảm từ 3.815 (2023) xuống 2.588 tỷ. Với hàng tồn kho 8.678 tỷ, tỷ lệ là 30% — không tệ theo chuẩn ngành, nhưng đang đi xuống.
 
+## 1.014 người và quỹ đất 681 hecta
+
+Nam Long sở hữu **681 ha** quỹ đất, với **1.014 nhân viên**.
+
+| Chỉ số cuối 2025 | NLG |
+|---|---:|
+| Quỹ đất | **681 ha** |
+| Hàng tồn kho | 8.678 tỷ |
+| **Giá trị sổ sách mỗi hecta** | ≈ **12,7 tỷ đồng** |
+| **Đầu tư vào công ty liên kết** | **5.036 tỷ** |
+| Người mua trả tiền trước | 2.588 tỷ |
+| Tỷ lệ đã đặt cọc | **30%** |
+
+Giá trị sổ sách **12,7 tỷ đồng mỗi hecta** cao hơn nhiều so với [Kinh Bắc](post.html?p=kbc-mot-nam-chi-ra-17344-ty-tien) (5,19 tỷ/ha) — điều hợp lý vì Nam Long phát triển nhà ở tại vùng ven đô thị lớn, còn Kinh Bắc phát triển khu công nghiệp ở tỉnh.
+
+Khoản **5.036 tỷ đầu tư vào công ty liên kết** bằng 58% hàng tồn kho. Đây là các dự án Nam Long hợp tác với đối tác nước ngoài, và phần lợi nhuận từ chúng không nằm ở dòng doanh thu.
+
+Đó là đặc điểm cần nhớ khi đọc biên gộp của Nam Long: phần dự án liên doanh không đi qua bảng kết quả kinh doanh hợp nhất.
+
+Tỷ lệ đã đặt cọc **30%** thuộc nhóm khá trong ngành — cao hơn nhiều so với Khang Điền và Phát Đạt.
+
 ## Định giá
 
 P/E **19,4**, P/B **0,96**, ROE **4%**. Vốn hóa 11.982 tỷ. Thanh khoản 54 tỷ đồng mỗi phiên.

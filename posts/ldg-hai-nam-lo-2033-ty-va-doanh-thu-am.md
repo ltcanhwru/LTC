@@ -59,6 +59,27 @@ Riêng năm 2025 thu về **1.908 tỷ** — gấp hơn 20 lần lợi nhuận n
 
 Việc nợ vay giảm 36% cùng lúc phù hợp với cách đọc đó.
 
+## 179 người và quỹ đất trên 400 hecta
+
+LDG có quỹ đất tổng diện tích trên **400 ha**, với **179 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Quỹ đất | **trên 400 ha** |
+| Hàng tồn kho | 865 tỷ |
+| **Tài sản dở dang dài hạn** | **807 tỷ** |
+| Xây dựng cơ bản dở dang | 0 |
+| Người mua trả tiền trước | 471 tỷ |
+| **Tỷ lệ đặt cọc trên tồn kho** | **54%** |
+
+Hàng tồn kho 865 tỷ trên hơn 400 ha quỹ đất ra giá trị sổ sách khoảng **2,2 tỷ đồng mỗi hecta** — mức thấp, phản ánh đất tỉnh chưa đầu tư hạ tầng đầy đủ.
+
+Cùng với 807 tỷ tài sản dở dang dài hạn, tổng tài sản dự án là 1.672 tỷ.
+
+Tỷ lệ đã đặt cọc **54%** trên hàng tồn kho thuộc nhóm cao — nhưng ở quy mô tuyệt đối nhỏ (471 tỷ).
+
+Đây là bối cảnh cho nội dung chính của bài về dòng tiền 1.908 tỷ năm 2025: với tổng tài sản dự án chỉ 1.672 tỷ, khoản tiền về năm đó lớn hơn cả giá trị sổ sách của toàn bộ dự án đang giữ.
+
 ## Định giá
 
 P/E **3,4**, P/B **0,51**, ROE **15%**. Vốn hóa 644 tỷ. Thanh khoản 1,2 tỷ đồng mỗi phiên.

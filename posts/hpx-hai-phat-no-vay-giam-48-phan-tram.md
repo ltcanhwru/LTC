@@ -53,6 +53,29 @@ Khi nợ vay giảm từ 3.318 xuống 1.737 tỷ, chi phí tài chính cũng gi
 
 **Đây là đòn bẩy ngược đang chạy đúng hướng.** Nếu nợ tiếp tục giảm, mỗi 100 tỷ trả bớt sẽ giải phóng khoảng 10 tỷ lợi nhuận.
 
+## 133 người
+
+Hải Phát có **133 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 2.404 tỷ |
+| **Tồn kho / nhân viên** | **18,1 tỷ** |
+| **Đầu tư vào công ty liên kết** | **999 tỷ** |
+| Người mua trả tiền trước | 743 tỷ |
+| **Tỷ lệ đã đặt cọc** | **31%** |
+| Trả trước cho người bán | 1.382 tỷ |
+
+Tồn kho trên mỗi nhân viên **18,1 tỷ** — cao thứ bảy trong 35 doanh nghiệp, tức bộ máy rất gọn so với quy mô dự án.
+
+Tỷ lệ đã đặt cọc **31%** thuộc nhóm khá.
+
+Nhưng dòng cuối bảng đáng chú ý: **trả trước cho người bán 1.382 tỷ** — bằng 58% hàng tồn kho và lớn hơn cả khoản khách hàng trả cho doanh nghiệp.
+
+Nghĩa là Hải Phát đang ứng cho nhà thầu và đối tác nhiều tiền hơn số tiền nhận được từ người mua. Đó là dòng tiền chảy ra trước khi chảy vào, và nó là một phần lý giải áp lực thanh khoản.
+
+Khoản 999 tỷ đầu tư vào công ty liên kết bằng 42% hàng tồn kho — một phần đáng kể hoạt động nằm ngoài doanh thu hợp nhất.
+
 ## Định giá
 
 P/E **9,9**, P/B **0,34**, ROE **3%**. Vốn hóa 1.214 tỷ. Thanh khoản 3,0 tỷ đồng mỗi phiên.

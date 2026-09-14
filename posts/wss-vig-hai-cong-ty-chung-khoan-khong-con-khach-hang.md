@@ -69,6 +69,26 @@ Hai công ty này có cùng một hình dạng, và nó khác mọi công ty kh�
 
 Trong 36 công ty niêm yết, có bốn mã thuộc nhóm này: WSS, VIG, [TVB](post.html?p=tvb-t-cap-97-phan-tram-tu-doanh-va-mot-quy-doanh-thu-am) và [AAS](post.html?p=aas-92-phan-tram-tu-doanh-va-du-no-111-ty) — tất cả đều có dư nợ cho vay dưới 0,1 lần vốn chủ.
 
+## 36 người và 1 tỷ dư nợ
+
+Chứng khoán Phố Wall có **36 nhân viên** — ít nhất trong 36 công ty chứng khoán niêm yết.
+
+| Chỉ số 2025 | WSS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | 2.180 tr | 6.520 tr | 28/36 |
+| **Dư nợ margin / nhân viên** | **0,02 tỷ** | 21,2 tỷ | **36/36** |
+| LNTT / nhân viên | 1.267 tr | 2.988 tr | — |
+
+Dư nợ margin của toàn công ty: **1 tỷ đồng**.
+
+Chia cho 36 nhân viên ra 28 triệu đồng mỗi người — con số này không còn ý nghĩa thống kê. Hoạt động cho vay đã dừng hẳn.
+
+Doanh thu 78 tỷ trên 36 người, và vốn chủ 529 tỷ.
+
+Đây là bảng số xác nhận trực tiếp tiêu đề của bài: một công ty chứng khoán không còn khách hàng. Giấy phép còn, bộ máy tối thiểu còn, nhưng cả ba nghiệp vụ — môi giới, cho vay, bảo lãnh phát hành — đều không còn hoạt động ở quy mô đáng kể.
+
+Phần còn lại là 529 tỷ vốn chủ nằm trong danh mục đầu tư, do 36 người quản lý.
+
 ## Định giá
 
 WSS: P/E **9,9**, P/B **0,56**, ROE 6%. Thanh khoản 0,1 tỷ đồng mỗi phiên.

@@ -72,6 +72,30 @@ Vinhomes là doanh nghiệp bất động sản theo đúng nghĩa: bán nhà, v
 
 Nhưng dòng doanh thu tài chính 29.332 tỷ vẫn rất lớn — bằng 56% lợi nhuận trước thuế. Bảng số tổng hợp không cho biết nó gồm những gì.
 
+## 12.799 người, 27 khu đô thị và 95.922 tỷ đang xây
+
+Vinhomes có **12.799 nhân viên** và đã đưa vào vận hành **27 khu đô thị**.
+
+| Khoản mục cuối 2025 | Giá trị | Trên mỗi nhân viên |
+|---|---:|---:|
+| Hàng tồn kho | **131.415 tỷ** | 10,3 tỷ |
+| **Xây dựng cơ bản dở dang** | **95.922 tỷ** | 7,5 tỷ |
+| Người mua trả tiền trước | **87.603 tỷ** | 6,8 tỷ |
+| Trả trước cho người bán | **67.413 tỷ** | 5,3 tỷ |
+| Bất động sản đầu tư | 24.604 tỷ | |
+
+Ba con số đầu tiên cùng nhau mô tả trọn vẹn mô hình.
+
+**131.415 tỷ hàng tồn kho** là sản phẩm đang xây và đất đã đền bù. **95.922 tỷ xây dựng cơ bản dở dang** là hạ tầng khu đô thị chưa hoàn thành. Cộng lại: **227.337 tỷ** tài sản chưa ghi nhận doanh thu.
+
+Đối ứng là **87.603 tỷ khách hàng đã trả trước** — tức 38% khối tài sản đó đã có người mua và đã thu tiền.
+
+Đây là tỷ lệ cao hơn hẳn mặt bằng ngành. Ở [KDH](post.html?p=kdh-mot-quy-lai-752-ty-voi-doanh-thu-161-ty), khoản người mua trả trước chỉ 648 tỷ trên 23.260 tỷ tồn kho — tức **2,8%**.
+
+Khoản **67.413 tỷ trả trước cho người bán** cũng đáng chú ý: Vinhomes ứng tiền cho nhà thầu ở quy mô gần bằng số tiền khách hàng ứng cho mình.
+
+Với 12.799 nhân viên quản lý 27 khu đô thị đang vận hành cộng với khối đang xây, mỗi người phụ trách khoảng 17,8 tỷ đồng tài sản dự án — cao, nhưng thấp hơn nhiều so với các chủ đầu tư nhỏ hơn vì Vinhomes tự vận hành khâu quản lý đô thị sau bàn giao.
+
 ## Định giá
 
 P/E **7,4**, P/B **2,24**, ROE **31%**. Vốn hóa 591.467 tỷ — lớn thứ hai thị trường sau VIC. Thanh khoản 557 tỷ đồng mỗi phiên.

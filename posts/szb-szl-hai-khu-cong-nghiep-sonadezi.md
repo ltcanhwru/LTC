@@ -77,6 +77,29 @@ Nhưng lợi nhuận của SZB phụ thuộc vào việc ký được hợp đ�
 
 Với cả hai, cách định giá đúng không phải bội số lợi nhuận mà là **giá trị tài sản ròng theo quỹ đất còn lại** — thứ không xuất hiện đầy đủ trên bảng cân đối vì đất được ghi theo giá vốn cũ.
 
+## 97 người và 181 tỷ bất động sản cho thuê
+
+Sonadezi Long Bình có **97 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **97** |
+| Nguyên giá tài sản cố định | 1.015 tỷ |
+| Hao mòn lũy kế | 657 tỷ (**65%**) |
+| **Bất động sản đầu tư** | **181 tỷ** |
+| Xây dựng cơ bản dở dang | **55 tỷ** |
+| **Tài sản cố định / nhân viên** | **10,5 tỷ** |
+
+**10,5 tỷ đồng tài sản cố định trên mỗi nhân viên** — mức cao nhất trong nhóm khu công nghiệp nhỏ của loạt bài.
+
+Với 97 người quản lý hơn nghìn tỷ tài sản, đây là mô hình cho thuê hạ tầng thuần: hợp đồng dài hạn, ít giao dịch, gần như không cần bộ máy bán hàng.
+
+Khoản **181 tỷ bất động sản đầu tư** là nhà xưởng xây sẵn cho thuê — nguồn thu định kỳ bên cạnh cho thuê đất.
+
+Hao mòn 65% cho biết hạ tầng ở giữa đến cuối vòng đời, và **55 tỷ đang xây dở** là phần năng lực mới đang hình thành, bằng 5,4% nguyên giá.
+
+Đây là tỷ lệ khiêm tốn: doanh nghiệp mở rộng chậm, đúng với đặc thù quỹ đất hữu hạn.
+
 ## Một số lưu ý
 
 - Em chưa lấy được diện tích đất thương phẩm còn lại và giá cho thuê mỗi mét vuông của cả hai doanh nghiệp. Đó là hai con số quyết định giá trị và chúng nằm trong tài liệu đại hội cổ đông.

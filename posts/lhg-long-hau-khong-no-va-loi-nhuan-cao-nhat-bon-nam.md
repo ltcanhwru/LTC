@@ -57,6 +57,25 @@ Bảng số cho thấy khoản doanh thu chưa thực hiện ngắn hạn của 
 
 Dù vậy, 58% là mức chấp nhận được — và cao hơn nhiều so với mặt bằng chung của ngành bất động sản (35% cho cả 38 mã, âm 67% nếu bỏ nhóm Vingroup).
 
+## 139 người
+
+Long Hậu có **139 nhân viên**, hoạt động ở hạ tầng và dịch vụ tiện ích khu công nghiệp.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 831 tỷ |
+| **Bất động sản đầu tư** | **712 tỷ** |
+| Xây dựng cơ bản dở dang | 46 tỷ |
+| Người mua trả tiền trước | 29 tỷ |
+
+Cơ cấu tài sản gần cân bằng giữa hàng tồn kho (831 tỷ) và bất động sản đầu tư (712 tỷ).
+
+Đó là đặc trưng của mô hình khu công nghiệp trưởng thành: một phần đất đã cho thuê và hạch toán là bất động sản đầu tư, một phần còn lại chờ cho thuê tiếp.
+
+Khoản xây dựng cơ bản dở dang chỉ **46 tỷ** cho biết doanh nghiệp gần như không còn đầu tư mở rộng. Khác hẳn Sonadezi Châu Đức (3.554 tỷ) hay IDICO (6.752 tỷ).
+
+Với 139 nhân viên, đây là bộ máy rất gọn — nhưng cũng có nghĩa quy mô tăng trưởng bị giới hạn bởi quỹ đất còn lại chứ không bởi năng lực vận hành.
+
 ## Định giá
 
 P/E **4,8**, P/B **0,75**, ROE **15%**. Vốn hóa 1.338 tỷ. Thanh khoản 2,6 tỷ đồng mỗi phiên.

@@ -56,6 +56,29 @@ Nhưng P/E 35 cho một doanh nghiệp không tăng lợi nhuận trong bốn n�
 
 Có một cách giải thích khác, thực tế hơn: **thanh khoản 0,03 tỷ đồng mỗi phiên**. Ba mươi triệu đồng. Ở mức đó, giá không phải kết quả của việc thị trường định giá doanh nghiệp — nó là kết quả của vài lệnh nhỏ. Số P/E 35 có thể chỉ đơn giản là chưa có ai bán.
 
+## 547 người và một bệnh viện
+
+Bệnh viện Tim Tâm Đức có **547 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **547** |
+| Nguyên giá tài sản cố định | 406 tỷ |
+| Hao mòn lũy kế | 256 tỷ (**63%**) |
+| Giá trị còn lại | 150 tỷ |
+| **Tài sản cố định / nhân viên** | **742 triệu đồng** |
+| Hàng tồn kho | 47 tỷ |
+
+Một bệnh viện chuyên khoa tim với **547 nhân viên** và nguyên giá tài sản 406 tỷ.
+
+**742 triệu đồng thiết bị trên mỗi nhân viên** — với y tế, con số này vừa phản ánh máy móc chẩn đoán và phẫu thuật, vừa cho thấy mô hình vẫn chủ yếu dựa vào con người: bác sĩ, điều dưỡng, kỹ thuật viên.
+
+Hao mòn **63%** đặt thiết bị ở giữa đến cuối vòng đời. Với y tế, đây là điểm cần theo dõi hơn ở các ngành khác: thiết bị chẩn đoán lạc hậu ảnh hưởng trực tiếp tới khả năng thu hút bệnh nhân.
+
+Điều bảng số không cho biết — và là chỉ số cốt lõi của một bệnh viện — là **số giường, công suất sử dụng giường và số ca can thiệp mỗi năm**.
+
+Với P/E 35 lần mà bài đã nêu, mức định giá đang tính cho một mô hình dịch vụ có rào cản chuyên môn, không cho khối tài sản 150 tỷ còn lại.
+
 ## Một số lưu ý
 
 - Em không có số giường bệnh, số ca can thiệp tim mạch mỗi năm, và doanh thu bình quân trên mỗi ca. Đây là ba con số đo đúng lõi của một bệnh viện.

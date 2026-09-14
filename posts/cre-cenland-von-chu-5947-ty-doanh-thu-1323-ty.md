@@ -53,6 +53,28 @@ Riêng năm 2022, doanh nghiệp chi ra 2.364 tỷ — trong khi hàng tồn kho
 
 Năm 2025 là năm đầu tiên dương.
 
+## 4.042 người và 691 tỷ hàng tồn kho
+
+Cen Land có **4.042 nhân viên** — đông thứ sáu trong 35 doanh nghiệp.
+
+| Chỉ số cuối 2025 | CRE | Chủ đầu tư điển hình |
+|---|---:|---|
+| Nhân viên | **4.042** | 275–554 |
+| Hàng tồn kho | 691 tỷ | 16.000–153.000 tỷ |
+| **Tồn kho / nhân viên** | **0,2 tỷ** | 48–78 tỷ |
+| Người mua trả tiền trước | **6 tỷ** | |
+| Phải thu khách hàng | 591 tỷ | |
+
+Tồn kho trên mỗi nhân viên **0,2 tỷ** — thấp thứ ba trong nhóm, chỉ trên Khải Hoàn Land và Lideco Sài Gòn.
+
+Cùng với Đất Xanh Services và Khải Hoàn Land, đây là một trong ba doanh nghiệp **môi giới** bị xếp chung bảng với các chủ đầu tư.
+
+Khoản người mua trả tiền trước chỉ **6 tỷ** xác nhận điều đó: doanh nghiệp không bán sản phẩm của chính mình, nên không nhận đặt cọc.
+
+Doanh thu đến từ phí môi giới, và khoản phải thu khách hàng 591 tỷ — gần bằng toàn bộ hàng tồn kho — là phí chưa thu được từ các chủ đầu tư.
+
+Đó là rủi ro đặc trưng của mô hình này: khi chủ đầu tư khó khăn, công ty môi giới vừa mất doanh thu mới vừa khó đòi phần cũ.
+
 ## Định giá
 
 P/E **32,5**, P/B **0,50**, ROE **1%**. Vốn hóa 2.828 tỷ. Thanh khoản 1,7 tỷ đồng mỗi phiên.

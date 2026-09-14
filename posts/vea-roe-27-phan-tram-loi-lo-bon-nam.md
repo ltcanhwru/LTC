@@ -59,6 +59,28 @@ Tổng tài sản 28.377 tỷ, vốn chủ sở hữu 27.041 tỷ — gần như
 
 Cộng lại 20.863 tỷ, bằng 44% vốn hóa 47.586 tỷ. Phần còn lại — nhà xưởng, hàng tồn kho, khoản phải thu của mảng máy động lực và máy nông nghiệp — là phần đang lỗ.
 
+## 716 người và 6.697 tỷ nằm ở công ty liên kết
+
+VEA có **716 nhân viên** và **4 chi nhánh**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| **Đầu tư vào công ty liên kết** | **6.697 tỷ** |
+| Nguyên giá tài sản cố định | 5.572 tỷ |
+| Hao mòn lũy kế | 4.361 tỷ (**78%**) |
+| Giá trị còn lại của tài sản | **1.211 tỷ** |
+| Hàng tồn kho | 1.129 tỷ |
+
+Đây là bảng cân đối giải thích trọn vẹn VEA.
+
+**Khoản đầu tư vào công ty liên kết 6.697 tỷ lớn gấp 5,5 lần giá trị còn lại của toàn bộ tài sản cố định** (1.211 tỷ).
+
+Nghĩa là hoạt động sản xuất máy động lực và máy nông nghiệp — thứ mang tên doanh nghiệp — chỉ còn là phần rất nhỏ. Nhà máy đã khấu hao 78%.
+
+Giá trị thực nằm ở các liên doanh ô tô và xe máy mà VEA góp vốn nhưng không hợp nhất. Doanh thu, sản lượng và chi phí của chúng **không xuất hiện ở bất kỳ dòng nào** trong bảng kết quả kinh doanh; chỉ có một dòng lãi duy nhất.
+
+Hệ quả với người đọc: mọi chỉ số tính trên doanh thu hợp nhất của VEA — biên gộp, vòng quay tài sản, doanh thu trên mỗi nhân viên — đều không mô tả nguồn lợi nhuận thật.
+
 ## Định giá cái gì
 
 Ở giá 35.811 đồng, VEA có P/E 6,2 và P/B 2,00. Cổ tức 13,0% một năm.

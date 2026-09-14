@@ -51,6 +51,27 @@ Hai quý đầu 2026 thì ngược lại: doanh thu thấp hơn quý 4 nhưng l�
 
 Lãi cho vay tăng đều sáu quý: 628 → 1.091 tỷ. Đây là dòng ổn định nhất trong bảng.
 
+## 1.637 người — đông thứ hai ngành
+
+SSI có **1.637 nhân viên** và **6 chi nhánh** tại các thành phố lớn.
+
+| Chỉ số 2025 | SSI | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Nhân viên | **1.637** | 385 | **2/36** |
+| Doanh thu / nhân viên | 7.899 tr | 6.520 tr | 7/36 |
+| Dư nợ margin / nhân viên | 23,8 tỷ | 21,2 tỷ | 8/36 |
+| LNTT / nhân viên | 3.105 tr | 2.988 tr | 6/36 |
+
+SSI có doanh thu lớn nhất ngành (12.931 tỷ) và cũng có bộ máy lớn thứ hai.
+
+Ba thứ hạng về năng suất đều nằm ở vị trí 6–8 — tức trên mức bình quân nhưng không dẫn đầu.
+
+So sánh trực tiếp làm rõ hơn: Chứng khoán Kỹ Thương có 590 người, bằng **36%** SSI, nhưng doanh thu 11.217 tỷ, bằng **87%**. Doanh thu trên mỗi nhân viên của TCX gấp **2,4 lần** SSI.
+
+Đây là cái giá của mô hình đầy đủ nghiệp vụ mà bài đã mô tả bằng "ba chân cân bằng": môi giới, tự doanh và cho vay cùng vận hành thì cần bộ máy lớn hơn nhiều so với công ty chỉ làm hai chân.
+
+Đổi lại, không chân nào chiếm quá bán doanh thu — và đó là lý do SSI ít biến động hơn VIX hay AAS khi một mảng gặp vấn đề.
+
 ## Định giá
 
 P/E **12,7**, P/B **1,60**. Vốn hóa 60.927 tỷ. Thanh khoản **441 tỷ đồng mỗi phiên** — cao thứ hai trong ngành sau VIX.

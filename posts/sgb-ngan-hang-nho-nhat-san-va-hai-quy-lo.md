@@ -55,6 +55,29 @@ Một điểm riêng của Saigonbank: **không phát hành đồng giấy tờ 
 
 Bộ đệm dự phòng: 1,00% → **1,07%** dư nợ, thuộc nhóm mỏng nhất ngành.
 
+## 1.519 người — nhỏ nhất và năng suất thấp nhất ngành
+
+Saigonbank vận hành **33 chi nhánh** với **1.519 nhân viên** — ít nhất trong 28 ngân hàng niêm yết.
+
+| Chỉ số 2025 | SGB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | **14,5 tỷ** | 48,1 tỷ | 27/28 |
+| **TOI / nhân viên** | **647 tr** | 2.518 tr | **28/28** |
+| **Chi phí hoạt động / nhân viên** | **450 tr** | — | thấp thứ hai |
+| **LNTT / nhân viên** | **99 tr** | 1.203 tr | **27/28** |
+
+Thu nhập trên mỗi nhân viên **647 triệu đồng** là thấp nhất trong 28 ngân hàng — bằng **16%** Techcombank (4.124 triệu).
+
+Chi phí 450 triệu mỗi người tuy thấp thứ hai ngành nhưng vẫn ăn **70%** thu nhập. Đó chính là CIR 70% mà bài đã nêu, nhìn từ phía đầu người.
+
+Phần còn lại: **99 triệu đồng lợi nhuận trước thuế mỗi nhân viên mỗi năm**.
+
+Dư nợ trên mỗi chi nhánh **666 tỷ** — thấp thứ hai sau Kienlongbank, và bằng **5%** Vietcombank.
+
+Đây là quy mô dưới ngưỡng mà một ngân hàng thương mại có thể trang trải chi phí cố định của việc làm ngân hàng: tuân thủ, công nghệ, kiểm soát rủi ro và mạng lưới đều có chi phí sàn không co giãn theo quy mô.
+
+Tỷ lệ nợ xấu **2,03%** ở giữa bảng, nhưng tỷ lệ bao phủ thì không có trong bộ dữ liệu em dùng.
+
 ## Định giá
 
 P/E **235,7**, P/B **1,13**. Vốn hóa 4.792 tỷ. Thanh khoản **0,2 tỷ đồng mỗi phiên**. Sàn UPCOM.
@@ -70,7 +93,7 @@ Bảng số không giải thích được. Với một ngân hàng nhỏ, gần 
 ## Một số lưu ý
 
 - Nguyên nhân thu nhập lãi thuần quý 4/2025 chỉ 66 tỷ — bằng một phần ba các quý khác — chưa xác định được. Đây là bất thường lớn nhất trong chuỗi.
-- **Không có tỷ lệ nợ xấu nhóm 3–5.**
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Nguyên nhân dư nợ gần như đứng yên năm 2025 chưa bóc được; có thể là hạn mức tín dụng, có thể là lựa chọn thận trọng.
 - Chưa tách được cơ cấu chi phí hoạt động để biết vì sao CIR lên 70%.
 - Không có CASA và không có hệ số an toàn vốn CAR.

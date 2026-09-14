@@ -46,6 +46,29 @@ Với một doanh nghiệp xây dựng, doanh thu phản ánh tiến độ thi c
 
 Nhưng cũng có thể chỉ là nhịp nghiệm thu. Năm 2025 cũng bắt đầu bằng một quý 1 yếu (514 tỷ) rồi kết thúc bằng quý 4 mạnh nhất chuỗi (707 tỷ).
 
+## 704 người và 401 tỷ đang xây
+
+Đầu tư và Xây dựng Tiền Giang có **704 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 844 tỷ |
+| Hao mòn lũy kế | 523 tỷ (**62%**) |
+| **Xây dựng cơ bản dở dang** | **401 tỷ** |
+| **Hàng tồn kho** | **832 tỷ** |
+| Phải thu khách hàng | 275 tỷ |
+| Bất động sản đầu tư | 16 tỷ |
+
+Doanh nghiệp này có ba khối tài sản lớn gần bằng nhau: 844 tỷ nguyên giá tài sản cố định, **832 tỷ hàng tồn kho**, và **401 tỷ đang xây dở**.
+
+Cấu trúc đó phản ánh mô hình hỗn hợp: vừa xây lắp, vừa sản xuất vật liệu, vừa phát triển bất động sản.
+
+Khoản **401 tỷ xây dựng cơ bản dở dang** bằng 48% nguyên giá tài sản hiện có — tỷ lệ rất cao, cho thấy doanh nghiệp đang đầu tư ở quy mô lớn so với chính mình.
+
+Hàng tồn kho 832 tỷ với một doanh nghiệp có 704 nhân viên là khoản đáng chú ý riêng: nó bao gồm cả vật liệu lẫn bất động sản dở dang, và là nơi phần lớn vốn đang nằm.
+
+Đây là bối cảnh cho con số 415 tỷ tiền và 627 tỷ nợ vay mà bài đã nêu: tiền vay đang chảy vào 401 tỷ xây dở và 832 tỷ tồn kho.
+
 ## Định giá
 
 P/E **6,8**, P/B 1,32. Thanh khoản 0,41 tỷ đồng mỗi phiên — thuộc nhóm khá trong 66 mã.

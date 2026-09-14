@@ -57,6 +57,28 @@ Tiền và đầu tư tài chính 100 tỷ — bằng 23% vốn hóa 428 tỷ. N
 
 Cổ tức chi 34–116% lợi nhuận, không đều.
 
+## 1.082 người và 218 tỷ bất động sản cho thuê
+
+Gỗ Đức Thành có **1.082 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | **139 tỷ** |
+| Hao mòn lũy kế | 93 tỷ (**67%**) |
+| Giá trị còn lại | **46 tỷ** |
+| **Bất động sản đầu tư** | **218 tỷ** |
+| Hàng tồn kho | 63 tỷ |
+
+Đây là điểm đáng chú ý nhất: **bất động sản đầu tư 218 tỷ lớn gấp 4,7 lần giá trị còn lại của toàn bộ nhà máy** (46 tỷ).
+
+Nghĩa là xét theo giá trị sổ sách, tài sản cho thuê của doanh nghiệp lớn hơn nhiều so với tài sản sản xuất.
+
+Với một doanh nghiệp sản xuất đồ gỗ, đó là cấu trúc bất thường và nó có ý nghĩa trực tiếp: một phần đáng kể lợi nhuận đến từ **cho thuê tài sản**, không từ bán hàng.
+
+Điều này giải thích điều bài đã nêu — doanh thu giảm nhưng lợi nhuận tăng: hai nguồn thu có chu kỳ khác nhau, và nguồn cho thuê ổn định hơn.
+
+**128 triệu đồng tài sản sản xuất trên mỗi nhân viên** cũng cho thấy mảng gỗ là mô hình thâm dụng lao động với thiết bị đơn giản.
+
 ## Định giá
 
 P/E **5,7**, P/B 1,20. Thanh khoản 0,12 tỷ đồng mỗi phiên.

@@ -40,6 +40,24 @@ Lãi cho vay thì vẫn tăng đều sáu quý: 57 → 74 tỷ, không quý nào
 
 Phần mất đi nằm ở tự doanh (41 tỷ, thấp nhất từ quý 2/2025) và ở chi phí — doanh thu quý 2/2026 vẫn 148 tỷ nhưng lợi nhuận chỉ 20 tỷ.
 
+## 226 người
+
+Chứng khoán DSC có **226 nhân viên** và **2 chi nhánh**.
+
+| Chỉ số 2025 | DSC | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | 3.075 tr | 6.520 tr | 23/36 |
+| Dư nợ margin / nhân viên | 12,8 tỷ | 21,2 tỷ | 20/36 |
+| LNTT / nhân viên | 1.522 tr | 2.988 tr | 18/36 |
+
+Ba thứ hạng nằm ở nửa dưới bảng nhưng khá đồng đều — không có chỉ số nào lệch hẳn.
+
+Với 226 nhân viên tạo ra 695 tỷ doanh thu và 2.885 tỷ dư nợ margin, đây là quy mô nhỏ nhưng cân đối.
+
+Đặt cạnh nội dung chính của bài — doanh thu gấp 4,2 lần trong ba năm — bảng này cho biết mức tăng đó đi kèm mở rộng bộ máy: năng suất trên mỗi người vẫn dưới trung bình ngành.
+
+Câu hỏi cho những năm tới là liệu doanh thu có tiếp tục tăng nhanh hơn nhân sự hay không. Với dư nợ margin 2.885 tỷ trên vốn chủ 3.027 tỷ — tức **0,95 lần** — công ty còn dư địa đáng kể trước trần 2 lần.
+
 ## Định giá
 
 P/E **11,1**, P/B **0,90**, ROE **9%**. Vốn hóa 2.785 tỷ. Thanh khoản **0,2 tỷ đồng mỗi phiên**.

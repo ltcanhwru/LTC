@@ -47,6 +47,32 @@ Hai hiện tượng cùng lúc — tiền không về và bắt đầu đổ v�
 
 Khấu hao giảm đều từ 64 xuống 34 tỷ trong bốn năm cho thấy tài sản cũ đang khấu hao hết. Với một doanh nghiệp hóa chất, đó vừa là tin tốt về chi phí, vừa là dấu hiệu nhà máy đã cũ.
 
+## 713 người và nhà máy đã khấu hao 96%
+
+Hóa chất Cơ bản Miền Nam có **713 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 1.137 tỷ |
+| Hao mòn lũy kế | **1.093 tỷ** |
+| **Hao mòn / nguyên giá** | **96%** |
+| Giá trị còn lại | **44 tỷ** |
+| Xây dựng cơ bản dở dang | 18 tỷ |
+
+**96%** là tỷ lệ hao mòn cao nhất trong toàn bộ các doanh nghiệp của loạt bài này.
+
+Giá trị còn lại của toàn bộ nhà máy: **44 tỷ đồng** trên nguyên giá 1.137 tỷ.
+
+Điều này có ba hệ quả trực tiếp.
+
+**Chi phí khấu hao gần như bằng không.** Đây là lý do lớn nhất giúp biên lợi nhuận cao — nhưng nó là lợi thế kế toán, không phải lợi thế cạnh tranh.
+
+**Điểm hòa vốn rất thấp.** Doanh nghiệp có thể chịu được giá bán thấp hơn nhiều so với một nhà máy mới xây.
+
+**Nhưng tài sản đã ở cuối vòng đời.** Với khoản xây dựng cơ bản dở dang chỉ 18 tỷ, chưa có gì thay thế. Chi phí bảo dưỡng sẽ tăng, và một khoản đầu tư thay thế lớn là điều sớm muộn.
+
+Khi khoản đó đến, khấu hao sẽ quay lại bảng kết quả kinh doanh ở mức hoàn toàn khác.
+
 ## Định giá
 
 Ở giá 20.850 đồng: P/E 8,6, P/B 1,33, cổ tức 4,8%.

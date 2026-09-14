@@ -89,6 +89,36 @@ Ba dòng cùng đi sai hướng:
 
 Riêng dòng cuối đã gần bằng toàn bộ mức trích của cả năm 2025 (1.422 tỷ). Nếu nhịp này giữ đến hết năm, chi phí dự phòng 2026 sẽ vào khoảng 3.100 tỷ — gấp đôi 2025 và quay lại mức của 2022.
 
+## 10.648 người, năng suất cao hơn quy mô
+
+LPBank vận hành **85 chi nhánh** với **10.648 nhân viên** — bằng một phần ba BIDV.
+
+| Chỉ số 2025 | LPB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 36,8 tỷ | 48,1 tỷ | 12/28 |
+| TOI / nhân viên | 2.055 tr | 2.518 tr | 15/28 |
+| Chi phí hoạt động / nhân viên | **581 tr** | — | rất thấp |
+| **LNTT / nhân viên** | **1.340 tr** | 1.203 tr | **7/28** |
+
+Đây là trường hợp đảo ngược của Sacombank: LPBank đứng thứ 15 ở thu nhập trên mỗi nhân viên nhưng **thứ bảy ở lợi nhuận**.
+
+Toàn bộ khoảng cách tám bậc nằm ở chi phí: **581 triệu đồng mỗi nhân viên**, so với 800 triệu của ACB, 1.045 của MBBank và 1.269 của Techcombank.
+
+LPBank giữ được tỷ lệ chi phí trên thu nhập thấp nhờ mô hình vận hành gọn và mạng lưới thừa hưởng từ hệ thống tiết kiệm bưu điện.
+
+Dư nợ trên mỗi chi nhánh: **4.609 tỷ**.
+
+Chất lượng tài sản ở nhóm khá:
+
+| | LPB | Bình quân 28 NH |
+|---|---:|---:|
+| Tỷ lệ nợ xấu | **1,57%** | 0,58–3,74% |
+| Tỷ lệ bao phủ | **83%** | 40–258% |
+
+Nợ xấu 1,57% thuộc nhóm thấp thứ chín và bao phủ 83% ở nửa trên.
+
+Đặt cạnh phần P/B cao nhất ngành ở dưới, đây là phần bảng số ủng hộ mức định giá đó: hiệu quả chi phí thật, không phải khoản một lần.
+
 ## Định giá
 
 P/E **12,4**, P/B **3,24**. Vốn hóa 139.506 tỷ. Thanh khoản 150 tỷ đồng mỗi phiên.
@@ -105,7 +135,7 @@ Nếu chi phí dự phòng năm 2026 quay về vùng 3.000 tỷ và CIR ở lạ
 
 ## Một số lưu ý
 
-- **Không có tỷ lệ nợ xấu nhóm 3–5** và không có số dư nợ đã xử lý ngoại bảng. Con số thứ hai đặc biệt quan trọng ở đây: toàn bộ lập luận về việc 9.367 tỷ đã được dùng xử lý rủi ro là suy luận từ chênh lệch giữa chi phí trích và số dư, chưa xác nhận bằng thuyết minh.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Không có tỷ lệ thu hồi nợ đã xử lý, nên chưa biết phần nợ xóa đi có quay lại thành thu nhập hay không.
 - Chưa tách được cơ cấu dư nợ theo ngành và theo nhóm khách hàng.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.

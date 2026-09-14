@@ -43,6 +43,28 @@ Mức đó tương đương lãi tiền gửi hoặc lãi cho vay. Nghĩa là ph
 
 Nếu đúng, đây không phải một doanh nghiệp bất động sản đang hoạt động mà là **một khối tài sản tài chính mang tên công ty bất động sản**.
 
+## 28 người và 1.266 tỷ dở dang
+
+Lideco Sài Gòn có **28 nhân viên** — ít nhất trong 35 doanh nghiệp.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **28** |
+| **Hàng tồn kho** | **0** |
+| **Tài sản dở dang dài hạn** | **1.266 tỷ** |
+| Xây dựng cơ bản dở dang | 109 tỷ |
+| Người mua trả tiền trước | 0 |
+
+Hàng tồn kho bằng **không**. Người mua trả tiền trước bằng **không**.
+
+Toàn bộ tài sản dự án nằm ở **1.266 tỷ tài sản dở dang dài hạn** — chi phí phát triển đã bỏ ra nhưng chưa chuyển thành hàng để bán.
+
+Với 28 nhân viên, mỗi người đang phụ trách khoảng 45 tỷ đồng tài sản dở dang.
+
+Đây là trạng thái của một doanh nghiệp chưa bước vào chu kỳ kinh doanh: tiền đã chi vào dự án, nhưng chưa có sản phẩm nào đủ điều kiện bán, và chưa có khách hàng nào đặt cọc.
+
+Mọi chỉ số về doanh thu, biên gộp hay vòng quay hàng tồn kho ở đây đều không có nền để tính.
+
 ## Định giá
 
 P/E **46,2**, P/B **2,85**, ROE **6%**. Vốn hóa 3.147 tỷ. Thanh khoản 1,2 tỷ đồng mỗi phiên. Sàn UPCOM.

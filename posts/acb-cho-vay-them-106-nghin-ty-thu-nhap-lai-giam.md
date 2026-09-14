@@ -84,6 +84,34 @@ Có một tín hiệu tích cực: thu nhập lãi thuần quý 2/2026 là 7.785
 
 Nhưng chi phí dự phòng cũng đang tăng — 1.060 tỷ quý 2/2026 so với 463 tỷ cùng kỳ, gấp 2,3 lần.
 
+## 13.655 người, chi phí thấp hơn nhóm dẫn đầu
+
+ACB có **13.655 nhân viên**.
+
+| Chỉ số 2025 | ACB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 50,3 tỷ | 48,1 tỷ | 8/28 |
+| TOI / nhân viên | 2.475 tr | 2.518 tr | 10/28 |
+| Chi phí hoạt động / nhân viên | **800 tr** | — | thấp hơn nhóm lớn |
+| **LNTT / nhân viên** | **1.431 tr** | 1.203 tr | **6/28** |
+
+ACB đứng thứ mười ở thu nhập trên mỗi nhân viên nhưng thứ sáu ở lợi nhuận.
+
+Khoảng cách bốn bậc đó nằm ở cột chi phí: **800 triệu đồng mỗi nhân viên**, thấp hơn Techcombank (1.269), Vietcombank (1.060), MBBank (1.045) và BIDV (1.014).
+
+Đây là ngân hàng vận hành tiết kiệm nhất trong nhóm sinh lời cao — và nó là lợi thế bền hơn biên lãi, vì chi phí do doanh nghiệp quyết định còn biên lãi thì không.
+
+Chất lượng tài sản ở nhóm trên:
+
+| | ACB | TCB | MBB |
+|---|---:|---:|---:|
+| Tỷ lệ nợ xấu | **1,49%** | 1,12% | 1,29% |
+| Tỷ lệ bao phủ | **78%** | 114% | 94% |
+
+Nợ xấu 1,49% thuộc nhóm thấp, nhưng bao phủ **78%** thì mỏng hơn cả Techcombank lẫn MBBank — tức phần nợ xấu chưa được trích lập còn khoảng 22%.
+
+Đặt cạnh phần trên của bài, đây là điều cần theo dõi: khi dư nợ tăng thêm 106 nghìn tỷ mà thu nhập lãi giảm, tấm đệm mỏng đi làm hẹp dư địa xử lý nếu chất lượng tài sản xấu thêm.
+
 ## Định giá
 
 P/E **8,2**, P/B **1,29**. Vốn hóa 127.988 tỷ. Thanh khoản 169 tỷ đồng mỗi phiên.
@@ -98,7 +126,7 @@ Nhưng sạch mà không tăng thì mức bội số hiện tại khó biện mi
 
 ## Một số lưu ý
 
-- **Không có tỷ lệ nợ xấu nhóm 3–5** — số này nằm ở thuyết minh. Việc chi phí dự phòng năm 2025 gấp đôi năm trước có thể phản ánh chất lượng tài sản xấu đi, hoặc chỉ là chuẩn hóa sau ba năm trích rất thấp; bảng số không phân biệt được.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Không có CASA. Với một ngân hàng bán lẻ như ACB, đây là chỉ số giải thích trực tiếp nhất việc biên lãi rơi 1,30 điểm.
 - Chưa tách được cơ cấu dư nợ giữa cho vay cá nhân và doanh nghiệp, cũng như tỷ trọng cho vay có tài sản bảo đảm.
 - Không có kỳ hạn bình quân của 133.294 tỷ giấy tờ có giá.

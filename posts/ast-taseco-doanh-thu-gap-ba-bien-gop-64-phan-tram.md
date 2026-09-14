@@ -45,6 +45,29 @@ Dòng tiền: tỷ lệ tiền thuần từ kinh doanh trên lợi nhuận bốn
 
 Cổ tức mới bắt đầu trả lại: 0%, 9%, 88%, 71% lợi nhuận — đúng nhịp của một doanh nghiệp vừa qua giai đoạn khó khăn rồi phục hồi.
 
+## 1.847 người và tài sản nhẹ
+
+Taseco Airs có **1.847 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **1.847** |
+| Nguyên giá tài sản cố định | 405 tỷ |
+| **Tài sản cố định / nhân viên** | **219 triệu đồng** |
+| Hao mòn lũy kế | 222 tỷ (**55%**) |
+| Đầu tư vào công ty liên kết | 74 tỷ |
+| Hàng tồn kho | 113 tỷ |
+
+**219 triệu đồng tài sản cố định trên mỗi nhân viên** — mô hình rất nhẹ vốn.
+
+Đây là doanh nghiệp bán lẻ và dịch vụ tại sân bay: cửa hàng, quầy hàng, nhà hàng. Tài sản chính không phải máy móc mà là **quyền thuê mặt bằng trong nhà ga**.
+
+Quyền đó không xuất hiện trên bảng cân đối theo giá trị thật, và nó là thứ quyết định cả doanh thu lẫn rào cản cạnh tranh.
+
+Hao mòn 55% — tài sản ở giữa vòng đời.
+
+Đó là bối cảnh cho điều bài đã nêu: doanh thu gấp ba với biên gộp 64%. Biên cao như vậy chỉ có ở mô hình bán lẻ độc quyền vị trí — và nó tồn tại chừng nào hợp đồng thuê mặt bằng còn hiệu lực.
+
 ## Định giá
 
 P/E 11,8, P/B **5,09**. Thanh khoản 0,31 tỷ đồng mỗi phiên.

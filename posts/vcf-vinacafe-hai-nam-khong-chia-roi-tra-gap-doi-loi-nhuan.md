@@ -51,6 +51,28 @@ Nhưng chú ý cột doanh thu tài chính: từ 26 tỷ mỗi quý năm 2025 r�
 
 Lợi nhuận sau thuế quý 2/2026 là 103 tỷ, thấp hơn 121 tỷ cùng kỳ — dù lợi nhuận cốt lõi chỉ giảm nhẹ. Phần chênh đến từ khoản lãi tiền gửi đã biến mất.
 
+## 245 người và 100 tỷ đang xây
+
+Vinacafé Biên Hòa có **245 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **245** |
+| Nguyên giá tài sản cố định | 985 tỷ |
+| Hao mòn lũy kế | 791 tỷ (**80%**) |
+| **Tài sản cố định / nhân viên** | **4,0 tỷ** |
+| **Xây dựng cơ bản dở dang** | **100 tỷ** |
+| Hàng tồn kho | 373 tỷ |
+| Phải thu khách hàng | 389 tỷ |
+
+**4,0 tỷ đồng tài sản cố định trên mỗi nhân viên** — mức tự động hóa rất cao cho một doanh nghiệp thực phẩm. Dây chuyền cà phê hòa tan gần như không cần lao động thủ công.
+
+Hao mòn **80%**: nhà máy đã khấu hao phần lớn, và đó là một phần lý do biên lợi nhuận cao.
+
+Nhưng **100 tỷ đang xây dở** — bằng 10% nguyên giá — là tỷ lệ đáng kể, cho thấy doanh nghiệp đang đầu tư thay thế hoặc mở rộng năng lực.
+
+Hàng tồn kho 373 tỷ và phải thu 389 tỷ cộng lại lớn hơn giá trị còn lại của tài sản cố định (194 tỷ) nhiều lần — vốn nằm ở hàng và công nợ, không ở nhà máy.
+
 ## Định giá
 
 P/E 16,3, P/B **5,84**. Thanh khoản 0,04 tỷ đồng mỗi phiên trên vốn hóa 7.894 tỷ — tức 0,0005%.

@@ -60,6 +60,29 @@ Nhịp quý cũng vững:
 
 Quý 1/2026 doanh thu cao nhất chuỗi và cao hơn cùng kỳ 5%. Quý 2/2026 lợi nhuận 75 tỷ, hơn 69 tỷ cùng kỳ.
 
+## 1.511 người
+
+Khử trùng Việt Nam có **1.511 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 539 tỷ |
+| Hao mòn lũy kế | 359 tỷ (**67%**) |
+| **Hàng tồn kho** | **860 tỷ** |
+| **Phải thu khách hàng** | **544 tỷ** |
+| Tài sản cố định / nhân viên | 357 triệu đồng |
+| Bất động sản đầu tư | 13 tỷ |
+
+Hàng tồn kho 860 tỷ và phải thu 544 tỷ cộng lại **1.404 tỷ** — gấp **2,6 lần** nguyên giá toàn bộ tài sản cố định.
+
+Đây là cấu trúc của doanh nghiệp phân phối nông dược: mua thuốc bảo vệ thực vật, giữ kho theo mùa vụ, bán cho đại lý với công nợ.
+
+Hệ quả trực tiếp là điều bài đã nêu — lãi gần 1.700 tỷ bốn năm nhưng tiền về một phần năm. Lợi nhuận bị giữ lại trong 1.404 tỷ vốn lưu động thay vì chuyển thành tiền.
+
+Với mô hình này, tăng trưởng doanh thu luôn đi kèm tăng vốn lưu động, nên dòng tiền chỉ dương khi doanh thu ngừng tăng.
+
+Hao mòn 67% và 357 triệu đồng tài sản mỗi nhân viên: phần sản xuất nhỏ so với phần thương mại.
+
 ## Định giá
 
 P/E **5,3**, P/B **1,07**. Thanh khoản 0,09 tỷ đồng mỗi phiên.

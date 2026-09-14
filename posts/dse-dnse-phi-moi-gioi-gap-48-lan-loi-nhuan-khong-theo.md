@@ -57,6 +57,26 @@ Dư địa còn khoảng 2,8 nghìn tỷ theo trần hai lần.
 
 Lãi cho vay tăng đều sáu quý: 104 → 189 tỷ. Đây là dòng ổn định nhất trong bảng.
 
+## 287 người
+
+DNSE có **287 nhân viên**.
+
+| Chỉ số 2025 | DSE | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | 5.080 tr | 6.520 tr | 17/36 |
+| Dư nợ margin / nhân viên | 20,3 tỷ | 21,2 tỷ | 12/36 |
+| LNTT / nhân viên | 1.185 tr | 2.988 tr | 20/36 |
+
+Doanh thu trên mỗi nhân viên 5.080 triệu và dư nợ 20,3 tỷ — cả hai đều xấp xỉ mức bình quân ngành.
+
+Nhưng lợi nhuận trên mỗi người chỉ 1.185 triệu, đứng thứ 20 — thấp hơn nhiều so với vị trí của hai chỉ số đầu.
+
+Khoảng cách đó nhất quán với nội dung chính của bài: phí môi giới gấp 4,8 lần nhưng lợi nhuận không theo. Công ty đang mua thị phần bằng phí thấp, nên doanh thu tăng mà phần giữ lại được thì không.
+
+Với 287 nhân viên cho một mô hình định vị là nền tảng số, quy mô nhân sự không phải vấn đề — bộ máy gọn hơn nhiều so với VPS (1.977) hay VNDirect (979).
+
+Vấn đề nằm ở giá bán dịch vụ, và đó là điều bảng năng suất không giải quyết được.
+
 ## Định giá
 
 P/E **38,8**, P/B **1,72**, ROE **5%**. Vốn hóa 9.336 tỷ. Thanh khoản 12 tỷ đồng mỗi phiên.

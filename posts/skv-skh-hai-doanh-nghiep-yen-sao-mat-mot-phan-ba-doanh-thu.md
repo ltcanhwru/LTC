@@ -77,6 +77,28 @@ Nghĩa là phần doanh thu tăng thêm có biên rất mỏng — có thể là
 
 Cả hai đều có bảng cân đối lành mạnh, dòng tiền tổng thể vượt lợi nhuận, và trả về cổ đông phần lớn những gì kiếm được.
 
+## 1.299 người
+
+Nước giải khát Yến sào Khánh Hòa có **1.299 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 247 tỷ |
+| Hao mòn lũy kế | 144 tỷ (**58%**) |
+| **Tài sản cố định / nhân viên** | **190 triệu đồng** |
+| **Hàng tồn kho** | **390 tỷ** |
+| Xây dựng cơ bản dở dang | 25 tỷ |
+
+Hàng tồn kho **390 tỷ** lớn gấp **1,6 lần** nguyên giá toàn bộ tài sản cố định.
+
+Với sản phẩm yến sào, tồn kho gồm nguyên liệu có giá trị cao trên mỗi đơn vị khối lượng — nên vốn nằm ở hàng nhiều hơn ở dây chuyền.
+
+**190 triệu đồng tài sản cố định mỗi nhân viên** là mức rất thấp: đây là mô hình thâm dụng lao động, với nhiều công đoạn sơ chế thủ công.
+
+Hao mòn 58% đặt dây chuyền ở giữa vòng đời, và 25 tỷ đang xây dở cho thấy vẫn có đầu tư nhỏ.
+
+Đó là bối cảnh cho điều bài đã nêu — mất một phần ba doanh thu: khi doanh thu giảm mà tồn kho 390 tỷ và 1.299 nhân viên không giảm tương ứng, cả vòng quay vốn lẫn biên lợi nhuận đều chịu áp lực.
+
 ## Định giá
 
 SKV ở P/E 7,7 và P/B 1,38. SKH ở P/E 9,7 và P/B 1,65.

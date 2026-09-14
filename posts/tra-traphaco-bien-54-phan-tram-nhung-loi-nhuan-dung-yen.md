@@ -49,6 +49,27 @@ Cổ tức chi 20–76% lợi nhuận, không đều giữa các năm.
 
 ROE tám lần đo từ 2019: 16%, 17%, 20%, 23%, 19%, 17%, 16%, 18% — ổn định nhưng không cao, và đang ở nửa dưới của biên độ.
 
+## 1.546 người
+
+Traphaco có **1.546 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 1.229 tỷ |
+| Hao mòn lũy kế | 830 tỷ (**67%**) |
+| Tài sản cố định / nhân viên | 795 triệu đồng |
+| **Hàng tồn kho** | **563 tỷ** |
+| **Phải thu khách hàng** | **354 tỷ** |
+| Xây dựng cơ bản dở dang | 26 tỷ |
+
+Hàng tồn kho 563 tỷ và phải thu 354 tỷ cộng lại **917 tỷ** — bằng 75% nguyên giá tài sản cố định.
+
+Đây là cấu trúc của doanh nghiệp dược có mạng lưới phân phối rộng tới nhà thuốc: vốn nằm ở hàng trong kênh và công nợ nhiều gần bằng ở nhà máy.
+
+Hao mòn **67%** đặt dây chuyền ở giai đoạn sau của vòng đời, và khoản xây dựng cơ bản dở dang chỉ 26 tỷ — không có chu kỳ đầu tư lớn nào đang diễn ra.
+
+Với ngành dược, điều đó đáng chú ý: tiêu chuẩn sản xuất được nâng định kỳ, và nhà máy không đầu tư sẽ dần mất khả năng tham gia các nhóm đấu thầu chất lượng cao.
+
 ## Định giá
 
 P/E 12,2, P/B 2,20. Thanh khoản 0,11 tỷ đồng mỗi phiên trên vốn hóa 3.076 tỷ.

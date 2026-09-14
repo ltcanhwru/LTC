@@ -60,6 +60,31 @@ Lãi công ty liên kết âm ba năm liền: −113, −79, −4 tỷ.
 
 Với nợ vay 13.514 tỷ ở năm 2022 và lãi suất thị trường khi đó, chi phí tài chính là khoản lớn. Việc doanh nghiệp giảm được nợ xuống 7.420 tỷ là lý do cột này cải thiện.
 
+## 8.433 người — đây là nhà thầu xây dựng
+
+Vinaconex có **8.433 nhân viên** — đông thứ ba trong 35 doanh nghiệp của bài.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 5.657 tỷ |
+| **Tồn kho / nhân viên** | **0,7 tỷ** |
+| **Phải thu khách hàng** | **3.281 tỷ** |
+| **Người mua trả tiền trước** | **3.733 tỷ** |
+| Xây dựng cơ bản dở dang | 1.661 tỷ |
+| Bất động sản đầu tư | 997 tỷ |
+
+Tồn kho trên mỗi nhân viên **0,7 tỷ** — thấp hơn mức bình quân ngành tám lần.
+
+Con số đó cho biết Vinaconex không phải chủ đầu tư bất động sản thuần. Đây trước hết là **nhà thầu xây dựng**, và bảng cân đối phản ánh đúng điều đó.
+
+Hai dòng giữa là đặc trưng của mô hình nhận thầu: **3.281 tỷ phải thu khách hàng** — giá trị công trình đã thi công nhưng chưa được thanh toán — và **3.733 tỷ người mua trả tiền trước**, trong đó phần lớn là tiền tạm ứng theo hợp đồng xây lắp chứ không phải tiền đặt cọc mua nhà.
+
+Với nhà thầu, hai khoản này quay vòng theo tiến độ nghiệm thu từng công trình, không theo chu kỳ bán bất động sản.
+
+Hệ quả: dòng tiền của Vinaconex biến động theo tiến độ thanh toán của chủ đầu tư — một rủi ro khác hẳn rủi ro tồn kho của các mã còn lại trong bài.
+
+Khoản 1.661 tỷ xây dựng cơ bản dở dang và 997 tỷ bất động sản đầu tư là phần doanh nghiệp tự đầu tư, và nó nhỏ so với quy mô 8.433 nhân viên.
+
 ## Định giá
 
 P/E **2,6**, P/B **0,97**, ROE **34%**. Vốn hóa 10.508 tỷ. Thanh khoản 34 tỷ đồng mỗi phiên.

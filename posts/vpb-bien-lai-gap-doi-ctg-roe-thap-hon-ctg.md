@@ -96,6 +96,37 @@ Câu hỏi của cả luận điểm đầu tư nằm ở đó: chi phí dự ph
 
 Xu hướng bốn năm cho thấy đang cải thiện — 51%, 70%, 58%, **45%**. Nhưng vẫn cao gấp gần bốn lần TCB.
 
+## 29.613 người — đông nhất ngành, dư nợ trên mỗi người thấp
+
+VPBank có **29.613 nhân viên**, nhiều nhất trong 28 ngân hàng niêm yết, hơn cả BIDV.
+
+| Chỉ số 2025 | VPB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| **Dư nợ / nhân viên** | **31,9 tỷ** | 48,1 tỷ | **16/28** |
+| Tiền gửi / nhân viên | **21,2 tỷ** | — | **thấp nhất nhóm lớn** |
+| TOI / nhân viên | 2.521 tr | 2.518 tr | 9/28 |
+| Chi phí hoạt động / nhân viên | **629 tr** | — | thấp |
+| LNTT / nhân viên | 1.034 tr | 1.203 tr | 12/28 |
+
+Đây là bảng số kể đúng câu chuyện của VPBank.
+
+Ngân hàng có số nhân viên ngang BIDV nhưng dư nợ trên mỗi người chỉ **31,9 tỷ** — bằng **40%** BIDV.
+
+Nguyên nhân là cơ cấu kinh doanh: mảng cho vay tiêu dùng cần rất nhiều lao động cho một đồng dư nợ — nhân sự bán hàng tại điểm, thẩm định, và thu hồi nợ. Đó cũng là lý do chi phí hoạt động trên mỗi nhân viên chỉ 629 triệu, thấp hơn nhiều so với các ngân hàng cùng quy mô tài sản.
+
+Tiền gửi trên mỗi nhân viên **21,2 tỷ** là mức thấp nhất trong nhóm ngân hàng lớn — nhất quán với tỷ lệ LDR 150% đã nêu ở phần trên.
+
+Cùng cơ cấu đó quyết định chất lượng tài sản:
+
+| | VPB | Bình quân nhóm lớn | Ngành |
+|---|---:|---:|---:|
+| **Tỷ lệ nợ xấu** | **3,33%** | ~1,3% | 0,58–3,74% |
+| **Tỷ lệ bao phủ** | **55%** | ~120% | 40–258% |
+
+Nợ xấu 3,33% cao thứ ba trong 28 ngân hàng, và bao phủ 55% thuộc nửa dưới.
+
+Đây là đánh đổi có chủ đích của mô hình: biên lãi 5,48% cao nhất ngành, đổi lại nợ xấu cao và cần rất nhiều người để vận hành.
+
 ## Định giá
 
 P/E **7,2**, P/B **1,20**. Vốn hóa 213.819 tỷ. Thanh khoản 436 tỷ đồng mỗi phiên.
@@ -109,7 +140,7 @@ Rủi ro nằm ở hai chỗ mà bảng số không trả lời được: LDR 15
 ## Một số lưu ý
 
 - Số liệu là hợp nhất, gồm cả FE Credit và các công ty con. **Em chưa tách được phần ngân hàng mẹ khỏi phần tài chính tiêu dùng** — mà đây chính là biến số giải thích cả biên lãi 5,37% lẫn chi phí dự phòng 25 nghìn tỷ. Đây là hạn chế lớn nhất của bài này.
-- **Không có tỷ lệ nợ xấu nhóm 3–5** và không có số dư nợ tái cơ cấu.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Giả thuyết rằng tỷ lệ dự phòng trên dư nợ giảm là do cơ cấu dịch sang cho vay có tài sản bảo đảm là suy luận, chưa xác nhận bằng thuyết minh.
 - Chưa tách được khoảng trống 316 nghìn tỷ giữa dư nợ và tiền gửi thành các nguồn cụ thể; em chỉ ước từ quy mô giấy tờ có giá và vốn chủ.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.

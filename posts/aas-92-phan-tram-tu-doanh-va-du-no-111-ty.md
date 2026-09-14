@@ -31,6 +31,24 @@ Kết quả: ROE rơi từ khoảng 21% xuống **5%**.
 
 Doanh nghiệp gọi thêm vốn nhưng không dùng nó để mở rộng hoạt động. Ở trần hai lần vốn chủ, AAS có thể cho vay tới **5,3 nghìn tỷ**; thực tế là 111 tỷ.
 
+## 103 người
+
+Chứng khoán SmartInvest có **103 nhân viên**.
+
+| Chỉ số 2025 | AAS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | 5.255 tr | 6.520 tr | 15/36 |
+| **Dư nợ margin / nhân viên** | **1,08 tỷ** | 21,2 tỷ | **34/36** |
+| LNTT / nhân viên | 2.012 tr | 2.988 tr | 16/36 |
+
+Dư nợ margin trên mỗi nhân viên **1,08 tỷ** là mức thấp thứ ba trong 36 công ty — chỉ 111 tỷ dư nợ chia cho 103 người.
+
+Con số này xác nhận trực tiếp nội dung chính của bài: 92% doanh thu đến từ tự doanh, và hoạt động cho vay gần như không tồn tại.
+
+Với 103 nhân viên tạo ra 541 tỷ doanh thu, năng suất ở mức trung bình ngành. Nhưng cấu trúc thì không giống một công ty chứng khoán: không có tệp khách hàng vay, không có dòng phí định kỳ.
+
+Đây thực chất là một công ty đầu tư có giấy phép chứng khoán, và mọi chỉ số nên đọc theo cách đó.
+
 ## Định giá
 
 P/E **16,0**, P/B **0,76**, ROE **5%**. Vốn hóa 2.020 tỷ. Thanh khoản 11 tỷ đồng mỗi phiên. Sàn UPCOM.

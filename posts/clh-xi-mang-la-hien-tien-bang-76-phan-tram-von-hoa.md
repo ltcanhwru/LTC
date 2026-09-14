@@ -71,6 +71,29 @@ Biên gộp dao động từ 7% tới 19% — gần ba lần. Với một nhà m
 
 Điểm tích cực: quý 2/2026 lãi 20 tỷ, hơn cùng kỳ 43%, với biên 18% — quý 2 tốt nhất trong chuỗi.
 
+## 494 người và nhà máy đã khấu hao 91%
+
+Xi măng La Hiên có **494 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | **986 tỷ** |
+| Hao mòn lũy kế | 898 tỷ (**91%**) |
+| **Giá trị còn lại** | **88 tỷ** |
+| **Tài sản cố định / nhân viên** | **2,0 tỷ** |
+| Xây dựng cơ bản dở dang | **0** |
+| Hàng tồn kho | 26 tỷ |
+
+Hao mòn **91%** — nhà máy xi măng nguyên giá 986 tỷ còn giá trị sổ sách **88 tỷ**.
+
+Khoản xây dựng cơ bản dở dang **bằng không**.
+
+Với ngành xi măng — nơi lò nung và dây chuyền nghiền là tài sản đắt và có tuổi thọ dài — tỷ lệ này cho biết nhà máy đã vận hành rất lâu.
+
+Hệ quả trực tiếp là điều bài đã nêu: tiền mặt bằng 76% vốn hóa. Khi khấu hao gần hết và không tái đầu tư, toàn bộ dòng tiền khấu hao tích lại thành tiền trên bảng cân đối thay vì chuyển thành tài sản mới.
+
+Đó là trạng thái tốt cho cổ đông nếu doanh nghiệp chia tiền ra, và là vấn đề nếu tiền nằm yên trong khi nhà máy già đi.
+
 ## Định giá
 
 P/E **5,0**, P/B 1,30. Thanh khoản 0,04 tỷ đồng mỗi phiên.

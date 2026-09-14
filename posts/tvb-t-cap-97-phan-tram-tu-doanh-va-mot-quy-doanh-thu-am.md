@@ -36,6 +36,26 @@ Cùng năm 2022, công ty lỗ trước thuế **319 tỷ** — bằng 37% vốn
 
 Sau năm đó, hoạt động môi giới và cho vay gần như dừng hẳn, và công ty chuyển hoàn toàn sang tự doanh.
 
+## 102 người
+
+Chứng khoán Trí Việt có **102 nhân viên** và **1 chi nhánh**.
+
+| Chỉ số 2025 | TVB | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| **Doanh thu / nhân viên** | **891 tr** | 6.520 tr | **35/36** |
+| **Dư nợ margin / nhân viên** | **0,05 tỷ** | 21,2 tỷ | **36/36** |
+| LNTT / nhân viên | 196 tr | 2.988 tr | — |
+
+Hai con số ở đây gần như bằng không.
+
+Dư nợ margin **5 tỷ đồng** cho toàn công ty — chia cho 102 nhân viên ra 49 triệu đồng mỗi người. Đây là mức thấp nhất tuyệt đối trong 36 công ty chứng khoán niêm yết.
+
+Doanh thu 91 tỷ trên 102 người ra 891 triệu mỗi nhân viên, thấp thứ hai sau Bảo Việt.
+
+Nghĩa là công ty **không còn hoạt động cho vay** và gần như không còn hoạt động môi giới. Với vốn chủ 1.114 tỷ, toàn bộ nằm ở danh mục tự doanh — đúng như bài đã nêu: 97% doanh thu từ tự doanh, và có quý doanh thu âm.
+
+Một công ty chứng khoán giữ giấy phép, giữ 102 nhân viên, nhưng hai trong ba nghiệp vụ cốt lõi đã ngừng.
+
 ## Định giá
 
 P/E **32,1**, P/B **0,63**, ROE **2%**. Vốn hóa 687 tỷ. Thanh khoản gần như bằng không.

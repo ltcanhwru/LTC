@@ -73,6 +73,26 @@ Hai năm trước âm và năm 2025 bằng không.
 
 Với hàng tồn kho chỉ 588 tỷ, khoản thu 1.593 tỷ của năm 2024 không thể đến từ bán hàng thông thường — nhiều khả năng là thu hồi công nợ hoặc một giao dịch lớn. Bảng số tổng hợp không cho biết.
 
+## 730 người
+
+Tập đoàn Thăng Long có **730 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 588 tỷ |
+| **Tồn kho / nhân viên** | **0,8 tỷ** |
+| Xây dựng cơ bản dở dang | 310 tỷ |
+| Đầu tư vào công ty liên kết | 282 tỷ |
+| Người mua trả tiền trước | **21 tỷ** |
+
+Tồn kho trên mỗi nhân viên **0,8 tỷ** — thấp hơn mức bình quân ngành bảy lần.
+
+Với 730 nhân viên nhưng chỉ 588 tỷ hàng tồn kho, đây không phải mô hình chủ đầu tư thuần. Doanh nghiệp hoạt động đa ngành, và phần lớn nhân sự không nằm ở mảng phát triển dự án.
+
+Khoản người mua trả tiền trước **21 tỷ** trên 588 tỷ tồn kho ra tỷ lệ **3,6%** — rất thấp, đúng như bài đã nêu khi so với con số em từng ghi nhầm là 56%.
+
+Chi phí xây dựng cơ bản dở dang 310 tỷ bằng 53% hàng tồn kho, tức có một phần nguồn cung đang hình thành nhưng ở quy mô nhỏ.
+
 ## Định giá
 
 P/E **32,3**, P/B **0,54**, ROE **2%**. Vốn hóa 1.123 tỷ. Thanh khoản 3,8 tỷ đồng mỗi phiên. Sàn HNX.

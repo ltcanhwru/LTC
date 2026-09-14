@@ -50,6 +50,31 @@ Tiền và đầu tư tài chính 476 tỷ — bằng **32% vốn hóa** 1.493 t
 
 Cổ tức chi 17–46% lợi nhuận — thấp so với nhóm, nghĩa là doanh nghiệp đang giữ lại phần lớn.
 
+## 200.000 m³ mỗi ngày với suất đầu tư thấp nhất nhóm
+
+Cấp nước Vinh An có công suất **200.000 m³ mỗi ngày**, với **219 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **200.000 m³/ngày** |
+| Nguyên giá tài sản cố định | 1.068 tỷ |
+| **Suất đầu tư mỗi m³/ngày** | **5,3 triệu đồng** |
+| Hao mòn lũy kế | 638 tỷ (**60%**) |
+| **Xây dựng cơ bản dở dang** | **225 tỷ** |
+| **m³/ngày / nhân viên** | **913** |
+
+Hai con số nổi bật.
+
+**Suất đầu tư 5,3 triệu đồng mỗi m³/ngày là thấp nhất** trong nhóm cấp nước — bằng 36% Viwaco và 51% Đồng Nai.
+
+Và **913 m³/ngày trên mỗi nhân viên** là mức cao nhất nhóm, gấp 1,9 lần Đồng Nai (480) và 1,7 lần Bà Rịa – Vũng Tàu (553).
+
+Hai điều đó cùng nhau cho biết đây là hệ thống vận hành hiệu quả nhất trong nhóm xét theo vốn và theo lao động.
+
+Khoản **225 tỷ xây dựng cơ bản dở dang** — bằng 21% nguyên giá tài sản hiện có — là tỷ lệ cao nhất nhóm, cho thấy doanh nghiệp đang mở rộng công suất trong khi các công ty nước khác thì không.
+
+Đó là điểm phân biệt rõ nhất: cùng ngành, cùng cơ chế giá, nhưng một doanh nghiệp đang đầu tư còn phần còn lại đang thu hoạch.
+
 ## Định giá
 
 P/E 9,3, P/B 1,77. Thanh khoản dưới 10 triệu đồng mỗi phiên.

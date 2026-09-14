@@ -54,6 +54,26 @@ Lợi nhuận lớn hơn doanh thu ở quý 2/2026 — dấu hiệu có khoản 
 
 Nửa đầu 2026: lãi 23 tỷ so với lỗ 32 tỷ cùng kỳ.
 
+## 53 người và lợi nhuận âm sâu nhất ngành
+
+Chứng khoán APEC có **53 nhân viên** và **2 chi nhánh**.
+
+| Chỉ số 2025 | APS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | 3.418 tr | 6.520 tr | — |
+| Dư nợ margin / nhân viên | 3,28 tỷ | 21,2 tỷ | 29/36 |
+| **LNTT / nhân viên** | **−750 tr** | 2.988 tr | **36/36** |
+
+Lợi nhuận trên mỗi nhân viên **âm 750 triệu đồng** — mức thấp nhất trong 36 công ty chứng khoán niêm yết.
+
+Dư nợ margin 174 tỷ trên 53 người ra 3,28 tỷ mỗi người, thuộc nhóm thấp. Hoạt động cho vay gần như không đáng kể so với vốn chủ 771 tỷ.
+
+Doanh thu 181 tỷ trên 53 người ra 3.418 triệu — con số này trông không tệ, nhưng nó không phải doanh thu dịch vụ. Với một công ty có ba trong bốn năm lỗ, doanh thu đến từ danh mục tự doanh, và chi phí tương ứng nằm ở mặt bên kia.
+
+Đây là cấu trúc mà bảng năng suất không mô tả được: khi doanh thu và chi phí cùng đến từ một danh mục đầu tư, chia cho số nhân viên không cho biết điều gì về vận hành.
+
+Điều bảng số **có** cho biết là quy mô: 53 người, 771 tỷ vốn chủ, và bốn năm không tạo ra lợi nhuận tích lũy.
+
 ## Định giá
 
 P/E **21,3**, P/B **0,63**, ROE **3%**. Vốn hóa 498 tỷ. Thanh khoản 2,4 tỷ đồng mỗi phiên. Sàn HNX.

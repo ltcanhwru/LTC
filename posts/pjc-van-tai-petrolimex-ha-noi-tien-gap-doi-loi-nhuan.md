@@ -69,6 +69,26 @@ Nhưng biên gộp rơi về 10%, thấp nhất trong sáu quý. Doanh thu tăng
 
 Nửa đầu 2026 cộng lại: lợi nhuận 28 tỷ so với 16 tỷ cùng kỳ. Tăng 75%.
 
+## 509 người
+
+Vận tải Petrolimex Hà Nội có **509 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 558 tỷ |
+| Hao mòn lũy kế | 439 tỷ (**79%**) |
+| **Giá trị còn lại** | **119 tỷ** |
+| Tài sản cố định / nhân viên | 1,1 tỷ |
+| Xây dựng cơ bản dở dang | 8 tỷ |
+
+Đội xe bồn và tài sản vận tải còn giá trị sổ sách **119 tỷ** trên nguyên giá 558 tỷ.
+
+Hao mòn **79%** với khoản xây dựng cơ bản dở dang chỉ 8 tỷ.
+
+Với doanh nghiệp vận tải, tỷ lệ hao mòn cao là vấn đề thực chứ không chỉ là kế toán: xe bồn có tuổi thọ hữu hạn và phải thay thế, khác với nhà xưởng có thể dùng lâu hơn giá trị sổ sách.
+
+Điều đó cũng giải thích vì sao tiền gấp đôi lợi nhuận như bài đã nêu: khấu hao lớn nhưng chưa phải chi tiền mua xe mới — và khoản chi đó sẽ đến.
+
 ## Định giá
 
 P/E **4,8**, P/B 1,49. Thanh khoản 0,05 tỷ đồng mỗi phiên.

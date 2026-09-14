@@ -60,6 +60,31 @@ ROE tám lần đo từ 2020: 21%, 27%, 35%, 44%, 33%, 23%, 23% — chưa lần 
 
 Đây không phải một doanh nghiệp yếu. Đây là một doanh nghiệp tốt đang nhỏ dần.
 
+## 170 người và công viên đã khấu hao 83%
+
+Công viên nước Đầm Sen có **170 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **170** |
+| Nguyên giá tài sản cố định | 106 tỷ |
+| Hao mòn lũy kế | 88 tỷ (**83%**) |
+| **Giá trị còn lại** | **18 tỷ** |
+| Xây dựng cơ bản dở dang | 3 tỷ |
+| Hàng tồn kho | 2 tỷ |
+
+Toàn bộ công viên nước còn giá trị sổ sách **18 tỷ đồng**.
+
+Hao mòn **83%** trên nguyên giá 106 tỷ, và khoản xây dựng cơ bản dở dang chỉ 3 tỷ.
+
+Đây là mô hình rất đơn giản: một địa điểm cố định, 170 nhân viên, doanh thu từ vé vào cổng.
+
+Chi phí khấu hao gần như đã hết, nên lợi nhuận hiện tại phản ánh gần đúng dòng tiền thực.
+
+Nhưng với ngành giải trí, tài sản cũ là vấn đề thực chứ không chỉ là vấn đề kế toán: trò chơi và hạ tầng xuống cấp làm giảm sức hút, và **3 tỷ đầu tư mỗi năm không đủ để làm mới sản phẩm**.
+
+Đó là ràng buộc mà bảng số nêu rõ hơn bất kỳ chỉ số tài chính nào.
+
 ## Định giá
 
 Ở giá 36.700 đồng: P/E 5,7, P/B 1,29, cổ tức 10,8%. Giá giảm 10% trong một năm và 13% trong ba năm.

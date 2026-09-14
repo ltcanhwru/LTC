@@ -74,6 +74,32 @@ Có một điểm bất thường: CIR quý 4/2025 chỉ **23%** rồi quý 1/20
 
 Nếu lấy trung bình bốn quý gần nhất, CIR khoảng 37% — cao hơn mức 35% của cả năm 2025.
 
+## 7.821 người và 35 chi nhánh
+
+TPBank vận hành **35 chi nhánh** với **7.821 nhân viên**.
+
+| Chỉ số 2025 | TPB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 39,1 tỷ | 48,1 tỷ | 11/28 |
+| TOI / nhân viên | 2.429 tr | 2.518 tr | 11/28 |
+| Chi phí hoạt động / nhân viên | 840 tr | — | |
+| LNTT / nhân viên | 1.180 tr | 1.203 tr | 10/28 |
+
+Ba thứ hạng đều ở quanh vị trí 10–11 — một hồ sơ rất nhất quán, không có điểm mạnh hay điểm yếu nổi bật ở khía cạnh năng suất.
+
+Điểm đáng chú ý nằm ở mạng lưới: dư nợ trên mỗi chi nhánh là **8.738 tỷ**, cao thứ tư trong nhóm có số liệu, chỉ sau ba ngân hàng quốc doanh.
+
+Với 35 chi nhánh, đây là mô hình rất ít điểm vật lý — nhất quán với định hướng ngân hàng số và với nội dung chính của bài về tỷ trọng thu dịch vụ cao nhất ngành.
+
+Chất lượng tài sản ở nhóm khá:
+
+| | TPB | Bình quân 28 NH |
+|---|---:|---:|
+| Tỷ lệ nợ xấu | **1,52%** | 0,58–3,74% |
+| Tỷ lệ bao phủ | **81%** | 40–258% |
+
+Nợ xấu 1,52% thấp thứ chín trong 28 ngân hàng và bao phủ 81% ở nửa trên.
+
 ## Định giá
 
 P/E **5,2**, P/B **0,86**. Vốn hóa 39.253 tỷ. Thanh khoản 84 tỷ đồng mỗi phiên.
@@ -93,7 +119,7 @@ Thứ hai, bộ đệm dự phòng 1,19% thuộc nhóm mỏng nhất ngành, tro
 ## Một số lưu ý
 
 - **Chưa bóc được cơ cấu thu dịch vụ.** Đây là thiếu sót quan trọng nhất của bài: 4.158 tỷ đến từ phí thanh toán, bảo hiểm, hay tư vấn trái phiếu là ba câu chuyện rất khác nhau về độ bền.
-- **Không có tỷ lệ nợ xấu nhóm 3–5** — đặc biệt đáng tiếc với một ngân hàng có bộ đệm chỉ 1,19% dư nợ.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Nguyên nhân CIR nhảy từ 23% (quý 4/2025) lên 46% (quý 1/2026) chưa xác định được.
 - Chưa tách được cơ cấu dư nợ giữa cho vay cá nhân và doanh nghiệp.
 - Không có CASA và không có hệ số an toàn vốn CAR.

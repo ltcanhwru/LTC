@@ -52,6 +52,34 @@ Biên lãi vẫn ở 2,27% — gần như không đổi so với 2,20% của nă
 
 Bộ đệm dự phòng: 1,46% (2022) → **1,40%** (2025). Ổn định, ở mức trung bình ngành.
 
+## 2.930 người, lợi nhuận mỗi người thứ 26
+
+Ngân hàng Bản Việt vận hành **35 chi nhánh** với **2.930 nhân viên**.
+
+| Chỉ số 2025 | BVB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 26,5 tỷ | 48,1 tỷ | 24/28 |
+| **TOI / nhân viên** | **993 tr** | 2.518 tr | **27/28** |
+| Chi phí hoạt động / nhân viên | 583 tr | — | thấp |
+| **LNTT / nhân viên** | **178 tr** | 1.203 tr | **26/28** |
+
+Thu nhập trên mỗi nhân viên **993 triệu** đứng thứ 27 trong 28 ngân hàng — chỉ trên Saigonbank.
+
+Ngân hàng giữ chi phí thấp (583 triệu mỗi người) nhưng nền thu nhập quá mỏng: 993 trừ 583 còn 410 triệu trước dự phòng, và sau dự phòng còn 178 triệu.
+
+Đó chính là con số mà bài đã nêu theo cách khác — chi phí và dự phòng ăn 82% thu nhập.
+
+Chất lượng tài sản ở nhóm cần theo dõi:
+
+| | BVB | Vị trí trong 28 NH |
+|---|---:|---|
+| **Tỷ lệ nợ xấu** | **3,09%** | cao thứ năm |
+| **Tỷ lệ bao phủ** | **45%** | thấp thứ ba |
+
+Nợ xấu 3,09% cao thứ năm và bao phủ 45% thấp thứ ba — hơn một nửa số nợ xấu chưa được trích lập.
+
+Với nền thu nhập 993 triệu mỗi nhân viên, phần trích lập còn thiếu đó khó được hấp thụ mà không ảnh hưởng tới lợi nhuận.
+
 ## Định giá
 
 P/E **9,4**, P/B **0,92**. Vốn hóa 7.305 tỷ. Thanh khoản 6,4 tỷ đồng mỗi phiên.
@@ -65,7 +93,7 @@ Thu nhập lãi thuần tăng 56% trong ba năm cho thấy ngân hàng không th
 ## Một số lưu ý
 
 - Nguyên nhân CIR ở mức 59–80% suốt bốn năm chưa bóc được — đây là câu hỏi quan trọng nhất với BVB và cần cơ cấu chi phí theo khoản mục để trả lời.
-- **Không có tỷ lệ nợ xấu nhóm 3–5.**
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Không có kỳ hạn bình quân của 26.694 tỷ giấy tờ có giá, nên chưa đánh giá được áp lực tái tài trợ — thông tin quan trọng khi tỷ trọng này vừa tăng gấp 3,5 lần trong một năm.
 - Chưa xác định được vì sao thu dịch vụ thuần gần như bằng không năm 2025.
 - Không có CASA và không có hệ số an toàn vốn CAR.

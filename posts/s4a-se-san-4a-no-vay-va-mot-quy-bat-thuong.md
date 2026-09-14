@@ -49,6 +49,29 @@ Năm 2024, khi lợi nhuận thấp nhất, doanh nghiệp vẫn trả cổ tứ
 
 Tiền và đầu tư tài chính 200 tỷ — bằng 15% vốn hóa 1.329 tỷ.
 
+## 63 MW và 52 người
+
+Thủy điện Sê San 4A có tổng công suất **63 MW**, thuộc nhóm nhà máy công suất từ 50 đến 100 MW, với **52 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **63 MW** |
+| Nguyên giá tài sản cố định | 1.398 tỷ |
+| **Suất đầu tư mỗi MW** | **22,2 tỷ đồng** |
+| Hao mòn lũy kế | 707 tỷ (**51%**) |
+| **MW / nhân viên** | **1,21** |
+| Phải thu khách hàng | 118 tỷ |
+
+Hao mòn **51%** — nhà máy đúng giữa vòng đời khấu hao, trẻ hơn phần lớn nhóm thủy điện trong loạt bài.
+
+Nghĩa là còn khoảng một nửa chi phí khấu hao phía trước, và lợi nhuận kế toán những năm tới chưa được hưởng lợi từ việc khấu hao hết như các nhà máy cũ.
+
+Nhưng dòng tiền thì khác: khấu hao là chi phí không chi tiền, nên **tiền thu về mỗi năm cao hơn lợi nhuận báo cáo đáng kể** — đặc điểm chung của mọi nhà máy thủy điện ở giữa vòng đời.
+
+Với 52 nhân viên cho 63 MW, tỷ lệ 1,21 MW mỗi người thuộc nhóm hiệu quả trong bảng so sánh.
+
+Suất đầu tư 22,2 tỷ đồng mỗi MW nằm ở mức trung bình của nhóm.
+
 ## Định giá
 
 P/E 7,5, P/B 2,24, cổ tức 4,8%. Thanh khoản 0,03 tỷ đồng mỗi phiên.

@@ -63,6 +63,28 @@ Dòng tiền: bốn năm lợi nhuận sau thuế 1.141 tỷ, tiền thuần t�
 
 Con số âm đó khớp với việc hàng tồn kho tăng: tiền đi vào hàng.
 
+## 3.756 người và mô hình không có tồn kho
+
+Đất Xanh Services có **3.756 nhân viên** — đông thứ năm trong 35 doanh nghiệp.
+
+| Chỉ số cuối 2025 | DXS | Chủ đầu tư điển hình |
+|---|---:|---|
+| Nhân viên | **3.756** | 275–554 |
+| Hàng tồn kho | 5.113 tỷ | 16.000–153.000 tỷ |
+| **Tồn kho / nhân viên** | **1,4 tỷ** | 48–78 tỷ |
+| Người mua trả tiền trước | 858 tỷ | |
+| Phải thu khách hàng | 1.284 tỷ | |
+
+Đây là doanh nghiệp **môi giới và dịch vụ**, không phải chủ đầu tư — và bảng số phản ánh đúng điều đó.
+
+Tồn kho trên mỗi nhân viên **1,4 tỷ**, bằng 2% Novaland và 2% Khang Điền.
+
+Chi phí chính của mô hình này là **con người**, không phải đất. Doanh thu là phí môi giới, và nó phụ thuộc vào lượng giao dịch trên thị trường chứ không vào quỹ đất sở hữu.
+
+Hệ quả quan trọng: DXS **không chịu rủi ro tồn kho** — khi thị trường đóng băng, doanh nghiệp không gánh chi phí lãi vay trên hàng nghìn tỷ đất. Nhưng cũng **không hưởng phần tăng giá đất** khi thị trường tốt lên.
+
+Đó là lý do mọi so sánh DXS với các chủ đầu tư trong cùng bài đều cần đặt lại nền: hai mô hình có cấu trúc chi phí và chu kỳ hoàn toàn khác nhau.
+
 ## Định giá
 
 P/E **13,4**, P/B **0,48**, ROE **3%**. Vốn hóa 3.127 tỷ. Thanh khoản 13 tỷ đồng mỗi phiên.

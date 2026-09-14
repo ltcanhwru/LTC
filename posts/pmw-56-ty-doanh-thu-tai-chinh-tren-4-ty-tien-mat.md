@@ -46,6 +46,30 @@ Nhưng đó là suy luận, không phải kết luận. 56 tỷ cổ tức trên
 
 Một khả năng khác: lãi từ khoản phải thu dài hạn, hoặc thu nhập từ hợp đồng chuyển nhượng hạ tầng. Ngành nước có những cấu trúc như vậy.
 
+## 69 người và một khoản bất động sản đầu tư
+
+Cấp nước Phú Mỹ có **69 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **69** |
+| Nguyên giá tài sản cố định | 725 tỷ |
+| Hao mòn lũy kế | 320 tỷ (**44%**) |
+| **Xây dựng cơ bản dở dang** | **105 tỷ** |
+| **Bất động sản đầu tư** | **103 tỷ** |
+
+Ba điểm đáng chú ý ở một doanh nghiệp chỉ có 69 nhân viên.
+
+**Hao mòn 44%** là mức thấp nhất trong nhóm cấp nước của loạt bài — hệ thống còn trẻ, còn hơn một nửa vòng đời khấu hao phía trước.
+
+**Khoản 105 tỷ xây dựng cơ bản dở dang** bằng 14% nguyên giá tài sản hiện có — tỷ lệ cao, cho thấy doanh nghiệp đang mở rộng công suất.
+
+Và **103 tỷ bất động sản đầu tư** — khoản mục hiếm gặp ở một công ty cấp nước. Đây là tài sản cho thuê, tạo nguồn thu không phụ thuộc vào giá nước.
+
+Ba con số đó vẽ ra một doanh nghiệp khác với phần còn lại của nhóm: tài sản trẻ, đang đầu tư, và có nguồn thu ngoài ngành chính.
+
+Với 725 tỷ nguyên giá trên 69 nhân viên — **10,5 tỷ đồng mỗi người** — đây cũng là mức thâm dụng vốn cao nhất nhóm nước.
+
 ## Định giá
 
 P/E **15,0**, P/B 2,77. Vốn hóa 1.733 tỷ trên doanh thu chỉ 356 tỷ.

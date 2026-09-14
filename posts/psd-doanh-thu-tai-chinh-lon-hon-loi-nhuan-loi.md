@@ -66,6 +66,27 @@ Doanh thu quý gần gấp đôi so với đầu năm 2025. Tăng trưởng ấy
 
 Đây là cùng một mẫu hình với [DGW](post.html?p=dgw-lai-nam-nam-tien-kinh-doanh-am-ba-nam) — cùng ngành phân phối công nghệ, cùng vấn đề: [tăng trưởng tài trợ bằng vốn bên ngoài](post.html?p=tang-truong-tot-hay-tang-truong-doc-hai).
 
+## 260 người và mô hình phân phối thuần
+
+Dịch vụ Phân phối Tổng hợp Dầu khí có **260 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị | So với tài sản cố định |
+|---|---:|---:|
+| Nguyên giá tài sản cố định | **22 tỷ** | 1 |
+| **Phải thu khách hàng** | **1.471 tỷ** | **67 lần** |
+| **Hàng tồn kho** | **965 tỷ** | **44 lần** |
+| Hao mòn / nguyên giá | 42% | |
+
+Nguyên giá toàn bộ tài sản cố định **22 tỷ đồng**.
+
+Phải thu khách hàng **1.471 tỷ** và hàng tồn kho **965 tỷ** — cộng lại **2.436 tỷ**, gấp **111 lần** tài sản cố định.
+
+Đây là mô hình phân phối thuần ở dạng cực đoan nhất trong loạt bài: doanh nghiệp gần như không sở hữu gì ngoài hàng trong kho và công nợ với khách.
+
+Hệ quả trực tiếp là điều bài đã nêu — doanh thu tài chính lớn hơn lợi nhuận lõi. Khi vốn lưu động là 2.436 tỷ, chi phí và thu nhập tài chính trên khối vốn đó trở thành yếu tố quyết định kết quả, chứ không phải biên gộp trên hàng bán.
+
+Rủi ro cũng nằm đúng ở đó: 1.471 tỷ công nợ với hệ thống bán lẻ và 965 tỷ hàng công nghệ có tốc độ mất giá nhanh.
+
 ## Định giá
 
 Vốn hóa 808 tỷ, P/E 4,2, P/B 0,96 — dưới giá trị sổ sách. Giá tăng 13% trong một năm.

@@ -51,6 +51,24 @@ Nhưng tỷ lệ **1,74 lần** vốn chủ đã ở mức cao — thứ tư tro
 
 Dư địa cho vay thêm còn khoảng 750 tỷ. Muốn tăng tiếp, công ty phải gọi vốn.
 
+## 250 người
+
+Chứng khoán VietinBank có **250 nhân viên** và **2 chi nhánh**.
+
+| Chỉ số 2025 | CTS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | **8.383 tr** | 6.520 tr | **7/36** |
+| Dư nợ margin / nhân viên | 19,9 tỷ | 21,2 tỷ | 13/36 |
+| **LNTT / nhân viên** | **2.859 tr** | 2.988 tr | **8/36** |
+
+Bộ máy 250 người tạo ra 2.096 tỷ doanh thu — doanh thu trên mỗi nhân viên đứng thứ bảy toàn ngành.
+
+Đây là mức năng suất cao, và nó đến từ cùng logic với các công ty chứng khoán thuộc ngân hàng khác: tệp khách hàng và nguồn vốn sẵn có, bộ máy gọn.
+
+Nhưng cần đọc cùng nội dung chính của bài: lợi nhuận rơi từ 271 tỷ xuống 15 tỷ trong ba quý. Năng suất tính trên cả năm 2025 không phản ánh trạng thái của các quý gần nhất.
+
+Với một công ty có 250 nhân viên, chi phí cố định nhỏ nên biên độ chịu đựng khá. Nhưng cũng vì quy mô nhỏ, một mảng gặp vấn đề là ảnh hưởng thấy ngay ở dòng lợi nhuận.
+
 ## Định giá
 
 P/E **15,5**, P/B **2,04**, ROE **14%**. Vốn hóa 5.853 tỷ. Thanh khoản 36 tỷ đồng mỗi phiên.

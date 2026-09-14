@@ -58,6 +58,29 @@ Chuỗi này không nói TMG là doanh nghiệp tốt hay xấu. Nó nói TMG l�
 
 Với loại doanh nghiệp này, P/E thấp ở đỉnh chu kỳ và P/E cao ở đáy chu kỳ là chuyện bình thường, và mua theo P/E là cách sai.
 
+## 1.346 người
+
+Kim loại màu Thái Nguyên có **1.346 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 1.073 tỷ |
+| Hao mòn lũy kế | 841 tỷ (**78%**) |
+| Giá trị còn lại | **232 tỷ** |
+| Tài sản cố định / nhân viên | 797 triệu đồng |
+| Hàng tồn kho | 63 tỷ |
+| Xây dựng cơ bản dở dang | 15 tỷ |
+
+Hao mòn **78%** — thiết bị khai thác và luyện kim đã qua phần lớn vòng đời.
+
+Khoản xây dựng cơ bản dở dang 15 tỷ trên nguyên giá 1.073 tỷ: không mở rộng năng lực.
+
+Đây là điểm cần đặt cạnh điều bài đã nêu — biên gộp đi từ 10% lên 21%. Mức cải thiện đó đến từ giá kim loại, và một phần từ việc khấu hao còn phải trích ngày càng nhỏ.
+
+Với 1.346 nhân viên và 797 triệu đồng tài sản mỗi người, đây là mô hình thâm dụng lao động hơn so với các doanh nghiệp khai khoáng khác trong loạt bài — khai thác và tuyển quặng kim loại màu cần nhiều công đoạn thủ công.
+
+Hàng tồn kho chỉ 63 tỷ: sản phẩm bán ra nhanh, không tích trữ.
+
 ## Định giá
 
 P/E **7,4**, P/B **3,67**. Thanh khoản dưới 10 triệu đồng mỗi phiên — mức mỏng nhất trong nhóm.

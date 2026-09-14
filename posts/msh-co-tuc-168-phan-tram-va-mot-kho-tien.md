@@ -53,6 +53,29 @@ Cổ tức trả 474 tỷ năm 2025, tức 70% lợi nhuận. Chi đầu tư so 
 
 Nợ vay bằng 59% vốn chủ sở hữu — không thấp, nhưng phần lớn là vốn lưu động phục vụ đơn hàng, và được cân bằng bởi 1.620 tỷ tiền mặt.
 
+## 12.033 người
+
+May Sông Hồng có **12.033 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **12.033** |
+| Nguyên giá tài sản cố định | 2.838 tỷ |
+| **Tài sản cố định / nhân viên** | **236 triệu đồng** |
+| Hao mòn / nguyên giá | 55% |
+| Hàng tồn kho | 546 tỷ |
+| **Phải thu khách hàng** | **943 tỷ** |
+
+**236 triệu đồng tài sản cố định mỗi nhân viên** — cùng vùng với [TNG](post.html?p=tng-loi-nhuan-loi-gap-doi-loi-nhuan-bao-cao) (212 triệu), đúng đặc trưng ngành may.
+
+Điểm khác biệt nằm ở dòng cuối: **phải thu khách hàng 943 tỷ lớn gấp 1,7 lần hàng tồn kho**.
+
+Với một doanh nghiệp gia công xuất khẩu, đây là công nợ với các nhãn hàng nước ngoài — thường có kỳ hạn dài và tập trung ở vài khách hàng lớn.
+
+Đó là rủi ro đặc thù của mô hình: mất một khách hàng lớn không chỉ mất doanh thu tương lai mà còn ảnh hưởng tới khoản phải thu đang có.
+
+Hao mòn 55% cho thấy thiết bị ở giữa vòng đời — vẫn đủ mới để duy trì năng suất nhưng đã qua giai đoạn khấu hao nặng nhất.
+
 ## Định giá
 
 Ở giá 30.000 đồng: P/E 5,3, P/B 1,67, cổ tức 16,8%. Giá giảm 5% trong một năm.

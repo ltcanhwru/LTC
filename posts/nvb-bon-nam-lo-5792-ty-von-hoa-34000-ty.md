@@ -67,6 +67,31 @@ CIR xuống 46–47%, cải thiện rõ so với mức 53–64% của năm trư�
 
 Đây là hai quý đầu tiên trong bốn năm mà NCB có lợi nhuận đáng kể.
 
+## 2.296 người và 1 triệu đồng lợi nhuận mỗi người
+
+NCB vận hành **76 điểm giao dịch** với **2.296 nhân viên**.
+
+| Chỉ số 2025 | NVB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 42,5 tỷ | 48,1 tỷ | 10/28 |
+| TOI / nhân viên | 1.197 tr | 2.518 tr | 23/28 |
+| **Chi phí hoạt động / nhân viên** | **890 tr** | — | **cao thứ sáu** |
+| **LNTT / nhân viên** | **1 triệu** | 1.203 tr | **28/28** |
+
+Đây là bảng số mô tả trọn vẹn vấn đề của NCB.
+
+Dư nợ trên mỗi nhân viên **42,5 tỷ** đứng thứ 10 — tức khối lượng cho vay không phải vấn đề.
+
+Nhưng thu nhập trên mỗi người chỉ 1.197 triệu, đứng thứ 23, trong khi chi phí hoạt động **890 triệu** — cao thứ sáu ngành, ngang các ngân hàng lớn.
+
+Sau chi phí và dự phòng, phần còn lại là **1 triệu đồng lợi nhuận trước thuế trên mỗi nhân viên**.
+
+Nói cách khác: ngân hàng cho vay ở quy mô trung bình ngành, tiêu chi phí ở mức nhóm đầu, và không còn gì.
+
+Đây là cùng một sự thật mà bốn năm lỗ 5.792 tỷ đã nói, nhìn từ phía vận hành thay vì phía kết quả.
+
+Cũng như MSB và PCB, **NCB không công bố tỷ lệ nợ xấu và tỷ lệ bao phủ** trong bộ dữ liệu em dùng — và với một ngân hàng đang tái cơ cấu, đây là khoảng trống lớn nhất.
+
 ## Định giá
 
 P/E **129,3**, P/B **2,39**. Vốn hóa 34.218 tỷ. Thanh khoản 6,1 tỷ đồng mỗi phiên. Sàn HNX.
@@ -86,7 +111,7 @@ Bảng số không giải thích được khoảng cách đó. Như với [STB](
 - **Không có thông tin về tiến trình tái cơ cấu**, số dư nợ tồn đọng, hay các khoản phải thu cần xử lý. Với NCB, đó là những con số quan trọng hơn toàn bộ bảng kết quả kinh doanh, và chúng không có trong dữ liệu này.
 - Nguyên nhân thu nhập lãi thuần âm 1.782 tỷ năm 2024 chưa xác định được. Có thể là thoái lãi dự thu quy mô lớn, nhưng đây là suy luận.
 - Nguyên nhân chi phí hoạt động năm 2024 gấp 2,7 lần (1.239 → 3.392 tỷ) cũng chưa bóc được.
-- **Không có tỷ lệ nợ xấu nhóm 3–5.**
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Không có hệ số an toàn vốn CAR — quan trọng nhất với một ngân hàng vừa lỗ gần hết vốn chủ rồi tăng vốn.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.
 - Phần nói về "kỳ vọng ngoài báo cáo tài chính" là suy luận từ khoảng cách định giá, không dựa trên thông tin cụ thể nào.

@@ -95,6 +95,34 @@ Nhưng quý 1/2026 có tổng thu nhập 3.078 tỷ trong khi thu nhập lãi th
 
 Thu nhập lãi thuần quý 1/2026 giảm 43% so với quý 4/2025 và mức 978 tỷ là thấp nhất trong sáu quý — điều khó giải thích khi dư nợ vẫn tăng.
 
+## 3.998 người, và tỷ lệ nợ xấu cao nhất ngành
+
+ABBank vận hành **35 chi nhánh** với **3.998 nhân viên**.
+
+| Chỉ số 2025 | ABB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 28,5 tỷ | 48,1 tỷ | 23/28 |
+| TOI / nhân viên | 2.142 tr | 2.518 tr | 13/28 |
+| Chi phí hoạt động / nhân viên | 750 tr | — | |
+| LNTT / nhân viên | 886 tr | 1.203 tr | 16/28 |
+
+Thu nhập trên mỗi nhân viên 2.142 triệu đứng thứ 13 — khá so với quy mô — nhưng dư nợ trên mỗi người chỉ 28,5 tỷ, đứng thứ 23.
+
+Khoảng cách mười bậc đó nhất quán với nội dung chính của bài: 93% lợi nhuận đến từ một dòng thu nhập không phải cho vay.
+
+Chất lượng danh mục cho vay là điểm đáng lo nhất:
+
+| | ABB | Vị trí trong 28 NH |
+|---|---:|---|
+| **Tỷ lệ nợ xấu** | **3,74%** | **cao nhất ngành** |
+| **Tỷ lệ bao phủ** | **46%** | **thấp thứ hai** |
+
+Tỷ lệ nợ xấu **3,74%** là cao nhất trong 28 ngân hàng niêm yết, và bao phủ **46%** là thấp thứ hai.
+
+Đây là tổ hợp xấu nhất trong toàn ngành: nợ xấu nhiều nhất, tấm đệm gần mỏng nhất.
+
+Biên lãi 1,83% cũng thuộc nhóm thấp nhất. Ba con số này cùng nhau giải thích vì sao lợi nhuận phải dựa vào một nguồn ngoài cho vay — và vì sao nguồn đó quan trọng đến thế.
+
 ## Định giá
 
 P/E **7,1**, P/B **1,22**. Vốn hóa 27.653 tỷ. Thanh khoản 17 tỷ đồng mỗi phiên. Sàn UPCOM.
@@ -111,7 +139,7 @@ Câu hỏi quyết định là dòng thu hồi nợ còn nguồn bao lâu — v�
 
 - **Không có số dư nợ đã xử lý ngoại bảng.** Đây là con số quan trọng nhất còn thiếu: nó cho biết dòng thu nhập khác 3.304 tỷ còn có thể lặp lại bao nhiêu năm nữa.
 - Giả thuyết rằng dòng này là thu hồi nợ đã xử lý là suy luận theo thông lệ hạch toán ngành, chưa xác nhận bằng thuyết minh.
-- **Không có tỷ lệ nợ xấu nhóm 3–5** — đặc biệt đáng tiếc khi bộ đệm chỉ 1,05% dư nợ, thấp nhất ngành.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Nguyên nhân thu nhập lãi thuần quý 1/2026 rơi xuống 978 tỷ chưa xác định được.
 - Nguyên nhân tiền gửi khách hàng tăng 47% trong một năm cũng chưa bóc được.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.

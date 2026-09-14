@@ -54,6 +54,29 @@ Lời giải một phần nằm ở chính cấu trúc lợi nhuận: phần doa
 
 Nhưng nó cũng có nghĩa: **lợi nhuận báo cáo của DVP không chuyển thành tiền mặt tự do với tỷ lệ như con số P/E gợi ý.**
 
+## 429 người và cảng đã khấu hao 86%
+
+Cảng Đình Vũ có **429 nhân viên**, với hoạt động khai thác cảng biển và xếp dỡ chiếm 90% doanh thu.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | **1.350 tỷ** |
+| Hao mòn lũy kế | 1.165 tỷ (**86%**) |
+| **Giá trị còn lại** | **185 tỷ** |
+| Tài sản cố định / nhân viên | 3,1 tỷ |
+| Đầu tư vào công ty liên kết | 103 tỷ |
+| Xây dựng cơ bản dở dang | 1 tỷ |
+
+Hao mòn **86%** — cao nhất trong nhóm cảng biển của loạt bài.
+
+Nguyên giá 1.350 tỷ nhưng giá trị còn lại chỉ **185 tỷ**, và khoản xây dựng cơ bản dở dang **1 tỷ**.
+
+Đây là doanh nghiệp đã hoàn tất chu kỳ đầu tư từ lâu và chưa bắt đầu chu kỳ mới.
+
+Hệ quả kép: chi phí khấu hao rất nhỏ nên biên lợi nhuận cao và dòng tiền mạnh — nhưng cầu bến, bãi và cẩu đều đang ở cuối vòng đời, và một khoản tái đầu tư lớn sẽ thay đổi hoàn toàn cấu trúc chi phí khi nó đến.
+
+Khoản 103 tỷ góp vốn liên kết là phần hoạt động ngoài doanh thu hợp nhất.
+
 ## Định giá
 
 Ở giá 73.800 đồng: P/E 8,1, P/B 2,33, cổ tức 8,1%. Giá tăng 12% trong một năm và 60% trong ba năm.

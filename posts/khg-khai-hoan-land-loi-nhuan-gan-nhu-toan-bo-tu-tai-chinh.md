@@ -58,6 +58,30 @@ Nghĩa là phần lớn tài sản nằm ở nơi khác — các khoản phải 
 
 Bốn năm: lợi nhuận sau thuế 591 tỷ, tiền thuần từ kinh doanh **âm 1.845 tỷ**.
 
+## 5.573 người và 114 tỷ hàng tồn kho
+
+Khải Hoàn Land có **5.573 nhân viên** — đông thứ tư trong 35 doanh nghiệp.
+
+| Chỉ số cuối 2025 | KHG | Chủ đầu tư điển hình |
+|---|---:|---|
+| Nhân viên | **5.573** | 275–554 |
+| **Hàng tồn kho** | **114 tỷ** | 16.000–153.000 tỷ |
+| **Tồn kho / nhân viên** | **0,02 tỷ** | 48–78 tỷ |
+| Người mua trả tiền trước | 2 tỷ | |
+| Xây dựng cơ bản dở dang | 214 tỷ | |
+
+Đây là tỷ lệ thấp nhất trong toàn bộ 35 doanh nghiệp: **20 triệu đồng hàng tồn kho trên mỗi nhân viên**.
+
+Để so sánh, Novaland có 77,6 tỷ — gấp **3.900 lần**.
+
+Con số này xác nhận Khải Hoàn Land là doanh nghiệp **môi giới**, không phải chủ đầu tư. Tài sản chính là đội ngũ bán hàng và mạng lưới, không phải đất.
+
+Với mô hình đó, doanh thu phụ thuộc vào lượng giao dịch của thị trường và vào nguồn hàng từ các chủ đầu tư khác — hai thứ nằm ngoài tầm kiểm soát của doanh nghiệp.
+
+Chi phí thì ngược lại: 5.573 nhân viên là chi phí cố định phải trả bất kể thị trường có giao dịch hay không.
+
+Đó là cấu trúc có đòn bẩy hoạt động rất cao theo cả hai chiều.
+
 ## Định giá
 
 P/E **31,5**, P/B **0,40**, ROE **1%**. Vốn hóa 2.103 tỷ. Thanh khoản 8,4 tỷ đồng mỗi phiên.

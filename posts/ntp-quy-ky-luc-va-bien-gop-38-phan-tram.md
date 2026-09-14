@@ -47,6 +47,29 @@ Biên độ ấy đến từ vốn lưu động: khoản phải thu và hàng t�
 
 Tiền và đầu tư tài chính 3.125 tỷ, bằng 28% vốn hóa. Nợ vay 28% vốn chủ — cao hơn BMP nhiều nhưng vẫn trong vùng an toàn.
 
+## 1.424 người và tài sản trẻ hơn đối thủ
+
+Nhựa Tiền Phong có **1.424 nhân viên**.
+
+| Chỉ số cuối 2025 | NTP | [BMP](post.html?p=bmp-bien-gop-tu-28-len-47-phan-tram) |
+|---|---:|---:|
+| Nhân viên | 1.424 | 1.358 |
+| Nguyên giá tài sản cố định | **3.300 tỷ** | 2.250 tỷ |
+| **Hao mòn / nguyên giá** | **63%** | **88%** |
+| Giá trị còn lại | **1.237 tỷ** | 260 tỷ |
+| Đầu tư vào công ty liên kết | **404 tỷ** | 63 tỷ |
+| Hàng tồn kho | 1.441 tỷ | 525 tỷ |
+
+Hai doanh nghiệp cùng ngành, cùng quy mô nhân sự, nhưng bảng cân đối rất khác nhau.
+
+Nhựa Tiền Phong có nguyên giá tài sản lớn hơn 47% và **giá trị còn lại gấp 4,8 lần** — khối tài sản trẻ hơn hẳn.
+
+Hệ quả: NTP còn phải trích khấu hao nhiều năm nữa, nên biên lợi nhuận kế toán thấp hơn BMP với cùng một mức giá bán. Nhưng năng lực sản xuất thì mới hơn và không sắp phải thay thế.
+
+Hàng tồn kho 1.441 tỷ cũng lớn gấp 2,7 lần BMP — phản ánh mạng lưới phân phối rộng hơn ở phía Bắc và chính sách giữ hàng khác nhau.
+
+Khoản 404 tỷ đầu tư vào công ty liên kết là phần không đi qua doanh thu hợp nhất.
+
 ## Định giá
 
 Ở giá 53.900 đồng: P/E 9,3, P/B 2,54, cổ tức 4,6%.

@@ -56,6 +56,30 @@ Chi đầu tư rất thấp: 3, 0, 7, 6 tỷ so với khấu hao 8–11 tỷ m�
 
 Bảng cân đối thì sạch tuyệt đối: **không có nợ vay**, tiền 273 tỷ trên tổng tài sản 543 tỷ và vốn chủ 489 tỷ.
 
+## 121 người và công suất 1,6 triệu m³ đá mỗi năm
+
+Hóa An có công suất khai thác **1.606.000 m³ mỗi năm**, với **121 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất khai thác | **1.606.000 m³/năm** |
+| Nhân viên | **121** |
+| **m³/năm mỗi nhân viên** | **13.273** |
+| Nguyên giá tài sản cố định | 114 tỷ |
+| **Suất đầu tư mỗi m³/năm công suất** | **71.000 đồng** |
+| Hao mòn lũy kế | 71 tỷ (**63%**) |
+| **Xây dựng cơ bản dở dang** | **31 tỷ** |
+
+Suất đầu tư khoảng **71.000 đồng cho mỗi m³ công suất năm** — con số để đánh giá chi phí mở rộng của một mỏ đá.
+
+Khoản **31 tỷ xây dựng cơ bản dở dang** bằng 27% nguyên giá tài sản hiện có: doanh nghiệp đang đầu tư đáng kể so với quy mô.
+
+Với 121 nhân viên cho 1,6 triệu m³ công suất, mức cơ giới hóa cao.
+
+Nhưng con số quyết định giá trị của một doanh nghiệp khai thác đá lại **không có trên bảng cân đối**: trữ lượng còn lại và thời hạn giấy phép.
+
+Tám năm ROE chưa lần nào dưới 18% như bài đã nêu là thành tích thật — nhưng nó được tạo ra trên một tài sản có hạn sử dụng, và bảng số không cho biết còn lại bao lâu.
+
 ## Định giá
 
 Vốn hóa 766 tỷ, P/E 7,2, P/B 1,58. Giá tăng 11% trong một năm.

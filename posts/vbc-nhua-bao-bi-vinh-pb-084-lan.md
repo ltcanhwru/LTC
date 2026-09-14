@@ -82,6 +82,29 @@ Biên gộp rơi từ 9% xuống 8%, và một điểm phần trăm trên 289 t�
 
 Sáu quý liền lợi nhuận là 7 hoặc 8 tỷ. Doanh thu dao động từ 187 tới 289 tỷ — chênh 55% — mà lợi nhuận không đổi.
 
+## 1.089 người
+
+Nhựa bao bì Vinh có **1.089 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 301 tỷ |
+| Hao mòn lũy kế | 246 tỷ (**82%**) |
+| **Giá trị còn lại** | **55 tỷ** |
+| **Tài sản cố định / nhân viên** | **276 triệu đồng** |
+| Hàng tồn kho | 110 tỷ |
+| Phải thu khách hàng | 171 tỷ |
+
+Giá trị còn lại của toàn bộ dây chuyền: **55 tỷ đồng**.
+
+Hàng tồn kho 110 tỷ và phải thu 171 tỷ — cộng lại **281 tỷ**, gấp hơn năm lần giá trị còn lại của tài sản cố định.
+
+Với mô hình sản xuất bao bì, vốn nằm ở nguyên liệu và công nợ khách hàng nhiều hơn ở máy móc.
+
+Hao mòn **82%** và 276 triệu đồng tài sản mỗi nhân viên: dây chuyền cũ và thâm dụng lao động.
+
+Đây là cấu trúc giải thích P/B 0,84 mà bài đã nêu: thị trường trả dưới giá trị sổ sách cho một doanh nghiệp có tài sản gần hết khấu hao và biên lợi nhuận mỏng.
+
 ## Định giá
 
 P/E **4,8**, P/B **0,84**. Thanh khoản dưới 10 triệu đồng mỗi phiên.

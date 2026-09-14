@@ -57,6 +57,26 @@ Tiền không nằm trong tài khoản và cũng không trả về cổ đông. 
 
 Với cổ đông nhỏ, hệ quả giống nhau: giá trị tăng nhưng không có đường nào nhận được, vì cổ tức gần bằng không và thanh khoản chỉ **0,04 tỷ đồng mỗi phiên**.
 
+## 852 người
+
+Xuất nhập khẩu Sa Giang có **852 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 332 tỷ |
+| **Hao mòn lũy kế** | 170 tỷ (**51%**) |
+| Tài sản cố định / nhân viên | 390 triệu đồng |
+| **Xây dựng cơ bản dở dang** | **44 tỷ** |
+| Hàng tồn kho | 90 tỷ |
+
+Hao mòn **51%** — dây chuyền đúng giữa vòng đời, trẻ hơn phần lớn nhóm thực phẩm trong loạt bài.
+
+Khoản **44 tỷ xây dựng cơ bản dở dang** bằng 13% nguyên giá — tỷ lệ cao với quy mô này, cho thấy doanh nghiệp đang mở rộng năng lực sản xuất.
+
+Hai con số đó cùng nhau phân biệt Sa Giang với các doanh nghiệp thực phẩm đã khấu hao gần hết và ngừng đầu tư.
+
+Với 852 nhân viên và 332 tỷ nguyên giá — 390 triệu đồng mỗi người — đây là mô hình thâm dụng lao động, đúng với chế biến thực phẩm từ gạo.
+
 ## Định giá
 
 P/E **5,7**, P/B 1,43.

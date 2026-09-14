@@ -44,6 +44,31 @@ Thanh khoản: **0,03 tỷ đồng mỗi phiên**, tức khoảng ba mươi tri�
 
 Ở mức đó, một nhà đầu tư muốn xây vị thế 200 triệu đồng sẽ cần khoảng bảy phiên gom liên tục, và việc bán ra cũng mất chừng ấy thời gian — với điều kiện có người mua.
 
+## 16,5 MW và hồ chứa 290 triệu m³
+
+Thủy điện Nước Trong có công suất **16,5 MW**, thuộc nhóm thủy điện nhỏ dưới 30 MW, với hồ chứa dung tích gần **290 triệu m³** và **36 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **16,5 MW** |
+| Dung tích hồ | **≈ 290 triệu m³** |
+| Nguyên giá tài sản cố định | 396 tỷ |
+| **Suất đầu tư mỗi MW** | **24,0 tỷ đồng** |
+| Hao mòn lũy kế | 251 tỷ (**63%**) |
+| MW / nhân viên | 0,46 |
+
+Điểm đặc biệt của Nước Trong nằm ở tỷ lệ giữa hồ chứa và công suất: **290 triệu m³ nước cho chỉ 16,5 MW**.
+
+Để so sánh, đây là dung tích lớn hơn nhiều hồ thủy điện có công suất gấp mười lần.
+
+Nguyên nhân là công trình đa mục tiêu: hồ phục vụ tưới tiêu và cấp nước bên cạnh phát điện. Điều đó có hai hệ quả cho cổ đông.
+
+**Sản lượng điện ổn định hơn** — hồ lớn cho phép điều tiết qua mùa khô, ít phụ thuộc vào lượng mưa từng tháng.
+
+**Nhưng vận hành không hoàn toàn do doanh nghiệp quyết định** — ưu tiên cấp nước và chống lũ đứng trước ưu tiên phát điện.
+
+Suất đầu tư 24 tỷ đồng mỗi MW cao, và đó là hệ quả trực tiếp của việc phải xây hồ lớn cho một công suất nhỏ.
+
 ## Định giá
 
 P/E 8,2, P/B 3,08. Mức P/B này cao nhất trong nhóm thủy điện nhỏ, và nó phản ánh ROE cao: tám lần đo cho kết quả 14%, 29%, 36%, 35%, 27%, 35%, 38% — sáu trên bảy lần trên 27%.

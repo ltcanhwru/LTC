@@ -59,6 +59,27 @@ Bảng cân đối chịu được: **không có nợ vay**, vốn chủ 196 t�
 
 Cổ tức vẫn trả đều 50 tỷ mỗi năm trong hai năm khó khăn nhất — bằng 217% lợi nhuận năm 2024 và 100% lợi nhuận năm 2025.
 
+## 462 người và hai dây chuyền nhỏ
+
+Lâm nông sản Thực phẩm Yên Bái có công suất **10.000 tấn/năm** ở một dây chuyền và **4.000 tấn/năm** ở dây chuyền còn lại, với **462 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **10.000 + 4.000 tấn/năm** |
+| Nguyên giá tài sản cố định | 214 tỷ |
+| **Suất đầu tư mỗi tấn công suất** | **≈ 15,3 triệu đồng** |
+| Hao mòn lũy kế | 161 tỷ (**75%**) |
+| Hàng tồn kho | 103 tỷ |
+| **Tấn công suất / nhân viên** | **30** |
+
+Suất đầu tư khoảng **15,3 triệu đồng cho mỗi tấn công suất năm** — con số để đánh giá chi phí mở rộng: thêm 1.000 tấn công suất cần khoảng 15 tỷ đồng.
+
+Hao mòn **75%** cho biết dây chuyền đã qua phần lớn vòng đời.
+
+Hàng tồn kho 103 tỷ bằng 48% nguyên giá tài sản — tỷ lệ cao, đặc trưng của chế biến nông lâm sản: nguyên liệu thu hoạch theo mùa nhưng bán quanh năm.
+
+Với 30 tấn công suất trên mỗi nhân viên, đây là mô hình thâm dụng lao động.
+
 ## Định giá
 
 Vốn hóa 640 tỷ, P/E 7,5, P/B 2,62. Giá tăng 18% trong một năm.

@@ -52,6 +52,26 @@ Năm 2022, công ty **lỗ trước thuế 120 tỷ** dù doanh thu 530 tỷ. Đ
 
 Nửa đầu 2026: lợi nhuận sau thuế 113 tỷ so với 51 tỷ cùng kỳ — gấp 2,2 lần.
 
+## 49 người
+
+Chứng khoán Bảo Minh có **49 nhân viên** — ít nhất trong 36 công ty chứng khoán niêm yết trừ WSS.
+
+| Chỉ số 2025 | BMS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| **Doanh thu / nhân viên** | **10.788 tr** | 6.520 tr | **4/36** |
+| **Dư nợ margin / nhân viên** | **2,56 tỷ** | 21,2 tỷ | **31/36** |
+| **LNTT / nhân viên** | **2.674 tr** | 2.988 tr | **9/36** |
+
+Bốn mươi chín người tạo ra 529 tỷ doanh thu — **10.788 triệu mỗi nhân viên**, đứng thứ tư toàn ngành.
+
+Nhưng dư nợ margin chỉ **126 tỷ**, tức 2,56 tỷ mỗi người, đứng thứ 31.
+
+Hai con số đó cùng nhau xác nhận điều bài đã nêu: đây là công ty đầu tư, không phải công ty chứng khoán theo nghĩa thông thường. Vốn chủ 2.212 tỷ gấp 17,5 lần dư nợ cho vay.
+
+Doanh thu đến từ danh mục tự doanh, và một danh mục 2.212 tỷ chỉ cần vài chục người quản lý.
+
+Đó là lý do năng suất trên mỗi nhân viên rất cao, và cũng là lý do con số đó không nói gì về chất lượng vận hành — nó chỉ phản ánh việc vốn lớn chia cho ít người.
+
 ## Định giá
 
 P/E **16,2**, P/B **1,17**, ROE **10%**. Vốn hóa 2.703 tỷ. Thanh khoản 1,0 tỷ đồng mỗi phiên. Sàn UPCOM.

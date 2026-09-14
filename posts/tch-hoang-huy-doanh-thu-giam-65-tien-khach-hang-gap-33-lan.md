@@ -73,6 +73,28 @@ Nhưng nhịp đang đi lên: doanh thu tăng ba quý liên tiếp, biên gộp 
 
 Doanh thu tài chính 93–101 tỷ mỗi quý — không lớn so với lợi nhuận, khác hẳn KDH và PDR.
 
+## 325 người và 5.350 tỷ tiền khách hàng
+
+Hoàng Huy có **325 nhân viên**.
+
+| Chỉ số cuối 2025 | TCH |
+|---|---:|
+| Hàng tồn kho | 10.403 tỷ |
+| **Tồn kho / nhân viên** | **32,0 tỷ** |
+| **Người mua trả tiền trước** | **5.350 tỷ** |
+| **Tỷ lệ đã đặt cọc** | **51%** |
+| Bất động sản đầu tư | 1.536 tỷ |
+
+Dòng đáng chú ý nhất là tỷ lệ đặt cọc **51%** — tức hơn một nửa hàng tồn kho đã có khách trả tiền trước.
+
+Đây là mức cao thứ hai trong nhóm chủ đầu tư, sau Vinhomes (38% nhưng trên quy mô lớn hơn nhiều lần), và cao hơn hẳn Khang Điền (2,8%) hay Phát Đạt (1,4%).
+
+Với một doanh nghiệp bất động sản, đây là chỉ báo tích cực rõ ràng nhất có trong bảng cân đối: sản phẩm bán được trước khi hoàn thành.
+
+Nó cũng là bối cảnh cho điều bài đã nêu — tiền khách hàng gấp 33 lần. Mức tăng đó không phải hiện tượng kế toán mà là lượng đặt cọc thật, và nó sẽ chuyển thành doanh thu khi bàn giao.
+
+Tồn kho trên mỗi nhân viên 32 tỷ, thuộc nhóm cao — 325 người quản lý hơn 10 nghìn tỷ dự án.
+
 ## Định giá
 
 P/E **39,3**, P/B **1,01**, ROE **2%**. Vốn hóa 11.739 tỷ. Thanh khoản 77 tỷ đồng mỗi phiên.

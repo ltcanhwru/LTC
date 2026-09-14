@@ -53,6 +53,28 @@ Với biên cốt lõi mỏng — 72 tỷ trên 1.343 tỷ doanh thu, tức 5,4%
 
 Nhưng dòng tiền 153 tỷ mỗi năm là tấm đệm thật: nó đủ để vừa trả nợ vừa duy trì đầu tư.
 
+## 459 người
+
+Cấp nước Thủ Đức có **459 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 1.306 tỷ |
+| Hao mòn lũy kế | 824 tỷ (**63%**) |
+| Tài sản cố định / nhân viên | 2,8 tỷ |
+| Xây dựng cơ bản dở dang | 4 tỷ |
+| Phải thu khách hàng | 25 tỷ |
+
+Khoản xây dựng cơ bản dở dang chỉ **4 tỷ đồng** trên nguyên giá 1.306 tỷ — tức 0,3%.
+
+Đây là mức gần như bằng không, và nó là đặc điểm quan trọng nhất: doanh nghiệp không mở rộng hệ thống.
+
+Với ngành nước, điều đó có nghĩa sản lượng những năm tới bị giới hạn bởi công suất hiện có, và tăng trưởng doanh thu chỉ có thể đến từ **giá bán** — thứ do cơ quan quản lý quyết định.
+
+Hao mòn 63% đặt hệ thống ở giai đoạn sau của vòng đời, nên chi phí khấu hao còn phải trích đang giảm dần, có lợi cho biên lợi nhuận.
+
+Khoản phải thu khách hàng chỉ 25 tỷ — rất nhỏ so với quy mô tài sản, đúng với đặc thù thu tiền nước hằng tháng từ hộ dân.
+
 ## Định giá
 
 P/E 6,2, P/B 1,67. Vốn hóa 400 tỷ — nhỏ nhất trong nhóm cấp nước dù doanh thu lớn nhất.

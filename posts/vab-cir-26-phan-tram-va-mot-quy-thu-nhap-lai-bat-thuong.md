@@ -65,6 +65,35 @@ Chi phí dự phòng hai quý chỉ 109 tỷ, so với 92 tỷ cùng kỳ. Mức
 
 Bộ đệm: tỷ lệ dự phòng trên dư nợ đi từ 0,95% (2024) lên **1,20%** (2025) — vẫn thuộc nhóm mỏng nhất ngành, đứng thứ năm từ dưới lên.
 
+## 1.631 người quản lý 88.700 tỷ dư nợ
+
+Việt Á Bank vận hành **97 điểm giao dịch** với **1.631 nhân viên** — ít thứ ba trong 28 ngân hàng niêm yết.
+
+| Chỉ số 2025 | VAB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| **Dư nợ / nhân viên** | **54,4 tỷ** | 48,1 tỷ | **7/28** |
+| **Tiền gửi / nhân viên** | **60,7 tỷ** | — | **4/28** |
+| TOI / nhân viên | 2.322 tr | 2.518 tr | 12/28 |
+| Chi phí hoạt động / nhân viên | 596 tr | — | thấp |
+| LNTT / nhân viên | 1.009 tr | 1.203 tr | 14/28 |
+
+Đây là con số đáng chú ý nhất của bài: **1.631 người quản lý 88.700 tỷ dư nợ và 99.000 tỷ tiền gửi**.
+
+Dư nợ trên mỗi nhân viên 54,4 tỷ đứng thứ bảy ngành, cao hơn ACB (50,3), MBBank (57,6 — sát nút) và gần gấp đôi VPBank (31,9).
+
+Nhưng dư nợ trên mỗi điểm giao dịch chỉ **915 tỷ** — tức mạng lưới rộng với rất ít nhân sự mỗi điểm.
+
+Mô hình này chỉ khả thi khi danh mục tập trung vào ít khoản vay lớn thay vì nhiều khoản vay nhỏ. Đó cũng là điều cần đọc cùng CIR 26% — mức thấp thứ hai ngành mà bài đã nêu — và cùng khoản thu nhập lãi bất thường của một quý.
+
+Chất lượng tài sản trên sổ sách khá tốt:
+
+| | VAB | Bình quân 28 NH |
+|---|---:|---:|
+| Tỷ lệ nợ xấu | **1,37%** | 0,58–3,74% |
+| Tỷ lệ bao phủ | **70%** | 40–258% |
+
+Nợ xấu 1,37% thấp thứ sáu trong 28 ngân hàng. Nhưng với danh mục tập trung, một khoản vay lớn chuyển nhóm cũng đủ thay đổi con số này.
+
 ## Định giá
 
 P/E **5,8**, P/B **0,75**. Vốn hóa 8.137 tỷ. Thanh khoản 4,3 tỷ đồng mỗi phiên.
@@ -81,7 +110,7 @@ ROE 13% — không cao nhưng cũng không thấp.
 
 - Nguyên nhân thu nhập lãi thuần quý 4/2025 đạt 1.608 tỷ — gấp 2,5 lần các quý khác — chưa xác định được. **Đây là điểm quan trọng nhất của bài** và nó ảnh hưởng tới cả biên lãi lẫn CIR của năm.
 - Giả thuyết rằng khoản đó đi cùng việc xử lý tài sản tồn đọng dựa trên việc chi phí dự phòng cùng quý cũng nhảy lên 915 tỷ; đây là suy luận, chưa xác nhận bằng thuyết minh.
-- **Không có tỷ lệ nợ xấu nhóm 3–5.**
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Chưa tách được cơ cấu dư nợ theo ngành và nhóm khách hàng.
 - Không có CASA và không có hệ số an toàn vốn CAR.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.

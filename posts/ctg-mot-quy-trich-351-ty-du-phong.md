@@ -95,6 +95,34 @@ Và khác quý 4/2025, mức lợi nhuận này không nhờ dự phòng thấp:
 
 Đây là hai quý sạch nhất trong chuỗi — lợi nhuận đến từ thu nhập tăng và chi phí giảm, không từ điều chỉnh dự phòng.
 
+## 29.048 người, và tấm đệm dày thứ hai ngành
+
+VietinBank vận hành **155 chi nhánh** với **29.048 nhân viên**.
+
+| Chỉ số 2025 | CTG | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | **68,6 tỷ** | 48,1 tỷ | 4/28 |
+| TOI / nhân viên | 3.005 tr | 2.518 tr | 6/28 |
+| Chi phí hoạt động / nhân viên | 914 tr | — | |
+| **LNTT / nhân viên** | **1.496 tr** | 1.203 tr | **5/28** |
+
+VietinBank đứng thứ tư ở dư nợ trên mỗi nhân viên và thứ năm ở lợi nhuận — nhất quán hơn BIDV, nơi hai thứ hạng cách nhau tám bậc.
+
+Chi phí hoạt động 914 triệu đồng mỗi nhân viên thấp hơn cả BIDV (1.014) lẫn Vietcombank (1.060), trong khi thu nhập gần bằng. Đó là phần giải thích vì sao lợi nhuận trên mỗi người cao hơn BIDV 19%.
+
+Dư nợ trên mỗi chi nhánh: **12.853 tỷ**.
+
+Chất lượng tài sản đứng thứ hai ngành:
+
+| | CTG | VCB | BID |
+|---|---:|---:|---:|
+| Tỷ lệ nợ xấu | **1,10%** | 0,58% | 1,47% |
+| **Tỷ lệ bao phủ** | **159%** | 258% | 100% |
+
+Nợ xấu 1,10% thấp thứ hai trong 28 ngân hàng, và bao phủ 159% đứng thứ hai sau Vietcombank.
+
+Điều này bổ sung trực tiếp cho phần trên của bài: khi tỷ lệ dự phòng ăn vào lợi nhuận rơi từ 53% xuống 28%, đó không phải là buông lỏng — ngân hàng vẫn giữ tấm đệm gấp rưỡi số nợ xấu đang có.
+
 ## Định giá
 
 P/E **5,8**, P/B **1,19**. Vốn hóa 232.620 tỷ.
@@ -111,7 +139,7 @@ Hai quý đầu 2026 đang nói ngược lại — lợi nhuận tăng 37% với
 
 ## Một số lưu ý
 
-- **Không có tỷ lệ nợ xấu nhóm 3–5** trong dữ liệu này; số đó nằm ở thuyết minh. Toàn bộ phần nói về "bộ đệm" chỉ dựa trên tỷ lệ dự phòng trên dư nợ, phản ánh mức ngân hàng *chọn* trích chứ không phải chất lượng tài sản thực.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Giả thuyết rằng CTG đã trích đủ trong 2022–2024 nên 2025 giảm được là suy luận từ chuỗi số, không có dữ liệu về nợ đã xử lý ngoại bảng để xác nhận.
 - Dòng "thu nhập khác" của CTG đi từ 6.538 lên 10.095 tỷ — nhiều khả năng là thu hồi nợ đã xử lý, nhưng em chưa xác nhận bằng thuyết minh. Nếu trừ dòng này khỏi cả hai đầu như đã làm với [BID](post.html?p=bid-13-nghin-ty-thu-nhap-khac-va-vong-tron-du-phong), mức tăng lợi nhuận vẫn cao nhưng thấp hơn con số công bố.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.

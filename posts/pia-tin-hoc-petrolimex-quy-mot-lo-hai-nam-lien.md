@@ -68,6 +68,29 @@ Cổ tức đều đặn 49–59% lợi nhuận bốn năm liền.
 
 Dòng tiền dao động (47–171%) nhưng bốn năm cộng lại khoảng 105% — hợp lý với mô hình ghi nhận theo hợp đồng.
 
+## 124 người và gần như không có tài sản
+
+Tin học Petrolimex có **124 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **124** |
+| Nguyên giá tài sản cố định | **19 tỷ** |
+| Hao mòn lũy kế | 16 tỷ (**85%**) |
+| **Giá trị còn lại** | **3 tỷ** |
+| Xây dựng cơ bản dở dang | 14 tỷ |
+| Hàng tồn kho | 42 tỷ |
+
+Nguyên giá toàn bộ tài sản cố định **19 tỷ đồng**, giá trị còn lại **3 tỷ**.
+
+Đây là doanh nghiệp phần mềm và dịch vụ công nghệ: tài sản thật là **124 con người**, không phải máy móc.
+
+Hàng tồn kho 42 tỷ lớn gấp 14 lần giá trị còn lại của tài sản cố định.
+
+Khoản **14 tỷ xây dựng cơ bản dở dang** đáng chú ý vì nó lớn hơn cả giá trị còn lại của tài sản đang dùng — doanh nghiệp đang đầu tư một khoản bằng gần bốn lần những gì đang có.
+
+Với mô hình này, chi phí gần như toàn bộ là lương, nên hai quý lỗ liên tiếp như bài đã nêu phản ánh doanh thu không đủ bù chi phí nhân sự cố định.
+
 ## Định giá
 
 P/E **8,2**, P/B 1,77. Thanh khoản 0,23 tỷ đồng mỗi phiên — khá so với vốn hóa 114 tỷ.

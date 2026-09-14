@@ -99,6 +99,44 @@ VIC, VHM và VRE chiếm 72% lợi nhuận của cả nhóm, và dòng tiền c�
 
 Nhưng ngay cả tính cả nhóm này, bốn năm toàn ngành chỉ thu về **35%** lợi nhuận kế toán bằng tiền mặt.
 
+## 59.016 người, và hai ngành khác nhau trong cùng một bảng
+
+Ba mươi lăm doanh nghiệp trong bài có **59.016 nhân viên** nắm **333.926 tỷ đồng hàng tồn kho** — tức bình quân **5,7 tỷ đồng mỗi người**.
+
+Nhưng mức bình quân đó che mất điều quan trọng nhất: **khoảng cách giữa hai đầu bảng là vô hạn**.
+
+| Mã | Nhân viên | Hàng tồn kho | **Tồn kho / nhân viên** |
+|---|---:|---:|---:|
+| **NVL** | 1.975 | 153.324 tỷ | **77,6 tỷ** |
+| KDH | 346 | 23.260 tỷ | **67,2 tỷ** |
+| PDR | 275 | 16.715 tỷ | **60,8 tỷ** |
+| KBC | 554 | 27.073 tỷ | 48,9 tỷ |
+| TCH | 325 | 10.403 tỷ | 32,0 tỷ |
+| KOS | 86 | 2.583 tỷ | 30,0 tỷ |
+| … | | | |
+| DXG | 4.564 | 15.658 tỷ | 3,4 tỷ |
+| **DXS** | **3.756** | 5.113 tỷ | **1,4 tỷ** |
+| VGC | 8.405 | 4.019 tỷ | 0,5 tỷ |
+| **CRE** | **4.042** | 691 tỷ | **0,2 tỷ** |
+| **NRC** | 138 | 14 tỷ | **0,1 tỷ** |
+| **KHG** | **5.573** | 114 tỷ | **0,02 tỷ** |
+
+Đọc cột cuối từ trên xuống sẽ thấy bảng này không phải một ngành, mà là **hai ngành bị gộp làm một**.
+
+**Nhóm chủ đầu tư** — NVL, KDH, PDR, KBC, TCH — có rất ít người và rất nhiều đất. Novaland có 1.975 nhân viên giữ 153.324 tỷ hàng tồn kho. Khang Điền có **346 người** giữ 23.260 tỷ. Phát Đạt có **275 người** giữ 16.715 tỷ.
+
+Với mô hình này, nhân sự không phải chi phí đáng kể. Thứ quyết định là vốn, quỹ đất và tốc độ bán. Đó cũng là lý do dòng tiền âm bốn năm liên tiếp: tiền nằm trong đất, không nằm ở lương.
+
+**Nhóm môi giới và dịch vụ** — DXS, CRE, KHG, NRC — thì ngược hẳn. Khải Hoàn Land có **5.573 nhân viên** nhưng hàng tồn kho **114 tỷ**. Cen Land có 4.042 người với 691 tỷ. Đất Xanh Services có 3.756 người với 5.113 tỷ.
+
+Đây là doanh nghiệp dịch vụ: chi phí chính là con người, doanh thu là phí môi giới, và họ **không chịu rủi ro tồn kho** — nhưng cũng không hưởng phần tăng giá đất.
+
+Hệ quả với người đọc: **mọi chỉ số bình quân ngành trong bài này đều trộn hai mô hình có bản chất trái ngược.** Dòng tiền âm 46.183 tỷ là câu chuyện của nhóm chủ đầu tư; nhóm môi giới gần như không đóng góp vào con số đó, vì họ không mua đất.
+
+Một dòng nữa đáng đọc cùng: **31.879 tỷ chi phí xây dựng cơ bản dở dang** của 35 doanh nghiệp. Đây là phần hạ tầng và dự án đang xây, chưa tạo doanh thu và chưa chịu khấu hao — nguồn cung của những năm tới, và cũng là nơi tiền đang tiếp tục chảy ra.
+
+Cộng với 23.355 tỷ bất động sản đầu tư, tổng tài sản chưa sinh lời hoặc mới sinh lời một phần là **55.234 tỷ**, bên cạnh 333.926 tỷ hàng tồn kho.
+
 ## Một số lưu ý
 
 - **Không có số liệu bán hàng** (số căn mở bán, số căn đã bán, giá bán bình quân) của bất kỳ doanh nghiệp nào. Đây là thông tin quan trọng nhất với ngành này và nó không có trong báo cáo tài chính.

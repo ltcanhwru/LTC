@@ -48,6 +48,28 @@ Nhưng cổ tức thì rất nhỏ: 22 tỷ trên 148 tỷ lợi nhuận năm 20
 
 Một doanh nghiệp giữ lại 85% lợi nhuận thì phải trả lời được câu hỏi: giữ để làm gì? Khoản chi 77 tỷ năm 2025 là một phần câu trả lời, nhưng chưa hết.
 
+## 91 người và mỏ đá
+
+Đá Núi Nhỏ có **91 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **91** |
+| Nguyên giá tài sản cố định | **159 tỷ** |
+| Hao mòn lũy kế | 55 tỷ (**34%**) |
+| Tài sản cố định / nhân viên | 1,7 tỷ |
+| Hàng tồn kho | 13 tỷ |
+
+Với **91 nhân viên** và nguyên giá tài sản chỉ 159 tỷ, đây là một trong những doanh nghiệp gọn nhất trong loạt bài.
+
+Tỷ lệ hao mòn **34%** thấp — thiết bị khai thác và nghiền sàng còn tương đối mới.
+
+Nhưng con số quan trọng nhất với một doanh nghiệp khai thác đá lại **không có trên bảng cân đối**: trữ lượng còn lại và thời hạn giấy phép khai thác.
+
+Giá trị của doanh nghiệp này không nằm ở 159 tỷ tài sản cố định mà nằm ở quyền khai thác mỏ — và quyền đó có thời hạn.
+
+Hàng tồn kho chỉ 13 tỷ, đúng với mô hình bán tại mỏ: đá khai thác đến đâu bán đến đó, không tích trữ.
+
 ## Định giá
 
 Vốn hóa 837 tỷ, P/E 4,5, P/B 1,36. Giá cổ phiếu giảm 20% trong một năm dù lợi nhuận tăng 135%.

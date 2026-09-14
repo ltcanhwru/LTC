@@ -56,6 +56,29 @@ Giống [NTH](post.html?p=nth-thuy-dien-nuoc-trong-khong-co-mua-vu), QPH không 
 
 Nhưng hai quý đầu 2026 đều thấp hơn cùng kỳ 2025: 17 và 13 tỷ so với 15 và 21 tỷ. Phần giảm đến từ cả doanh thu lẫn doanh thu tài chính.
 
+## 21 MW và 56 người
+
+Thủy điện Quế Phong có công suất lắp máy **21 MW** cùng trạm biến áp **100 MW**, với **56 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất lắp máy | **21 MW** |
+| Nguyên giá tài sản cố định | 473 tỷ |
+| **Suất đầu tư mỗi MW** | **22,5 tỷ đồng** |
+| Hao mòn lũy kế | 376 tỷ (**79%**) |
+| Giá trị còn lại | **97 tỷ** |
+| MW / nhân viên | 0,375 |
+
+Hao mòn **79%** — giá trị còn lại của toàn bộ nhà máy là **97 tỷ đồng**.
+
+Đây là doanh nghiệp rất nhỏ: 21 MW công suất, 56 nhân viên, và một tài sản gần như đã khấu hao xong.
+
+Ở trạng thái này, mô hình kinh doanh rất đơn giản và rất dễ dự báo: sản lượng phụ thuộc vào nước, chi phí gần như cố định và đang giảm dần theo khấu hao, lợi nhuận là phần còn lại.
+
+Điều bảng số không cho biết — và là biến số lớn nhất — là **thời hạn còn lại của giấy phép và hợp đồng mua bán điện**.
+
+Chi tiết trạm biến áp 100 MW so với công suất phát 21 MW cho thấy hạ tầng đấu nối được xây với dư địa lớn hơn công suất hiện có.
+
 ## Định giá
 
 P/E 8,7, P/B 1,98. Nợ vay 9% vốn chủ. Thanh khoản 0,03 tỷ đồng mỗi phiên.

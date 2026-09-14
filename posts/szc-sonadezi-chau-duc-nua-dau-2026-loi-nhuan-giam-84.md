@@ -70,6 +70,27 @@ Vốn chủ sở hữu gần gấp đôi trong năm 2024 — từ 1.737 lên 3.1
 
 Trước đó, nợ vay gấp 1,7 lần vốn chủ — mức rất căng cho một doanh nghiệp khu công nghiệp.
 
+## 281 người và 3.554 tỷ đang xây
+
+Sonadezi Châu Đức có **281 nhân viên** và **3 chi nhánh**, hoạt động ở khu công nghiệp, khu đô thị, khu dân cư và sân golf.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| **Xây dựng cơ bản dở dang** | **3.554 tỷ** |
+| Hàng tồn kho | 1.893 tỷ |
+| Bất động sản đầu tư | 1.080 tỷ |
+| Người mua trả tiền trước | 285 tỷ |
+
+Chi phí xây dựng cơ bản dở dang **3.554 tỷ** lớn gần gấp đôi hàng tồn kho.
+
+Đây là hình dạng của một doanh nghiệp khu công nghiệp đang trong giai đoạn đầu tư hạ tầng: tiền đổ vào san lấp, đường, điện nước — chưa cho thuê được, chưa tạo doanh thu, chưa chịu khấu hao.
+
+Phần này sẽ chuyển sang bất động sản đầu tư hoặc hàng tồn kho khi hoàn thành, và chỉ khi đó mới bắt đầu sinh lời.
+
+Với 281 nhân viên quản lý khối tài sản 6.527 tỷ (tồn kho cộng dở dang cộng bất động sản đầu tư), mỗi người phụ trách khoảng 23,2 tỷ.
+
+Đây là bối cảnh cho nội dung chính của bài — lợi nhuận nửa đầu 2026 giảm 84%: doanh nghiệp đang ở giai đoạn chi tiền nhiều hơn thu tiền, và phần đã đầu tư chưa kịp cho thuê.
+
 ## Định giá
 
 P/E **20,3**, P/B **1,01**, ROE **5%**. Vốn hóa 3.240 tỷ. Thanh khoản 9 tỷ đồng mỗi phiên.

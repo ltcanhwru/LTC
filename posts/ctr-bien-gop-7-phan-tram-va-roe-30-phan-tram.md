@@ -51,6 +51,28 @@ Mô hình thứ hai có dòng tiền đều hơn, biên cao hơn, nhưng đòi h
 
 Nếu đúng, biên gộp 7% hiện tại đang trộn hai thứ có kinh tế học rất khác nhau, và biên hợp nhất sẽ tăng dần khi tỷ trọng cho thuê hạ tầng lớn lên.
 
+## 11.105 người và 1.335 tỷ trạm cho thuê
+
+Công trình Viettel có **11.105 nhân viên** và **63 chi nhánh**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 757 tỷ |
+| **Bất động sản đầu tư** | **1.335 tỷ** |
+| **Phải thu khách hàng** | **1.837 tỷ** |
+| Hàng tồn kho | 425 tỷ |
+| Hao mòn / nguyên giá | **83%** |
+
+Điểm đáng chú ý nhất: **bất động sản đầu tư 1.335 tỷ lớn hơn nguyên giá tài sản cố định 757 tỷ**.
+
+Với một doanh nghiệp xây lắp hạ tầng viễn thông, khoản này là **hệ thống trạm phát sóng cho thuê** — tài sản giữ lại để thu tiền định kỳ thay vì làm thuê một lần.
+
+Đây là phần chuyển đổi mô hình quan trọng nhất của doanh nghiệp: từ nhà thầu xây lắp (doanh thu theo dự án, biên mỏng) sang chủ sở hữu hạ tầng (doanh thu định kỳ, biên cao).
+
+Hao mòn **83%** trên phần tài sản cố định cho biết thiết bị thi công đã cũ — nhất quán với việc trọng tâm đang dịch sang mảng cho thuê.
+
+Với 11.105 nhân viên, doanh nghiệp vẫn chủ yếu là công ty vận hành và xây lắp: nhân sự lớn, tài sản nhỏ. Khoản phải thu 1.837 tỷ — lớn hơn cả tài sản cố định — là đặc trưng của mô hình nhận thầu.
+
 ## Định giá
 
 Ở giá 74.000 đồng: P/E 14,5, P/B 4,58, cổ tức 2,6%. Giá gần như đi ngang một năm.

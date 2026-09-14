@@ -62,6 +62,28 @@ Nợ vay gấp 2,3 lần trong ba năm.
 
 Vốn chủ sở hữu tăng từ 4.409 lên 5.665 tỷ trong năm 2024 — thêm 1.256 tỷ trong khi lợi nhuận chỉ 34 tỷ. Đây là một đợt phát hành cổ phiếu lớn.
 
+## 180 người
+
+Địa ốc Hoàng Quân có **180 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 1.471 tỷ |
+| **Đầu tư vào công ty liên kết** | **2.347 tỷ** |
+| Người mua trả tiền trước | 721 tỷ |
+| **Tỷ lệ đã đặt cọc** | **49%** |
+| Phải thu khách hàng | 1.215 tỷ |
+
+Điểm bất thường nhất: **khoản đầu tư vào công ty liên kết 2.347 tỷ lớn hơn hàng tồn kho 1.471 tỷ**.
+
+Nghĩa là phần lớn giá trị tài sản của doanh nghiệp không nằm ở dự án tự làm mà nằm ở vốn góp vào đơn vị khác — và phần đó không đi qua doanh thu hợp nhất.
+
+Ở chiều tích cực, tỷ lệ đã đặt cọc **49%** thuộc nhóm cao nhất ngành: gần một nửa hàng tồn kho đã có khách trả tiền trước.
+
+Với mô hình nhà ở xã hội, mức đặt cọc cao là hợp lý — sản phẩm có nhu cầu thực và giá bán được kiểm soát.
+
+Với 180 nhân viên, tồn kho trên mỗi người 8,2 tỷ, trên mức bình quân ngành.
+
 ## Định giá
 
 P/E **16,6**, P/B **0,21**, ROE **1%**. Vốn hóa 1.222 tỷ. Thanh khoản 5,7 tỷ đồng mỗi phiên.

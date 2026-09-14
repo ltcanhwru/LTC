@@ -61,6 +61,30 @@ Quý 2/2026 là quý tốt nhất chuỗi: doanh thu cao nhất, biên gộp 12%
 
 Một quý chưa đủ để nói biên đã đảo chiều. Nhưng nếu biên giữ được 12% trên nền doanh thu 4.500 tỷ, lợi nhuận gộp sẽ là 540 tỷ thay vì 415 — thay đổi rất lớn.
 
+## 308 người và tồn kho gấp 15 lần tài sản còn lại
+
+Cát Lợi có **308 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị | So với tài sản còn lại |
+|---|---:|---:|
+| Nguyên giá tài sản cố định | 884 tỷ | |
+| Hao mòn lũy kế | 799 tỷ (**90%**) | |
+| **Giá trị còn lại** | **85 tỷ** | 1 |
+| **Hàng tồn kho** | **1.337 tỷ** | **15,7 lần** |
+| Phải thu khách hàng | 388 tỷ | 4,6 lần |
+
+Đây là cấu trúc tài sản đáng chú ý nhất trong nhóm doanh nghiệp nhỏ của loạt bài.
+
+Toàn bộ dây chuyền còn giá trị sổ sách **85 tỷ** sau khi khấu hao 90%.
+
+Trong khi đó hàng tồn kho là **1.337 tỷ** — gấp **15,7 lần**.
+
+Với doanh nghiệp sản xuất bao bì và vật tư cho ngành thuốc lá, tồn kho lớn như vậy thường gắn với nguyên liệu nhập khẩu phải dự trữ theo lô lớn.
+
+Hệ quả: **vốn lưu động là ràng buộc chính**, không phải công suất. Và biến động giá nguyên liệu ảnh hưởng tới bảng cân đối nhiều hơn ảnh hưởng của khấu hao.
+
+Điều đó cũng giải thích điều bài đã nêu — doanh thu tăng 79% nhưng biên gộp mất một phần ba: doanh thu tăng theo giá nguyên liệu, còn biên thì bị chính giá nguyên liệu ép lại.
+
 ## Định giá
 
 P/E **7,1**, P/B 1,64. Thanh khoản 0,04 tỷ đồng mỗi phiên.

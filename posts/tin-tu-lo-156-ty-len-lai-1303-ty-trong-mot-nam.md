@@ -63,6 +63,27 @@ Ba năm đầu, chi phí dự phòng ăn 90–128% lợi nhuận trước dự p
 
 Năm 2025 tỷ lệ này rơi xuống 41% — nhưng chủ yếu vì mẫu số (lợi nhuận trước dự phòng) gấp 4 lần, không phải vì chi phí dự phòng giảm.
 
+## 1.736 người
+
+Tài chính Tổng hợp Tín Việt có **1.736 nhân viên**.
+
+| Chỉ số 2025 | TIN | [28 ngân hàng](post.html?p=28-ngan-hang-khoang-trong-13-trieu-ty) |
+|---|---:|---:|
+| Nhân viên | 1.736 | 297.723 |
+| Dư nợ cho vay | 14.865 tỷ | 14.312.000 tỷ |
+| **Dư nợ / nhân viên** | **8,6 tỷ** | **48,1 tỷ** |
+| **LNTT / nhân viên** | **751 triệu** | **1.203 triệu** |
+
+Dư nợ trên mỗi nhân viên **8,6 tỷ đồng** — bằng **18%** mức bình quân ngành ngân hàng, và thấp hơn cả Kienlongbank (14,4 tỷ), ngân hàng có tỷ lệ thấp nhất trong 28 mã niêm yết.
+
+Con số này mô tả đúng bản chất cho vay tiêu dùng: khoản vay nhỏ, số lượng lớn, và mỗi khoản đều cần người thẩm định, chăm sóc và thu hồi.
+
+Đó là lý do mô hình này cần lãi suất cao — chi phí vận hành trên mỗi đồng dư nợ lớn hơn nhiều so với cho vay doanh nghiệp.
+
+Lợi nhuận trên mỗi nhân viên 751 triệu đồng trong năm 2025 — năm đặc biệt tốt — vẫn thấp hơn mức bình quân ngành ngân hàng (1.203 triệu).
+
+Ở ba năm trước, khi lợi nhuận trước thuế lần lượt là 76, 26 và âm 156 tỷ, con số này gần bằng không hoặc âm.
+
 ## Định giá
 
 P/E **5,7**, P/B **3,28**, ROE **81%**. Vốn hóa 9.292 tỷ. Thanh khoản 2,6 tỷ đồng mỗi phiên. Sàn UPCOM.

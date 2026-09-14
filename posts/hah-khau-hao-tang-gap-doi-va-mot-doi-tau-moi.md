@@ -48,6 +48,29 @@ Năm 2023 là bài kiểm tra gần nhất: biên gộp rơi về 23% và lợi 
 
 Nợ vay bằng 41% vốn chủ sở hữu — không cao, nhưng đang tăng cùng đội tàu. Tiền và đầu tư tài chính chỉ 588 tỷ, bằng 7% vốn hóa; đây không phải doanh nghiệp có đệm tiền dày.
 
+## 879 người và đội tàu 16.000 TEU
+
+Vận tải và Xếp dỡ Hải An sở hữu đội tàu sức chứa gần **16.000 TEU**, với **879 nhân viên** và **2 chi nhánh**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Sức chứa đội tàu | **≈ 16.000 TEU** |
+| Nguyên giá tài sản cố định | **7.211 tỷ** |
+| **Hao mòn / nguyên giá** | **31%** |
+| **Nguyên giá / TEU** | ≈ **451 triệu đồng** |
+| TEU / nhân viên | ≈ **18** |
+| Đầu tư vào công ty liên kết | 580 tỷ |
+
+Tỷ lệ hao mòn **31%** là mức thấp nhất trong nhóm vận tải và hạ tầng của loạt bài này.
+
+Để so sánh: [Vinalines](post.html?p=mvn-von-hoa-75-nghin-ty-moi-phien-khop-2-ty) là 70%, [Vietnam Airlines](post.html?p=hvn-doanh-thu-cao-nhat-lich-su-va-mot-quy-lo) 77%.
+
+**Đội tàu của Hải An còn rất mới.** Điều đó có hai mặt: chi phí khấu hao còn phải trích nhiều năm nữa, nhưng chi phí bảo dưỡng thấp và tàu còn giá trị thanh lý cao.
+
+Suất đầu tư khoảng **451 triệu đồng mỗi TEU** là con số để đánh giá kế hoạch mở rộng: muốn tăng 5.000 TEU, doanh nghiệp cần khoảng 2.255 tỷ.
+
+Với 879 nhân viên cho 16.000 TEU, mỗi người phụ trách khoảng 18 TEU — mô hình vận tải container nội địa và khu vực, cần thủy thủ đoàn và bộ phận khai thác cảng.
+
 ## Định giá một doanh nghiệp chu kỳ
 
 Ở giá 46.000 đồng: P/E 6,9, P/B 1,86, cổ tức 6,1%. Giá giảm 16% trong một năm nhưng tăng 92% trong ba năm.

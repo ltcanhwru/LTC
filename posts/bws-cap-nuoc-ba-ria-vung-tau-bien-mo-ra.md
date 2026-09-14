@@ -44,6 +44,29 @@ Nhưng tiền và đầu tư tài chính chỉ 234 tỷ, bằng 8% vốn hóa 2.
 
 Cổ tức chi 39–114% lợi nhuận, không đều giữa các năm.
 
+## 240.000 m³ mỗi ngày và 434 người
+
+Cấp nước Bà Rịa – Vũng Tàu có tổng công suất **240.000 m³ mỗi ngày**, với **434 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **240.000 m³/ngày** |
+| Nguyên giá tài sản cố định | 2.053 tỷ |
+| **Suất đầu tư mỗi m³/ngày** | **8,6 triệu đồng** |
+| Hao mòn lũy kế | 1.298 tỷ (**63%**) |
+| Xây dựng cơ bản dở dang | 53 tỷ |
+| **m³/ngày / nhân viên** | **553** |
+
+Suất đầu tư **8,6 triệu đồng cho mỗi m³ công suất mỗi ngày** là con số để so sánh trong nhóm cấp nước: Đồng Nai 10,3 triệu, Vinh An 5,3 triệu, Viwaco 14,8 triệu.
+
+Đây là chỉ số cho biết doanh nghiệp phải bỏ bao nhiêu vốn để phục vụ thêm một đơn vị nhu cầu — và nó quyết định chi phí của mọi kế hoạch mở rộng.
+
+Hao mòn **63%** đặt hệ thống ở giai đoạn sau của vòng đời, và khoản xây dựng cơ bản dở dang chỉ 53 tỷ cho biết chưa có mở rộng lớn nào đang diễn ra.
+
+Với **553 m³/ngày trên mỗi nhân viên**, đây là mức hiệu quả trung bình trong nhóm.
+
+Đặc thù ngành nước: doanh thu rất ổn định và gần như không có rủi ro công nợ với khách hàng dân cư, nhưng giá bán do nhà nước quyết định, nên biên lợi nhuận không do doanh nghiệp kiểm soát.
+
 ## Định giá
 
 P/E 11,7, P/B 2,96. Thanh khoản 0,38 tỷ đồng mỗi phiên — cao nhất trong bảy doanh nghiệp cấp nước, dù vẫn rất mỏng.

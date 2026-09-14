@@ -76,6 +76,27 @@ Bốn năm cộng lại: lợi nhuận sau thuế 1.197 tỷ, tiền thuần t�
 
 Nhưng phần lớn đến từ năm 2022 — năm giải phóng hàng tồn kho. Hai năm gần nhất đều âm.
 
+## 145 người và hàng tồn kho 348 tỷ
+
+An Gia có **145 nhân viên**.
+
+| Khoản mục cuối 2025 | AGG | Bình quân 35 mã |
+|---|---:|---:|
+| Hàng tồn kho | **348 tỷ** | 9.541 tỷ |
+| Xây dựng cơ bản dở dang | 1 tỷ | 911 tỷ |
+| Người mua trả tiền trước | 114 tỷ | |
+| Tồn kho / nhân viên | 2,4 tỷ | 5,7 tỷ |
+
+Hàng tồn kho **348 tỷ** là mức rất nhỏ — bằng 0,2% Novaland và 1,5% Khang Điền.
+
+Với một chủ đầu tư bất động sản, con số này có hai cách đọc.
+
+Thứ nhất: doanh nghiệp vừa bàn giao xong phần lớn sản phẩm, nên hàng tồn kho đã chuyển thành doanh thu. Đây là trạng thái tốt về dòng tiền nhưng có nghĩa **nguồn thu của những năm tới phải đến từ dự án mới**.
+
+Thứ hai: khoản xây dựng cơ bản dở dang chỉ **1 tỷ** cho biết chưa có dự án nào đang xây ở quy mô đáng kể trên bảng cân đối hợp nhất.
+
+Cả hai cách đọc dẫn tới cùng một câu hỏi: nguồn cung tiếp theo nằm ở đâu, và nó có nằm trong phạm vi hợp nhất không.
+
 ## Định giá
 
 P/E **3,2**, P/B **0,48**, ROE **17%**. Vốn hóa 1.841 tỷ. Thanh khoản 2,7 tỷ đồng mỗi phiên.

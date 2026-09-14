@@ -66,6 +66,28 @@ LIX có bảng cân đối sạch hơn rõ rệt: nợ vay chỉ 5% vốn chủ 
 
 NET có tiền nhiều hơn tính theo tỷ lệ vốn hóa, nhưng cũng vay nhiều hơn — nên tiền ròng của hai doanh nghiệp gần nhau hơn con số thô gợi ý.
 
+## 1.166 người
+
+Bột giặt Lix có **1.166 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 902 tỷ |
+| Hao mòn lũy kế | 503 tỷ (**56%**) |
+| Tài sản cố định / nhân viên | 774 triệu đồng |
+| **Hàng tồn kho** | **343 tỷ** |
+| **Phải thu khách hàng** | **242 tỷ** |
+| Đầu tư vào công ty liên kết | 55 tỷ |
+| Xây dựng cơ bản dở dang | 1 tỷ |
+
+Hao mòn **56%** — dây chuyền ở giữa vòng đời, còn khoảng một nửa khấu hao phía trước.
+
+Khoản xây dựng cơ bản dở dang chỉ **1 tỷ**: không mở rộng năng lực.
+
+Hàng tồn kho 343 tỷ và phải thu 242 tỷ cộng lại **585 tỷ** — bằng 65% nguyên giá tài sản cố định, phản ánh mô hình bán qua hệ thống phân phối với công nợ đại lý.
+
+Với hàng tiêu dùng giá trị thấp và khối lượng lớn như bột giặt, biên lợi nhuận mỏng và cạnh tranh chủ yếu bằng chi phí sản xuất cùng hiệu quả phân phối — hai thứ mà bảng cân đối chỉ phản ánh gián tiếp.
+
 ## Định giá
 
 LIX ở P/E 8,6, NET ở 10,9.

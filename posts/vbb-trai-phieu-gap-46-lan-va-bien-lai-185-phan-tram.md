@@ -68,6 +68,34 @@ Nửa đầu 2026: 750 tỷ so với 410 tỷ cùng kỳ, tăng 83%. Nếu mức
 
 Vẫn là mức tăng tốt, nhưng không như con số công bố.
 
+## 3.041 người
+
+VietBank vận hành **25 chi nhánh** với **3.041 nhân viên**.
+
+| Chỉ số 2025 | VBB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 34,6 tỷ | 48,1 tỷ | 14/28 |
+| **TOI / nhân viên** | **1.191 tr** | 2.518 tr | **24/28** |
+| Chi phí hoạt động / nhân viên | 568 tr | — | thấp thứ ba |
+| LNTT / nhân viên | 504 tr | 1.203 tr | 19/28 |
+
+Khoảng cách giữa hai thứ hạng đầu là điểm đáng chú ý: dư nợ trên mỗi nhân viên đứng thứ 14 — đúng giữa bảng — nhưng thu nhập trên mỗi người đứng thứ 24.
+
+Nghĩa là **mỗi đồng dư nợ của VietBank tạo ra ít thu nhập hơn hẳn mặt bằng**. Điều đó nhất quán với biên lãi 1,85% mà bài đã nêu, mức thấp nhì trong 28 ngân hàng.
+
+Ngân hàng bù lại bằng chi phí: 568 triệu mỗi nhân viên, thấp thứ ba ngành.
+
+Chất lượng tài sản ở nhóm cuối:
+
+| | VBB | Vị trí trong 28 NH |
+|---|---:|---|
+| **Tỷ lệ nợ xấu** | **2,75%** | cao thứ bảy |
+| **Tỷ lệ bao phủ** | **44%** | **thấp thứ hai** |
+
+Bao phủ 44% chỉ trên PGBank (40%) — gần 56% số nợ xấu chưa được trích lập.
+
+Đặt cạnh việc trái phiếu phát hành gấp 4,6 lần, đây là hai ràng buộc cùng chiều: nguồn vốn đắt hơn, và tấm đệm mỏng hơn.
+
 ## Định giá
 
 P/E **8,5**, P/B **1,00**. Vốn hóa 13.208 tỷ. Thanh khoản **0,6 tỷ đồng mỗi phiên**.
@@ -82,7 +110,7 @@ Thanh khoản 0,6 tỷ đồng mỗi phiên trên vốn hóa 13.208 tỷ là m�
 
 ## Một số lưu ý
 
-- **Không có tỷ lệ nợ xấu nhóm 3–5.** Nguyên nhân hoàn nhập dự phòng 109 tỷ ở quý 2/2026 cũng chưa xác định được.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Chưa giải thích được vì sao biên lãi chỉ 1,85% khi LDR đã 104% — thông thường LDR cao đi kèm biên cao hơn. Cần cơ cấu tài sản sinh lãi để trả lời.
 - Không có kỳ hạn bình quân của 23.645 tỷ giấy tờ có giá.
 - Chưa tách được cơ cấu dư nợ theo ngành và nhóm khách hàng.

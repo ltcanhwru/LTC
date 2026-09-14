@@ -70,6 +70,33 @@ Và thanh khoản giải thích phần lớn: bốn trong bảy mã giao dịch 
 
 Đây đúng là [cái bẫy thanh khoản ngành nước](post.html?p=co-phieu-nganh-nuoc-va-bay-thanh-khoan) mà blog từng nêu — lần này với bảy mã khác và một phát hiện mới về biên.
 
+## Suất đầu tư: bảy công ty, bốn mức giá rất khác nhau
+
+Có một cách đọc nữa về nghịch lý biên lợi nhuận: chia nguyên giá tài sản cho công suất, để xem mỗi doanh nghiệp phải bỏ bao nhiêu vốn cho một đơn vị năng lực cấp nước.
+
+| Mã | Công suất | Nguyên giá TSCĐ | **Suất đầu tư mỗi m³/ngày** | Nhân viên | **m³/ngày mỗi người** |
+|---|---:|---:|---:|---:|---:|
+| **VAV** | 200.000 m³/ngày | 1.068 tỷ | **5,3 triệu** | 219 | **913** |
+| BWS | 240.000 m³/ngày | 2.053 tỷ | 8,6 triệu | 434 | 553 |
+| DNN | 250.000 m³/ngày | 2.582 tỷ | 10,3 triệu | 521 | 480 |
+| **VLW** | 48.400 m³/ngày | 717 tỷ | **14,8 triệu** | 239 | **203** |
+
+Khoảng cách ở cột suất đầu tư là **2,8 lần**: 5,3 triệu đồng của Vinh An so với 14,8 triệu của Viwaco.
+
+Ở cột năng suất lao động, khoảng cách còn lớn hơn — **4,5 lần**.
+
+Hai cột này giải thích phần lớn nghịch lý biên lợi nhuận nêu ở trên, và chúng cùng chỉ về một nguyên nhân: **địa bàn**.
+
+Doanh nghiệp cấp nước cho khu công nghiệp và vùng ven có ít điểm đấu nối, mỗi điểm tiêu thụ lớn, đường ống ngắn trên mỗi m³ — nên vốn đầu tư và nhân sự trên mỗi đơn vị công suất đều thấp.
+
+Doanh nghiệp cấp nước cho nội đô thì ngược lại: mạng ống dày đặc, hàng chục nghìn hộ dân, mỗi hộ dùng vài m³ mỗi tháng.
+
+Đây là khác biệt cấu trúc, không phải khác biệt quản trị. Một công ty nước nội đô không thể đạt suất đầu tư của công ty cấp nước khu công nghiệp dù vận hành tốt đến đâu.
+
+Hệ quả với người đọc: **khi so biên lợi nhuận giữa các công ty nước, phải so trong cùng loại địa bàn.** So Viwaco với Vinh An là so hai mô hình khác nhau.
+
+Một dòng nữa đáng chú ý: tỷ lệ hao mòn của cả bốn doanh nghiệp nằm trong khoảng 60–65% — tất cả đều đang ở giai đoạn sau của vòng đời tài sản, và chỉ Vinh An có khoản xây dựng cơ bản dở dang đáng kể (225 tỷ, bằng 21% nguyên giá).
+
 ## Một số lưu ý
 
 - Em không có sản lượng nước thương phẩm theo mét khối, giá bán bình quân và tỷ lệ thất thoát của cả bảy doanh nghiệp. Đó là ba con số đo đúng lõi ngành nước, và không có chúng thì giả thuyết "bán sỉ hay bán lẻ" vẫn chỉ là suy luận từ biên gộp.

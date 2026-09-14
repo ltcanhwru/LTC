@@ -52,6 +52,28 @@ Năm 2025 có một thay đổi đáng chú ý: nợ vay tăng từ 3.136 lên *
 
 Hai con số này ngược chiều nhau. Bảng số không cho biết vì sao, nhưng nó gợi ý doanh nghiệp đang dùng vốn vay cho một khoản đầu tư — có thể là hạ tầng khu công nghiệp mới hoặc mảng điện.
 
+## 1.156 người và khoảng 7.000 hecta
+
+IDICO đầu tư và kinh doanh khu công nghiệp với tổng diện tích khoảng **7.000 ha**, cùng **1.156 nhân viên** và **2 chi nhánh**.
+
+| Chỉ số cuối 2025 | IDC | So sánh |
+|---|---:|---|
+| Diện tích khu công nghiệp | **≈ 7.000 ha** | lớn hơn KBC |
+| **Hàng tồn kho** | **1.299 tỷ** | KBC: 27.073 tỷ |
+| **Xây dựng cơ bản dở dang** | **6.752 tỷ** | KBC: 4.201 tỷ |
+| Bất động sản đầu tư | 2.574 tỷ | |
+| Tồn kho / nhân viên | 1,1 tỷ | KBC: 48,9 tỷ |
+
+Đây là khác biệt kế toán quan trọng nhất giữa IDICO và Kinh Bắc, và nó giải thích phần lớn sự khác nhau giữa hai bảng số.
+
+Kinh Bắc ghi quỹ đất vào **hàng tồn kho** — tức hàng để bán, doanh thu ghi nhận một lần khi bàn giao.
+
+IDICO ghi phần lớn vào **chi phí xây dựng cơ bản dở dang** và **bất động sản đầu tư** — tức tài sản giữ lại để cho thuê, doanh thu phân bổ dần.
+
+Đó chính là nguồn gốc của điều bài đã nêu: tiền về vượt lợi nhuận bốn năm liền. Khi khách thuê trả tiền một lần cho hợp đồng nhiều chục năm, tiền vào ngay nhưng doanh thu được phân bổ đều — nên dòng tiền luôn chạy trước lợi nhuận.
+
+Khoản **6.752 tỷ đang xây dở** là nguồn cung của những năm tới, và nó lớn gấp 5,2 lần hàng tồn kho.
+
 ## Định giá
 
 P/E **5,8**, P/B **2,02**, ROE **26%**. Vốn hóa 12.523 tỷ. Thanh khoản 34 tỷ đồng mỗi phiên. Sàn HNX.

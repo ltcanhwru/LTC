@@ -55,6 +55,26 @@ Lãi cho vay đang tăng đều: 128 → 319 tỷ qua sáu quý, không quý nà
 
 Nhưng nó chỉ chiếm 21% doanh thu. Nếu công ty muốn giảm phụ thuộc vào tự doanh, đây là chỗ để làm — và dư địa thì có sẵn.
 
+## 392 người, lợi nhuận hạng tư
+
+SHS có **392 nhân viên** và **2 chi nhánh**.
+
+| Chỉ số 2025 | SHS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | **9.359 tr** | 6.520 tr | **6/36** |
+| Dư nợ margin / nhân viên | 23,2 tỷ | 21,2 tỷ | 10/36 |
+| **LNTT / nhân viên** | **4.208 tr** | 2.988 tr | **4/36** |
+
+Lợi nhuận trên mỗi nhân viên **4.208 triệu** đứng thứ tư toàn ngành.
+
+Bộ máy 392 người tạo ra 3.669 tỷ doanh thu — bằng 28% SSI với 24% số nhân sự.
+
+Nhưng năng suất cao ở đây có nguồn gốc khác với TCX hay VPX. SHS không tổ chức quanh cho vay margin: dư nợ trên mỗi nhân viên 23,2 tỷ chỉ ngang mức bình quân ngành.
+
+Nguồn của năng suất là **tự doanh** — hoạt động không cần nhân sự tỷ lệ thuận với quy mô vốn.
+
+Đó cũng là lý do một quý tự doanh âm 32 tỷ làm thay đổi hẳn bức tranh: khi năng suất đến từ danh mục đầu tư chứ không từ dịch vụ khách hàng, nó biến động theo thị trường chứ không theo vận hành.
+
 ## Định giá
 
 P/E **12,8**, P/B **1,03**, ROE **8%**. Vốn hóa 12.862 tỷ. Thanh khoản 168 tỷ đồng mỗi phiên. Sàn HNX.

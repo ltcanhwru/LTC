@@ -55,6 +55,27 @@ Ba doanh nghiệp may, ba cấu trúc rất khác nhau. TNG dùng đòn bẩy n�
 
 Điểm chung: cả ba đều tích một lượng tiền lớn so với quy mô. Đó là đặc điểm của ngành may gia công xuất khẩu — biên mỏng, nhưng khi có lãi thì gần như không cần tái đầu tư nhiều, nên tiền tích lại.
 
+## 1.975 người
+
+Tổng công ty May Hưng Yên có **1.975 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **1.975** |
+| Nguyên giá tài sản cố định | 311 tỷ |
+| **Tài sản cố định / nhân viên** | **157 triệu đồng** |
+| Hao mòn lũy kế | 201 tỷ (**65%**) |
+| **Bất động sản đầu tư** | **64 tỷ** |
+| Hàng tồn kho | 60 tỷ |
+
+**157 triệu đồng tài sản cố định trên mỗi nhân viên** — thấp nhất trong nhóm dệt may của loạt bài, so với [TNG](post.html?p=tng-loi-nhuan-loi-gap-doi-loi-nhuan-bao-cao) 212 triệu và May Sông Hồng 236 triệu.
+
+Đây là đặc trưng của gia công may mặc thuần: máy may rẻ, lao động là yếu tố chính, và giá trị gia tăng nằm ở tay nghề cùng năng suất chứ không ở thiết bị.
+
+Hệ quả: **chi phí gần như toàn bộ là lương**, nên biên lợi nhuận nhạy với mức lương tối thiểu và với đơn giá gia công — hai thứ đều chịu áp lực từ cạnh tranh quốc tế.
+
+Khoản **64 tỷ bất động sản đầu tư** đáng chú ý riêng: bằng 21% nguyên giá tài sản cố định. Doanh nghiệp có một phần tài sản cho thuê, tạo nguồn thu không phụ thuộc vào đơn hàng may.
+
 ## Định giá
 
 Ở giá 30.000 đồng: P/E 6,6, P/B 1,93, cổ tức 8,3%. Giá tăng 6% trong một năm nhưng giảm 16% trong ba năm.

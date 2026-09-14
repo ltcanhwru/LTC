@@ -52,6 +52,27 @@ Ba cách giải thích khả dĩ:
 
 Bài này không phân biệt được ba khả năng. Nhưng điểm cần nhớ: **khi P/E của hai doanh nghiệp cùng ngành chênh nhau bảy lần, ít nhất một trong hai con số không mang thông tin.**
 
+## 236 người
+
+Cấp nước Bến Thành có **236 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 546 tỷ |
+| Hao mòn lũy kế | 341 tỷ (**62%**) |
+| Tài sản cố định / nhân viên | 2,3 tỷ |
+| Xây dựng cơ bản dở dang | 8 tỷ |
+| Hàng tồn kho | 33 tỷ |
+| Phải thu khách hàng | 12 tỷ |
+
+Quy mô nhỏ ở mọi chiều: nguyên giá 546 tỷ, 236 nhân viên, phải thu 12 tỷ.
+
+Khoản xây dựng cơ bản dở dang **8 tỷ** — gần như không đầu tư mở rộng, cùng hình dạng với các công ty nước khác trong nhóm.
+
+Hao mòn 62% đặt hệ thống ở giữa đến cuối vòng đời.
+
+Với mô hình phân phối nước đô thị, doanh thu rất ổn định và gần như không có rủi ro công nợ. Nhưng cũng vì vậy, biên lợi nhuận gần như hoàn toàn do khung giá nước quyết định, và doanh nghiệp không có đòn bẩy nào để cải thiện ngoài kiểm soát thất thoát.
+
 ## Một số lưu ý
 
 - Em không có sản lượng nước thương phẩm, giá bán bình quân và tỷ lệ thất thoát — ba con số cần để giải thích biên gộp giảm từ 42% xuống 36%.

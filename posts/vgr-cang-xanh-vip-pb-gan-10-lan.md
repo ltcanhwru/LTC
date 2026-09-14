@@ -52,6 +52,28 @@ Nếu đúng, P/B trở thành chỉ số ít ý nghĩa ở đây, và P/E 19,0 
 
 P/E 19,0 cho một doanh nghiệp vừa tăng lợi nhuận cốt lõi 67% trong ba năm không phải vô lý. Nhưng nó đòi hỏi đà tăng đó tiếp tục — và sản lượng container qua Hải Phòng thì phụ thuộc vào cả thương mại lẫn cạnh tranh từ các bến nước sâu mới tại Lạch Huyện.
 
+## 205 người và cảng đã khấu hao 85%
+
+Cảng Xanh VIP cung cấp dịch vụ bốc xếp và lưu giữ container, với **205 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | **1.172 tỷ** |
+| Hao mòn lũy kế | 994 tỷ (**85%**) |
+| Giá trị còn lại | **178 tỷ** |
+| **Tài sản cố định / nhân viên** | **5,7 tỷ** |
+| Xây dựng cơ bản dở dang | **0** |
+
+**5,7 tỷ đồng tài sản cố định mỗi nhân viên** — mức cao, đặc trưng của cảng container hiện đại với mức tự động hóa cao.
+
+Hao mòn **85%** và không có công trình nào đang xây.
+
+Giá trị còn lại 178 tỷ trên nguyên giá 1.172 tỷ.
+
+Cùng hình dạng với Cảng Đình Vũ và Cảng Cát Lái: cảng đã xây xong từ lâu, khấu hao gần hết, đang tạo dòng tiền tốt, nhưng không mở rộng.
+
+Điều bảng số không nói — và là biến số quyết định — là **sản lượng container thông qua** và mức cạnh tranh với các cảng nước sâu mới ở khu vực.
+
 ## Một số lưu ý
 
 - Em không có sản lượng container qua cảng theo TEU và doanh thu mỗi TEU. Không có hai con số này thì không biết biên bật lên 52% do giá dịch vụ hay do sản lượng.

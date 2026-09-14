@@ -51,6 +51,27 @@ Phần lớn số tiền ấy là vốn lưu động của hoạt động phân 
 
 Dòng tiền kinh doanh thì khá: 202, −89, 346, 208 tỷ trong bốn năm, tổng cộng 667 tỷ trên lợi nhuận 463 tỷ. Cổ tức trả đều 73–91 tỷ mỗi năm.
 
+## 1.026 người
+
+Gas Petrolimex có **1.026 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 1.007 tỷ |
+| Hao mòn lũy kế | 774 tỷ (**77%**) |
+| Giá trị còn lại | 233 tỷ |
+| **Phải thu khách hàng** | **410 tỷ** |
+| Hàng tồn kho | 180 tỷ |
+| Xây dựng cơ bản dở dang | 23 tỷ |
+
+Hao mòn **77%** — hệ thống kho chứa, bồn bể và xe bồn đã khấu hao phần lớn.
+
+Với mô hình phân phối gas, tài sản cố định không lớn (1.007 tỷ nguyên giá) so với doanh thu, và phần giá trị thật nằm ở **mạng lưới đại lý và thương hiệu** — hai thứ không xuất hiện trên bảng cân đối.
+
+Khoản phải thu khách hàng 410 tỷ lớn gấp 2,3 lần hàng tồn kho, phản ánh công nợ với hệ thống đại lý.
+
+Khoản xây dựng cơ bản dở dang 23 tỷ cho biết doanh nghiệp không mở rộng hạ tầng. Tăng trưởng, nếu có, đến từ sản lượng qua mạng lưới hiện có.
+
 ## Định giá
 
 Vốn hóa 857 tỷ, P/E 5,7, P/B **1,00** — đúng bằng giá trị sổ sách.

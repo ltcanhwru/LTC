@@ -48,6 +48,28 @@ Với một doanh nghiệp đang chi gấp tám lần khấu hao cho tài sản 
 
 Không thể trả lời câu này từ báo cáo tài chính. Phải biết nhà máy sản xuất dòng sản phẩm nào và công suất bao nhiêu.
 
+## 1.423 người và 540 tỷ đang xây
+
+Bidiphar có **1.423 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị | Tỷ lệ trên nguyên giá |
+|---|---:|---:|
+| Nguyên giá tài sản cố định | 850 tỷ | |
+| Hao mòn lũy kế | 578 tỷ (68%) | |
+| **Xây dựng cơ bản dở dang** | **540 tỷ** | **64%** |
+| Đầu tư vào công ty liên kết | 162 tỷ | |
+| Hàng tồn kho | 366 tỷ | |
+
+Đây là con số quan trọng nhất của bài: **540 tỷ đang xây dở, bằng 64% nguyên giá toàn bộ tài sản hiện có**.
+
+Tỷ lệ này cao nhất trong nhóm dược của loạt bài — và nó có nghĩa doanh nghiệp đang trong một chu kỳ đầu tư lớn so với quy mô của chính mình.
+
+Với ngành dược, khoản xây dựng cơ bản dở dang thường là **nhà máy đạt chuẩn GMP mới** — điều kiện bắt buộc để sản xuất các dòng thuốc có giá trị cao hơn và để tham gia đấu thầu vào bệnh viện ở nhóm chất lượng cao.
+
+Hệ quả cần chuẩn bị: khi 540 tỷ này hoàn thành và chuyển sang tài sản cố định, **chi phí khấu hao sẽ tăng đáng kể** trên nền nguyên giá hiện chỉ 850 tỷ — và nó ăn thẳng vào biên gộp trước khi doanh thu từ dây chuyền mới kịp tăng.
+
+Tài sản hiện có đã khấu hao 68%, nên phần đầu tư mới là cần thiết chứ không phải mở rộng tùy chọn.
+
 ## Định giá
 
 Ở giá 46.950 đồng: P/E 15,3, P/B 2,87, cổ tức 4,2%. Giá giảm 9% trong một năm.

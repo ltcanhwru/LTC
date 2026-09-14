@@ -57,6 +57,24 @@ Lãi cho vay tăng đều sáu quý: 42 → 69 tỷ.
 
 Lãi tự doanh thì dao động từ 2 tới 40 tỷ — quy mô nhỏ nên ảnh hưởng hạn chế.
 
+## 159 người và 3 chi nhánh
+
+Agriseco có **159 nhân viên** và **3 chi nhánh**.
+
+| Chỉ số 2025 | AGR | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| **Doanh thu / nhân viên** | **3.032 tr** | 6.520 tr | **24/36** |
+| Dư nợ margin / nhân viên | 15,4 tỷ | 21,2 tỷ | 17/36 |
+| LNTT / nhân viên | 1.109 tr | 2.988 tr | 21/36 |
+
+Doanh thu trên mỗi nhân viên 3.032 triệu, bằng 47% mức bình quân ngành.
+
+Dư nợ margin 2.441 tỷ trên 159 người ra 15,4 tỷ mỗi người — gần mức bình quân, tức mảng cho vay vận hành bình thường.
+
+Nhưng tổng doanh thu chỉ 482 tỷ, và đó là lý do năng suất thấp: công ty gần như chỉ có một nguồn thu.
+
+Điều này nhất quán với nội dung chính của bài: bốn năm lợi nhuận nằm gọn trong khoảng 169–185 tỷ. Một công ty có cơ cấu doanh thu đơn giản, quy mô ổn định, và không có động lực tăng trưởng nào hiện ra trong bảng số.
+
 ## Định giá
 
 P/E **16,8**, P/B **1,10**, ROE **7%**. Vốn hóa 2.888 tỷ. Thanh khoản 3,1 tỷ đồng mỗi phiên.

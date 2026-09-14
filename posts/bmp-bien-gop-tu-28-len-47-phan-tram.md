@@ -55,6 +55,28 @@ Chi mua sắm tài sản cố định so với khấu hao: 41%, 45%, 98%, rồi 
 
 Với nhà đầu tư tìm cổ tức, đó là cấu trúc lý tưởng. Với nhà đầu tư tìm lãi kép, đó là giới hạn: một doanh nghiệp trả đi 85% lợi nhuận thì [phần vốn còn lại để tái đầu tư rất mỏng](post.html?p=roic-mot-dong-von-tao-ra-bao-nhieu-gia-tri), dù tỷ suất sinh lời trên vốn có cao đến đâu.
 
+## 1.358 người và nhà máy đã khấu hao 88%
+
+Nhựa Bình Minh có **1.358 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 2.250 tỷ |
+| Hao mòn lũy kế | 1.990 tỷ (**88%**) |
+| **Giá trị còn lại** | **260 tỷ** |
+| Xây dựng cơ bản dở dang | 48 tỷ |
+| Hàng tồn kho | 525 tỷ |
+
+Hao mòn **88%** — khối nhà máy còn giá trị sổ sách 260 tỷ trên nguyên giá 2.250 tỷ.
+
+Đây là nguồn gốc trực tiếp của biên lợi nhuận cao mà Nhựa Bình Minh duy trì nhiều năm: **chi phí khấu hao trên mỗi mét ống nhựa đã rất nhỏ**.
+
+Doanh nghiệp thu hoạch từ khối tài sản đã trả xong, và trả phần lớn lợi nhuận về cho cổ đông dưới dạng cổ tức thay vì tái đầu tư — khoản xây dựng cơ bản dở dang chỉ 48 tỷ.
+
+Đó là chiến lược hợp lý với một thị trường tăng trưởng chậm, nhưng nó cũng có nghĩa: **sản lượng những năm tới bị giới hạn bởi công suất hiện có**, và lợi thế chi phí sẽ thu hẹp khi tài sản cần thay thế.
+
+So sánh trong ngành: [Nhựa Tiền Phong](post.html?p=ntp-quy-ky-luc-va-bien-gop-38-phan-tram) có hao mòn 63% — trẻ hơn đáng kể.
+
 ## Định giá
 
 Ở giá 140.300 đồng, BMP có P/E 9,0 và P/B 4,03. Nhưng P/B trung bình năm năm của chính nó là 3,11 — **cổ phiếu đang đắt hơn lịch sử của mình khoảng 30%**.

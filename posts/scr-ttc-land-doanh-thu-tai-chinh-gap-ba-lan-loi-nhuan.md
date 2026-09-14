@@ -68,6 +68,28 @@ Khoản người mua trả tiền trước đứng yên ở 497–585 tỷ suố
 
 Ghép lại: doanh nghiệp vay thêm 2.277 tỷ trong ba năm nhưng hàng tồn kho gần như không đổi và khách hàng không đặt cọc thêm.
 
+## 323 người
+
+TTC Land có **323 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 3.493 tỷ |
+| **Bất động sản đầu tư** | **1.558 tỷ** |
+| Tài sản dở dang dài hạn | 613 tỷ |
+| Người mua trả tiền trước | 531 tỷ |
+| **Tồn kho / nhân viên** | **10,8 tỷ** |
+
+Khoản **bất động sản đầu tư 1.558 tỷ** là điểm khác biệt so với các chủ đầu tư thuần trong nhóm.
+
+Đây là tài sản giữ lại cho thuê — văn phòng, mặt bằng thương mại — tạo doanh thu định kỳ thay vì doanh thu một lần khi bàn giao.
+
+Nó chiếm 45% quy mô hàng tồn kho, tức doanh nghiệp có một phần đáng kể nguồn thu không phụ thuộc vào chu kỳ bán nhà.
+
+Tỷ lệ đã đặt cọc: 531 tỷ trên 3.493 tỷ hàng tồn kho, tức **15%**.
+
+Với 323 nhân viên, tồn kho trên mỗi người 10,8 tỷ — gần gấp đôi mức bình quân ngành.
+
 ## Định giá
 
 P/E **25,7**, P/B **0,34**, ROE **1%**. Vốn hóa 1.821 tỷ. Thanh khoản 4,6 tỷ đồng mỗi phiên.

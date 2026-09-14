@@ -58,6 +58,28 @@ Hai năm trước biên là 24–25%. Bây giờ là 19%. Sáu điểm phần tr
 
 Nói cách khác: **vấn đề của PHN không phải bán được bao nhiêu, mà bán với biên nào.**
 
+## Pin Hà Nội: nhà máy đã khấu hao 87%
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 80 tỷ |
+| Hao mòn lũy kế | 70 tỷ (**87%**) |
+| **Giá trị còn lại** | **10 tỷ** |
+| Hàng tồn kho | 124 tỷ |
+| Xây dựng cơ bản dở dang | **0** |
+
+Toàn bộ nhà máy sản xuất pin còn giá trị sổ sách **10 tỷ đồng**.
+
+Hàng tồn kho **124 tỷ** lớn gấp **12 lần** giá trị còn lại của tài sản cố định.
+
+Và khoản xây dựng cơ bản dở dang **bằng không** — không có dây chuyền nào đang được xây thay thế.
+
+Đây là trạng thái cuối chu kỳ tài sản. Chi phí khấu hao gần như đã hết, giúp lợi nhuận hiện tại, nhưng năng lực sản xuất đang chạy trên thiết bị đã khấu hao xong.
+
+Nó cũng là bối cảnh cho điều bài đã nêu — năm đầu tiên tiền từ kinh doanh âm: khi khấu hao không còn bù đắp, chênh lệch giữa lợi nhuận và dòng tiền thu hẹp lại, và biến động vốn lưu động hiện ra rõ hơn.
+
+Số lao động của doanh nghiệp trong bộ dữ liệu em dùng không hợp lý nên em không tính các tỷ suất theo đầu người.
+
 ## Định giá
 
 P/E **11,8**, P/B **2,50**. Thanh khoản **0,01 tỷ đồng mỗi phiên** — mười triệu đồng, mức mỏng nhất nhóm cùng [VBC](post.html?p=vbc-nhua-bao-bi-vinh-pb-084-lan) và [QST](post.html?p=qst-sach-quang-ninh-von-hoa-78-ty).

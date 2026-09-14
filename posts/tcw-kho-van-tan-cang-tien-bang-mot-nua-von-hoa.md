@@ -44,6 +44,29 @@ Năm 2024 lệch mạnh rồi năm 2025 bù lại. Bốn năm cộng lại xấp
 
 Cổ tức chi 42–50% lợi nhuận, đều đặn. Tỷ suất cổ tức hiện tại 6,7%.
 
+## 695 người và kho bãi đã khấu hao 84%
+
+Kho vận Tân Cảng cho thuê kho, kinh doanh vận tải và dịch vụ cảng trung chuyển, với **695 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 785 tỷ |
+| Hao mòn lũy kế | 661 tỷ (**84%**) |
+| **Giá trị còn lại** | **124 tỷ** |
+| Tài sản cố định / nhân viên | 1,1 tỷ |
+| Phải thu khách hàng | 207 tỷ |
+| Xây dựng cơ bản dở dang | **0** |
+
+Hao mòn **84%** và khoản xây dựng cơ bản dở dang **bằng không**.
+
+Toàn bộ hệ thống kho bãi còn giá trị sổ sách **124 tỷ đồng**, và không có công trình nào đang xây thay thế.
+
+Đây là trạng thái cuối chu kỳ: doanh nghiệp đang thu hoạch từ tài sản gần hết khấu hao, chi phí kế toán rất thấp, nhưng năng lực không tăng và chưa có kế hoạch mở rộng nào hiện trên bảng cân đối.
+
+Với mô hình cho thuê kho, giá trị thực nằm ở **vị trí đất** — thứ không mất giá theo khấu hao và không xuất hiện đúng giá trị trên sổ sách.
+
+Phải thu khách hàng 207 tỷ lớn hơn giá trị còn lại của tài sản.
+
 ## Định giá
 
 P/E **4,5**, P/B 1,54. Thanh khoản 0,09 tỷ đồng mỗi phiên — khoảng chín mươi triệu.

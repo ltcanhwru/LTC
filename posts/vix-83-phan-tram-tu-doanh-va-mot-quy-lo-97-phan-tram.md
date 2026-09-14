@@ -57,6 +57,30 @@ Vốn chủ sở hữu 21.455 tỷ trên dư nợ 15.380 tỷ nghĩa là VIX cò
 
 Nhìn theo quý, lãi cho vay đang đi ngang ở 348–352 tỷ suốt bốn quý gần nhất. Dư nợ không còn tăng.
 
+## 84 nhân viên — con số cần đọc rất thận trọng
+
+Theo hồ sơ doanh nghiệp, Chứng khoán VIX có **84 nhân viên**.
+
+Đặt cạnh bảng cân đối, con số đó cho ra các tỷ suất không giống bất kỳ công ty nào khác trong ngành:
+
+| Chỉ số 2025 | VIX | Bình quân 36 CTCK |
+|---|---:|---:|
+| Dư nợ margin / nhân viên | **183,1 tỷ** | 21,2 tỷ |
+| Doanh thu / nhân viên | **98.561 tr** | 6.520 tr |
+| LNTT / nhân viên | **79.964 tr** | 2.988 tr |
+
+Mỗi con số đều gấp 8–27 lần mức bình quân ngành.
+
+**Em không dùng bảng này để kết luận về hiệu quả vận hành.** Một công ty quản lý 15.380 tỷ dư nợ margin và 8.279 tỷ doanh thu với 84 người là điều khó xảy ra trong thực tế: riêng nghiệp vụ quản lý tài khoản, kiểm soát rủi ro và vận hành hệ thống đã cần nhiều hơn thế.
+
+Nhiều khả năng đây là số lao động của riêng công ty mẹ ở một thời điểm cũ, hoặc doanh nghiệp thuê ngoài phần lớn khâu vận hành.
+
+Điều bảng số **có** nói, và nói đáng tin, là hình dạng mô hình: VIX không phải công ty môi giới. Doanh thu môi giới 215 tỷ trên tổng doanh thu 8.279 tỷ — chỉ **2,6%**.
+
+Đây là công ty đầu tư tự doanh có kèm hoạt động cho vay margin, và cơ cấu nhân sự mỏng là hệ quả logic của việc không vận hành mạng lưới môi giới.
+
+Đó cũng chính là lý do một quý tự doanh xấu làm lợi nhuận rơi 97%: không có dòng thu nào khác đủ lớn để đỡ.
+
 ## Định giá
 
 P/E **8,6**, P/B **1,04**. Vốn hóa 34.090 tỷ. Thanh khoản **573 tỷ đồng mỗi phiên** — cao nhất trong 36 công ty chứng khoán niêm yết, và cao hơn cả SSI (441 tỷ).

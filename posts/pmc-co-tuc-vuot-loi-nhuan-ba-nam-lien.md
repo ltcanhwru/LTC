@@ -55,6 +55,28 @@ Quý 2/2026 là quý yếu nhất chuỗi: doanh thu thấp nhất, lợi nhuậ
 
 Biên gộp vẫn 42%, nên nguyên nhân là doanh thu giảm chứ không phải giá bán.
 
+## 543 người
+
+Pymepharco có **543 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 289 tỷ |
+| Hao mòn lũy kế | 198 tỷ (**68%**) |
+| Tài sản cố định / nhân viên | 532 triệu đồng |
+| Hàng tồn kho | 104 tỷ |
+| Xây dựng cơ bản dở dang | 2 tỷ |
+
+Nguyên giá **289 tỷ** — quy mô nhà máy nhỏ so với các doanh nghiệp dược niêm yết khác trong loạt bài.
+
+Hao mòn 68% và khoản xây dựng cơ bản dở dang chỉ **2 tỷ**: không có đầu tư mở rộng nào đang diễn ra.
+
+Với ngành dược, đây là điểm cần theo dõi hơn ở các ngành khác. Nhà máy không nâng cấp sẽ dần giới hạn danh mục sản phẩm được phép sản xuất và nhóm đấu thầu được tham gia.
+
+Hàng tồn kho 104 tỷ — nhỏ so với nguyên giá tài sản, khác với các doanh nghiệp dược có hệ thống phân phối riêng như Traphaco (563 tỷ) hay Dược phẩm Trung ương 1 (1.033 tỷ).
+
+Điều đó gợi ý mô hình bán qua kênh phân phối của bên thứ ba hơn là tự phân phối.
+
 ## Định giá
 
 P/E **15,2**, P/B **4,44** — cả hai đều cao nhất trong nhóm dược mà bài lọc này soi.

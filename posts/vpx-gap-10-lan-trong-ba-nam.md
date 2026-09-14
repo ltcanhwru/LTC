@@ -59,6 +59,26 @@ Nửa đầu 2026: lợi nhuận sau thuế 2.169 tỷ so với 722 tỷ cùng k
 
 Phí môi giới thì rất nhỏ — 126–185 tỷ mỗi quý, tức 6% doanh thu. Công ty gần như không cạnh tranh ở mảng này.
 
+## 815 người, năng suất hạng ba
+
+Chứng khoán VPBank có **815 nhân viên**.
+
+| Chỉ số 2025 | VPX | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | **9.706 tr** | 6.520 tr | **5/36** |
+| **Dư nợ margin / nhân viên** | **41,8 tỷ** | 21,2 tỷ | **4/36** |
+| **LNTT / nhân viên** | **5.492 tr** | 2.988 tr | **3/36** |
+
+Lợi nhuận trên mỗi nhân viên **5.492 triệu** đứng thứ ba toàn ngành, sau VIX và Chứng khoán Kỹ Thương.
+
+Dư nợ margin trên mỗi người 41,8 tỷ — gấp đôi mức bình quân và gần bằng HSC.
+
+Cùng hình dạng với TCX: công ty chứng khoán thuộc một ngân hàng, tổ chức quanh mảng cho vay margin, tận dụng tệp khách hàng và nguồn vốn của ngân hàng mẹ, không cần bộ máy môi giới truyền thống.
+
+Đây là phần lý giải vật chất cho việc quy mô gấp 10 lần trong ba năm: mô hình này mở rộng được nhanh vì **tăng dư nợ không đòi hỏi tăng nhân sự tương ứng**. 34.093 tỷ dư nợ chia cho 815 người.
+
+Ràng buộc không nằm ở người mà ở vốn: dư nợ margin trên vốn chủ hiện là 1,01 lần, tức vẫn còn dư địa trước trần 2 lần — khác với TCX, HCM và MBS đã sát trần.
+
 ## Định giá
 
 P/E **9,0**, P/B **1,26**. Vốn hóa 45.000 tỷ — lớn thứ tư trong ngành. Thanh khoản 21 tỷ đồng mỗi phiên.

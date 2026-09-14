@@ -55,6 +55,26 @@ Nửa đầu 2026: 592 tỷ so với 479 tỷ — tăng **24%**.
 
 Lãi cho vay tăng đều sáu quý: 257 → 463 tỷ. Đây là dòng duy nhất trong bảng không có quý nào giảm.
 
+## 442 người
+
+Vietcap có **442 nhân viên**.
+
+| Chỉ số 2025 | VCI | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | **11.267 tr** | 6.520 tr | **3/36** |
+| Dư nợ margin / nhân viên | **36,6 tỷ** | 21,2 tỷ | 5/36 |
+| **LNTT / nhân viên** | **3.686 tr** | 2.988 tr | **5/36** |
+
+Doanh thu trên mỗi nhân viên **11.267 triệu** đứng thứ ba toàn ngành, sau VIX và TCX.
+
+Với 442 người, đây là bộ máy gọn: bằng 27% SSI và 22% VPS, trong khi doanh thu 4.980 tỷ.
+
+Đặt cạnh nội dung chính của bài — vốn chủ gấp 2,8 lần trong khi lợi nhuận chỉ tăng 54% — bảng này cho biết vấn đề không nằm ở vận hành. Năng suất trên mỗi nhân viên thuộc nhóm cao nhất ngành.
+
+Vấn đề nằm ở mẫu số: vốn chủ 18.010 tỷ tăng nhanh hơn khả năng triển khai nó. Dư nợ margin 16.167 tỷ trên vốn chủ đó chỉ là **0,90 lần**, còn xa trần 2 lần.
+
+Nói cách khác, công ty đang giữ nhiều vốn hơn mức đang dùng — và đó là nguyên nhân trực tiếp của ROE thấp, không phải hiệu quả vận hành.
+
 ## Định giá
 
 P/E **15,9**, P/B **1,35**. Vốn hóa 23.102 tỷ. Thanh khoản 205 tỷ đồng mỗi phiên — cao thứ tư trong ngành.

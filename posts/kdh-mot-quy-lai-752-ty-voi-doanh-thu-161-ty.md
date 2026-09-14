@@ -61,6 +61,31 @@ Và lợi nhuận từ lõi chiếm 76–124% lợi nhuận trước thuế tron
 
 Điều đó khiến quý 2/2026 càng nổi bật: đây là quý đầu tiên trong chuỗi mà lõi âm và lợi nhuận đến từ tài chính.
 
+## 346 người giữ 23.260 tỷ
+
+Nhà Khang Điền có **346 nhân viên**.
+
+| Chỉ số cuối 2025 | KDH | Vị trí trong 35 mã |
+|---|---:|---|
+| Hàng tồn kho | 23.260 tỷ | |
+| Nhân viên | **346** | |
+| **Tồn kho / nhân viên** | **67,2 tỷ** | **cao thứ hai** |
+| Người mua trả tiền trước | 648 tỷ | |
+| **Tỷ lệ đã đặt cọc** | **2,8%** | rất thấp |
+| Xây dựng cơ bản dở dang | 1.735 tỷ | |
+
+**67,2 tỷ đồng hàng tồn kho trên mỗi nhân viên** — cao thứ hai trong 35 doanh nghiệp, chỉ sau Novaland.
+
+Với 346 người, Khang Điền là một trong những chủ đầu tư gọn nhẹ nhất về nhân sự trong nhóm có quỹ đất lớn. Để so sánh: Đất Xanh có 4.564 nhân viên cho 15.658 tỷ tồn kho — ít đất hơn nhưng đông người gấp 13 lần.
+
+Nhưng con số đáng chú ý hơn là dòng áp chót. Khoản người mua trả tiền trước **648 tỷ** trên hàng tồn kho 23.260 tỷ ra tỷ lệ **2,8%**.
+
+Nói cách khác: **97% khối hàng chưa có khách đặt cọc.**
+
+Để so sánh, [Vinhomes](post.html?p=vhm-ban-gap-25-lan-lai-gop-chi-tang-mot-nua) có tỷ lệ này là 38%, và [Sunshine](post.html?p=ksf-tong-tai-san-gap-58-lan-trong-mot-nam) giữ 24.556 tỷ tiền khách hàng trên 14.687 tỷ tồn kho — tức đã bán trước nhiều hơn cả lượng hàng đang xây.
+
+Đây là chỉ báo sớm nhất về tốc độ bán, và nó nhất quán với việc doanh thu nửa đầu 2026 giảm 75%.
+
 ## Định giá
 
 P/E **10,4**, P/B **0,98**, ROE **9%**. Vốn hóa 18.292 tỷ. Thanh khoản 92 tỷ đồng mỗi phiên.

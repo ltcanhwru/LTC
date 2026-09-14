@@ -50,6 +50,28 @@ Nói cách khác, mỗi ngày thị trường trao tay chưa tới một phần 
 
 Nguyên nhân thông thường là tỷ lệ sở hữu cô đặc — cổ đông chiến lược nước ngoài và cổ đông nhà nước nắm phần lớn, phần trôi nổi rất nhỏ. Khi đó giá cổ phiếu phản ánh giao dịch của một nhóm rất hẹp.
 
+## 2.806 người
+
+Dược Hậu Giang có **2.806 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 2.200 tỷ |
+| Hao mòn lũy kế | 1.232 tỷ (**56%**) |
+| Tài sản cố định / nhân viên | 784 triệu đồng |
+| **Hàng tồn kho** | **1.025 tỷ** |
+| **Phải thu khách hàng** | **615 tỷ** |
+| Xây dựng cơ bản dở dang | 44 tỷ |
+| Bất động sản đầu tư | 30 tỷ |
+
+Hàng tồn kho 1.025 tỷ và phải thu 615 tỷ cộng lại **1.640 tỷ** — bằng 75% nguyên giá tài sản cố định.
+
+Đây là cấu trúc của doanh nghiệp dược có hệ thống phân phối riêng: vốn nằm ở hàng trong kênh và công nợ với nhà thuốc, bên cạnh nhà máy.
+
+Hao mòn **56%** cho thấy dây chuyền ở giữa vòng đời — trẻ hơn nhiều doanh nghiệp sản xuất khác trong loạt bài, phù hợp với yêu cầu chuẩn GMP phải nâng cấp định kỳ.
+
+Khoản xây dựng cơ bản dở dang 44 tỷ là nhỏ: doanh nghiệp không trong chu kỳ đầu tư lớn, khác với [Bidiphar](post.html?p=dbd-chi-dau-tu-gap-tam-lan-khau-hao) đang xây 540 tỷ.
+
 ## Định giá
 
 Ở giá 95.500 đồng: P/E 13,0, P/B 3,65, cổ tức 5,2%. Giá gần như đi ngang một năm và ba năm.

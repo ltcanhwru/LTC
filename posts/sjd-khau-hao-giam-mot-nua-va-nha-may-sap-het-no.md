@@ -63,6 +63,32 @@ Và tiền được trả về: năm 2023 cổ tức 200 tỷ trên lợi nhuậ
 
 Bảng cân đối sạch: tiền và đầu tư tài chính 340 tỷ bằng 35% vốn hóa, nợ vay chỉ 19% vốn chủ.
 
+## 104 MW và nhà máy đã khấu hao 89%
+
+Thủy điện Cần Đơn có công suất thiết kế **104 MW**, với **264 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **104 MW** |
+| Nguyên giá tài sản cố định | 1.960 tỷ |
+| **Suất đầu tư mỗi MW** | **18,8 tỷ đồng** |
+| **Hao mòn lũy kế** | 1.745 tỷ (**89%**) |
+| **Giá trị còn lại** | **215 tỷ** |
+| **Phải thu khách hàng** | **744 tỷ** |
+| MW / nhân viên | 0,39 |
+
+Hao mòn **89%** là tỷ lệ cao nhất trong nhóm thủy điện của loạt bài.
+
+Giá trị còn lại của nhà máy 104 MW: **215 tỷ đồng**.
+
+Và khoản phải thu khách hàng **744 tỷ** — lớn gấp **3,5 lần** giá trị sổ sách còn lại của toàn bộ nhà máy.
+
+Đây là điều đáng chú ý nhất trên bảng cân đối: tiền đơn vị mua điện còn nợ nhiều hơn hẳn giá trị kế toán của tài sản tạo ra điện.
+
+Với 264 nhân viên cho 104 MW, tỷ lệ 0,39 MW mỗi người là thấp trong nhóm — doanh nghiệp có nhiều nhân sự hơn so với các nhà máy cùng quy mô công suất.
+
+Suất đầu tư 18,8 tỷ đồng mỗi MW thấp nhất trong nhóm sau ND2, phản ánh nhà máy xây ở giai đoạn sớm.
+
 ## Định giá
 
 Ở giá hiện tại, SJD có vốn hóa 959 tỷ, P/E 5,8, P/B 0,96 — **dưới giá trị sổ sách**.

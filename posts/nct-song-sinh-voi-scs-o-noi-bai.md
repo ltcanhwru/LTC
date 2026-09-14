@@ -66,6 +66,29 @@ Bốn năm chuyển đổi tiền tốt. Cổ tức có năm vượt cả lợi 
 
 Bảng cân đối rất sạch: **không có nợ vay**, tiền và đầu tư tài chính 636 tỷ — bằng 29% vốn hóa 2.198 tỷ.
 
+## 808 người và nhà ga đã khấu hao 77%
+
+Dịch vụ Hàng hóa Nội Bài có **808 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 382 tỷ |
+| Hao mòn lũy kế | 296 tỷ (**77%**) |
+| Giá trị còn lại | **86 tỷ** |
+| Tài sản cố định / nhân viên | 473 triệu đồng |
+| Xây dựng cơ bản dở dang | 18 tỷ |
+| Phải thu khách hàng | 86 tỷ |
+
+Nguyên giá tài sản chỉ **382 tỷ** cho một doanh nghiệp có 808 nhân viên — tức 473 triệu đồng mỗi người.
+
+Đây là mô hình **dịch vụ thâm dụng lao động**: xử lý hàng hóa hàng không cần nhiều nhân sự thao tác hơn là máy móc đắt tiền.
+
+Hao mòn 77% và giá trị còn lại 86 tỷ — bằng đúng khoản phải thu khách hàng.
+
+Với vị thế là đơn vị hoạt động lâu đời nhất tại sân bay Nội Bài, giá trị thực của doanh nghiệp nằm ở **quyền khai thác và vị trí trong sân bay** — không phải ở 86 tỷ tài sản còn lại trên sổ.
+
+Đó cũng là rủi ro: quyền đó không vĩnh viễn và không nằm trong tầm kiểm soát của doanh nghiệp.
+
 ## Định giá
 
 Ở giá 84.000 đồng: P/E 4,8, P/B 3,20, cổ tức 9,5%.

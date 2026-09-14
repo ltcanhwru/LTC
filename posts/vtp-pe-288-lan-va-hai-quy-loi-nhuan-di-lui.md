@@ -62,6 +62,33 @@ Nếu sai, doanh nghiệp còn lại khấu hao cao hơn, nợ nhiều hơn, và
 
 Hai quý lợi nhuận đi lùi vừa rồi nghiêng về phía thứ hai — ít nhất là ở thời điểm hiện tại. Khấu hao đã tăng nhưng biên chưa tăng tương ứng.
 
+## 29.454 người và 86 chi nhánh
+
+Viettel Post có **29.454 nhân viên** và **86 chi nhánh** — quy mô nhân sự lớn thứ tư trong toàn bộ các doanh nghiệp em đã viết.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **29.454** |
+| Nguyên giá tài sản cố định | 1.764 tỷ |
+| **Tài sản cố định / nhân viên** | **60 triệu đồng** |
+| Hao mòn / nguyên giá | 44% |
+| Phải thu khách hàng | 2.169 tỷ |
+| Hàng tồn kho | 153 tỷ |
+
+**60 triệu đồng tài sản cố định trên mỗi nhân viên** — đây là mức thấp nhất trong toàn bộ các doanh nghiệp trong loạt bài này.
+
+Để so sánh: PV GAS là 22,3 tỷ mỗi người, tức **372 lần**.
+
+Con số này mô tả chính xác mô hình chuyển phát: giá trị nằm ở **mạng lưới và con người**, không ở máy móc. Tài sản chính là 29.454 người giao hàng và 86 chi nhánh phủ khắp cả nước.
+
+Hai hệ quả trực tiếp:
+
+**Chi phí gần như toàn bộ là chi phí biến đổi** — lương, xăng xe, thuê mặt bằng. Khi sản lượng giảm, chi phí giảm theo, nên doanh nghiệp ít chịu rủi ro đòn bẩy hoạt động.
+
+**Nhưng cũng gần như không có rào cản gia nhập từ tài sản.** Đối thủ không cần bỏ vốn lớn để cạnh tranh; họ cần xây mạng lưới, và đó là cuộc đua về giá.
+
+Tỷ lệ hao mòn 44% cho thấy phần tài sản có thì còn tương đối mới.
+
 ## Định giá
 
 Ở giá 49.500 đồng: P/E 28,8, P/B 4,33, cổ tức 1,3%. Giá giảm 19% trong một năm nhưng vẫn tăng 80% trong ba năm.

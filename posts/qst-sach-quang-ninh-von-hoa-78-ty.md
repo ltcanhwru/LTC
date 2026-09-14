@@ -57,6 +57,27 @@ Ghép lại: doanh nghiệp đã vay để đầu tư 78 tỷ tài sản cố đ
 
 Đó không phải tỷ suất tệ. Nhưng nó cũng có nghĩa ROE 30% mà bộ lọc ghi nhận đến từ vốn chủ rất nhỏ, không từ khả năng sinh lời vượt trội — giống trường hợp [SAF](post.html?p=saf-bcf-hai-doanh-nghiep-thuc-pham-hai-huong-di).
 
+## 196 người và tài sản còn mới
+
+Sách và Thiết bị Trường học Quảng Ninh có **196 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 104 tỷ |
+| **Hao mòn lũy kế** | 31 tỷ (**30%**) |
+| **Giá trị còn lại** | **73 tỷ** |
+| Hàng tồn kho | 4 tỷ |
+
+Hao mòn **30%** — mức thấp nhất trong nhóm doanh nghiệp nhỏ của loạt bài.
+
+Nguyên giá 104 tỷ với giá trị còn lại **73 tỷ**: tài sản mới, còn phần lớn vòng đời khấu hao phía trước.
+
+Đặt cạnh vốn hóa 78 tỷ mà bài đã nêu, con số này đáng chú ý: **thị trường đang định giá toàn bộ doanh nghiệp xấp xỉ giá trị còn lại của riêng tài sản cố định**.
+
+Hàng tồn kho chỉ 4 tỷ — rất nhỏ, đúng với mô hình phân phối sách giáo khoa theo mùa vụ và theo đơn đặt hàng.
+
+Với 196 nhân viên, đây là doanh nghiệp nhỏ có tài sản tương đối lớn so với quy mô hoạt động.
+
 ## Định giá
 
 P/E **4,7**, P/B 1,35. Thanh khoản **0,01 tỷ đồng mỗi phiên**.

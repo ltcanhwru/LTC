@@ -48,6 +48,24 @@ Nhưng lợi nhuận nửa đầu 2026 là 56 tỷ so với 67 tỷ cùng kỳ �
 
 Doanh thu tăng, lợi nhuận giảm. Chi phí đã tăng nhanh hơn.
 
+## 131 người
+
+Chứng khoán Nhất Việt có **131 nhân viên** và **1 chi nhánh**.
+
+| Chỉ số 2025 | VFS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | 3.886 tr | 6.520 tr | 21/36 |
+| Dư nợ margin / nhân viên | 12,7 tỷ | 21,2 tỷ | 21/36 |
+| LNTT / nhân viên | 1.418 tr | 2.988 tr | 19/36 |
+
+Ba thứ hạng gần như trùng nhau ở vị trí 19–21 — một hồ sơ cân đối, nằm ngay dưới mức bình quân ngành.
+
+Với 131 nhân viên, đây là bộ máy nhỏ: bằng 9% VPS và 33% FPTS.
+
+Đặt cạnh nội dung chính của bài — dư nợ gấp 5,9 lần trong ba năm — bảng này cho biết mức tăng đó không đòi hỏi mở rộng nhân sự tương ứng, đúng với bản chất của hoạt động cho vay margin.
+
+Dư nợ 1.667 tỷ trên vốn chủ 1.733 tỷ là **0,96 lần**, còn dư địa trước trần 2 lần.
+
 ## Định giá
 
 P/E **11,4**, P/B **0,88**, ROE **8%**. Vốn hóa 1.570 tỷ. Thanh khoản 7,6 tỷ đồng mỗi phiên. Sàn HNX.

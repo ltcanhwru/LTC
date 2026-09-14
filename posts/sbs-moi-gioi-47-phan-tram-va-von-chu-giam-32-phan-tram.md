@@ -55,6 +55,26 @@ Bảng số tổng hợp không giải thích được cả hai hiện tượng.
 
 Nửa đầu 2026: lãi 38 tỷ so với lỗ 47 tỷ cùng kỳ.
 
+## 79 người và lợi nhuận âm trên mỗi người
+
+Chứng khoán SBS có **79 nhân viên**.
+
+| Chỉ số 2025 | SBS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | 1.766 tr | 6.520 tr | 29/36 |
+| Dư nợ margin / nhân viên | 6,4 tỷ | 21,2 tỷ | 28/36 |
+| **LNTT / nhân viên** | **−486 tr** | 2.988 tr | **35/36** |
+
+Đây là một trong hai công ty có lợi nhuận âm trên mỗi nhân viên trong 36 mã.
+
+Doanh thu 140 tỷ trên 79 người ra 1.766 triệu mỗi người, bằng 27% mức bình quân ngành.
+
+Với vốn chủ **232 tỷ** — thấp nhất trong nhóm đang hoạt động — công ty không có dư địa mở rộng: dư nợ margin 502 tỷ đã gấp **2,2 lần** vốn chủ, tức đã vượt trần quy định 2 lần.
+
+Đó là ràng buộc cứng. Muốn duy trì dư nợ hiện tại, công ty phải tăng vốn; mà vốn chủ đã giảm 32% như bài đã nêu.
+
+Bảng năng suất và bảng vốn ở đây nói cùng một điều: mô hình chưa đủ quy mô để tự nuôi.
+
 ## Định giá
 
 P/E **15,3**, P/B **2,50**, ROE **18%**. Vốn hóa 675 tỷ. Thanh khoản 1,9 tỷ đồng mỗi phiên. Sàn UPCOM.

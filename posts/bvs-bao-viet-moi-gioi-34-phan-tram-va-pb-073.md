@@ -55,6 +55,31 @@ Doanh thu giữ ở 266–282 tỷ nhưng lợi nhuận giảm, tức chi phí t
 
 Lãi cho vay vẫn tăng đều sáu quý: 89 → 131 tỷ.
 
+## 1.438 người và 766 triệu doanh thu mỗi người
+
+Chứng khoán Bảo Việt có **1.438 nhân viên** — đông thứ hai trong 36 công ty chứng khoán niêm yết, chỉ sau VPS.
+
+| Chỉ số 2025 | BVS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Nhân viên | **1.438** | 385 | **2/36** |
+| **Doanh thu / nhân viên** | **766 tr** | 6.520 tr | **36/36** |
+| **Dư nợ margin / nhân viên** | **3,2 tỷ** | 21,2 tỷ | **32/36** |
+| **LNTT / nhân viên** | **184 tr** | 2.988 tr | **thấp nhất nhóm có lãi** |
+
+Đây là con số quan trọng nhất của bài.
+
+Bảo Việt có bộ máy lớn thứ hai ngành nhưng **doanh thu trên mỗi nhân viên thấp nhất trong 36 công ty**: 766 triệu đồng một năm.
+
+Để so sánh: Chứng khoán Kỹ Thương đạt 19.013 triệu — **gấp 25 lần**. SSI đạt 7.899 triệu với số nhân sự chỉ nhỉnh hơn 14%.
+
+Lợi nhuận trên mỗi nhân viên **184 triệu đồng một năm** — thấp nhất trong các công ty có lãi.
+
+Dư nợ margin 4.557 tỷ chia cho 1.438 người ra **3,2 tỷ mỗi người**, bằng 15% mức bình quân ngành.
+
+Đây là bộ máy được xây cho một quy mô kinh doanh lớn hơn nhiều so với quy mô hiện tại — và nó giải thích cả thị phần môi giới 3,4% lẫn P/B 0,73 mà bài đã nêu.
+
+Thị trường không định giá thấp vì công ty thiếu vốn hay thiếu khách. Nó định giá thấp vì mỗi đồng vốn và mỗi nhân viên ở đây tạo ra ít hơn hẳn so với phần còn lại của ngành.
+
 ## Định giá
 
 P/E **11,3**, P/B **0,73**, ROE **7%**. Vốn hóa 1.986 tỷ. Thanh khoản 23 tỷ đồng mỗi phiên. Sàn HNX.

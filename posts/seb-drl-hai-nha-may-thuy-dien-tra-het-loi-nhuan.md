@@ -61,6 +61,30 @@ Một nhà máy còn ba mươi năm vận hành và một nhà máy còn tám n�
 
 Đó là lý do P/E và P/B gần như vô dụng với nhóm này. Cách đúng hơn là tính giá trị hiện tại của dòng tiền còn lại trong thời hạn giấy phép — và điều đó đòi hỏi thông tin nằm ngoài báo cáo tài chính.
 
+## 28 MW và suất đầu tư cao nhất nhóm
+
+Thủy điện Miền Trung có công suất lắp đặt **28 MW**, với **84 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **28 MW** |
+| Nguyên giá tài sản cố định | 1.067 tỷ |
+| **Suất đầu tư mỗi MW** | **38,1 tỷ đồng** |
+| Hao mòn lũy kế | 678 tỷ (**64%**) |
+| MW / nhân viên | **0,33** |
+
+**38,1 tỷ đồng mỗi MW** là suất đầu tư cao nhất trong nhóm thủy điện của loạt bài — gấp **2,8 lần** ND2 (13,7 tỷ) và cao hơn Đa Nhim 58%.
+
+Con số này là dữ kiện quan trọng nhất về doanh nghiệp: với cùng một MW công suất, Thủy điện Miền Trung phải bỏ ra nhiều vốn hơn hẳn các nhà máy khác.
+
+Nguyên nhân thường là địa hình và điều kiện xây dựng — nhà máy nhỏ ở vùng khó thi công có chi phí trên mỗi MW cao hơn nhiều so với nhà máy lớn ở vị trí thuận lợi.
+
+Hệ quả trực tiếp: **chi phí khấu hao trên mỗi kWh cao hơn**, nên biên lợi nhuận thấp hơn ở cùng một mức giá bán điện.
+
+Hao mòn 64% cho biết còn hơn một phần ba vòng đời khấu hao phía trước.
+
+Với 0,33 MW mỗi nhân viên — thấp nhất nhóm — chi phí nhân sự trên mỗi kWh cũng cao hơn mặt bằng.
+
 ## Định giá và thanh khoản
 
 Cả hai đều giao dịch ở P/E 9,0. P/B của SEB là 2,86 so với trung bình năm năm 3,20; DRL là 3,51 so với 4,83 — cả hai đều rẻ hơn chính lịch sử của mình, DRL rẻ hơn 27%.

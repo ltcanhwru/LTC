@@ -63,6 +63,27 @@ Ghép lại: doanh nghiệp bán hết dự án, thu tiền, trả cổ tức, v
 
 Giống [AGG](post.html?p=agg-doanh-thu-sap-87-phan-tram-loi-nhuan-cao-nhat-bon-nam), đây là một chu kỳ đã hoàn tất.
 
+## 100 người
+
+Lideco có **100 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 567 tỷ |
+| **Người mua trả tiền trước** | **4 tỷ** |
+| Xây dựng cơ bản dở dang | 0 |
+| Tồn kho / nhân viên | 5,7 tỷ |
+
+Với **100 nhân viên**, đây là một trong những doanh nghiệp bất động sản niêm yết gọn nhất về bộ máy.
+
+Nhưng hai dòng còn lại đáng chú ý hơn.
+
+Khoản người mua trả tiền trước **4 tỷ đồng** trên hàng tồn kho 567 tỷ — tức **0,7%**. Gần như không có khách nào đặt cọc.
+
+Và chi phí xây dựng cơ bản dở dang bằng **0** — không có dự án nào đang xây trên bảng cân đối.
+
+Hai con số đó cùng nhau cho biết doanh nghiệp hiện không ở trong chu kỳ bán hàng nào: hàng còn trong kho chưa bán được, và chưa có nguồn cung mới hình thành.
+
 ## Định giá
 
 P/E **50,7**, P/B **0,94**, ROE **2%**. Vốn hóa 1.555 tỷ. Thanh khoản 8,4 tỷ đồng mỗi phiên.

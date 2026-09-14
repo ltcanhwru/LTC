@@ -55,6 +55,29 @@ Tổng thể chấp nhận được, nhưng biên độ rất rộng. Với mô 
 
 Tiền và đầu tư tài chính 52 tỷ — bằng 18% vốn hóa 296 tỷ. Cổ tức chi 38–64% lợi nhuận.
 
+## 535 người
+
+Dệt may 7 có **535 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 533 tỷ |
+| Hao mòn lũy kế | 400 tỷ (**75%**) |
+| Giá trị còn lại | 133 tỷ |
+| Tài sản cố định / nhân viên | 996 triệu đồng |
+| **Phải thu khách hàng** | **270 tỷ** |
+| Hàng tồn kho | 88 tỷ |
+
+**996 triệu đồng tài sản cố định trên mỗi nhân viên** — cao gấp bốn lần các doanh nghiệp may thuần như [May 10](post.html?p=m10-may-10-tien-bang-86-phan-tram-von-hoa) (265 triệu) hay May Hưng Yên (157 triệu).
+
+Khác biệt đó cho biết Dệt may 7 không chỉ may: phần dệt và nhuộm cần thiết bị đắt hơn nhiều so với máy may.
+
+Hao mòn **75%** đặt dây chuyền ở giai đoạn cuối vòng đời.
+
+Khoản phải thu khách hàng **270 tỷ** lớn gấp ba lần hàng tồn kho và gấp đôi giá trị còn lại của tài sản — công nợ là khoản vốn lớn nhất của doanh nghiệp.
+
+Đó là bối cảnh cho điều bài đã nêu — một quý bằng cả năm: khi doanh thu tập trung vào các đơn hàng lớn được nghiệm thu theo đợt, cả kết quả lẫn công nợ đều dồn cục.
+
 ## Định giá
 
 P/E **4,9**, P/B 1,02 — xấp xỉ giá trị sổ sách. Thanh khoản **dưới 10 triệu đồng mỗi phiên**.

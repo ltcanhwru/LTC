@@ -50,6 +50,29 @@ Dòng tiền: tỷ lệ tiền thuần từ kinh doanh trên lợi nhuận bốn
 
 Cổ tức chi 88–126% lợi nhuận — doanh nghiệp trả về gần như toàn bộ hoặc hơn. Tỷ suất cổ tức hiện tại 8,1%.
 
+## 86 người
+
+Cảng Cát Lái có **86 nhân viên** — một trong những doanh nghiệp niêm yết gọn nhất về bộ máy.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **86** |
+| Nguyên giá tài sản cố định | 629 tỷ |
+| Hao mòn lũy kế | 508 tỷ (**81%**) |
+| **Tài sản cố định / nhân viên** | **7,3 tỷ** |
+| Đầu tư vào công ty liên kết | 86 tỷ |
+| Xây dựng cơ bản dở dang | 10 tỷ |
+
+**7,3 tỷ đồng tài sản cố định trên mỗi nhân viên** — mức thâm dụng vốn cao, đúng với mô hình khai thác cảng: thiết bị đắt, ít người vận hành.
+
+Hao mòn **81%**: cầu cảng và cẩu đã khấu hao gần hết, giá trị còn lại 121 tỷ.
+
+Khoản xây dựng cơ bản dở dang chỉ 10 tỷ — không mở rộng.
+
+Với một cảng chuyên dụng container, năng lực bị giới hạn bởi chiều dài cầu bến và diện tích bãi. Khi hai thứ đó không tăng, sản lượng có trần, và tăng trưởng doanh thu chỉ đến từ giá dịch vụ.
+
+Đó là mô hình có dòng tiền rất ổn định nhưng gần như không có động lực tăng trưởng nội tại.
+
 ## Định giá
 
 P/E 9,5, P/B 1,86. Thanh khoản 0,11 tỷ đồng mỗi phiên.

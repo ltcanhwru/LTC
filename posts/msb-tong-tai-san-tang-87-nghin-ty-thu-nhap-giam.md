@@ -74,6 +74,25 @@ Thu nhập lãi thuần đang cải thiện rõ: 2.504 → 3.198 → 3.001 tỷ,
 
 Nhưng tổng thu nhập thì không theo kịp, vì các dòng ngoài lãi co lại — đặc biệt là lãi chứng khoán đầu tư, từ 683 tỷ (2022) xuống âm 77 tỷ (2025).
 
+## 6.928 người
+
+MSB có **6.928 nhân viên**.
+
+| Chỉ số 2025 | MSB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 29,6 tỷ | 48,1 tỷ | 20/28 |
+| TOI / nhân viên | 2.027 tr | 2.518 tr | 16/28 |
+| Chi phí hoạt động / nhân viên | 731 tr | — | |
+| LNTT / nhân viên | 1.019 tr | 1.203 tr | 13/28 |
+
+Dư nợ trên mỗi nhân viên 29,6 tỷ đứng thứ 20 — thuộc nhóm thấp — nhưng lợi nhuận trên mỗi người lại đứng thứ 13.
+
+Khoảng cách đó cho biết thu nhập của MSB không chủ yếu đến từ dư nợ. Với một ngân hàng có tỷ trọng thu nhập ngoài lãi đáng kể, đó là điều nhất quán với phần trên của bài: tổng tài sản tăng 87 nghìn tỷ trong khi thu nhập giảm, nghĩa là phần tài sản mới chưa sinh lãi tương ứng và lợi nhuận phải dựa vào nguồn khác.
+
+Chi phí hoạt động 731 triệu đồng mỗi nhân viên nằm ở mức trung bình ngành.
+
+Khác với phần lớn các ngân hàng trong loạt bài này, **MSB không công bố tỷ lệ nợ xấu và tỷ lệ bao phủ** trong bộ dữ liệu em dùng — cùng nhóm với PCB và NVB. Đây là khoảng trống đáng kể khi đánh giá một ngân hàng vừa mở rộng tài sản nhanh.
+
 ## Định giá
 
 P/E **8,2**, P/B **1,07**. Vốn hóa 48.485 tỷ. Thanh khoản 78 tỷ đồng mỗi phiên.
@@ -89,7 +108,7 @@ Nếu phần tài sản đó được chuyển dần sang cho vay, thu nhập s�
 ## Một số lưu ý
 
 - **Em chưa bóc được cơ cấu tài sản** — phần nào là cho vay, phần nào là chứng khoán đầu tư, tiền gửi liên ngân hàng. Đây là thông tin quan trọng nhất của bài này, vì toàn bộ lập luận về "khối tài sản mới sinh lời thấp" dựa trên suy luận từ chênh lệch giữa tốc độ tăng tài sản và tốc độ tăng thu nhập.
-- **Không có tỷ lệ nợ xấu nhóm 3–5.**
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Không có CASA — MSB vốn có tỷ lệ tiền gửi không kỳ hạn thuộc nhóm cao, và đây là chỉ số giải thích biên lãi 4,00% của năm 2022.
 - Chưa tách được cơ cấu dư nợ theo ngành và nhóm khách hàng.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.

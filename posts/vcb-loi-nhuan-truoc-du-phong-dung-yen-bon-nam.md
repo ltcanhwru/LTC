@@ -88,6 +88,36 @@ Lợi nhuận tăng 18% trong khi vốn chủ sở hữu tăng **66%**.
 
 Đây không phải dấu hiệu ngân hàng kém đi — với ngân hàng, vốn chủ quyết định mức tín dụng được phép cấp, nên tích vốn là điều kiện để tăng trưởng. Nhưng cổ đông hiện hữu vẫn phải chấp nhận lợi suất trên vốn thấp dần trong khi chờ khối vốn mới sinh lời.
 
+## 23.814 người, và tấm đệm dày nhất ngành
+
+Vietcombank vận hành **126 chi nhánh** với **23.814 nhân viên**. Chia khối tài sản cho số người làm ra nó:
+
+| Chỉ số 2025 | VCB | Bình quân 28 ngân hàng | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | **70,3 tỷ** | 48,1 tỷ | **3/28** |
+| TOI / nhân viên | 3.043 tr | 2.518 tr | 5/28 |
+| Chi phí hoạt động / nhân viên | 1.060 tr | — | cao thứ ba |
+| **LNTT / nhân viên** | **1.848 tr** | 1.203 tr | **2/28** |
+
+Mỗi nhân viên Vietcombank quản lý 70,3 tỷ dư nợ — gấp rưỡi mức bình quân ngành — và làm ra 1.848 triệu đồng lợi nhuận trước thuế, chỉ sau Techcombank.
+
+Dư nợ trên mỗi chi nhánh là **13.282 tỷ**, cao nhất trong nhóm có số liệu. Kienlongbank là 534 tỷ, Saigonbank 666 tỷ.
+
+Đây là mô hình rất tập trung: ít điểm giao dịch, mỗi điểm rất lớn.
+
+Và nó đi kèm chất lượng tài sản tốt nhất ngành:
+
+| | VCB | Gần nhất | Thấp nhất ngành |
+|---|---:|---:|---:|
+| **Tỷ lệ nợ xấu** | **0,58%** | CTG 1,10% | ABB 3,74% |
+| **Tỷ lệ bao phủ nợ xấu** | **258%** | CTG 159% | PGB 40% |
+
+Hai con số này giải thích phần lớn nội dung phía trên của bài.
+
+Khi ngân hàng đã trích lập gấp **2,6 lần** số nợ xấu đang có, nó có dư địa **giảm chi phí dự phòng** mà không cần nợ xấu cải thiện thêm. Đó chính là cách lợi nhuận vẫn tăng trong khi lợi nhuận trước dự phòng đứng yên bốn năm.
+
+Mặt còn lại: dư địa đó hữu hạn. Bộ đệm mỏng đi là việc đang diễn ra, và khi nó về mức trung bình ngành, phần lợi nhuận có được từ đây sẽ dừng.
+
 ## Định giá
 
 P/E **11,7**, P/B **1,99**. Vốn hóa 486.300 tỷ — lớn nhất sàn trong nhóm ngân hàng.
@@ -105,7 +135,7 @@ Bốn năm số liệu chưa ủng hộ điều đó. Thu nhập lãi thuần qu
 ## Một số lưu ý
 
 - Chỉ số biên lãi em tính là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn (chia cho tài sản sinh lãi). Con số thật của VCB cao hơn; so sánh giữa các năm và giữa các ngân hàng thì vẫn nhất quán.
-- **Không có tỷ lệ nợ xấu nhóm 3–5** — số liệu này nằm ở thuyết minh. Tỷ lệ dự phòng trên dư nợ chỉ cho biết mức ngân hàng *chọn* trích, không phải chất lượng tài sản thực tế.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Không có tỷ lệ CASA. Đây là chỉ số giải thích trực tiếp nhất lợi thế chi phí vốn của VCB và vì sao biên lãi co lại.
 - Giả thuyết rằng 4.059 tỷ "thu nhập thuần từ hoạt động khác" quý 2/2026 chủ yếu là thu hồi nợ đã xử lý rủi ro là suy luận theo thông lệ hạch toán ngành, chưa xác nhận bằng thuyết minh quý đó.
 - Không có hệ số an toàn vốn CAR — ràng buộc thật sự quyết định VCB còn dư địa tăng trưởng tín dụng bao nhiêu.

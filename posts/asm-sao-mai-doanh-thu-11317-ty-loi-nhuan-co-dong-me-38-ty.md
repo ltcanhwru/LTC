@@ -69,6 +69,26 @@ Sau lãi vay (694 tỷ), còn 135 tỷ — cộng với chênh lệch các kho�
 
 Nói cách khác: **cấu trúc chi phí không để lại chỗ cho sai số.** Chỉ cần biên gộp giảm một điểm phần trăm là lợi nhuận trước thuế mất hơn một nửa.
 
+## 10.300 người — và phần lớn không làm bất động sản
+
+Sao Mai có **10.300 nhân viên** — đông thứ hai trong 35 doanh nghiệp, chỉ sau Vinhomes.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 4.825 tỷ |
+| **Tồn kho / nhân viên** | **0,5 tỷ** |
+| Xây dựng cơ bản dở dang | 1.264 tỷ |
+| Phải thu khách hàng | 2.420 tỷ |
+| Trả trước cho người bán | 2.953 tỷ |
+
+Tồn kho trên mỗi nhân viên **0,5 tỷ** — thấp hơn mức bình quân ngành mười một lần.
+
+Nguyên nhân là cơ cấu tập đoàn: Sao Mai hoạt động chủ yếu ở **chế biến thủy sản** bên cạnh bất động sản và năng lượng. Phần lớn trong 10.300 lao động làm ở nhà máy chế biến, không ở dự án bất động sản.
+
+Điều đó khiến mọi chỉ số bất động sản của ASM khó so sánh trực tiếp với các mã trong cùng bài: hàng tồn kho 4.825 tỷ trộn cả thành phẩm thủy sản lẫn bất động sản dở dang, và biên gộp là bình quân của hai ngành có biên hoàn toàn khác nhau.
+
+Khoản phải thu khách hàng 2.420 tỷ và trả trước cho người bán 2.953 tỷ cũng lớn — đặc trưng của doanh nghiệp chế biến xuất khẩu chứ không phải của chủ đầu tư.
+
 ## Định giá
 
 P/E **14,9**, P/B **0,38**, ROE **2%**. Vốn hóa 2.117 tỷ. Thanh khoản 1,3 tỷ đồng mỗi phiên.

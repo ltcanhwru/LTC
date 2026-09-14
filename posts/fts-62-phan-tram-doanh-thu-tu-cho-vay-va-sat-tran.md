@@ -59,6 +59,26 @@ Lãi cho vay thì đi ngang bốn quý gần nhất: 194 → 213 → 207 → 192
 
 Nửa đầu 2026: lợi nhuận sau thuế 238 tỷ so với 214 tỷ cùng kỳ — tăng **11%**.
 
+## 505 người
+
+FPTS có **505 nhân viên** và **2 chi nhánh**.
+
+| Chỉ số 2025 | FTS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| **Doanh thu / nhân viên** | **2.388 tr** | 6.520 tr | **27/36** |
+| Dư nợ margin / nhân viên | 16,3 tỷ | 21,2 tỷ | 16/36 |
+| LNTT / nhân viên | 1.011 tr | 2.988 tr | 22/36 |
+
+Doanh thu trên mỗi nhân viên **2.388 triệu** đứng thứ 27 trong 36 công ty — thuộc nhóm thấp.
+
+Đây là khoảng cách đáng chú ý khi đặt cạnh nội dung chính của bài: 62% doanh thu FPTS đến từ cho vay margin, tỷ trọng thuộc nhóm cao nhất ngành, và dư nợ đã sát trần so với vốn chủ.
+
+Cho vay margin là hoạt động cần ít người nhất. Nhưng FPTS có 505 nhân viên cho 8.248 tỷ dư nợ — tức 16,3 tỷ mỗi người, thấp hơn mức bình quân ngành và bằng 22% TCX.
+
+Nghĩa là bộ máy đang phục vụ nhiều thứ hơn là cho vay: nền tảng giao dịch tự phát triển, hệ thống công nghệ riêng và tệp khách hàng cá nhân lớn đều cần người.
+
+Với doanh thu 1.206 tỷ chia cho 505 người, đây là mô hình dựa vào số lượng tài khoản hơn là vào quy mô mỗi tài khoản.
+
 ## Định giá
 
 P/E **18,6**, P/B **1,77**, ROE **10%**. Vốn hóa 7.833 tỷ. Thanh khoản 18 tỷ đồng mỗi phiên.

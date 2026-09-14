@@ -60,6 +60,28 @@ Nợ vay chỉ **6% vốn chủ sở hữu**. Tiền và đầu tư tài chính 
 
 Cổ tức chi 41–53% lợi nhuận, tỷ suất hiện tại **11,2%** — cao nhất trong nhóm dược.
 
+## 289 người
+
+Dược phẩm Trung ương 3 có **289 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 238 tỷ |
+| **Hao mòn lũy kế** | 128 tỷ (**54%**) |
+| Tài sản cố định / nhân viên | 823 triệu đồng |
+| Hàng tồn kho | 57 tỷ |
+| Xây dựng cơ bản dở dang | 4 tỷ |
+
+Hao mòn **54%** — dây chuyền ở giữa vòng đời, trẻ hơn phần lớn nhóm dược trong loạt bài.
+
+Quy mô nhỏ: nguyên giá 238 tỷ, 289 nhân viên, hàng tồn kho 57 tỷ.
+
+Tỷ lệ hàng tồn kho trên nguyên giá tài sản chỉ 24% — thấp, cho thấy doanh nghiệp sản xuất và bán ra nhanh, không giữ nhiều hàng trong kênh.
+
+Đó là mô hình khác hẳn [DP1](post.html?p=dp1-lai-tang-nhung-tien-chay-nguoc) — nơi tồn kho gấp 4,7 lần tài sản cố định vì là doanh nghiệp phân phối.
+
+Khoản xây dựng cơ bản dở dang 4 tỷ: không mở rộng.
+
 ## Định giá
 
 Ở giá 62.200 đồng: P/E 6,4, P/B 2,12, cổ tức 11,2%. Giá tăng 25% trong một năm.

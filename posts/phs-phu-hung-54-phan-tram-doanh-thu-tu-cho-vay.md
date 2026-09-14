@@ -63,6 +63,26 @@ Nhưng doanh thu quý 1 và 2/2026 là 174 và 178 tỷ — cao hơn cùng kỳ 
 
 Toàn bộ phần chênh nằm ở chi phí, và bảng số tổng hợp không cho biết khoản nào.
 
+## 382 người và 6 chi nhánh
+
+Chứng khoán Phú Hưng có **382 nhân viên** và **6 chi nhánh** — nhiều chi nhánh thứ ba trong ngành.
+
+| Chỉ số 2025 | PHS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| **Doanh thu / nhân viên** | **1.621 tr** | 6.520 tr | **31/36** |
+| Dư nợ margin / nhân viên | 10,8 tỷ | 21,2 tỷ | 23/36 |
+| **LNTT / nhân viên** | **306 tr** | 2.988 tr | **28/36** |
+
+Doanh thu trên mỗi nhân viên 1.621 triệu — thứ 31 trong 36 công ty, bằng 25% mức bình quân ngành.
+
+Đây là cùng hình dạng với Bảo Việt và Rồng Việt: mạng lưới rộng, nhân sự đông so với doanh thu.
+
+Nhưng có một điểm khác biệt quan trọng, và nó nằm đúng ở nội dung chính của bài: **54% doanh thu Phú Hưng đến từ cho vay margin** — tỷ trọng cao. Dư nợ 4.120 tỷ trên 382 người ra 10,8 tỷ mỗi người.
+
+Nghĩa là mảng cần ít người nhất lại đang chiếm hơn một nửa doanh thu, trong khi bộ máy 382 người và 6 chi nhánh phục vụ phần còn lại — phần chỉ tạo ra 46% của 619 tỷ.
+
+Đó là cấu trúc chi phí không khớp với cấu trúc doanh thu.
+
 ## Định giá
 
 P/E **27,2**, P/B **0,98**, ROE **4%**. Vốn hóa 2.060 tỷ. Thanh khoản gần như bằng không. Sàn UPCOM.

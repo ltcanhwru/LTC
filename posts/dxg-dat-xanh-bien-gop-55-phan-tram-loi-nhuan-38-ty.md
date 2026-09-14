@@ -59,6 +59,28 @@ Ba con số này cùng chỉ một hướng: **doanh nghiệp vừa bán đượ
 
 Bốn năm cộng lại dòng tiền vẫn âm 4.753 tỷ trên lợi nhuận 1.732 tỷ, nhưng năm 2025 là năm đầu tiên đảo chiều.
 
+## 4.564 người — chủ đầu tư có bộ máy của một công ty môi giới
+
+Đất Xanh có **4.564 nhân viên**.
+
+| Chỉ số cuối 2025 | DXG | KDH | PDR |
+|---|---:|---:|---:|
+| Hàng tồn kho | 15.658 tỷ | 23.260 tỷ | 16.715 tỷ |
+| Nhân viên | **4.564** | **346** | **275** |
+| **Tồn kho / nhân viên** | **3,4 tỷ** | 67,2 tỷ | 60,8 tỷ |
+| Người mua trả tiền trước | 6.177 tỷ | 648 tỷ | 238 tỷ |
+| Tỷ lệ đã đặt cọc | **39%** | 2,8% | 1,4% |
+
+Hai dòng cuối cùng kể hai câu chuyện ngược nhau.
+
+Đất Xanh có hàng tồn kho tương đương Phát Đạt nhưng **đông hơn 16,6 lần về nhân sự**. Tồn kho trên mỗi nhân viên chỉ 3,4 tỷ, so với 60,8 tỷ của Phát Đạt.
+
+Nguyên nhân là cơ cấu: Đất Xanh vừa là chủ đầu tư vừa sở hữu hệ thống phân phối — và mảng môi giới cần rất nhiều người. [DXS](post.html?p=dxs-dat-xanh-services-pb-048-va-loi-nhuan-hoi-phuc), công ty dịch vụ trong cùng nhóm, có riêng 3.756 nhân viên.
+
+Nhưng chính hệ thống đó cũng giải thích dòng cuối: tỷ lệ đã đặt cọc **39%** — cao hơn Khang Điền mười bốn lần và cao hơn Phát Đạt hai mươi tám lần.
+
+Có hệ thống bán hàng riêng thì bán được nhanh hơn. Đó là đánh đổi giữa chi phí nhân sự và tốc độ quay vòng hàng tồn kho.
+
 ## Định giá
 
 P/E **70,9**, P/B **0,95**, ROE **1%**. Vốn hóa 13.632 tỷ. Thanh khoản 135 tỷ đồng mỗi phiên.

@@ -38,6 +38,24 @@ Dư địa còn khoảng 1,6 nghìn tỷ theo trần hai lần.
 
 Cơ cấu doanh thu cân: tự doanh 26%, cho vay 28%, môi giới 17%.
 
+## 150 người và 8 chi nhánh
+
+Chứng khoán An Bình có **150 nhân viên** và **8 chi nhánh** — nhiều chi nhánh nhất trong 36 công ty.
+
+| Chỉ số 2025 | ABW | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | 3.580 tr | 6.520 tr | 22/36 |
+| Dư nợ margin / nhân viên | 10,4 tỷ | 21,2 tỷ | 26/36 |
+| LNTT / nhân viên | 1.464 tr | 2.988 tr | 17/36 |
+
+Tám chi nhánh trên 150 nhân viên — tức trung bình dưới 19 người mỗi chi nhánh.
+
+Đây là mạng lưới rộng nhất ngành xét theo số điểm, nhưng mỗi điểm rất nhỏ. Doanh thu 537 tỷ chia cho 8 chi nhánh ra khoảng 67 tỷ mỗi chi nhánh một năm.
+
+Ba chỉ số năng suất đều nằm ở nửa dưới bảng.
+
+Đặt cạnh nội dung chính của bài — một quý lãi tự doanh 213 tỷ trên tổng doanh thu cả năm 537 tỷ — cấu trúc hiện ra rõ: mạng lưới môi giới đóng góp ít, và kết quả phụ thuộc vào danh mục đầu tư.
+
 ## Định giá
 
 P/E **14,3**, P/B **1,11**, ROE **15%**. Vốn hóa 4.199 tỷ. Thanh khoản 2,5 tỷ đồng mỗi phiên. Sàn UPCOM.

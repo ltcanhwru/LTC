@@ -72,6 +72,34 @@ Biên lãi tính trên tổng tài sản bình quân là **2,69%**. Tính trên 
 
 Tỷ lệ dư nợ trên tiền gửi khách hàng là **124%**, cao thứ tư ngành. Bộ đệm dự phòng 1,38% dư nợ — mức trung bình.
 
+## 5.339 người — năng suất cao hơn nhiều ngân hàng lớn hơn
+
+SeABank có **5.339 nhân viên**, ít hơn một phần năm BIDV.
+
+| Chỉ số 2025 | SSB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 44,4 tỷ | 48,1 tỷ | 9/28 |
+| TOI / nhân viên | **2.644 tr** | 2.518 tr | **7/28** |
+| Chi phí hoạt động / nhân viên | 873 tr | — | cao thứ sáu |
+| **LNTT / nhân viên** | **1.286 tr** | 1.203 tr | **8/28** |
+
+SeABank đứng thứ tám ngành về lợi nhuận trên mỗi nhân viên — cao hơn BIDV (1.260), VPBank (1.034) và HDBank (1.128), những ngân hàng có quy mô tài sản lớn hơn nhiều lần.
+
+Thu nhập trên mỗi nhân viên 2.644 triệu đứng thứ bảy, trên cả VPBank và ACB.
+
+Chi phí hoạt động 873 triệu mỗi người là mức cao thứ sáu — ngân hàng không vận hành tiết kiệm, nhưng thu nhập bù lại được.
+
+Chất lượng tài sản ở nhóm khá:
+
+| | SSB | Bình quân 28 NH |
+|---|---:|---:|
+| Tỷ lệ nợ xấu | **1,89%** | 0,58–3,74% |
+| Tỷ lệ bao phủ | **83%** | 40–258% |
+
+Nợ xấu 1,89% và bao phủ 83% — cả hai đều ở nửa trên của bảng, tốt hơn nhiều so với các ngân hàng cùng nhóm quy mô.
+
+Đây là phần bảng số ủng hộ, và nó cần đọc cùng khoản lãi góp vốn 2.621 tỷ một quý mà bài đã nêu: năng suất nền tảng thật, nhưng lợi nhuận của một quý cụ thể thì không.
+
 ## Định giá
 
 P/E **21,3**, P/B **1,50**. Vốn hóa 63.479 tỷ. Thanh khoản 39 tỷ đồng mỗi phiên.
@@ -90,7 +118,7 @@ Ngay cả vậy, P/B 1,50 tương đương 15 lần lợi nhuận — đắt so 
 
 - Giả thuyết rằng khoản 2.621 tỷ là lãi thoái vốn một khoản đầu tư là suy luận từ tính chất dòng "thu nhập vốn góp mua cổ phần" và việc nó chỉ xuất hiện một lần; chưa xác nhận bằng thuyết minh.
 - Nguyên nhân thu dịch vụ thuần giảm 47% trong bốn năm chưa xác định được. Đây là xu hướng ngược với hầu hết ngành và đáng lo hơn khoản một lần.
-- **Không có tỷ lệ nợ xấu nhóm 3–5.**
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Chưa xác định được mục đích của khối liên ngân hàng 91.447 tỷ.
 - Con số biên lãi trên dư nợ em tính từ thu nhập lãi thuần chia dư nợ bình quân; đây cũng không phải NIM chuẩn.
 - Không có CASA và không có hệ số an toàn vốn CAR.

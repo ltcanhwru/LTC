@@ -50,6 +50,26 @@ Nợ vay chỉ **5% vốn chủ sở hữu**. Tiền và đầu tư tài chính 
 
 Đây là bảng cân đối của một doanh nghiệp vừa tăng trưởng vừa không cần vay.
 
+## 173 người
+
+ICD Tân Cảng Sóng Thần cho thuê, quản lý và vận hành kho bãi, với **173 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 486 tỷ |
+| Hao mòn lũy kế | 371 tỷ (**76%**) |
+| Giá trị còn lại | 115 tỷ |
+| **Tài sản cố định / nhân viên** | **2,8 tỷ** |
+| Xây dựng cơ bản dở dang | 1 tỷ |
+
+Hao mòn **76%** và khoản xây dựng cơ bản dở dang **1 tỷ** — cùng trạng thái với các đơn vị kho bãi khác trong nhóm Tân Cảng.
+
+Với mô hình cho thuê kho tại cảng cạn, doanh thu phụ thuộc vào **diện tích và tỷ lệ lấp đầy**, hai thứ không tăng khi không đầu tư thêm.
+
+Giá trị thực nằm ở vị trí: một ICD nằm gần khu công nghiệp và trên trục vận tải chính có lợi thế mà bảng cân đối không phản ánh.
+
+Khoản khấu hao còn phải trích nhỏ giúp biên lợi nhuận cao, nhưng nó cũng có nghĩa phần lớn giá trị kế toán của tài sản đã được thu hồi.
+
 ## Định giá
 
 Ở giá 30.825 đồng: P/E 5,6, P/B 2,09, cổ tức 6,7%. Giá giảm 15% trong một năm nhưng tăng 65% trong ba năm.

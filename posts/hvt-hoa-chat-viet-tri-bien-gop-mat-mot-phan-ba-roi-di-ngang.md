@@ -50,6 +50,27 @@ Dòng tiền bốn năm: 56%, 265%, 83%, 153% lợi nhuận. Biên độ rộng 
 
 Cổ tức không đều: 9%, 114%, 39%, 42%. Năm 2023 — năm lợi nhuận thấp nhất — lại là năm chi cổ tức vượt lợi nhuận.
 
+## 400 người
+
+Hóa chất Việt Trì có **400 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | **1.228 tỷ** |
+| Hao mòn lũy kế | 849 tỷ (**69%**) |
+| **Tài sản cố định / nhân viên** | **3,1 tỷ** |
+| Hàng tồn kho | 163 tỷ |
+| Phải thu khách hàng | 212 tỷ |
+| Xây dựng cơ bản dở dang | 5 tỷ |
+
+**3,1 tỷ đồng tài sản cố định trên mỗi nhân viên** — mức thâm dụng vốn cao, đúng với sản xuất hóa chất cơ bản: dây chuyền liên tục, ít lao động.
+
+Hao mòn **69%** đặt nhà máy ở giai đoạn sau của vòng đời, nhưng chưa tới mức cực đoan như [CSV](post.html?p=csv-mot-quy-bien-gop-bat-tu-20-len-33-phan-tram) (96%).
+
+Khoản xây dựng cơ bản dở dang chỉ 5 tỷ: không mở rộng.
+
+Với hóa chất cơ bản, biên lợi nhuận là chênh lệch giữa giá bán và giá điện cùng nguyên liệu — cả hai đều nằm ngoài tầm quyết định của doanh nghiệp. Đó là lý do biên gộp mất một phần ba rồi đi ngang như bài đã nêu.
+
 ## Định giá
 
 P/E **5,1**, P/B 1,26. Thanh khoản 0,19 tỷ đồng mỗi phiên.

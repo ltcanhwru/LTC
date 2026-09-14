@@ -53,6 +53,24 @@ Nửa đầu 2026: lợi nhuận sau thuế 593 tỷ so với 490 tỷ cùng k�
 
 Phí môi giới thì dao động mạnh: 370 tỷ ở quý 3/2025 xuống 164 tỷ ở quý 2/2026 — giảm 56%. Đây là dòng đi theo thanh khoản thị trường, và nó vừa xuống rõ.
 
+## 634 người và 7 chi nhánh
+
+MBS có **634 nhân viên** và **7 chi nhánh** — nhiều chi nhánh thứ hai trong ngành.
+
+| Chỉ số 2025 | MBS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | 5.740 tr | 6.520 tr | 14/36 |
+| **Dư nợ margin / nhân viên** | **23,7 tỷ** | 21,2 tỷ | 9/36 |
+| LNTT / nhân viên | 2.232 tr | 2.988 tr | 14/36 |
+
+Ba thứ hạng đều quanh giữa bảng.
+
+Dư nợ margin trên mỗi nhân viên 23,7 tỷ chỉ nhỉnh hơn mức bình quân ngành — thấp hơn hẳn các công ty thuộc ngân hàng khác như VPX (41,8 tỷ) và TCX (74,3 tỷ), dù MBS cũng là công ty chứng khoán của một ngân hàng.
+
+Khác biệt nằm ở chỗ MBS vẫn vận hành mô hình môi giới đầy đủ với 7 chi nhánh, trong khi TCX và VPX tổ chức quanh nền tảng số của ngân hàng mẹ.
+
+Điều này bổ sung cho nội dung chính của bài: dư nợ margin gấp bốn lần và đã sát trần 2 lần so với vốn chủ, nhưng bộ máy để phục vụ nó thì nặng hơn các đối thủ cùng xuất phát điểm — nên cùng một mức dư nợ, lợi nhuận giữ lại được ít hơn.
+
 ## Định giá
 
 P/E **13,4**, P/B **1,51**, ROE **14%**. Vốn hóa 16.515 tỷ. Thanh khoản 65 tỷ đồng mỗi phiên. Sàn HNX.

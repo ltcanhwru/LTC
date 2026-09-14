@@ -49,6 +49,28 @@ Năm 2025, Sabeco trả 6.513 tỷ cổ tức trên 4.573 tỷ lợi nhuận —
 
 Với tỷ suất cổ tức hiện tại **11,4%**, đó là lựa chọn hợp lý cho một doanh nghiệp không còn tăng trưởng sản lượng. Nhưng nó cũng là một phát biểu: ban lãnh đạo không thấy chỗ nào đáng để rót thêm vốn.
 
+## 8.235 người, 26 nhà máy và 2,4 tỷ lít bia mỗi năm
+
+Sabeco có **26 nhà máy** với tổng công suất trên **2,4 tỷ lít bia mỗi năm**, và **8.235 nhân viên**.
+
+| Chỉ số 2025 | Giá trị |
+|---|---:|
+| Công suất | **2,4 tỷ lít/năm** |
+| **Công suất / nhân viên** | **≈ 291.000 lít** |
+| Nguyên giá tài sản cố định | 16.040 tỷ |
+| Hao mòn lũy kế | 12.547 tỷ (**78%**) |
+| **Nguyên giá / lít công suất** | ≈ **6.700 đồng** |
+| Xây dựng cơ bản dở dang | 141 tỷ |
+| Đầu tư vào công ty liên kết | 2.220 tỷ |
+
+Mỗi nhân viên Sabeco tương ứng với **291.000 lít bia công suất mỗi năm** — mức tự động hóa cao, đúng với đặc thù sản xuất đồ uống quy mô lớn.
+
+Suất đầu tư khoảng **6.700 đồng cho mỗi lít công suất** là con số hữu ích để đánh giá: muốn tăng công suất thêm 100 triệu lít, doanh nghiệp cần khoảng 670 tỷ đồng.
+
+Nhưng dòng đáng chú ý nhất là hao mòn **78%** cùng với khoản xây dựng cơ bản dở dang chỉ **141 tỷ**.
+
+Hệ thống 26 nhà máy đã khấu hao gần hết, và gần như không có nhà máy mới nào đang xây. Doanh nghiệp đang thu hoạch từ khối tài sản cũ — điều tốt cho biên lợi nhuận hiện tại, nhưng có nghĩa sản lượng những năm tới bị giới hạn bởi 2,4 tỷ lít công suất hiện có.
+
 ## Định giá
 
 Ở giá 43.850 đồng: P/E 11,8, P/B 3,58, cổ tức 11,4%. Giá cổ phiếu giảm 32% trong ba năm.

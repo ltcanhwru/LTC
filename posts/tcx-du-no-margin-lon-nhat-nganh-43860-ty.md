@@ -61,6 +61,28 @@ Vốn chủ sở hữu tăng từ 10.989 lên **44.100 tỷ** trong ba năm — 
 
 Đây là lợi thế cạnh tranh có thể đo được, và nó kéo dài ít nhất vài năm.
 
+## 590 người, năng suất cao nhất ngành
+
+Chứng khoán Kỹ Thương có **590 nhân viên** và giữ **7,99% thị phần môi giới**, đứng thứ ba toàn thị trường.
+
+| Chỉ số 2025 | TCX | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| **Doanh thu / nhân viên** | **19.013 tr** | 6.520 tr | **1/36 thực chất** |
+| Dư nợ margin / nhân viên | **74,3 tỷ** | 21,2 tỷ | 2/36 |
+| **LNTT / nhân viên** | **12.049 tr** | 2.988 tr | **2/36** |
+
+Mỗi nhân viên TCX tạo ra **19 tỷ đồng doanh thu** và **12 tỷ đồng lợi nhuận trước thuế** một năm.
+
+Để so sánh: VPS có 1.977 nhân viên — gấp 3,4 lần — nhưng doanh thu trên mỗi người chỉ 4.178 triệu, bằng **22%**.
+
+Và Bảo Việt có 1.438 nhân viên với doanh thu 766 triệu mỗi người, bằng **4%**.
+
+Đây là con số giải thích trọn vẹn vì sao TCX vừa có dư nợ margin lớn nhất ngành vừa giữ được biên lợi nhuận: **cho vay margin gần như không cần người**. Tài sản bảo đảm là cổ phiếu niêm yết, giá cập nhật từng phút, giải chấp tự động.
+
+Một công ty tổ chức quanh mảng cho vay và phân phối qua nền tảng của ngân hàng mẹ không cần bộ máy môi giới truyền thống — và 43.860 tỷ dư nợ chia cho 590 người là kết quả của lựa chọn đó.
+
+Mặt còn lại: mô hình này phụ thuộc vào nguồn vốn và vào tệp khách hàng sẵn có, không phải vào đội ngũ. Nếu một trong hai thay đổi, không có tài sản hữu hình nào giữ lại giá trị.
+
 ## Định giá
 
 P/E **17,4**, P/B **2,31**. Vốn hóa 105.707 tỷ — lớn nhất trong 36 công ty chứng khoán niêm yết. Thanh khoản 79 tỷ đồng mỗi phiên.

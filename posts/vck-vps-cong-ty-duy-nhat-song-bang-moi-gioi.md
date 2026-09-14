@@ -67,6 +67,29 @@ Nửa đầu 2026: lợi nhuận sau thuế 2.339 tỷ so với 1.438 tỷ cùng
 
 Hai dòng bù trừ nhau đúng cách: khi thị trường trầm, phí môi giới giảm nhưng dư nợ vay vẫn sinh lãi.
 
+## 1.977 người — đông nhất ngành
+
+VPS có **1.977 nhân viên**, nhiều nhất trong 36 công ty chứng khoán niêm yết.
+
+| Chỉ số 2025 | VCK | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Nhân viên | **1.977** | 385 | **1/36** |
+| **Doanh thu / nhân viên** | **4.178 tr** | 6.520 tr | **20/36** |
+| Dư nợ margin / nhân viên | **11,4 tỷ** | 21,2 tỷ | 22/36 |
+| LNTT / nhân viên | 2.262 tr | 2.988 tr | 12/36 |
+
+Đây là bảng số quan trọng nhất để hiểu VPS.
+
+Công ty giữ thị phần môi giới lớn nhất thị trường và là công ty duy nhất sống được bằng môi giới — nội dung chính của bài. Bảng này cho biết cái giá của vị thế đó.
+
+Doanh thu trên mỗi nhân viên **4.178 triệu** đứng thứ 20 trong 36 công ty, bằng **22%** Chứng khoán Kỹ Thương (19.013 triệu) và **53%** SSI.
+
+Dư nợ margin trên mỗi người chỉ 11,4 tỷ, bằng một nửa mức bình quân ngành.
+
+Nghĩa là: **thị phần môi giới được mua bằng nhân sự.** Mỗi tài khoản khách hàng cần người chăm sóc, mỗi lệnh cần bộ máy vận hành, và phí môi giới thì đã giảm về gần bằng không trên toàn ngành.
+
+Lợi nhuận trên mỗi nhân viên 2.262 triệu vẫn ở vị trí 12 — tức mô hình vẫn có lãi. Nhưng nó đòi hỏi quy mô rất lớn để bù cho biên rất mỏng, và bất kỳ sụt giảm thanh khoản thị trường nào cũng tác động thẳng vào doanh thu trong khi chi phí nhân sự không co lại tương ứng.
+
 ## Định giá
 
 P/E **15,8**, P/B **2,26**. Vốn hóa 70.613 tỷ — lớn thứ hai trong ngành sau TCX. Thanh khoản 60 tỷ đồng mỗi phiên.

@@ -38,6 +38,28 @@ Hai năm gần nhất dương, và đó là nguồn để trả nợ.
 
 Vốn chủ sở hữu gần như đứng yên bốn năm: 737 → 745 tỷ.
 
+## 34 người
+
+Địa ốc First Real có **34 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 295 tỷ |
+| **Tồn kho / nhân viên** | **8,7 tỷ** |
+| Người mua trả tiền trước | 108 tỷ |
+| **Tỷ lệ đã đặt cọc** | **37%** |
+| Đầu tư vào công ty liên kết | 201 tỷ |
+
+Với **34 nhân viên**, đây là bộ máy nhỏ thứ hai trong 35 doanh nghiệp.
+
+Tồn kho trên mỗi nhân viên 8,7 tỷ — trên mức bình quân ngành, tức quy mô dự án lớn so với số người.
+
+Tỷ lệ đã đặt cọc **37%** thuộc nhóm khá: hơn một phần ba hàng tồn kho đã có khách trả tiền trước.
+
+Khoản **201 tỷ đầu tư vào công ty liên kết** bằng 68% hàng tồn kho — tỷ lệ cao, tức một phần lớn hoạt động nằm ngoài doanh thu hợp nhất.
+
+Ở quy mô này, kết quả từng năm phụ thuộc vào việc một hay hai dự án có bàn giao đúng hạn hay không.
+
 ## Định giá
 
 P/E **467,8**, P/B **0,29**, ROE **−2%**. Vốn hóa 215 tỷ. Thanh khoản 1,1 tỷ đồng mỗi phiên.

@@ -48,6 +48,26 @@ Nhưng với phí môi giới 12 tỷ một năm, nền khách hàng quá nhỏ 
 
 Năm 2022, công ty lỗ trước thuế **79 tỷ** — bằng 35% vốn chủ khi đó.
 
+## 48 người
+
+Chứng khoán Hải Phòng có **48 nhân viên** và **2 chi nhánh** — bộ máy nhỏ thứ ba trong ngành.
+
+| Chỉ số 2025 | HAC | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| **Doanh thu / nhân viên** | **1.782 tr** | 6.520 tr | **30/36** |
+| **Dư nợ margin / nhân viên** | **3,23 tỷ** | 21,2 tỷ | **30/36** |
+| LNTT / nhân viên | 935 tr | 2.988 tr | 22/36 |
+
+Doanh thu cả năm **86 tỷ đồng** chia cho 48 người ra 1.782 triệu mỗi nhân viên, bằng 27% mức bình quân ngành.
+
+Dư nợ margin 155 tỷ — tức 3,23 tỷ mỗi người, bằng 15% mức bình quân.
+
+Đây là quy mô rất nhỏ ở mọi chiều, và nó là bối cảnh trực tiếp cho nội dung chính của bài: vốn hóa 1.163 tỷ trên doanh thu 86 tỷ.
+
+Thị trường đang trả 13,5 lần **doanh thu** — không phải lợi nhuận — cho một công ty có 48 nhân viên, 155 tỷ dư nợ và 311 tỷ vốn chủ.
+
+Bảng năng suất không giải thích được mức định giá đó. Nó chỉ làm rõ khoảng cách.
+
 ## Định giá
 
 P/E **44,0**. Vốn hóa 1.163 tỷ. Thanh khoản gần như bằng không. Sàn UPCOM.

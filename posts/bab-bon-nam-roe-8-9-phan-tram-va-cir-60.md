@@ -54,6 +54,34 @@ Cấu trúc này — biên mỏng, không thu phí, chi phí cao — là hình d
 
 Điểm lành mạnh: LDR giữ quanh 84–100%, và giấy tờ có giá 24.900 tỷ trên tiền gửi 127.024 tỷ, tức 16,4% nguồn huy động — mức trung bình, không căng như OCB (30%) hay BVB (27%).
 
+## 4.255 người, nợ xấu thấp nhưng thu nhập thấp hơn
+
+Bac A Bank vận hành **55 chi nhánh** với **4.255 nhân viên**.
+
+| Chỉ số 2025 | BAB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 29,7 tỷ | 48,1 tỷ | 18/28 |
+| **TOI / nhân viên** | **949 tr** | 2.518 tr | **28/28 trừ SGB** |
+| Chi phí hoạt động / nhân viên | 545 tr | — | thấp |
+| LNTT / nhân viên | 346 tr | 1.203 tr | 23/28 |
+
+Thu nhập trên mỗi nhân viên **949 triệu** là thấp thứ hai trong 28 ngân hàng, chỉ trên Saigonbank (647 triệu).
+
+Đây là cách nhìn khác về bốn năm ROE 8–9% mà bài đã nêu: vấn đề không nằm ở chi phí — 545 triệu mỗi nhân viên thuộc nhóm tiết kiệm — mà ở nền thu nhập. Biên lãi 2,16% thuộc nhóm thấp nhất ngành.
+
+Nhưng có một điểm đi ngược lại, và nó đáng ghi nhận:
+
+| | BAB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| **Tỷ lệ nợ xấu** | **1,24%** | — | **thấp thứ tư** |
+| **Tỷ lệ bao phủ** | **97%** | — | cao thứ tư |
+
+Nợ xấu 1,24% thấp thứ tư trong 28 ngân hàng — chỉ sau Vietcombank, VietinBank và Techcombank — và bao phủ 97%.
+
+Đây là danh mục cho vay sạch hơn nhiều ngân hàng lớn hơn và sinh lời cao hơn.
+
+Nó cũng gợi ý nguyên nhân của biên lãi thấp: ngân hàng cho vay ở phân khúc ít rủi ro, nên lãi suất cho vay thấp. Hai con số là hai mặt của cùng một lựa chọn.
+
 ## Định giá
 
 P/E **10,1**, P/B **0,88**. Vốn hóa 12.102 tỷ. Thanh khoản **0,1 tỷ đồng mỗi phiên** — một trăm triệu đồng, thấp nhất trong 28 ngân hàng.
@@ -67,7 +95,7 @@ Với nhà đầu tư, câu hỏi thực tế duy nhất là CIR — nếu nó k
 ## Một số lưu ý
 
 - Nguyên nhân CIR duy trì ở 57–61% suốt bốn năm chưa bóc được. Cần cơ cấu chi phí theo khoản mục — nhân sự, khấu hao, thuê mặt bằng — để biết đây là chi phí mạng lưới hay chi phí đầu tư.
-- **Không có tỷ lệ nợ xấu nhóm 3–5.** Mức trích dự phòng rất thấp có thể phản ánh chất lượng tài sản tốt, hoặc chính sách trích lập thận trọng khác nhau; bảng số không phân biệt được.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Chưa tách được cơ cấu dư nợ theo ngành. Bắc Á được biết tới với tỷ trọng cho vay nông nghiệp công nghệ cao, nhưng con số cụ thể không có trong dữ liệu này.
 - Không có CASA và không có hệ số an toàn vốn CAR.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.

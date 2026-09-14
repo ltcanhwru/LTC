@@ -51,6 +51,24 @@ Nhưng có một điểm đáng chú ý ở quý 1/2026: doanh thu 697 tỷ — 
 
 Khoảng cách đó là chi phí tự doanh: doanh thu tự doanh 328 tỷ đi kèm chi phí gần tương đương. Đây là hình dạng của việc bán ra danh mục chứ không phải lãi ròng.
 
+## 297 người
+
+BSC có **297 nhân viên** và **1 chi nhánh**.
+
+| Chỉ số 2025 | BSI | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | **7.061 tr** | 6.520 tr | 10/36 |
+| **Dư nợ margin / nhân viên** | **31,4 tỷ** | 21,2 tỷ | **6/36** |
+| LNTT / nhân viên | 2.075 tr | 2.988 tr | 15/36 |
+
+Dư nợ margin trên mỗi nhân viên **31,4 tỷ** đứng thứ sáu toàn ngành — 9.338 tỷ chia cho 297 người.
+
+Đây là mức cao, và nó nhất quán với nội dung chính của bài: dư nợ gấp 3,2 lần với cơ cấu doanh thu cân bằng.
+
+Doanh thu trên mỗi nhân viên 7.061 triệu trên mức bình quân ngành, nhưng lợi nhuận trên mỗi người 2.075 triệu lại dưới mức bình quân và đứng thứ 15.
+
+Khoảng cách đó là điều cần theo dõi: công ty cho vay nhiều trên mỗi đầu người nhưng phần giữ lại được không tương xứng — hoặc do chi phí vốn, hoặc do chi phí vận hành trên nền doanh thu chưa đủ lớn.
+
 ## Định giá
 
 P/E **13,8**, P/B **1,27**, ROE **10%**. Vốn hóa 7.233 tỷ. Thanh khoản 9 tỷ đồng mỗi phiên.

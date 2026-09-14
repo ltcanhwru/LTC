@@ -39,6 +39,28 @@ Với một doanh nghiệp công ích có địa bàn cố định, cơ hội t�
 
 Tiền tích trong ngân hàng sinh khoảng 5% trong khi vốn chủ đang sinh 13–23%. Mỗi đồng giữ lại không được dùng làm kéo tỷ suất chung xuống.
 
+## 48.400 m³ mỗi ngày
+
+Viwaco có tổng công suất **48.400 m³ mỗi ngày**, với **239 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **48.400 m³/ngày** |
+| Nguyên giá tài sản cố định | 717 tỷ |
+| **Suất đầu tư mỗi m³/ngày** | **14,8 triệu đồng** |
+| Hao mòn lũy kế | 430 tỷ (**60%**) |
+| **m³/ngày / nhân viên** | **203** |
+
+Suất đầu tư **14,8 triệu đồng mỗi m³/ngày** cao nhất trong nhóm cấp nước của loạt bài — gấp **2,8 lần** Vinh An (5,3 triệu).
+
+Và **203 m³/ngày trên mỗi nhân viên** là mức thấp nhất nhóm — bằng 22% Vinh An (913).
+
+Hai con số này đi cùng nhau và cùng chỉ về một nguyên nhân: đây là doanh nghiệp phân phối nước trong khu vực đô thị đông dân, nơi mạng lưới ống dày đặc, nhiều đấu nối nhỏ, và chi phí vận hành trên mỗi m³ cao hơn.
+
+Mô hình đô thị có ưu điểm là mật độ khách hàng cao và thất thoát dễ kiểm soát hơn, nhưng suất đầu tư trên mỗi đơn vị công suất thì lớn.
+
+Hao mòn 60% — hệ thống ở giữa vòng đời.
+
 ## Định giá
 
 P/E 9,4, P/B 2,16. Thanh khoản **0,01 tỷ đồng mỗi phiên** — khoảng mười triệu.

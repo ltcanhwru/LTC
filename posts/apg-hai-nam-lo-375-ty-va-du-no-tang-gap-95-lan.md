@@ -50,6 +50,26 @@ Lãi cho vay thì ổn định ở 22–26 tỷ bốn quý gần nhất.
 
 Nửa đầu 2026: lãi 3 tỷ so với 2 tỷ cùng kỳ. Gần như hòa vốn.
 
+## 73 người
+
+Chứng khoán APG có **73 nhân viên** và **1 chi nhánh**.
+
+| Chỉ số 2025 | APG | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Doanh thu / nhân viên | 4.751 tr | 6.520 tr | 18/36 |
+| Dư nợ margin / nhân viên | 10,8 tỷ | 21,2 tỷ | 24/36 |
+| **LNTT / nhân viên** | **499 tr** | 2.988 tr | **26/36** |
+
+Doanh thu trên mỗi nhân viên 4.751 triệu — dưới mức bình quân ngành nhưng không thấp.
+
+Lợi nhuận trên mỗi người **499 triệu** thì đứng thứ 26, và khoảng cách tám bậc giữa hai chỉ số cho biết phần lớn doanh thu bị chi phí và lỗ tự doanh ăn mất.
+
+Đây là cách nhìn khác về nội dung chính của bài: hai năm lỗ 375 tỷ với dư nợ tăng gấp 9,5 lần.
+
+Dư nợ margin 791 tỷ chia cho 73 người ra 10,8 tỷ mỗi người — mức tăng mạnh về tuyệt đối nhưng vẫn dưới bình quân ngành. Và trên vốn chủ 2.382 tỷ, tỷ lệ chỉ **0,33 lần**, còn rất xa trần.
+
+Nghĩa là mảng cho vay — mảng an toàn và cần ít người nhất — vẫn còn nhiều dư địa chưa dùng, trong khi phần đã gây lỗ là danh mục tự doanh.
+
 ## Định giá
 
 P/E **153,0**, P/B **0,44**, ROE **0%**. Vốn hóa 1.040 tỷ. Thanh khoản 1,0 tỷ đồng mỗi phiên.

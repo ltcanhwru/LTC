@@ -54,6 +54,31 @@ Biên độ ấy phản ánh đúng bản chất ngành: doanh thu khu công ngh
 
 Và quý 4/2025 có lợi nhuận cốt lõi **âm 1 tỷ** dù doanh thu 209 tỷ — một quý dồn chi phí.
 
+## 139 người và 758 tỷ nằm ngoài dòng doanh thu
+
+Nam Tân Uyên quản lý khu công nghiệp với tổng diện tích **966,5 ha**, với **139 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Diện tích khu công nghiệp | **966,5 ha** |
+| Nguyên giá tài sản cố định | **100 tỷ** |
+| **Bất động sản đầu tư** | **344 tỷ** |
+| **Đầu tư vào công ty liên kết** | **414 tỷ** |
+| Xây dựng cơ bản dở dang | 31 tỷ |
+| Hàng tồn kho | 1 tỷ |
+
+Cấu trúc tài sản ở đây rất đặc biệt.
+
+**Nguyên giá tài sản cố định chỉ 100 tỷ**, trong khi bất động sản đầu tư 344 tỷ và góp vốn liên kết 414 tỷ.
+
+Cộng hai khoản sau: **758 tỷ** — gấp 7,6 lần tài sản cố định, và phần lớn không tạo ra doanh thu trong bảng kết quả kinh doanh hợp nhất.
+
+Hàng tồn kho **1 tỷ** cho biết doanh nghiệp không còn đất để bán; mô hình đã chuyển hoàn toàn sang **cho thuê và thu tiền theo hợp đồng dài hạn**.
+
+Với 139 nhân viên cho 966,5 ha, mỗi người phụ trách khoảng 7 ha.
+
+Đây là dạng doanh nghiệp mà bảng kết quả kinh doanh mô tả rất ít về giá trị thật: phần lớn nằm ở quyền cho thuê đất còn lại và ở danh mục góp vốn.
+
 ## Định giá
 
 Ở giá 129.100 đồng: P/E 9,6, P/B 2,14, cổ tức 4,6%. Giá giảm 18% trong một năm và 26% trong ba năm.

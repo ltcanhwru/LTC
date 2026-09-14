@@ -48,6 +48,50 @@ Techcombank là trường hợp cực đoan nhất: dư nợ tăng từ 421 lên
 
 Tỷ lệ dư nợ trên tiền gửi của TCB hiện là **124%**. Của VPB là **150%**.
 
+## 297.723 người, và khoảng cách 25 lần giữa họ
+
+Có một cách đọc khác về cùng khối tài sản đó: chia cho số người làm ra nó.
+
+Hai mươi tám ngân hàng niêm yết có **297.723 nhân viên**. Bình quân mỗi người:
+
+| Chỉ số bình quân toàn ngành, 2025 | Mức |
+|---|---:|
+| Dư nợ cho vay | **48,1 tỷ đồng** |
+| Tổng thu nhập hoạt động | **2.518 triệu đồng** |
+| Lợi nhuận trước thuế | **1.203 triệu đồng** |
+
+Nhưng mức bình quân che mất điều đáng nói nhất — khoảng cách giữa hai đầu bảng:
+
+| Mã | Nhân viên | Dư nợ / nhân viên | TOI / nhân viên | **LNTT / nhân viên** |
+|---|---:|---:|---:|---:|
+| **TCB** | 12.946 | 59,3 tỷ | **4.124 tr** | **2.513 tr** |
+| VCB | 23.814 | 70,3 tỷ | 3.043 tr | 1.848 tr |
+| SHB | 8.216 | 74,8 tỷ | 3.532 tr | 1.828 tr |
+| MBB | 18.836 | 57,6 tỷ | 3.594 tr | 1.819 tr |
+| CTG | 29.048 | 68,6 tỷ | 3.005 tr | 1.496 tr |
+| BID | 29.997 | **79,1 tỷ** | 3.041 tr | 1.260 tr |
+| VPB | **29.613** | 31,9 tỷ | 2.521 tr | 1.034 tr |
+| STB | 18.638 | 33,6 tỷ | 1.720 tr | 409 tr |
+| BAB | 4.255 | 29,7 tỷ | 949 tr | 346 tr |
+| EIB | 6.234 | 29,6 tỷ | 1.170 tr | 243 tr |
+| BVB | 2.930 | 26,5 tỷ | 993 tr | 178 tr |
+| **SGB** | 1.519 | **14,5 tỷ** | 647 tr | **99 tr** |
+| **NVB** | 2.296 | 42,5 tỷ | 1.197 tr | **1 tr** |
+
+Techcombank làm ra **2.513 triệu đồng lợi nhuận trước thuế trên mỗi nhân viên**. Saigonbank làm ra **99 triệu**.
+
+Chênh lệch **25 lần** — cùng một khung pháp lý, cùng một thị trường.
+
+Ba điều đọc được:
+
+**Dư nợ trên mỗi nhân viên không quyết định lợi nhuận.** BIDV dẫn đầu ở cột dư nợ với 79,1 tỷ nhưng chỉ đứng thứ sáu ở cột lợi nhuận. Techcombank cho vay ít hơn trên mỗi người mà kiếm được gấp đôi.
+
+**Thứ quyết định là TOI trên mỗi nhân viên** — mỗi khách hàng mang lại bao nhiêu thu nhập, không phải bao nhiêu dư nợ. Techcombank đạt 4.124 triệu, gấp 6,4 lần Saigonbank.
+
+**Quy mô nhân sự không đi cùng quy mô sinh lời.** VPBank đông nhất ngành với 29.613 người nhưng dư nợ trên mỗi nhân viên chỉ 31,9 tỷ, bằng 40% BIDV — dấu vết của mảng cho vay tiêu dùng, nơi một đồng dư nợ cần rất nhiều lao động.
+
+Chi phí đi cùng logic đó: chi phí hoạt động trên mỗi nhân viên dao động từ 415 triệu (KLB) tới 1.269 triệu (TCB). Ngân hàng trả cao nhất cũng là ngân hàng sinh lời cao nhất.
+
 ## Bảng toàn ngành, năm 2025
 
 | Mã | Biên lãi 2025 | So với 2022 | CIR | Dự phòng / LN trước DP | LDR | ROE | P/B |
@@ -87,6 +131,52 @@ Bốn cột này đo bốn thứ khác nhau và không cột nào một mình đ
 
 Hai ngân hàng có cùng lợi nhuận công bố có thể có chất lượng hoàn toàn khác nhau ở cột này.
 
+## Nợ xấu và tấm đệm phía sau nó
+
+Hai con số phải đọc cùng nhau: **tỷ lệ nợ xấu** cho biết bao nhiêu khoản vay đang có vấn đề, **tỷ lệ bao phủ** cho biết ngân hàng đã trích lập bao nhiêu cho phần đó.
+
+Một ngân hàng nợ xấu thấp mà bao phủ cao thì rủi ro đã được ghi nhận xong. Ngược lại, nợ xấu cao mà bao phủ thấp nghĩa là phần lỗ vẫn còn ở phía trước.
+
+| Mã | **Nợ xấu** | **Bao phủ** | Đọc cùng nhau |
+|---|---:|---:|---|
+| **VCB** | **0,58%** | **258%** | thấp nhất ngành, đệm dày nhất |
+| CTG | 1,10% | 159% | rất chắc |
+| TCB | 1,12% | 114% | chắc |
+| BAB | 1,24% | 97% | |
+| MBB | 1,29% | 94% | |
+| VAB | 1,37% | 70% | |
+| BID | 1,47% | 100% | |
+| ACB | 1,49% | 78% | |
+| TPB | 1,52% | 81% | |
+| LPB | 1,57% | 83% | |
+| SSB | 1,89% | 83% | |
+| HDB | 1,93% | 69% | |
+| KLB | 2,02% | 79% | |
+| SGB | 2,03% | — | |
+| NAB | 2,33% | 53% | |
+| STB | 2,40% | 68% | |
+| EIB | 2,53% | 42% | đệm mỏng |
+| **PGB** | 2,57% | **40%** | **đệm mỏng nhất ngành** |
+| VBB | 2,75% | 44% | đệm mỏng |
+| SHB | 2,90% | 58% | |
+| BVB | 3,09% | 45% | đệm mỏng |
+| OCB | 3,17% | 47% | đệm mỏng |
+| VPB | 3,33% | 55% | |
+| **VIB** | **3,51%** | 50% | |
+| **ABB** | **3,74%** | **46%** | **cao nhất, đệm mỏng** |
+
+Khoảng cách ở cột đầu là **6,4 lần** — từ 0,58% của Vietcombank tới 3,74% của ABBank.
+
+Ở cột thứ hai còn rộng hơn: **6,5 lần**, từ 40% của PGBank tới 258% của Vietcombank.
+
+Nhóm đáng chú ý nhất là những mã **nằm ở nửa dưới cả hai cột**: ABB, VIB, OCB, BVB, VBB, EIB và PGB — nợ xấu trên 2,5% trong khi bao phủ dưới 60%.
+
+Với các ngân hàng này, chi phí dự phòng của những năm tới nhiều khả năng còn tăng, và nó sẽ ăn trực tiếp vào lợi nhuận.
+
+Ở đầu kia, Vietcombank đã trích lập gấp 2,6 lần số nợ xấu đang có. Phần trích dư đó là lợi nhuận tiềm tàng nếu thu hồi được — một tấm đệm hai chiều.
+
+Cần lưu ý: các con số này lấy từ công bố của từng ngân hàng và **không cùng một thời điểm** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. So sánh trực tiếp giữa hai nhóm năm vì thế chỉ mang tính tham chiếu.
+
 ## Ba điều đáng chú ý nhất
 
 **Bộ đệm dự phòng của khối quốc doanh đang mỏng đi.** Tỷ lệ dự phòng trên dư nợ: VCB từ 2,16% xuống **1,49%**; BID từ 2,50% xuống **1,47%**; CTG từ 2,31% xuống **1,75%**. Ba ngân hàng lớn nhất đều giảm đệm trong khi dư nợ tăng 45–56%.
@@ -98,7 +188,10 @@ Hai ngân hàng có cùng lợi nhuận công bố có thể có chất lượng
 ## Một số lưu ý
 
 - Chỉ số em gọi là "biên lãi" là thu nhập lãi thuần chia tổng tài sản bình quân, **không phải NIM chuẩn** (chia cho tài sản sinh lãi). Con số thật của mỗi ngân hàng sẽ cao hơn khoảng 0,2–0,5 điểm phần trăm; so sánh giữa các ngân hàng thì vẫn nhất quán.
-- **Không có tỷ lệ nợ xấu (nhóm 3–5)** trong dữ liệu này — số đó nằm ở thuyết minh báo cáo tài chính, không ở bảng cân đối chuẩn. Em dùng tỷ lệ dự phòng trên dư nợ làm chỉ báo thay thế, và nó chỉ phản ánh mức ngân hàng *chọn* trích, không phải mức nợ xấu *thực tế*.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ lấy từ công bố của từng ngân hàng, không cùng một thời điểm** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Ba mã MSB, PCB và NVB không có số. So sánh giữa hai nhóm năm chỉ mang tính tham chiếu, và không đối chiếu được với bảng cân đối trong bài.
+- Không có cơ cấu nợ xấu theo nhóm 3, 4, 5 — nợ nhóm 5 có khả năng mất vốn cao hơn nhiều so với nhóm 3, nên hai ngân hàng cùng tỷ lệ nợ xấu vẫn có thể ở hai tình trạng khác nhau.
+- **Số nhân viên lấy từ hồ sơ doanh nghiệp và không ghi thời điểm.** Mọi chỉ số trên mỗi nhân viên vì thế chỉ đúng ở mức độ lớn; các ngân hàng có công ty con lớn (VPB với FE Credit) còn bị trộn nhân sự công ty con vào mẫu số.
+- Số chi nhánh trong dữ liệu không nhất quán giữa các ngân hàng — có nơi đếm chi nhánh cấp một, có nơi gộp phòng giao dịch — nên em không dùng nó để so sánh trực tiếp.
 - Cũng không có tỷ lệ CASA (tiền gửi không kỳ hạn) — chỉ số giải thích trực tiếp nhất vì sao biên lãi của ngân hàng này cao hơn ngân hàng kia.
 - Không có hệ số an toàn vốn CAR, mà đây là ràng buộc thật sự quyết định ngân hàng còn tăng trưởng tín dụng được bao xa.
 - Số liệu là hợp nhất, nên với các ngân hàng có công ty con lớn (VPB có FE Credit, TCB có TCBS), phần đóng góp của công ty con bị trộn vào và em chưa tách được.
@@ -106,11 +199,11 @@ Hai ngân hàng có cùng lợi nhuận công bố có thể có chất lượng
 
 ## Kết luận
 
-Gần như chắc chắn: dư nợ của 28 ngân hàng niêm yết gần gấp đôi trong bốn năm trong khi tiền gửi chỉ tăng 70%, khiến LDR toàn ngành lên 110% và giấy tờ có giá phát hành tăng thêm 975 nghìn tỷ; biên lãi toàn ngành mất 0,67 điểm phần trăm, và 23 trong 28 ngân hàng có biên thấp hơn năm 2022.
+Gần như chắc chắn: dư nợ của 28 ngân hàng niêm yết gần gấp đôi trong bốn năm trong khi tiền gửi chỉ tăng 70%, khiến LDR toàn ngành lên 110% và giấy tờ có giá phát hành tăng thêm 975 nghìn tỷ; biên lãi toàn ngành mất 0,67 điểm phần trăm, và 23 trong 28 ngân hàng có biên thấp hơn năm 2022; 297.723 nhân viên toàn ngành làm ra bình quân 48,1 tỷ dư nợ và 1.203 triệu đồng lợi nhuận trước thuế mỗi người, nhưng khoảng cách giữa TCB (2.513 triệu) và SGB (99 triệu) là 25 lần; tỷ lệ nợ xấu trải từ 0,58% (VCB) tới 3,74% (ABB) và tỷ lệ bao phủ từ 40% (PGB) tới 258% (VCB).
 
-Phỏng đoán: lợi nhuận ngành tăng 94% trong giai đoạn này chủ yếu nhờ khối lượng tín dụng chứ không nhờ hiệu quả, nên nó phụ thuộc vào việc tăng trưởng tín dụng có duy trì được không — và nguồn vốn tài trợ cho nó ngày càng đắt.
+Phỏng đoán: lợi nhuận ngành tăng 94% chủ yếu nhờ khối lượng tín dụng chứ không nhờ hiệu quả — và bảng năng suất cho thấy khối lượng cũng không phải thứ tạo ra khác biệt: ngân hàng cho vay nhiều nhất trên mỗi nhân viên không phải ngân hàng lãi nhiều nhất. Thứ tách nhóm dẫn đầu khỏi phần còn lại là thu nhập trên mỗi khách hàng, và phía sau đó là tấm đệm dự phòng.
 
-Ba thứ đáng theo dõi: khoảng trống giữa dư nợ và tiền gửi có tiếp tục mở rộng không; biên lãi có chạm đáy chưa; và tỷ lệ dự phòng trên dư nợ của khối quốc doanh sau ba năm giảm liên tiếp.
+Ba thứ đáng theo dõi: khoảng trống giữa dư nợ và tiền gửi có tiếp tục mở rộng không; biên lãi có chạm đáy chưa; và nhóm nợ xấu trên 2,5% với bao phủ dưới 60% — ABB, VIB, OCB, BVB, VBB, EIB, PGB — có phải trích thêm dự phòng không.
 
 ---
 

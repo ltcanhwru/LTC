@@ -47,6 +47,26 @@ Phí môi giới giảm 26% trong bốn năm — từ 291 xuống 215 tỷ, và 
 
 Dư nợ tăng 74% trong ba năm. Dư địa còn khoảng 2,2 nghìn tỷ theo trần hai lần vốn chủ.
 
+## 429 người
+
+Chứng khoán Rồng Việt có **429 nhân viên**.
+
+| Chỉ số 2025 | VDS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| **Doanh thu / nhân viên** | **2.429 tr** | 6.520 tr | **26/36** |
+| Dư nợ margin / nhân viên | 9,3 tỷ | 21,2 tỷ | 24/36 |
+| **LNTT / nhân viên** | **808 tr** | 2.988 tr | **24/36** |
+
+Ba chỉ số đều nằm ở nhóm cuối bảng.
+
+Với 429 nhân viên — đông thứ bảy ngành — công ty tạo ra 1.042 tỷ doanh thu, tức 2.429 triệu mỗi người, bằng 37% mức bình quân ngành.
+
+Dư nợ margin 4.004 tỷ chia cho 429 người ra 9,3 tỷ mỗi người, bằng 44% mức bình quân.
+
+Đây là hình dạng gần với Bảo Việt tuy nhẹ hơn: bộ máy lớn hơn mức mà quy mô kinh doanh hiện tại đòi hỏi.
+
+Nó cũng giải thích vì sao lợi nhuận quý dao động từ âm 29 tới 261 tỷ như bài đã nêu — khi chi phí cố định lớn so với doanh thu, một mảng biến động là đủ lật ngược kết quả.
+
 ## Định giá
 
 P/E **10,6**, P/B **1,01**, ROE **9%**. Vốn hóa 2.992 tỷ. Thanh khoản 8 tỷ đồng mỗi phiên.

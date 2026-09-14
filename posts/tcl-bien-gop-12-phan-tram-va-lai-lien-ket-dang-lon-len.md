@@ -51,6 +51,27 @@ Năm 2024 chỉ đạt 27% rồi năm 2025 vọt lên 200%. Bốn năm cộng l�
 
 Cổ tức chi 45–100% lợi nhuận.
 
+## 359 người và tài sản đã khấu hao 77%
+
+Vận tải Tân Cảng hoạt động ở vận tải đường bộ, đường thủy và xếp dỡ container, với **359 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 914 tỷ |
+| Hao mòn lũy kế | 708 tỷ (**77%**) |
+| Giá trị còn lại | **206 tỷ** |
+| Tài sản cố định / nhân viên | 2,5 tỷ |
+| Đầu tư vào công ty liên kết | 137 tỷ |
+| **Phải thu khách hàng** | **296 tỷ** |
+
+Hao mòn **77%** — đội xe đầu kéo, sà lan và thiết bị xếp dỡ đã khấu hao phần lớn. Giá trị còn lại 206 tỷ.
+
+Với doanh nghiệp vận tải, đây là trạng thái có lợi cho lợi nhuận hiện tại nhưng báo trước một chu kỳ tái đầu tư: xe và thiết bị có tuổi thọ hữu hạn, khác với nhà xưởng.
+
+Khoản **phải thu khách hàng 296 tỷ lớn hơn giá trị còn lại của toàn bộ tài sản cố định**. Đây là đặc trưng của mô hình dịch vụ logistics: vốn nằm ở công nợ nhiều hơn ở tài sản.
+
+Khoản 137 tỷ góp vốn liên kết là phần hoạt động không đi qua doanh thu hợp nhất.
+
 ## Định giá
 
 P/E **5,4**, P/B 1,28 — rẻ nhất trong nhóm cảng và logistics được soi.

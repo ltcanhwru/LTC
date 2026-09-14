@@ -91,6 +91,33 @@ Hai tín hiệu tích cực đáng ghi nhận. CIR xuống **32%** ở cả hai 
 
 Nếu hai xu hướng này giữ được, đáy có thể đã qua. Nhưng chi phí dự phòng cũng đang gấp đôi mức của nửa đầu 2025 (2.486 so với 1.057 tỷ), nên phần cải thiện bị nuốt hết.
 
+## 12.253 người, và tỷ lệ nợ xấu cao thứ hai ngành
+
+VIB có **12.253 nhân viên** — gần bằng Techcombank (12.946).
+
+| Chỉ số 2025 | VIB | TCB | Vị trí của VIB |
+|---|---:|---:|---|
+| Nhân viên | 12.253 | 12.946 | tương đương |
+| Dư nợ / nhân viên | 31,2 tỷ | 59,3 tỷ | 17/28 |
+| TOI / nhân viên | **1.633 tr** | 4.124 tr | **21/28** |
+| Chi phí hoạt động / nhân viên | 607 tr | 1.269 tr | |
+| LNTT / nhân viên | **743 tr** | 2.513 tr | **17/28** |
+
+Hai ngân hàng có số nhân viên gần bằng nhau. Techcombank làm ra lợi nhuận trên mỗi người **gấp 3,4 lần**.
+
+Thu nhập trên mỗi nhân viên của VIB là 1.633 triệu, đứng thứ 21 trong 28 ngân hàng — thấp hơn cả ABBank (2.142) và Việt Á (2.322), hai ngân hàng nhỏ hơn nhiều.
+
+Chất lượng tài sản là phần đáng lo hơn:
+
+| | VIB | Cao nhất ngành | Vị trí |
+|---|---:|---:|---|
+| **Tỷ lệ nợ xấu** | **3,51%** | ABB 3,74% | **cao thứ hai** |
+| **Tỷ lệ bao phủ** | **50%** | — | **thấp thứ năm** |
+
+Nợ xấu 3,51% cao thứ hai trong 28 ngân hàng niêm yết, và bao phủ chỉ 50% — tức một nửa số nợ xấu chưa được trích lập.
+
+Đây là bối cảnh trực tiếp cho nội dung chính của bài: khi dư nợ tăng thêm 65% mà thu nhập lãi giảm 13%, phần tăng trưởng đó đi kèm chất lượng tài sản xấu đi, và chi phí dự phòng của những năm tới còn dư địa tăng.
+
 ## Định giá
 
 P/E **6,7**, P/B **1,03**. Vốn hóa 49.388 tỷ. Thanh khoản 70 tỷ đồng mỗi phiên.
@@ -103,7 +130,7 @@ Câu hỏi để đánh giá VIB gọn lại thành một con số: tiền gửi
 
 ## Một số lưu ý
 
-- **Không có tỷ lệ nợ xấu nhóm 3–5** — đặc biệt quan trọng với một ngân hàng cho vay cá nhân tỷ trọng cao, nơi nợ xấu xuất hiện nhanh hơn cho vay doanh nghiệp.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Chưa tách được cơ cấu dư nợ giữa cho vay mua nhà, mua ô tô và tiêu dùng — ba nhóm có biên và rủi ro rất khác nhau, và VIB mạnh ở cả ba.
 - Không có CASA. Đây là chỉ số giải thích trực tiếp nhất vì sao biên lãi rơi 1,84 điểm trong hai năm.
 - Nguyên nhân số dư dự phòng giảm 835 tỷ trong năm 2025 khi dư nợ tăng 58 nghìn tỷ chưa xác định được; có thể do xử lý rủi ro, nhưng em không có số nợ đã xóa.

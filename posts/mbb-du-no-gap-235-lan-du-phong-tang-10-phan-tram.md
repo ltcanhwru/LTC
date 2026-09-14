@@ -96,6 +96,32 @@ Quý 2/2026 lợi nhuận sau thuế 8.229 tỷ, hơn cùng kỳ **40%**. Thu nh
 
 Nửa đầu 2026: lợi nhuận 15.745 tỷ so với 12.446 tỷ cùng kỳ, tăng **27%**. Và mức trích dự phòng của hai quý này (7.702 tỷ) cao hơn cùng kỳ (7.772 tỷ là gần bằng), nên đây không phải lợi nhuận nhờ giảm trích lập.
 
+## 18.836 người và 319 điểm giao dịch
+
+MBBank vận hành **319 điểm giao dịch** — nhiều nhất trong 28 ngân hàng niêm yết — với **18.836 nhân viên**.
+
+| Chỉ số 2025 | MBB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 57,6 tỷ | 48,1 tỷ | 6/28 |
+| **TOI / nhân viên** | **3.594 tr** | 2.518 tr | **2/28** |
+| Chi phí hoạt động / nhân viên | 1.045 tr | — | cao thứ ba |
+| **LNTT / nhân viên** | **1.819 tr** | 1.203 tr | **4/28** |
+
+MBBank đứng thứ hai ngành ở thu nhập trên mỗi nhân viên, chỉ sau Techcombank (4.124 triệu).
+
+Dư nợ trên mỗi điểm giao dịch chỉ **3.398 tỷ** — thấp hơn nhiều so với Vietcombank (13.282 tỷ) hay BIDV (12.489 tỷ).
+
+Hai con số đó cùng nhau mô tả một mô hình khác hẳn khối quốc doanh: **mạng lưới rộng, mỗi điểm nhỏ, nhưng thu nhập trên mỗi người rất cao**. Đó là dấu hiệu của nền tảng khách hàng cá nhân lớn và tỷ trọng tiền gửi không kỳ hạn cao.
+
+Chất lượng tài sản thuộc nhóm tốt:
+
+| | MBB | VCB | TCB |
+|---|---:|---:|---:|
+| Tỷ lệ nợ xấu | **1,29%** | 0,58% | 1,12% |
+| Tỷ lệ bao phủ | **94%** | 258% | 114% |
+
+Nợ xấu 1,29% thấp thứ năm trong 28 ngân hàng. Bao phủ 94% là dưới 100% — tức tấm đệm chưa phủ hết số nợ xấu đang có, mỏng hơn Techcombank và kém xa Vietcombank.
+
 ## Định giá
 
 P/E **6,1**, P/B **1,23**. Vốn hóa 182.949 tỷ. Thanh khoản 219 tỷ đồng mỗi phiên.
@@ -110,7 +136,7 @@ Bảng số ủng hộ mức định giá cao hơn hiện tại ở nhiều đi�
 
 ## Một số lưu ý
 
-- **Không có tỷ lệ nợ xấu nhóm 3–5** và không có số dư nợ đã xử lý ngoại bảng. Con số thứ hai đặc biệt quan trọng ở đây, vì toàn bộ phần giải thích chênh lệch giữa chi phí dự phòng 37.456 tỷ và mức tăng số dư 1.175 tỷ đều dựa trên suy luận về việc xử lý rủi ro.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Chưa tách được cơ cấu dư nợ theo ngành và theo nhóm khách hàng — với tốc độ tăng 40% một năm, đây là thông tin quan trọng nhất còn thiếu.
 - Số liệu là hợp nhất, gồm các công ty con (chứng khoán, bảo hiểm, tài chính tiêu dùng). Em chưa tách được phần ngân hàng mẹ.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.

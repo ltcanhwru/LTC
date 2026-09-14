@@ -65,6 +65,28 @@ Nửa đầu 2026: lợi nhuận sau thuế của cổ đông mẹ 293 tỷ so v
 
 Đây là hệ quả trực tiếp của mô hình ghi nhận một lần: quý nào không bàn giao được lô đất lớn thì doanh thu gần như bằng không, trong khi chi phí vận hành và lãi vay vẫn chạy.
 
+## 3.296 người và 24.095 tỷ nằm ở công ty liên kết
+
+Becamex có **3.296 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị | Tỷ trọng |
+|---|---:|---|
+| **Đầu tư vào công ty liên kết** | **24.095 tỷ** | lớn hơn hàng tồn kho |
+| Hàng tồn kho | 22.179 tỷ | |
+| Bất động sản đầu tư | 2.566 tỷ | |
+| Xây dựng cơ bản dở dang | 843 tỷ | |
+| Phải thu khách hàng | 4.401 tỷ | |
+
+Đây là điểm quan trọng nhất và nó không xuất hiện ở bất kỳ dòng nào của bảng kết quả kinh doanh.
+
+**24.095 tỷ đồng đầu tư vào công ty liên kết** — nhiều hơn cả hàng tồn kho 22.179 tỷ. Đây là các liên doanh khu công nghiệp mà Becamex góp vốn nhưng không hợp nhất.
+
+Nghĩa là **hơn một nửa giá trị tài sản cốt lõi của Becamex nằm ngoài doanh thu hợp nhất**. Sản lượng cho thuê, doanh thu và chi phí của các liên doanh này không hiện ra; chỉ có một dòng lãi/lỗ duy nhất.
+
+Đó là bối cảnh cần đặt cạnh nội dung chính của bài về ba năm dòng tiền âm và một quý lỗ: phần sinh lời tốt nhất có thể không nằm ở phần đang gây lỗ.
+
+Với 3.296 nhân viên, hàng tồn kho trên mỗi người là 6,7 tỷ — gần đúng mức bình quân ngành, và thấp hơn nhiều so với các chủ đầu tư nhà ở.
+
 ## Định giá
 
 P/E **20,7**, P/B **1,84**, ROE **9%**. Vốn hóa 40.210 tỷ. Thanh khoản 43 tỷ đồng mỗi phiên.

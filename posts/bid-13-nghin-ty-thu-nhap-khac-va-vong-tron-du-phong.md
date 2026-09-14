@@ -93,6 +93,36 @@ Thu nhập lãi thuần quý 2/2026 là 17.804 tỷ, hơn cùng kỳ **19%** —
 
 CIR cải thiện xuống 32%, mức tốt nhất trong sáu quý.
 
+## 29.997 người, dư nợ trên mỗi người cao nhất ngành
+
+BIDV vận hành **190 chi nhánh** với **29.997 nhân viên** — đông nhất trong 28 ngân hàng niêm yết.
+
+| Chỉ số 2025 | BID | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| **Dư nợ / nhân viên** | **79,1 tỷ** | 48,1 tỷ | **1/28** |
+| TOI / nhân viên | 3.041 tr | 2.518 tr | 4/28 |
+| Chi phí hoạt động / nhân viên | 1.014 tr | — | cao thứ tư |
+| **LNTT / nhân viên** | 1.260 tr | 1.203 tr | **9/28** |
+
+Đây là cặp số đáng chú ý nhất: BIDV **dẫn đầu ngành ở cột dư nợ** nhưng chỉ đứng thứ chín ở cột lợi nhuận.
+
+Mỗi nhân viên quản lý 79,1 tỷ đồng dư nợ — nhiều hơn Techcombank 33% — nhưng làm ra 1.260 triệu lợi nhuận, bằng **một nửa** Techcombank.
+
+Khối lượng tín dụng không chuyển thành lợi nhuận tương ứng. Nguyên nhân nằm ở biên lãi 2,11% — thuộc nhóm thấp nhất ngành — và ở chi phí dự phòng, đúng như phần trên của bài đã cho thấy.
+
+Dư nợ trên mỗi chi nhánh là **12.489 tỷ**, thuộc nhóm cao nhất cùng Vietcombank và VietinBank.
+
+Chất lượng tài sản ở mức trung bình khá:
+
+| | BID | VCB | CTG |
+|---|---:|---:|---:|
+| Tỷ lệ nợ xấu | **1,47%** | 0,58% | 1,10% |
+| Tỷ lệ bao phủ | **100%** | 258% | 159% |
+
+Nợ xấu 1,47% cao hơn cả hai ngân hàng quốc doanh còn lại, và bao phủ đúng 100% — tức vừa đủ, không dư.
+
+So với Vietcombank (258%), BIDV không có phần trích dư để giải phóng vào lợi nhuận những năm tới.
+
 ## Định giá
 
 P/E **8,6**, P/B **1,46**. Vốn hóa 276.906 tỷ.
@@ -106,7 +136,7 @@ Nhưng nếu một nửa mức tăng lợi nhuận ấy đến từ thu hồi n�
 ## Một số lưu ý
 
 - Giả thuyết rằng dòng "thu nhập thuần từ hoạt động khác" chủ yếu là thu hồi nợ đã xử lý rủi ro là suy luận theo thông lệ hạch toán ngành ngân hàng, chưa xác nhận bằng thuyết minh của BIDV.
-- **Không có tỷ lệ nợ xấu nhóm 3–5** — chỉ số này nằm ở thuyết minh. Tỷ lệ dự phòng trên dư nợ chỉ phản ánh mức ngân hàng chọn trích.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Không có số dư nợ đã xử lý ngoại bảng. Đây chính là con số cho biết dòng thu hồi còn nguồn để chảy bao lâu nữa, và nó quyết định phần lớn triển vọng lợi nhuận.
 - Chỉ số biên lãi em tính là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.
 - Không có CASA và không có hệ số an toàn vốn CAR.

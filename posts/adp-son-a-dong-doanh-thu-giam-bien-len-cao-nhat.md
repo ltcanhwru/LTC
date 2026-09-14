@@ -63,6 +63,29 @@ Cổ tức bốn năm: **104%, 75%, 109%, 77%** lợi nhuận. Hai trong bốn n
 
 Dòng tiền bốn năm: 95%, 74%, 61%, 120% lợi nhuận. Bốn năm cộng lại khoảng 85% — chấp nhận được nhưng không mạnh; năm 2024 doanh thu tăng 59% kéo tiền vào khoản phải thu.
 
+## 159 người và nhà máy đã khấu hao 89%
+
+Sơn Á Đông có **159 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **159** |
+| Nguyên giá tài sản cố định | 141 tỷ |
+| Hao mòn lũy kế | 126 tỷ (**89%**) |
+| **Giá trị còn lại** | **15 tỷ** |
+| **Hàng tồn kho** | **121 tỷ** |
+| Xây dựng cơ bản dở dang | **0** |
+
+Hàng tồn kho **121 tỷ** lớn gấp **8 lần** giá trị còn lại của nhà máy (15 tỷ).
+
+Với doanh nghiệp sơn, tồn kho gồm nguyên liệu hóa chất và thành phẩm — và ở quy mô này, nó là tài sản chính chứ không phải dây chuyền.
+
+Hao mòn **89%** cùng khoản xây dựng cơ bản dở dang bằng không: doanh nghiệp không đầu tư mở rộng.
+
+Điều này giải thích trực tiếp điều bài đã nêu — doanh thu giảm nhưng biên lên cao nhất: khi khấu hao gần hết, mỗi lít sơn bán ra gánh ít chi phí cố định hơn, nên biên gộp tăng ngay cả khi sản lượng giảm.
+
+Đó là cải thiện biên có nguồn gốc kế toán, không phải từ năng lực cạnh tranh.
+
 ## Định giá
 
 P/E **7,8**, P/B **2,23**. Thanh khoản 0,07 tỷ đồng mỗi phiên.

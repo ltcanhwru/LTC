@@ -53,6 +53,32 @@ Năm 2024 — năm doanh thu thấp nhất — tiền thuần từ kinh doanh l�
 
 Tiền và đầu tư tài chính 906 tỷ — bằng 19% vốn hóa 4.770 tỷ.
 
+## 220 MW và 119 người
+
+Thủy điện Sông Ba Hạ có công suất thiết kế **220 MW**, với **119 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **220 MW** |
+| Nguyên giá tài sản cố định | 4.311 tỷ |
+| **Suất đầu tư mỗi MW** | **19,6 tỷ đồng** |
+| Hao mòn lũy kế | 3.712 tỷ (**86%**) |
+| **Giá trị còn lại** | **599 tỷ** |
+| MW / nhân viên | 1,85 |
+| Phải thu khách hàng | 652 tỷ |
+
+Hao mòn **86%** — cao thứ hai trong nhóm thủy điện của loạt bài.
+
+Giá trị còn lại của toàn bộ nhà máy 220 MW chỉ **599 tỷ đồng**, trong khi khoản phải thu khách hàng là 652 tỷ.
+
+Nghĩa là **tiền người mua điện còn nợ đã lớn hơn giá trị sổ sách của cả nhà máy**.
+
+Đây là trạng thái điển hình của một nhà máy thủy điện đã vận hành lâu năm: khấu hao gần hết, chi phí kế toán rất thấp, lợi nhuận cao — nhưng cũng có nghĩa phần lớn vòng đời khấu hao đã qua.
+
+Suất đầu tư 19,6 tỷ đồng mỗi MW thuộc nhóm thấp trong bảng so sánh, phản ánh nhà máy được xây ở giai đoạn chi phí thấp hơn.
+
+Khoản phải thu 652 tỷ trên doanh nghiệp chỉ có 119 nhân viên là dòng đáng theo dõi riêng: công nợ tập trung vào một khách hàng duy nhất là đơn vị mua điện.
+
 ## Định giá
 
 P/E 8,6, P/B 2,30, cổ tức 4,2%. Thanh khoản 0,04 tỷ đồng mỗi phiên trên vốn hóa 4.770 tỷ — tức 0,0008%.

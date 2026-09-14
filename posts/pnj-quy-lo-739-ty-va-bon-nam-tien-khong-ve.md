@@ -63,6 +63,34 @@ Giá cổ phiếu giảm 33% trong một năm và 29% trong ba năm. P/B hiện 
 
 Toàn bộ luận điểm đầu tư vào PNJ lúc này gói gọn trong một câu hỏi: **quý 2/2026 là một khoản một lần, hay là quý đầu tiên của một trạng thái mới?**
 
+## 8.160 người và 15.835 tỷ hàng tồn kho
+
+PNJ có **8.160 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị | Tỷ lệ |
+|---|---:|---|
+| **Hàng tồn kho** | **15.835 tỷ** | |
+| Nguyên giá tài sản cố định | **845 tỷ** | |
+| **Tồn kho / tài sản cố định** | | **18,7 lần** |
+| Tồn kho / nhân viên | **1,94 tỷ** | |
+| Phải thu khách hàng | 49 tỷ | rất nhỏ |
+
+Đây là cấu trúc tài sản đặc thù nhất trong nhóm bán lẻ.
+
+**Hàng tồn kho 15.835 tỷ lớn gấp 18,7 lần nguyên giá toàn bộ tài sản cố định.**
+
+Với một doanh nghiệp có hàng trăm cửa hàng, con số này nói lên bản chất: tài sản thật của PNJ không phải cửa hàng mà là **vàng và đá quý nằm trong tủ kính**.
+
+Mỗi nhân viên tương ứng với 1,94 tỷ đồng hàng tồn kho.
+
+Hai hệ quả:
+
+**Vốn lưu động là ràng buộc chính.** Mở thêm cửa hàng không tốn nhiều tài sản cố định, nhưng mỗi cửa hàng cần một lượng hàng trưng bày đáng kể — nên tăng trưởng phụ thuộc vào vốn chứ không vào mặt bằng.
+
+**Giá vàng ảnh hưởng trực tiếp lên bảng cân đối.** Khối tồn kho 15.835 tỷ được ghi theo giá vốn; khi giá vàng biến động, cả giá trị tồn kho lẫn biên gộp đều thay đổi.
+
+Khoản phải thu khách hàng chỉ **49 tỷ** — gần như bằng không, đúng với bán lẻ thu tiền ngay.
+
 ## Một số lưu ý
 
 - Em chưa đối chiếu được con số lỗ 739 tỷ với báo cáo công bố chính thức và giải trình của doanh nghiệp. Dữ liệu đã tự khớp — P/E 7,82 nhân lợi nhuận bốn quý 2.442 tỷ ra đúng vốn hóa 19.087 tỷ — nhưng đó là kiểm tra nội bộ, không thay thế được việc đọc báo cáo gốc và văn bản giải trình.

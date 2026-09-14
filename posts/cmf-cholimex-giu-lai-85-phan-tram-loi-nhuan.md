@@ -48,6 +48,29 @@ Con số đó tự nó không nói lên gì về định giá, nhưng nó có m�
 
 Với một doanh nghiệp gần ba nghìn tỷ, mức giao dịch ấy nghĩa là thị trường thứ cấp thực tế không tồn tại.
 
+## 2.749 người và dây chuyền trẻ nhất nhóm thực phẩm
+
+Thực phẩm Cholimex sản xuất gia vị, nước chấm, hải sản đông lạnh và thực phẩm tinh chế, với **2.749 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 1.059 tỷ |
+| **Hao mòn lũy kế** | 328 tỷ (**31%**) |
+| **Giá trị còn lại** | **731 tỷ** |
+| Tài sản cố định / nhân viên | 385 triệu đồng |
+| Xây dựng cơ bản dở dang | 29 tỷ |
+| Hàng tồn kho | 262 tỷ |
+
+Hao mòn **31%** — mức thấp nhất trong nhóm thực phẩm và đồ uống của loạt bài.
+
+So sánh: Safoco 98%, Sabeco 78%, Vinacafé 80%, Bia Sài Gòn Miền Trung 83%.
+
+Nghĩa là Cholimex vừa hoàn tất một chu kỳ đầu tư lớn. Khối tài sản 1.059 tỷ nguyên giá còn giá trị sổ sách **731 tỷ**, và phần lớn khấu hao nằm ở phía trước.
+
+Hai hệ quả trái chiều: **biên lợi nhuận kế toán chịu áp lực** từ khấu hao lớn trong những năm tới, nhưng **dòng tiền thực cao hơn lợi nhuận báo cáo** và năng lực sản xuất còn mới.
+
+Với 2.749 nhân viên và 385 triệu đồng tài sản mỗi người, đây vẫn là mô hình thâm dụng lao động — chế biến thực phẩm cần nhiều thao tác thủ công.
+
 ## Định giá
 
 P/E 9,1, P/B 1,89. Giá tăng 10% trong một năm và 93% trong ba năm.

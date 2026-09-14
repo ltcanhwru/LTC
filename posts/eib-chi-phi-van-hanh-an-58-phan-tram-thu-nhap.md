@@ -79,6 +79,34 @@ CIR vẫn ở 55–57%. Chi phí dự phòng hai quý là 798 tỷ, gấp 2,4 l�
 
 Không có dấu hiệu nào trong sáu quý cho thấy xu hướng đã đảo chiều.
 
+## 6.234 người và lợi nhuận trên mỗi người đứng thứ 25
+
+Eximbank vận hành **48 chi nhánh** với **6.234 nhân viên**.
+
+| Chỉ số 2025 | EIB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 29,6 tỷ | 48,1 tỷ | 19/28 |
+| **TOI / nhân viên** | **1.170 tr** | 2.518 tr | **24/28** |
+| Chi phí hoạt động / nhân viên | 682 tr | — | |
+| **LNTT / nhân viên** | **243 tr** | 1.203 tr | **25/28** |
+
+Thu nhập trên mỗi nhân viên **1.170 triệu** — chưa bằng một nửa mức bình quân ngành và bằng 28% Techcombank.
+
+Đây là cách nhìn khác về con số chính của bài: khi chi phí vận hành ăn 58% thu nhập, vấn đề gốc không phải chi phí quá cao — 682 triệu mỗi nhân viên là mức trung bình — mà là **thu nhập quá thấp**.
+
+Mỗi nhân viên Eximbank tạo ra 1.170 triệu thu nhập và tiêu 682 triệu chi phí. Ở Techcombank, hai con số là 4.124 và 1.269. Chi phí gấp đôi, nhưng thu nhập gấp 3,5 lần.
+
+Chất lượng tài sản ở nửa dưới:
+
+| | EIB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Tỷ lệ nợ xấu | **2,53%** | — | cao thứ bảy |
+| **Tỷ lệ bao phủ** | **42%** | — | **thấp thứ ba** |
+
+Bao phủ 42% là thấp thứ ba trong 28 ngân hàng, chỉ trên PGBank (40%) và VietBank (44%).
+
+Nghĩa là gần 60% số nợ xấu đang có vẫn chưa được trích lập — một khoản sẽ phải ghi nhận ở đâu đó trong những năm tới.
+
 ## Định giá
 
 P/E **63,6**, P/B **1,18**. Vốn hóa 31.294 tỷ. Thanh khoản 75 tỷ đồng mỗi phiên.
@@ -99,7 +127,7 @@ Bảng số không giải thích được điều đó. Cũng như [STB](post.ht
 
 - Nguyên nhân thu dịch vụ thuần rơi từ 1.080 xuống 241 tỷ chưa xác định được. Đây là dòng quan trọng nhất của bài và cần thuyết minh để biết khoản 2024 là gì.
 - Nguyên nhân chi phí hoạt động tăng 25% trong một năm cũng chưa bóc được — có thể là chi phí nhân sự, đầu tư hệ thống, hoặc khoản một lần.
-- **Không có tỷ lệ nợ xấu nhóm 3–5.**
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Chưa tách được cơ cấu dư nợ theo ngành và nhóm khách hàng.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.
 - Không có CASA và không có hệ số an toàn vốn CAR.

@@ -66,6 +66,27 @@ M10 có biên thấp nhất trong ba mã, nhưng cũng có định giá thấp n
 
 Điểm chung của cả ba: đều tích một lượng tiền rất lớn so với vốn hóa. Đó là đặc điểm ngành may gia công — biên mỏng, nhưng khi có lãi thì gần như không cần tái đầu tư nhiều.
 
+## 7.261 người
+
+May 10 có **7.261 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **7.261** |
+| Nguyên giá tài sản cố định | 1.925 tỷ |
+| **Tài sản cố định / nhân viên** | **265 triệu đồng** |
+| Hao mòn lũy kế | 1.349 tỷ (**70%**) |
+| Hàng tồn kho | 898 tỷ |
+| Phải thu khách hàng | 596 tỷ |
+
+**265 triệu đồng tài sản cố định trên mỗi nhân viên** — cùng vùng với [TNG](post.html?p=tng-loi-nhuan-loi-gap-doi-loi-nhuan-bao-cao) (212 triệu) và May Sông Hồng (236 triệu), đúng đặc trưng ngành may.
+
+Hao mòn **70%** cao hơn cả hai doanh nghiệp trên (41% và 55%) — thiết bị của May 10 cũ hơn.
+
+Hàng tồn kho 898 tỷ và phải thu 596 tỷ cộng lại **1.494 tỷ**, bằng 78% nguyên giá tài sản cố định. Vốn lưu động lớn là đặc trưng của gia công xuất khẩu: nguyên phụ liệu nhập trước, thành phẩm giao sau, tiền về sau nữa.
+
+Điều đó giải thích con số tiền bằng 86% vốn hóa mà bài đã nêu: doanh nghiệp tích lũy tiền qua nhiều năm trong khi không tái đầu tư lớn — khoản xây dựng cơ bản dở dang chỉ 10 tỷ.
+
 ## Định giá
 
 Trừ 537 tỷ tiền khỏi vốn hóa 625 tỷ, phần còn lại chỉ **88 tỷ** cho một doanh nghiệp tạo ra 171 tỷ lợi nhuận cốt lõi mỗi năm.

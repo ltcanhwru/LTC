@@ -62,6 +62,27 @@ Nhưng quý 4/2025 cho thấy mặt còn lại: biên 11% và lõi chỉ 8 tỷ 
 
 Với biên 11–15%, chỉ cần hai điểm phần trăm thay đổi là lợi nhuận cốt lõi biến động gấp đôi.
 
+## 352 người và mô hình phân phối
+
+Dược phẩm Trung ương CPC1 có **352 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị | So với tài sản cố định |
+|---|---:|---:|
+| Nguyên giá tài sản cố định | **220 tỷ** | 1 |
+| **Hàng tồn kho** | **1.033 tỷ** | **4,7 lần** |
+| **Phải thu khách hàng** | **590 tỷ** | **2,7 lần** |
+| Hao mòn / nguyên giá | 72% | |
+
+Hàng tồn kho **1.033 tỷ** gấp 4,7 lần nguyên giá toàn bộ tài sản cố định.
+
+Đây không phải doanh nghiệp sản xuất dược mà là doanh nghiệp **phân phối dược**: mua thuốc, giữ kho, bán cho bệnh viện và nhà thuốc.
+
+Hai khoản chiếm gần toàn bộ tài sản — 1.033 tỷ tồn kho và 590 tỷ phải thu — đều là vốn lưu động.
+
+Hệ quả: tăng trưởng bị giới hạn bởi **vốn và hạn mức tín dụng**, không bởi công suất nhà máy. Và rủi ro nằm ở hạn sử dụng của thuốc trong kho cùng công nợ với hệ thống bệnh viện.
+
+Với 352 nhân viên quản lý 1.623 tỷ vốn lưu động, mỗi người phụ trách khoảng 4,6 tỷ đồng hàng và công nợ.
+
 ## Định giá
 
 P/E **4,6**, P/B **0,99** — dưới giá trị sổ sách. Thanh khoản 0,09 tỷ đồng mỗi phiên.

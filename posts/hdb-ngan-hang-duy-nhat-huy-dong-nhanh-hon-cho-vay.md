@@ -85,6 +85,34 @@ Nhưng phần lớn mức tăng đó đến từ chi phí dự phòng: quý 2/20
 
 Đây là điểm cần giữ trong đầu: nhịp tăng trưởng của HDBank đang chậm lại so với giai đoạn 2023–2025. Thu nhập lãi thuần quý 2/2026 là 9.737 tỷ, gần như đi ngang so với 9.819 tỷ cùng kỳ.
 
+## 18.922 người, dư nợ trên mỗi người thuộc nhóm thấp
+
+HDBank có **18.922 nhân viên** — ngang Sacombank và MBBank.
+
+| Chỉ số 2025 | HDB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| **Dư nợ / nhân viên** | **28,9 tỷ** | 48,1 tỷ | **21/28** |
+| TOI / nhân viên | 2.256 tr | 2.518 tr | 12/28 |
+| Chi phí hoạt động / nhân viên | 613 tr | — | thấp |
+| LNTT / nhân viên | 1.128 tr | 1.203 tr | 11/28 |
+
+Dư nợ trên mỗi nhân viên **28,9 tỷ** đứng thứ 21 trong 28 ngân hàng — thấp hơn cả những ngân hàng nhỏ hơn nhiều.
+
+Cũng như VPBank, nguyên nhân là cơ cấu: mảng tài chính tiêu dùng cần nhiều lao động cho mỗi đồng dư nợ, và nó kéo mẫu số lên.
+
+Nhưng khác VPBank, HDBank giữ được chi phí thấp (613 triệu mỗi nhân viên) và thu nhập khá, nên lợi nhuận trên mỗi người vẫn cao hơn mức bình quân ngành ở thứ hạng 11.
+
+Chất lượng tài sản ở giữa bảng:
+
+| | HDB | Bình quân 28 NH |
+|---|---:|---:|
+| Tỷ lệ nợ xấu | **1,93%** | 0,58–3,74% |
+| Tỷ lệ bao phủ | **69%** | 40–258% |
+
+Nợ xấu 1,93% và bao phủ 69% — cả hai đều ở nửa dưới nhưng chưa tới mức đáng ngại, và thấp hơn nhiều so với VPBank (3,33% và 55%) dù cùng có mảng tiêu dùng.
+
+Đây là điểm bổ sung cho nội dung chính của bài: ngân hàng duy nhất huy động nhanh hơn cho vay cũng là ngân hàng giữ được chất lượng tài sản tốt hơn mặt bằng nhóm cùng mô hình.
+
 ## Định giá
 
 P/E **7,0**, P/B **1,56**. Vốn hóa 134.141 tỷ. Thanh khoản 271 tỷ đồng mỗi phiên.
@@ -98,7 +126,7 @@ Hai điều cần theo dõi. Thứ nhất, thu nhập lãi thuần quý 2/2026 �
 ## Một số lưu ý
 
 - Số liệu là hợp nhất, gồm công ty tài chính tiêu dùng HD Saison và các công ty con khác. **Em chưa tách được phần ngân hàng mẹ** — đây là biến số giải thích phần lớn biên lãi 4,27% và cả mức chi phí dự phòng.
-- **Không có tỷ lệ nợ xấu nhóm 3–5** và không có số dư nợ đã xử lý ngoại bảng.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Không có CASA, nên chưa giải thích được vì sao HDBank huy động được nhanh như vậy mà chi phí vốn không tăng.
 - Chưa tách được cơ cấu dư nợ theo ngành và nhóm khách hàng.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.

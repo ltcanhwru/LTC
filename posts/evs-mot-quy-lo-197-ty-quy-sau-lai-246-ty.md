@@ -38,6 +38,26 @@ Dư nợ cho vay **92 tỷ** trên vốn chủ sở hữu **1.979 tỷ** — t�
 
 Vốn chủ sở hữu đứng yên bốn năm: 1.923 → 1.979 tỷ.
 
+## 213 người và 3 chi nhánh
+
+Chứng khoán Everest có **213 nhân viên** và **3 chi nhánh**.
+
+| Chỉ số 2025 | EVS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| **Doanh thu / nhân viên** | **1.295 tr** | 6.520 tr | **33/36** |
+| **Dư nợ margin / nhân viên** | **0,43 tỷ** | 21,2 tỷ | **35/36** |
+| **LNTT / nhân viên** | **84 tr** | 2.988 tr | **thấp nhất nhóm có lãi** |
+
+Ba chỉ số đều nằm ở nhóm cuối cùng của ngành.
+
+Dư nợ margin **92 tỷ** chia cho 213 nhân viên ra 0,43 tỷ mỗi người — thấp thứ hai trong 36 công ty. Hoạt động cho vay gần như không tồn tại.
+
+Doanh thu 276 tỷ trên 213 người ra 1.295 triệu mỗi người, bằng 20% mức bình quân ngành.
+
+Lợi nhuận trên mỗi nhân viên **84 triệu đồng một năm** — thấp nhất trong các công ty có lãi, thấp hơn cả Bảo Việt (184 triệu).
+
+Đây là bối cảnh cho nội dung chính của bài: một quý lỗ 197 tỷ rồi quý sau lãi 246 tỷ. Khi nền doanh thu định kỳ nhỏ đến mức này, kết quả từng quý hoàn toàn do danh mục tự doanh quyết định, và bộ máy 213 người thì vẫn phải trả lương đều.
+
 ## Định giá
 
 P/E **15,9**, P/B **0,39**, ROE **3%**. Vốn hóa 791 tỷ. Thanh khoản 1,2 tỷ đồng mỗi phiên. Sàn HNX.

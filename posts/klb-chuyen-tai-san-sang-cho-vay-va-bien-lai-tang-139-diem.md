@@ -73,6 +73,36 @@ Nhịp đều, không có quý nào phụ thuộc vào khoản một lần — k
 
 Dòng thu nhập khác của KLB chỉ 83–409 tỷ suốt bốn năm, tức 3–8% tổng thu nhập. Thu dịch vụ thuần thì tăng từ 396 lên 878 tỷ.
 
+## 4.967 người, 134 điểm giao dịch, dư nợ mỗi người thấp nhất ngành
+
+Kienlongbank vận hành **134 điểm giao dịch** với **4.967 nhân viên**.
+
+| Chỉ số 2025 | KLB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| **Dư nợ / nhân viên** | **14,4 tỷ** | 48,1 tỷ | **28/28** |
+| TOI / nhân viên | 1.048 tr | 2.518 tr | 26/28 |
+| **Chi phí hoạt động / nhân viên** | **415 tr** | — | **thấp nhất ngành** |
+| LNTT / nhân viên | 468 tr | 1.203 tr | 20/28 |
+
+Dư nợ trên mỗi nhân viên **14,4 tỷ** là thấp nhất trong 28 ngân hàng niêm yết — bằng 18% BIDV.
+
+Dư nợ trên mỗi điểm giao dịch **534 tỷ**, cũng thấp nhất, so với 13.282 tỷ của Vietcombank. Chênh lệch **25 lần**.
+
+Đây là mô hình hoàn toàn khác: rất nhiều điểm giao dịch nhỏ, phục vụ khách hàng nhỏ ở địa bàn nông thôn và tỉnh lẻ.
+
+Chi phí hoạt động **415 triệu đồng mỗi nhân viên** cũng thấp nhất ngành — bằng một phần ba Techcombank. Chính điều đó giữ cho ngân hàng vẫn có lãi dù thu nhập trên mỗi người đứng thứ 26.
+
+Chất lượng tài sản tốt hơn vị trí năng suất gợi ý:
+
+| | KLB | Bình quân 28 NH |
+|---|---:|---:|
+| Tỷ lệ nợ xấu | **2,02%** | 0,58–3,74% |
+| Tỷ lệ bao phủ | **79%** | 40–258% |
+
+Nợ xấu 2,02% ở giữa bảng và bao phủ 79% ở nửa trên — tốt hơn nhiều ngân hàng lớn hơn như SHB (58%), VIB (50%) hay OCB (47%).
+
+Đây là điểm đáng ghi nhận cho một ngân hàng nhỏ cho vay phân tán.
+
 ## Định giá
 
 P/E **4,4**, P/B **0,97**. Vốn hóa 9.025 tỷ. Thanh khoản 3,6 tỷ đồng mỗi phiên.
@@ -89,7 +119,7 @@ Và cần nhớ điểm xuất phát: ROE 10–11% của 2022–2023 mới là m
 
 ## Một số lưu ý
 
-- **Không có tỷ lệ nợ xấu nhóm 3–5.** Với một ngân hàng vừa tăng dư nợ 60% trong ba năm, chất lượng của khối cho vay mới là biến số quan trọng nhất và nó chưa lộ ra.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Chưa tách được cơ cấu dư nợ theo ngành và nhóm khách hàng.
 - Chưa rõ phần dư nợ tăng thêm thuộc phân khúc nào — cho vay cá nhân biên cao hay doanh nghiệp biên thấp; điều này quyết định biên lãi 3,85% có bền không.
 - Không có CASA và không có hệ số an toàn vốn CAR.

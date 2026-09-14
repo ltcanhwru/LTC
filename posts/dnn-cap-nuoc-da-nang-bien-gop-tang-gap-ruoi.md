@@ -36,6 +36,29 @@ Doanh thu cũng tăng đều: quý 2/2026 đạt 223 tỷ, cao hơn cùng kỳ n
 
 Dòng tiền cũng tốt: tỷ lệ tiền thuần từ kinh doanh trên lợi nhuận bốn năm là 171%, 151%, 154%, 119%. Bốn năm liền vượt lợi nhuận, đúng đặc điểm ngành có khấu hao lớn trên hệ thống ống.
 
+## 250.000 m³ mỗi ngày và 521 người
+
+Cấp nước Đồng Nai có tổng công suất **250.000 m³ mỗi ngày**, với **521 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **250.000 m³/ngày** |
+| Nguyên giá tài sản cố định | 2.582 tỷ |
+| **Suất đầu tư mỗi m³/ngày** | **10,3 triệu đồng** |
+| Hao mòn lũy kế | 1.677 tỷ (**65%**) |
+| Xây dựng cơ bản dở dang | 55 tỷ |
+| m³/ngày / nhân viên | **480** |
+
+Công suất lớn nhất trong nhóm cấp nước của loạt bài — 250.000 m³ mỗi ngày.
+
+Suất đầu tư **10,3 triệu đồng mỗi m³/ngày** cao hơn Bà Rịa – Vũng Tàu (8,6 triệu) và Vinh An (5,3 triệu), nhưng thấp hơn Viwaco (14,8 triệu).
+
+Khác biệt suất đầu tư giữa các công ty nước thường đến từ khoảng cách từ nguồn nước tới khu dân cư và địa hình đường ống — hai thứ cố định theo địa bàn.
+
+Hao mòn 65% và khoản xây dựng cơ bản dở dang 55 tỷ: hệ thống trưởng thành, không mở rộng đáng kể.
+
+Với 480 m³/ngày mỗi nhân viên, mức nhân sự tương đương mặt bằng nhóm.
+
 ## Định giá thấp nhất nhóm
 
 P/E **3,1**. P/B **0,90** — dưới giá trị sổ sách.

@@ -86,6 +86,34 @@ Dư nợ tăng 59% trong ba năm; thu nhập lãi thuần tăng 15% rồi năm 2
 
 Điểm tích cực so với phần còn lại của ngành: LDR giữ ổn định quanh 104–107% và giấy tờ có giá chỉ tăng từ 36.440 lên 53.097 tỷ — mức tăng khiêm tốn so với TCB (gấp 6,3 lần) hay ACB (gấp 3 lần). SHB không chạy đua tăng trưởng bằng nguồn vốn đắt.
 
+## 8.216 người — năng suất hạng ba, chất lượng tài sản hạng 22
+
+SHB có **8.216 nhân viên**, ít hơn một nửa MBBank và bằng 28% BIDV.
+
+| Chỉ số 2025 | SHB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| **Dư nợ / nhân viên** | **74,8 tỷ** | 48,1 tỷ | **2/28** |
+| **TOI / nhân viên** | **3.532 tr** | 2.518 tr | **3/28** |
+| Chi phí hoạt động / nhân viên | 782 tr | — | thấp so với nhóm đầu |
+| **LNTT / nhân viên** | **1.828 tr** | 1.203 tr | **3/28** |
+
+Về năng suất, SHB đứng thứ ba ngành ở cả ba chỉ số — sau Techcombank và Vietcombank.
+
+Mỗi nhân viên quản lý **74,8 tỷ đồng dư nợ**, chỉ sau BIDV, và làm ra 1.828 triệu lợi nhuận với chi phí chỉ 782 triệu.
+
+Nhưng chất lượng tài sản kể câu chuyện ngược lại:
+
+| | SHB | TCB | Vị trí trong 28 NH |
+|---|---:|---:|---|
+| **Tỷ lệ nợ xấu** | **2,90%** | 1,12% | **cao thứ sáu** |
+| **Tỷ lệ bao phủ** | **58%** | 114% | **thấp thứ chín** |
+
+Nợ xấu 2,90% cao thứ sáu trong 28 ngân hàng, và bao phủ 58% nghĩa là **hơn 40% số nợ xấu chưa được trích lập**.
+
+Đây là khoảng cách lớn nhất giữa năng suất và chất lượng tài sản trong toàn ngành: hạng ba ở lợi nhuận trên mỗi nhân viên, hạng 22 ở nợ xấu.
+
+Nó cũng là cách đọc khác cho P/B 0,75 — mức thấp nhất ngành mà bài đã nêu. Thị trường không định giá theo năng suất; nó định giá theo tấm đệm.
+
 ## Định giá
 
 P/E **4,6**, P/B **0,75**. Vốn hóa 56.414 tỷ. Thanh khoản **551 tỷ đồng mỗi phiên** — cao nhất trong 28 ngân hàng niêm yết.
@@ -109,7 +137,7 @@ Với P/B 0,75, phần bù rủi ro đang được trả rất rộng. Câu hỏ
 ## Một số lưu ý
 
 - Giả thuyết rằng "thu nhập khác" 4.811 tỷ chủ yếu là thu hồi nợ đã xử lý là suy luận theo thông lệ hạch toán ngành, chưa xác nhận bằng thuyết minh của SHB.
-- **Không có tỷ lệ nợ xấu nhóm 3–5** và không có số dư nợ đã xử lý ngoại bảng — con số thứ hai quyết định dòng thu hồi còn nguồn bao lâu.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Nguyên nhân thu dịch vụ thuần tăng 150% trong một năm chưa xác định được. Nếu là phí bảo hiểm hoặc một hợp đồng hợp tác dài hạn thì tính chất rất khác nhau.
 - Chưa tách được cơ cấu dư nợ theo ngành; mức độ tập trung vào một số nhóm khách hàng lớn là rủi ro không nhìn thấy từ bảng số.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.

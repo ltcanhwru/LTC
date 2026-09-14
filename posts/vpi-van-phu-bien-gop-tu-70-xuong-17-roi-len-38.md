@@ -63,6 +63,29 @@ Nếu vậy, khoản lãi ấy không biến mất; nó nằm trong giá vốn c
 
 Bốn năm: lợi nhuận sau thuế 1.640 tỷ, tiền thuần từ kinh doanh **âm 794 tỷ** — tức −48%.
 
+## 295 người
+
+Văn Phú Invest có **295 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 5.251 tỷ |
+| **Tài sản dở dang dài hạn** | **2.890 tỷ** |
+| Xây dựng cơ bản dở dang | 688 tỷ |
+| Đầu tư vào công ty liên kết | 2.232 tỷ |
+| Người mua trả tiền trước | 1.045 tỷ |
+| **Tồn kho / nhân viên** | **17,8 tỷ** |
+
+Ba khoản cùng tồn tại ở quy mô đáng kể: hàng tồn kho 5.251 tỷ, tài sản dở dang dài hạn 2.890 tỷ, và đầu tư vào liên kết 2.232 tỷ.
+
+Cộng lại **10.373 tỷ** — trong đó chỉ phần hàng tồn kho là hàng để bán trực tiếp.
+
+Khoản 2.232 tỷ góp vốn liên kết bằng 42% hàng tồn kho, tức một phần đáng kể hoạt động của doanh nghiệp không đi qua doanh thu hợp nhất.
+
+Tỷ lệ đã đặt cọc: 1.045 tỷ trên 5.251 tỷ, tức **20%**.
+
+Với 295 nhân viên, tồn kho trên mỗi người 17,8 tỷ — thuộc nhóm cao, bộ máy gọn so với quy mô tài sản.
+
 ## Định giá
 
 P/E **52,1**, P/B **3,88**, ROE **7%**. Vốn hóa 20.982 tỷ. Thanh khoản 151 tỷ đồng mỗi phiên.

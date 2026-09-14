@@ -66,6 +66,31 @@ Biên gộp rơi từ 31% xuống 26%.
 
 Với nợ vay bằng 49% vốn chủ, BCF ít có chỗ chịu đựng hơn SAF nếu xu hướng này kéo dài.
 
+## 582 người và nhà máy đã khấu hao 98%
+
+Lương thực Thực phẩm Safoco có **582 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 155 tỷ |
+| **Hao mòn lũy kế** | **152 tỷ** |
+| **Hao mòn / nguyên giá** | **98%** |
+| **Giá trị còn lại** | **3 tỷ** |
+| Xây dựng cơ bản dở dang | **0** |
+| Hàng tồn kho | 56 tỷ |
+
+**98%** là tỷ lệ hao mòn cao nhất trong toàn bộ các doanh nghiệp của loạt bài này.
+
+Giá trị còn lại của toàn bộ nhà máy: **3 tỷ đồng** trên nguyên giá 155 tỷ.
+
+Và khoản xây dựng cơ bản dở dang **bằng không**.
+
+Điều này có nghĩa: chi phí khấu hao trong bảng kết quả kinh doanh gần như đã biến mất. Lợi nhuận hiện tại được hưởng lợi trực tiếp từ đó.
+
+Nhưng nó cũng có nghĩa **toàn bộ dây chuyền đã ở cuối vòng đời kế toán**, và không có gì đang được xây để thay thế.
+
+Với một doanh nghiệp sản xuất mì và bún khô, thiết bị vẫn có thể chạy tốt sau khi hết khấu hao. Nhưng chi phí bảo trì tăng dần, và một khoản tái đầu tư là điều sớm muộn — khi đó khấu hao quay lại bảng kết quả kinh doanh ở mức hoàn toàn khác.
+
 ## Định giá
 
 Cả hai đều ở P/E cao so với nhóm: SAF 14,1 và BCF 16,1 — trong khi [SGC](post.html?p=sgc-sa-giang-doanh-thu-tang-67-phan-tram) cùng ngành chế biến nông sản chỉ ở 5,7 với lợi nhuận cốt lõi tăng 153%.

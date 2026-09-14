@@ -53,6 +53,25 @@ Với một tổ chức cho vay doanh nghiệp không có tài sản bảo đả
 
 Lợi nhuận trước thuế vẫn tăng **143%** trong ba năm, lên 1.104 tỷ.
 
+## 455 người và dư nợ 40 tỷ mỗi người
+
+EVNFinance có **455 nhân viên**.
+
+| Chỉ số 2025 | EVF | TIN | [28 ngân hàng](post.html?p=28-ngan-hang-khoang-trong-13-trieu-ty) |
+|---|---:|---:|---:|
+| Nhân viên | **455** | 1.736 | 297.723 |
+| **Dư nợ / nhân viên** | **≈ 40 tỷ** | 8,6 tỷ | 48,1 tỷ |
+
+Đây là con số giải thích trọn vẹn vì sao CIR của EVNFinance chỉ 13% — thấp nhất trong toàn bộ các tổ chức tín dụng niêm yết.
+
+Với **455 nhân viên**, EVNFinance quản lý dư nợ trên mỗi người gấp gần **5 lần** Tín Việt và tiệm cận mức bình quân của cả ngành ngân hàng.
+
+Nguyên nhân nằm ở khách hàng: EVNFinance cho vay doanh nghiệp và dự án, nơi mỗi hồ sơ có quy mô lớn. Tín Việt cho vay tiêu dùng, nơi mỗi hồ sơ nhỏ.
+
+Cùng một đồng dư nợ, mô hình thứ nhất cần ít người hơn nhiều lần.
+
+Đó là lợi thế cấu trúc, không phải kết quả của việc quản trị tốt hơn — và nó cũng đi kèm đánh đổi: danh mục tập trung vào ít khách hàng lớn thì một khoản chuyển nhóm cũng đủ thay đổi bức tranh.
+
 ## Định giá
 
 P/E **9,2**, P/B **0,85**, ROE **10%**. Vốn hóa 8.899 tỷ. Thanh khoản 15 tỷ đồng mỗi phiên.

@@ -61,6 +61,26 @@ Với 45% doanh thu từ tự doanh và một nền khách hàng rất nhỏ, k�
 
 Điểm tích cực: lãi cho vay đang tăng trở lại — 27 → 49 tỷ qua bốn quý.
 
+## 166 người
+
+Chứng khoán Tiên Phong có **166 nhân viên** và **1 chi nhánh**.
+
+| Chỉ số 2025 | ORS | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| **Doanh thu / nhân viên** | **8.941 tr** | 6.520 tr | **8/36** |
+| Dư nợ margin / nhân viên | 8,8 tỷ | 21,2 tỷ | 25/36 |
+| LNTT / nhân viên | 889 tr | 2.988 tr | 23/36 |
+
+Đây là tổ hợp đáng chú ý: doanh thu trên mỗi nhân viên đứng thứ tám ngành, nhưng lợi nhuận trên mỗi người đứng thứ 23.
+
+Khoảng cách mười lăm bậc đó cho biết doanh thu 1.484 tỷ không chuyển thành lợi nhuận — và nội dung chính của bài giải thích vì sao: mảng tư vấn trái phiếu sập 97%.
+
+Dư nợ margin trên mỗi nhân viên chỉ 8,8 tỷ, đứng thứ 25 — công ty không tổ chức quanh cho vay.
+
+Với 166 người và vốn chủ 7.638 tỷ, đây là bộ máy rất nhỏ trên một nền vốn lớn. Dư nợ margin 1.460 tỷ chỉ bằng **0,19 lần** vốn chủ — thấp nhất trong nhóm công ty có quy mô vốn tương đương.
+
+Nghĩa là phần lớn vốn chủ chưa được đưa vào hoạt động sinh lời nào.
+
 ## Định giá
 
 P/E **20,6**, P/B **1,04**, ROE **6%**. Vốn hóa 8.111 tỷ. Thanh khoản 44 tỷ đồng mỗi phiên.

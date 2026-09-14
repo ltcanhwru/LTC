@@ -56,6 +56,30 @@ Nhưng phải đọc kèm dòng tiền. Một doanh nghiệp có nợ vay 67.391
 
 Vốn chủ sở hữu tăng từ 47.291 lên 58.893 tỷ trong năm 2025 — thêm 11.602 tỷ trong khi lợi nhuận chỉ 1.861 tỷ. Phần chênh gần 10 nghìn tỷ đến từ nguồn khác, nhiều khả năng là phát hành cổ phiếu hoặc chuyển đổi trái phiếu.
 
+## 1.975 người giữ 153.324 tỷ hàng tồn kho
+
+Novaland triển khai **hơn 40 dự án nhà ở và hơn 5 dự án nghỉ dưỡng**, với **1.975 nhân viên**.
+
+| Chỉ số cuối 2025 | NVL | Vị trí trong nhóm |
+|---|---:|---|
+| Hàng tồn kho | **153.324 tỷ** | lớn thứ hai sau VIC |
+| Nhân viên | 1.975 | |
+| **Tồn kho / nhân viên** | **77,6 tỷ** | **cao nhất trong 35 mã** |
+| Xây dựng cơ bản dở dang | **357 tỷ** | rất nhỏ |
+| Người mua trả tiền trước | 20.353 tỷ | |
+
+**77,6 tỷ đồng hàng tồn kho trên mỗi nhân viên** là mức cao nhất trong 35 doanh nghiệp bất động sản niêm yết — gấp 13,6 lần mức bình quân ngành (5,7 tỷ).
+
+Con số này nói lên bản chất của vấn đề Novaland: **doanh nghiệp có rất nhiều đất và rất ít người để bán nó**.
+
+Một chi tiết đáng đọc cùng: chi phí xây dựng cơ bản dở dang chỉ **357 tỷ** — gần như bằng không so với 153.324 tỷ tồn kho.
+
+Nghĩa là khối tài sản khổng lồ này nằm ở **hàng tồn kho** (đất, chi phí phát triển dự án dở dang) chứ không ở **tài sản dở dang dài hạn** (hạ tầng để giữ lại vận hành). Toàn bộ được ghi nhận là hàng để bán.
+
+Khoản người mua trả tiền trước 20.353 tỷ chỉ bằng **13%** hàng tồn kho — tức 87% khối hàng chưa có người mua đặt cọc.
+
+Đó là khoảng cách phải lấp, và mỗi năm chờ là một năm chi phí lãi vay chạy trên toàn bộ 153.324 tỷ.
+
 ## Định giá
 
 P/E **6,9**, P/B **0,60**. Vốn hóa 29.305 tỷ. Thanh khoản 148 tỷ đồng mỗi phiên.

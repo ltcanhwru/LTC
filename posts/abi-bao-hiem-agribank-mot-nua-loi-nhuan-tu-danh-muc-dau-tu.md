@@ -106,6 +106,26 @@ Cùng lúc, vốn góp tăng từ 516 lên **1.013 tỷ** — gần gấp đôi 
 
 Với công ty bảo hiểm, tăng vốn không hoàn toàn là lựa chọn — quy mô vốn quyết định mức phí được phép nhận và biên khả năng thanh toán. Nhưng nó có nghĩa cổ đông hiện hữu phải chấp nhận ROE thấp dần trong khi chờ vốn mới sinh lời.
 
+## 861 người
+
+Bảo hiểm Agribank có **861 nhân viên**.
+
+| Chỉ số 2025 | Giá trị |
+|---|---:|
+| Nhân viên | **861** |
+| Doanh thu phí bảo hiểm | ~2.400 tỷ |
+| **Phí bảo hiểm / nhân viên** | **≈ 2,8 tỷ** |
+
+Với **861 nhân viên**, ABI là doanh nghiệp bảo hiểm phi nhân thọ có bộ máy gọn.
+
+Điểm quyết định của mô hình này không nằm ở số nhân viên mà ở **kênh phân phối**: sản phẩm được bán qua mạng lưới chi nhánh của ngân hàng mẹ, nên doanh nghiệp không phải xây hệ thống đại lý riêng.
+
+Đó là lợi thế chi phí có tính cấu trúc — và cũng là phụ thuộc có tính cấu trúc.
+
+Khác với các doanh nghiệp sản xuất trong loạt bài này, bảo hiểm gần như không có tài sản cố định đáng kể. Tài sản thật là **danh mục đầu tư** hình thành từ phí thu trước và dự phòng nghiệp vụ.
+
+Vì vậy hai chỉ số cần theo dõi không phải doanh thu trên mỗi nhân viên, mà là **tỷ lệ kết hợp** (bồi thường cộng chi phí trên phí thuần) và **lợi suất danh mục đầu tư** — hai thứ đã nêu ở phần trên của bài.
+
 ## Định giá
 
 P/E **6,6**, P/B **1,02**. Thanh khoản 0,19 tỷ đồng mỗi phiên.

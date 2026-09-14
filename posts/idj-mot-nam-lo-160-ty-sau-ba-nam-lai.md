@@ -64,6 +64,26 @@ Nợ vay tăng từ 200 lên 386 tỷ — gấp 1,9 lần, nhưng vẫn chỉ b�
 
 Dòng tiền bốn năm: lợi nhuận sau thuế 193 tỷ, tiền thuần từ kinh doanh **50 tỷ** — tức 26%. Thấp nhưng không âm.
 
+## 136 người
+
+IDJ có **136 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 714 tỷ |
+| **Người mua trả tiền trước** | **313 tỷ** |
+| **Tỷ lệ đã đặt cọc** | **44%** |
+| Đầu tư vào công ty liên kết | 360 tỷ |
+| Bất động sản đầu tư | 199 tỷ |
+
+Tỷ lệ đã đặt cọc **44%** thuộc nhóm cao trong ngành — gần một nửa hàng tồn kho đã có khách trả tiền trước.
+
+Điều này cần đọc cùng nội dung chính của bài: khoản người mua trả tiền trước đã **giảm 85%** từ 2.091 tỷ xuống 313 tỷ.
+
+Nghĩa là tỷ lệ 44% hiện tại là kết quả của việc **cả tử số lẫn mẫu số cùng co lại** — hàng tồn kho giảm 60% và tiền khách hàng giảm 85%. Doanh nghiệp đã bàn giao phần lớn sản phẩm và chưa có chu kỳ bán mới thay thế.
+
+Với 136 nhân viên và 714 tỷ hàng tồn kho, quy mô hiện tại nhỏ hơn nhiều so với giai đoạn trước.
+
 ## Định giá
 
 P/E **25,1**, P/B **0,33**, ROE **−11%**. Vốn hóa 607 tỷ. Thanh khoản 1,4 tỷ đồng mỗi phiên. Sàn HNX.

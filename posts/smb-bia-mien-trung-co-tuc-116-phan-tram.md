@@ -51,6 +51,29 @@ Cổ tức chi 58–93% lợi nhuận, tỷ suất hiện tại **11,6%** — ca
 
 Nợ vay 21% vốn chủ sở hữu. Tiền và đầu tư tài chính 432 tỷ — bằng **36% vốn hóa** 1.203 tỷ.
 
+## 502 người và nhà máy đã khấu hao 83%
+
+Bia Sài Gòn – Miền Trung được hợp nhất từ ba nhà máy tại Quy Nhơn, Phú Yên và Đắk Lắk, với **502 nhân viên** và **2 chi nhánh**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | **1.622 tỷ** |
+| Hao mòn lũy kế | 1.346 tỷ (**83%**) |
+| **Giá trị còn lại** | **276 tỷ** |
+| **Tài sản cố định / nhân viên** | **3,2 tỷ** |
+| Xây dựng cơ bản dở dang | **0** |
+| Hàng tồn kho | 191 tỷ |
+
+**3,2 tỷ đồng tài sản cố định trên mỗi nhân viên** — mức tự động hóa cao, cùng vùng với [Sabeco](post.html?p=sab-doanh-thu-mat-mot-phan-tu-bien-van-mo-ra) (1,95 tỷ) nhưng trên quy mô nhỏ hơn nhiều.
+
+Hao mòn **83%** và khoản xây dựng cơ bản dở dang **bằng không**.
+
+Ba nhà máy bia còn giá trị sổ sách 276 tỷ trên nguyên giá 1.622 tỷ, và không có dây chuyền nào đang được xây thay thế.
+
+Giống Sabeco nhưng ở mức cực đoan hơn: doanh nghiệp đang thu hoạch hoàn toàn từ khối tài sản cũ.
+
+Điều đó giữ cho biên lợi nhuận cao trong ngắn hạn, nhưng công suất là trần cố định và chi phí bảo trì sẽ tăng dần.
+
 ## Định giá
 
 Ở giá 40.300 đồng: P/E 6,8, P/B 1,85, cổ tức 11,6%. Giá tăng 11% trong một năm và 40% trong ba năm.

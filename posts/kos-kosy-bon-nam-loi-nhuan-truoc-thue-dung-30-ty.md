@@ -58,6 +58,27 @@ Toàn bộ bảng cân đối đứng yên.
 
 Bốn năm: lợi nhuận sau thuế 84 tỷ, tiền thuần từ kinh doanh **âm 505 tỷ**.
 
+## 86 người giữ 2.583 tỷ
+
+Kosy có **86 nhân viên** — ít nhất trong nhóm có hàng tồn kho trên nghìn tỷ.
+
+| Chỉ số cuối 2025 | KOS |
+|---|---:|
+| Hàng tồn kho | 2.583 tỷ |
+| Nhân viên | **86** |
+| **Tồn kho / nhân viên** | **30,0 tỷ** |
+| Người mua trả tiền trước | **19 tỷ** |
+| **Tỷ lệ đã đặt cọc** | **0,7%** |
+| Trả trước cho người bán | 454 tỷ |
+
+Tồn kho trên mỗi nhân viên **30 tỷ** — cao thứ sáu trong 35 doanh nghiệp.
+
+Nhưng dòng quan trọng hơn là tỷ lệ đặt cọc **0,7%**: 19 tỷ tiền khách hàng trên 2.583 tỷ hàng tồn kho.
+
+Đây là một trong những mức thấp nhất trong toàn bộ nhóm — cùng vùng với Lideco (0,7%) và thấp hơn cả Phát Đạt (1,4%).
+
+Với 86 nhân viên và gần như không có lực bán, khối hàng 2.583 tỷ chưa có dấu hiệu chuyển thành tiền trong ngắn hạn.
+
 ## Định giá
 
 P/E **262,4**, P/B **3,07**, ROE **1%**. Vốn hóa 7.198 tỷ. Thanh khoản 9,0 tỷ đồng mỗi phiên.

@@ -59,6 +59,31 @@ Quý 2/2026 cho lợi nhuận sau thuế 105 tỷ trên doanh thu 191 tỷ — c
 
 Một quý chưa đảo ngược được xu hướng ba năm, nhưng nó là quý đầu tiên khá hơn cùng kỳ.
 
+## 150 MW và 161 người
+
+Thủy điện Thác Mơ có công suất thiết kế **150 MW** (hai tổ máy 75 MW), với **161 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **150 MW** |
+| Nguyên giá tài sản cố định | 3.335 tỷ |
+| **Suất đầu tư mỗi MW** | **22,2 tỷ đồng** |
+| Hao mòn lũy kế | 2.617 tỷ (**78%**) |
+| Giá trị còn lại | 718 tỷ |
+| MW / nhân viên | 0,93 |
+| Đầu tư vào công ty liên kết | 164 tỷ |
+| Phải thu khách hàng | 219 tỷ |
+
+Hao mòn **78%** đặt Thác Mơ vào nhóm nhà máy đã qua phần lớn vòng đời khấu hao.
+
+Suất đầu tư 22,2 tỷ đồng mỗi MW nằm đúng mức trung bình của nhóm thủy điện niêm yết — cùng vùng với Sê San 4A và Quế Phong.
+
+Khoản phải thu khách hàng 219 tỷ khiêm tốn so với các nhà máy khác trong nhóm (Cần Đơn 744 tỷ, Đa Nhim 710 tỷ, Sông Ba Hạ 652 tỷ), cho thấy chu kỳ thanh toán tốt hơn.
+
+Khoản 164 tỷ đầu tư vào công ty liên kết là phần hoạt động ngoài phát điện, không đi qua doanh thu hợp nhất.
+
+Với 0,93 MW mỗi nhân viên, mức nhân sự nằm giữa nhóm.
+
 ## Định giá
 
 Ở giá 52.500 đồng: P/E 10,4, P/B 2,20, cổ tức 4,2%. Giá giảm 10% trong một năm.

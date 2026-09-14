@@ -106,6 +106,38 @@ ROE 14% hiện thấp hơn VCB (16%), BID (17%), CTG (19%), MBB (19%), ACB (17%)
 
 Vốn chủ 179.501 tỷ trên tổng tài sản 1,192 triệu tỷ là tỷ lệ vốn cao — 15%, cao nhất nhóm lớn. Đây là bộ đệm an toàn, nhưng nó cũng là lý do ROE thấp: ngân hàng đang giữ nhiều vốn hơn mức cần để tạo ra lợi nhuận hiện tại.
 
+## 12.946 người làm ra nhiều lợi nhuận nhất ngành
+
+Techcombank có **12.946 nhân viên** — bằng 43% BIDV và 45% VietinBank. Nhưng mỗi người trong số đó làm ra nhiều hơn bất kỳ ngân hàng nào khác:
+
+| Chỉ số 2025 | TCB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 59,3 tỷ | 48,1 tỷ | 5/28 |
+| **TOI / nhân viên** | **4.124 tr** | 2.518 tr | **1/28** |
+| Chi phí hoạt động / nhân viên | **1.269 tr** | — | **cao nhất ngành** |
+| **LNTT / nhân viên** | **2.513 tr** | 1.203 tr | **1/28** |
+
+Đây là con số quan trọng nhất để hiểu Techcombank.
+
+Ngân hàng **không** dẫn đầu ở dư nợ trên mỗi nhân viên — BIDV cho vay 79,1 tỷ mỗi người, SHB 74,8 tỷ, Vietcombank 70,3 tỷ, đều cao hơn.
+
+Nhưng ở cột thu nhập, Techcombank đạt **4.124 triệu đồng mỗi nhân viên**, bỏ xa ngân hàng đứng thứ hai (MBB, 3.594 triệu) và gấp **6,4 lần** Saigonbank.
+
+Nghĩa là mỗi đồng dư nợ của Techcombank mang lại nhiều thu nhập hơn — qua biên lãi cao hơn, qua phí, hoặc cả hai.
+
+Ngân hàng cũng trả chi phí cao nhất ngành: **1.269 triệu đồng mỗi nhân viên**, so với 415 triệu của Kienlongbank. Nhưng vì thu nhập cao hơn nhiều, phần còn lại vẫn là 2.513 triệu — cao nhất.
+
+Chất lượng tài sản thuộc nhóm tốt nhất, dù chưa bằng khối quốc doanh:
+
+| | TCB | VCB | CTG |
+|---|---:|---:|---:|
+| Tỷ lệ nợ xấu | **1,12%** | 0,58% | 1,10% |
+| Tỷ lệ bao phủ | **114%** | 258% | 159% |
+
+Nợ xấu 1,12% thấp thứ ba trong 28 ngân hàng, và bao phủ 114% nghĩa là đã trích nhiều hơn số nợ xấu đang có.
+
+Đây là điểm cần đặt cạnh phần trên của bài: **cấu trúc nguồn vốn của Techcombank rủi ro hơn mặt bằng ngành, nhưng chất lượng tài sản thì không** — và năng suất trên mỗi nhân viên là tốt nhất.
+
 ## Định giá
 
 P/E **8,3**, P/B **1,25**. Vốn hóa 223.925 tỷ. Thanh khoản 528 tỷ đồng mỗi phiên — cao thứ hai trong ngành.
@@ -118,7 +150,7 @@ Mô hình tăng trưởng hiện tại — cho vay nhanh hơn huy động rồi 
 
 ## Một số lưu ý
 
-- **Không có tỷ lệ nợ xấu nhóm 3–5** và không có số dư nợ tái cơ cấu. Với một ngân hàng có tỷ trọng cho vay bất động sản lớn, đây là thông tin quan trọng nhất còn thiếu.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Chưa tách được cơ cấu dư nợ theo ngành. Mức độ tập trung vào bất động sản và xây dựng là rủi ro chính của mô hình TCB và nó không có trong bảng cân đối chuẩn.
 - Số liệu là hợp nhất, gồm cả công ty chứng khoán TCBS. Em chưa tách được phần đóng góp của công ty con khỏi phần ngân hàng mẹ — điều này ảnh hưởng trực tiếp đến cách đọc dòng thu dịch vụ và lãi chứng khoán đầu tư.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.

@@ -98,6 +98,33 @@ Hai năm 2022 và 2024, lợi nhuận thuộc cổ đông công ty mẹ **lớn 
 
 Nói cách khác: một phần đáng kể khoản lỗ trong hệ thống không xuất hiện ở dòng lợi nhuận mà cổ đông VIC nhìn thấy.
 
+## 67.300 người và 131.775 tỷ đang xây dở
+
+Vingroup có **67.300 nhân viên** — nhiều nhất trong toàn bộ các doanh nghiệp niêm yết em đã viết, gấp hơn hai lần BIDV.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | **201.580 tỷ** |
+| **Chi phí xây dựng cơ bản dở dang** | **131.775 tỷ** |
+| Bất động sản đầu tư | 19.354 tỷ |
+| Người mua trả tiền trước | **139.519 tỷ** |
+| **Trả trước cho người bán** | **84.195 tỷ** |
+| Đầu tư vào công ty liên kết | 10.438 tỷ |
+
+Khoản **131.775 tỷ xây dựng cơ bản dở dang** là con số lớn nhất ở dòng này trong toàn thị trường niêm yết — gấp 3,7 lần ACV và gấp 12 lần Hòa Phát.
+
+Nó không tạo ra một đồng doanh thu nào và cũng chưa chịu khấu hao. Đây là toàn bộ phần nhà máy, hạ tầng và dự án đang xây của tập đoàn.
+
+Cộng với 201.580 tỷ hàng tồn kho, Vingroup đang giữ **333.355 tỷ tài sản chưa sinh lời hoặc mới sinh lời một phần**.
+
+Hai dòng đối ứng cho biết tiền đến từ đâu: **139.519 tỷ người mua trả tiền trước** — khách hàng đã đặt cọc cho sản phẩm chưa bàn giao — và nợ vay.
+
+Dòng đáng chú ý nhất có lẽ là **84.195 tỷ trả trước cho người bán**. Đây là tiền đã chuyển cho nhà thầu và nhà cung cấp trước khi nhận hàng, và ở quy mô này nó lớn hơn toàn bộ hàng tồn kho của mọi doanh nghiệp bất động sản niêm yết khác trừ Novaland.
+
+Hàng tồn kho trên mỗi nhân viên chỉ **3 tỷ đồng** — thấp so với nhóm chủ đầu tư thuần (Novaland 77,6 tỷ, Khang Điền 67,2 tỷ). Nguyên nhân là 67.300 nhân viên của Vingroup phần lớn làm ở các mảng ngoài bất động sản: sản xuất, y tế, giáo dục, bán lẻ.
+
+Đó cũng là điều khiến mọi tỷ suất hợp nhất của Vingroup khó so sánh trực tiếp với các doanh nghiệp bất động sản khác.
+
 ## Định giá
 
 P/E **88,0**, P/B **10,96**. Vốn hóa **1.874.877 tỷ** — lớn nhất thị trường, gấp 3,2 lần doanh nghiệp đứng thứ hai. Thanh khoản 1.415 tỷ đồng mỗi phiên.

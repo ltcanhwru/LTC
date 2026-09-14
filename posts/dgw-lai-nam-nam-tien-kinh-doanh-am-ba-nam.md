@@ -51,6 +51,27 @@ Với một nhà phân phối, biên tăng 4 điểm phần trăm là thay đổ
 
 Một quý chưa đủ để kết luận. Nhưng nếu biên 13% giữ được, kinh tế học của DGW đổi hẳn.
 
+## 769 người và mô hình gần như không có tài sản
+
+Digiworld có **769 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị | So với tài sản cố định |
+|---|---:|---:|
+| Nguyên giá tài sản cố định | **118 tỷ** | 1 |
+| **Hàng tồn kho** | **4.436 tỷ** | **38 lần** |
+| **Phải thu khách hàng** | **3.223 tỷ** | **27 lần** |
+| Hao mòn / nguyên giá | 52% | |
+
+Nguyên giá toàn bộ tài sản cố định **118 tỷ** — nhỏ hơn hàng tồn kho 38 lần.
+
+Đây là mô hình **phân phối thuần**: mua hàng của hãng, giữ kho, bán cho đại lý và nhà bán lẻ. Không nhà máy, không cửa hàng riêng.
+
+Hai khoản chiếm gần như toàn bộ tài sản — 4.436 tỷ hàng tồn kho và 3.223 tỷ phải thu — đều là **vốn lưu động**, không phải tài sản dài hạn.
+
+Hệ quả quan trọng nhất: tăng trưởng của Digiworld bị giới hạn bởi **vốn lưu động và hạn mức tín dụng**, không bởi công suất. Mỗi đồng doanh thu tăng thêm đòi hỏi thêm hàng trong kho và thêm công nợ cho khách.
+
+Rủi ro cũng nằm đúng ở đó: hàng tồn kho thiết bị công nghệ mất giá nhanh, và 3.223 tỷ phải thu là công nợ với hệ thống bán lẻ.
+
 ## Định giá
 
 Ở giá 44.400 đồng: P/E 11,8, P/B 2,64, cổ tức 2,3%. P/B trung bình năm năm của chính DGW là 3,81 — cổ phiếu đang ở khoảng **69% mức định giá lịch sử** của nó.

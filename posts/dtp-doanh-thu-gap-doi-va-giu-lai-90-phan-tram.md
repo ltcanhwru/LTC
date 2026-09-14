@@ -54,6 +54,28 @@ Tiền không nằm trong tài khoản. Nó đã được đưa vào vốn lưu 
 
 Đây là mẫu hình tăng trưởng tự tài trợ: lợi nhuận giữ lại quay vòng thành hàng tồn kho và khoản phải thu, chứ không tích thành tiền mặt cũng không phải vay ngoài.
 
+## 1.919 người và dây chuyền trẻ nhất nhóm dược
+
+Dược phẩm CPC1 Hà Nội có **1.919 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 769 tỷ |
+| **Hao mòn lũy kế** | 381 tỷ (**50%**) |
+| **Xây dựng cơ bản dở dang** | **146 tỷ** |
+| Hàng tồn kho | 424 tỷ |
+| Phải thu khách hàng | 308 tỷ |
+
+Hao mòn **50%** — thấp nhất trong nhóm dược của loạt bài, so với Traphaco 67%, Pymepharco 68%, Dược phẩm Trung ương 1 là 72%.
+
+Cộng với **146 tỷ đang xây dở** (bằng 19% nguyên giá), đây là doanh nghiệp dược đang ở giai đoạn đầu tư chứ không phải thu hoạch.
+
+Với ngành dược, chu kỳ đầu tư gắn với tiêu chuẩn nhà máy: đạt chuẩn cao hơn thì được tham gia nhóm đấu thầu có giá tốt hơn.
+
+Hệ quả cần chuẩn bị: khi 146 tỷ này hoàn thành, khấu hao tăng và biên gộp chịu áp lực trước khi doanh thu từ dây chuyền mới kịp bù.
+
+Với 1.919 nhân viên và 769 tỷ nguyên giá — 401 triệu đồng mỗi người — đây là mô hình thâm dụng lao động hơn so với các doanh nghiệp dược cùng nhóm.
+
 ## Định giá
 
 P/E 8,6, P/B 1,84. Thanh khoản 0,31 tỷ đồng mỗi phiên trên vốn hóa 2.357 tỷ.

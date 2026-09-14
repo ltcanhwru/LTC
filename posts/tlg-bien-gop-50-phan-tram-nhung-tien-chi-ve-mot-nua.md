@@ -52,6 +52,28 @@ Với một doanh nghiệp hàng tiêu dùng biên 50%, con số đó thấp hơ
 
 Chi đầu tư so với khấu hao: 206%, 119%, 87%, 135%. Doanh nghiệp vẫn đang mở rộng năng lực.
 
+## 3.360 người
+
+Thiên Long có **3.360 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Nguyên giá tài sản cố định | 1.382 tỷ |
+| Hao mòn lũy kế | 872 tỷ (**63%**) |
+| Tài sản cố định / nhân viên | 411 triệu đồng |
+| Xây dựng cơ bản dở dang | 30 tỷ |
+| Đầu tư vào công ty liên kết | 180 tỷ |
+| Hàng tồn kho | 815 tỷ |
+| Phải thu khách hàng | 771 tỷ |
+
+Hàng tồn kho 815 tỷ và phải thu khách hàng 771 tỷ cộng lại **1.586 tỷ** — lớn hơn nguyên giá toàn bộ tài sản cố định.
+
+Đây là đặc trưng của doanh nghiệp hàng tiêu dùng bán qua hệ thống phân phối rộng: vốn nằm ở hàng trong kênh và công nợ với đại lý nhiều hơn ở nhà máy.
+
+Hao mòn **63%** và khoản xây dựng cơ bản dở dang chỉ **30 tỷ** cho biết doanh nghiệp không trong chu kỳ đầu tư mở rộng. Năng lực sản xuất hiện tại là trần của những năm tới.
+
+Với 3.360 nhân viên và 411 triệu đồng tài sản mỗi người, đây là mô hình cân bằng giữa sản xuất và phân phối.
+
 ## Định giá
 
 Ở giá 49.800 đồng: P/E 10,5, P/B 1,96, cổ tức 6,8%. Giá tăng 13% trong một năm.

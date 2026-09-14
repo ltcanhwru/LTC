@@ -55,6 +55,29 @@ Nói cách khác: gần như không có khách hàng nào đang trả tiền cho
 
 Nợ vay 5.544 tỷ, bằng 45% vốn chủ — mức vừa phải theo chuẩn ngành.
 
+## 275 người giữ 16.715 tỷ
+
+Phát Đạt có **275 nhân viên** — ít nhất trong nhóm chủ đầu tư có quỹ đất trên 10 nghìn tỷ.
+
+| Chỉ số cuối 2025 | PDR | Vị trí trong 35 mã |
+|---|---:|---|
+| Hàng tồn kho | 16.715 tỷ | |
+| Nhân viên | **275** | |
+| **Tồn kho / nhân viên** | **60,8 tỷ** | **cao thứ ba** |
+| Người mua trả tiền trước | **238 tỷ** | |
+| **Tỷ lệ đã đặt cọc** | **1,4%** | **thấp nhất nhóm lớn** |
+| Trả trước cho người bán | 4.080 tỷ | |
+
+Tồn kho trên mỗi nhân viên **60,8 tỷ** — cao thứ ba trong 35 doanh nghiệp.
+
+Nhưng dòng quan trọng hơn là tỷ lệ đặt cọc: **238 tỷ trên 16.715 tỷ hàng tồn kho, tức 1,4%** — thấp nhất trong nhóm chủ đầu tư quy mô lớn.
+
+Con số này thấp hơn cả Khang Điền (2,8%) và thấp hơn rất nhiều so với Vinhomes (38%).
+
+Với một chủ đầu tư, khoản người mua trả tiền trước là tín hiệu sớm nhất: nó xuất hiện trước doanh thu vài quý tới vài năm. Mức 1,4% cho biết lượng hàng đã bán được rất nhỏ so với lượng hàng đang giữ.
+
+Khoản **4.080 tỷ trả trước cho người bán** cũng lớn — bằng 24% hàng tồn kho — tức tiền đã ứng cho nhà thầu và đối tác nhưng chưa thành sản phẩm.
+
 ## Định giá
 
 P/E **19,1**, P/B **0,93**, ROE **5%**. Vốn hóa 11.724 tỷ. Thanh khoản 62 tỷ đồng mỗi phiên.

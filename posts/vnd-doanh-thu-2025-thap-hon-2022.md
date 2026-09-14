@@ -68,6 +68,25 @@ Nghĩa là mức tăng lợi nhuận đến từ danh mục đầu tư, không t
 
 Đó là cùng một mô hình đã thấy ở [VIX](post.html?p=vix-83-phan-tram-tu-doanh-va-mot-quy-lo-97-phan-tram) — và VIX vừa cho thấy mô hình ấy đảo chiều nhanh thế nào khi thị trường đổi hướng.
 
+## 979 người
+
+VNDirect có **979 nhân viên** — đông thứ ba ngành.
+
+| Chỉ số 2025 | VND | Bình quân 36 CTCK | Vị trí |
+|---|---:|---:|---|
+| Nhân viên | **979** | 385 | 3/36 |
+| Doanh thu / nhân viên | 6.783 tr | 6.520 tr | 12/36 |
+| **Dư nợ margin / nhân viên** | **14,6 tỷ** | 21,2 tỷ | 18/36 |
+| LNTT / nhân viên | 2.562 tr | 2.988 tr | 10/36 |
+
+Ba thứ hạng đều nằm quanh giữa bảng, dù công ty thuộc nhóm lớn nhất về quy mô tuyệt đối.
+
+Dư nợ margin trên mỗi nhân viên **14,6 tỷ** đứng thứ 18 — thấp hơn mức bình quân ngành và bằng một phần ba HSC (42,2 tỷ).
+
+Đây là cách nhìn khác về nội dung chính của bài: khi doanh thu năm 2025 thấp hơn năm 2022, phần bị mất chủ yếu là các mảng cần nhiều người — môi giới và tư vấn — trong khi mảng cho vay, thứ cần ít người nhất, lại chưa được đẩy lên tương ứng.
+
+Với 979 nhân viên và 14.319 tỷ dư nợ, công ty đang giữ một bộ máy lớn hơn mức mà cơ cấu doanh thu hiện tại đòi hỏi.
+
 ## Định giá
 
 P/E **8,5**, P/B **1,08**. Vốn hóa 23.063 tỷ. Thanh khoản 155 tỷ đồng mỗi phiên.

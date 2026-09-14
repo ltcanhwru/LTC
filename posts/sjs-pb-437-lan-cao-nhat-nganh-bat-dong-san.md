@@ -51,6 +51,26 @@ Khoản người mua trả tiền trước 681 tỷ, bằng **16%** giá trị t
 
 Nợ vay 1.064 tỷ, bằng 31% vốn chủ — mức vừa phải.
 
+## 429 người
+
+Sudico có **429 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 4.242 tỷ |
+| **Tài sản dở dang dài hạn** | **2.455 tỷ** |
+| Xây dựng cơ bản dở dang | 14 tỷ |
+| Người mua trả tiền trước | 681 tỷ |
+| Tồn kho / nhân viên | 9,9 tỷ |
+
+Điểm đáng chú ý là khoảng cách giữa hai dòng giữa: tài sản dở dang dài hạn **2.455 tỷ** trong khi chi phí xây dựng cơ bản dở dang chỉ **14 tỷ**.
+
+Nghĩa là phần lớn 2.455 tỷ đó nằm ở **chi phí sản xuất kinh doanh dở dang dài hạn** — tức chi phí phát triển dự án chưa đủ điều kiện kết chuyển, không phải công trình xây dựng.
+
+Cộng với 4.242 tỷ hàng tồn kho, doanh nghiệp đang giữ **6.697 tỷ** tài sản dự án chưa tạo doanh thu.
+
+Tỷ lệ đã đặt cọc: 681 tỷ trên 4.242 tỷ tồn kho, tức **16%**.
+
 ## Định giá
 
 P/E **27,6**, P/B **4,37**, ROE **18%**. Vốn hóa 16.837 tỷ. Thanh khoản **2,1 tỷ đồng mỗi phiên**.

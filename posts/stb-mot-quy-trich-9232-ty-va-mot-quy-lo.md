@@ -63,6 +63,35 @@ Nửa đầu 2026 cộng lại: lãi 2.931 tỷ so với 5.791 tỷ cùng kỳ, 
 
 Sau bốn quý, tổng mức trích là 17.395 tỷ. Nếu đây là chu kỳ dọn dẹp thì nó chưa kết thúc.
 
+## 18.638 người và 123 chi nhánh, nhưng lợi nhuận đứng thứ 21
+
+Sacombank vận hành **123 chi nhánh** với **18.638 nhân viên** — quy mô nhân sự ngang MBBank.
+
+| Chỉ số 2025 | STB | MBB | Vị trí của STB |
+|---|---:|---:|---|
+| Nhân viên | 18.638 | 18.836 | tương đương |
+| Dư nợ / nhân viên | **33,6 tỷ** | 57,6 tỷ | 15/28 |
+| TOI / nhân viên | **1.720 tr** | 3.594 tr | 20/28 |
+| Chi phí hoạt động / nhân viên | 700 tr | 1.045 tr | |
+| **LNTT / nhân viên** | **409 tr** | 1.819 tr | **21/28** |
+
+Hai ngân hàng có số nhân viên gần như bằng nhau. MBBank làm ra lợi nhuận trên mỗi người **gấp 4,4 lần**.
+
+Đây là cách nhìn khác về cùng vấn đề mà phần trên của bài đã nêu: quy mô nhân sự và mạng lưới của Sacombank tương đương nhóm dẫn đầu, nhưng thu nhập tạo ra thì không.
+
+Thu nhập trên mỗi nhân viên **1.720 triệu** đứng thứ 20 trong 28 ngân hàng — thấp hơn cả những ngân hàng nhỏ hơn nhiều như SSB (2.644) hay VAB (2.322).
+
+Chất lượng tài sản ở nửa dưới:
+
+| | STB | Bình quân nhóm lớn |
+|---|---:|---:|
+| Tỷ lệ nợ xấu | **2,40%** | ~1,3% |
+| Tỷ lệ bao phủ | **68%** | ~120% |
+
+Nợ xấu 2,40% cao thứ tám trong 28 ngân hàng và bao phủ 68% ở nửa dưới — nghĩa là gần một phần ba số nợ xấu chưa được trích lập.
+
+Đó là ràng buộc trực tiếp lên lợi nhuận những năm tới, và nó giải thích vì sao một quý phải trích tới 9.232 tỷ.
+
 ## Định giá: con số khó nhất của bài này
 
 P/E **47,3**, P/B **2,32**. Vốn hóa 145.727 tỷ. Thanh khoản 272 tỷ đồng mỗi phiên.
@@ -83,7 +112,7 @@ Và có một chi tiết ủng hộ phần kỳ vọng: bộ đệm dự phòng 
 
 ## Một số lưu ý
 
-- **Không có tỷ lệ nợ xấu nhóm 3–5** và không có số dư trái phiếu VAMC hay tài sản tồn đọng chờ xử lý. Đây chính là những con số cần để phân biệt hai cách giải thích trái ngược về khoản trích 11.384 tỷ — chất lượng tài sản xấu đi, hay dọn dẹp chủ động.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Toàn bộ phần "định giá kỳ vọng" là suy luận từ khoảng cách giữa P/B 2,32 và các chỉ số kinh doanh, không dựa trên thông tin cụ thể nào về tiến trình xử lý.
 - Tên doanh nghiệp trong nguồn dữ liệu là "Ngân hàng TMCP Sài Gòn Tài Lộc"; em dùng đúng tên nguồn ghi và chưa kiểm chứng thời điểm đổi tên.
 - Chỉ số biên lãi là thu nhập lãi thuần chia tổng tài sản bình quân, không phải NIM chuẩn.

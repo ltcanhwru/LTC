@@ -47,6 +47,28 @@ Nợ vay giảm đều: 582 → 284 tỷ, tức **51%** trong ba năm. Phù hợ
 
 Chi phí tài chính 35–64 tỷ mỗi năm, và đó là lý do lợi nhuận trước thuế âm ở hai trong bốn năm dù lợi nhuận từ lõi có năm dương.
 
+## 138 người và 14 tỷ hàng tồn kho
+
+Danh Khôi có **138 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| **Hàng tồn kho** | **14 tỷ** |
+| Người mua trả tiền trước | **3 tỷ** |
+| Xây dựng cơ bản dở dang | 0 |
+| Đầu tư vào công ty liên kết | 103 tỷ |
+| Bất động sản đầu tư | 66 tỷ |
+
+Hàng tồn kho **14 tỷ đồng** cho toàn doanh nghiệp.
+
+Chi phí xây dựng cơ bản dở dang bằng 0. Người mua trả tiền trước 3 tỷ.
+
+Ba con số đó cùng nhau cho biết doanh nghiệp hiện **không có dự án nào đang bán và không có dự án nào đang xây** trên bảng cân đối hợp nhất.
+
+Tài sản còn lại chủ yếu là 103 tỷ góp vốn vào công ty liên kết và 66 tỷ bất động sản đầu tư.
+
+Với 138 nhân viên trên nền tài sản này, cấu trúc chi phí và cấu trúc tài sản không khớp nhau.
+
 ## Định giá
 
 P/E **22,5**, P/B **0,41**, ROE **2%**. Vốn hóa 426 tỷ. Thanh khoản 4,4 tỷ đồng mỗi phiên. Sàn HNX.

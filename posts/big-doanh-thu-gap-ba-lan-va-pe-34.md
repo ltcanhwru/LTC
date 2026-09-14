@@ -51,6 +51,26 @@ Bốn năm: lợi nhuận sau thuế 49 tỷ, tiền thuần từ kinh doanh **�
 
 Với một doanh nghiệp đang tăng trưởng doanh thu 3 lần, dòng tiền âm là bình thường — vốn lưu động phình theo. Nhưng nó cũng có nghĩa lợi nhuận chưa thành tiền.
 
+## 64 người và 13 tỷ hàng tồn kho
+
+BIG Invest Group có **64 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| **Hàng tồn kho** | **13 tỷ** |
+| Người mua trả tiền trước | **2 tỷ** |
+| Xây dựng cơ bản dở dang | 0 |
+| Bất động sản đầu tư | 20 tỷ |
+| Phải thu khách hàng | 51 tỷ |
+
+Hàng tồn kho **13 tỷ**, bất động sản đầu tư **20 tỷ**, không có công trình nào đang xây.
+
+Tổng tài sản liên quan tới bất động sản của doanh nghiệp là 33 tỷ đồng — nhỏ hơn khoản phải thu khách hàng 51 tỷ.
+
+Với 64 nhân viên, đây là quy mô của một công ty dịch vụ nhỏ chứ không phải một chủ đầu tư.
+
+Mọi chỉ số ngành bất động sản — vòng quay tồn kho, tỷ lệ đặt cọc, dòng tiền do tích đất — đều không có ý nghĩa ở quy mô này.
+
 ## Định giá
 
 P/E **3,4**, P/B **0,45**, ROE **21%**. Vốn hóa 160 tỷ. Thanh khoản 1,4 tỷ đồng mỗi phiên. Sàn UPCOM.

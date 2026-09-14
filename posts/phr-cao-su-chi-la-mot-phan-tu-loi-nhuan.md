@@ -58,6 +58,29 @@ Cách đúng hơn là tách làm ba phần:
 
 Phần thứ ba là phần khó định giá nhất và cũng là phần quyết định. Nó không xuất hiện đầy đủ trên bảng cân đối, vì đất cao su được ghi theo giá trị vườn cây chứ không theo giá trị chuyển đổi.
 
+## 3.396 người và 15.227 hecta cao su
+
+Cao su Phước Hòa quản lý **15.227 ha đất trồng cao su**, với **3.396 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Diện tích cao su | **15.227 ha** |
+| **Hecta / nhân viên** | **4,5 ha** |
+| Nguyên giá tài sản cố định | 3.038 tỷ |
+| **Giá trị sổ sách mỗi hecta** | ≈ **200 triệu đồng** |
+| Hao mòn / nguyên giá | **43%** |
+| Xây dựng cơ bản dở dang | 402 tỷ |
+| Bất động sản đầu tư | 160 tỷ |
+| Đầu tư vào công ty liên kết | 428 tỷ |
+
+Giá trị sổ sách khoảng **200 triệu đồng mỗi hecta** — cao hơn [tập đoàn mẹ GVR](post.html?p=gvr-22445-ty-tien-mat-no-vay-2973-ty) (154 triệu/ha), phản ánh vườn cây trẻ hơn và vị trí đất gần khu công nghiệp hơn.
+
+Đây là con số nền để đọc luận điểm chuyển đổi đất: khi một hecta cao su được chuyển sang đất khu công nghiệp, giá trị thị trường cao hơn mức ghi sổ nhiều lần, và phần chênh hiện ra ở dòng lợi nhuận khác.
+
+Ba dòng cuối bảng cho thấy quá trình đó đang diễn ra: **402 tỷ xây dựng cơ bản dở dang**, **160 tỷ bất động sản đầu tư** và **428 tỷ góp vốn liên kết** — đều là các khoản liên quan tới hạ tầng khu công nghiệp chứ không tới trồng cao su.
+
+Hao mòn 43% cho biết vườn cây và tài sản còn tương đối trẻ, tức dòng tiền từ mủ vẫn còn nhiều năm.
+
 ## Một số lưu ý
 
 - Em chưa có số liệu diện tích đất còn lại và diện tích đã ký chuyển đổi. Đó là biến số quan trọng nhất của PHR và nó nằm trong tài liệu đại hội cổ đông, không có trong báo cáo tài chính.

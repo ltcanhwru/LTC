@@ -59,6 +59,34 @@ Thu nhập lãi thuần quý 2/2026 là 522 tỷ, cao nhất chuỗi và hơn c�
 
 Điểm đáng chú ý: thu nhập lãi thuần bốn quý của năm 2025 gần như đứng yên (458–482 tỷ) trong khi tổng thu nhập tăng từ 506 lên 776 tỷ. Nghĩa là phần tăng đến từ các dòng ngoài lãi — và với một ngân hàng nhỏ, đó thường là các khoản không định kỳ.
 
+## 1.893 người và tấm đệm mỏng nhất ngành
+
+PGBank vận hành **18 chi nhánh** với **1.893 nhân viên** — ít thứ hai trong 28 ngân hàng niêm yết.
+
+| Chỉ số 2025 | PGB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| Dư nợ / nhân viên | 24,5 tỷ | 48,1 tỷ | 26/28 |
+| TOI / nhân viên | 1.307 tr | 2.518 tr | 22/28 |
+| Chi phí hoạt động / nhân viên | 595 tr | — | |
+| LNTT / nhân viên | 384 tr | 1.203 tr | 22/28 |
+
+Dư nợ trên mỗi nhân viên 24,5 tỷ đứng thứ 26, và dư nợ trên mỗi chi nhánh **2.574 tỷ**.
+
+Quy mô nhỏ ở mọi chiều — đó là bối cảnh của việc tổng tài sản tăng 81% mà biên lãi vẫn giảm: ngân hàng mở rộng bảng cân đối nhanh hơn khả năng tạo thu nhập từ nó.
+
+Chất lượng tài sản là điểm đáng lo nhất:
+
+| | PGB | Vị trí trong 28 NH |
+|---|---:|---|
+| Tỷ lệ nợ xấu | **2,57%** | cao thứ sáu |
+| **Tỷ lệ bao phủ** | **40%** | **thấp nhất ngành** |
+
+Tỷ lệ bao phủ **40%** là thấp nhất trong 28 ngân hàng niêm yết.
+
+Nghĩa là **60% số nợ xấu đang có chưa được trích lập** — tỷ lệ chưa trích cao nhất ngành.
+
+Với thu nhập 1.307 triệu đồng mỗi nhân viên, phần còn thiếu đó là khoản lớn so với năng lực tạo lợi nhuận hiện tại.
+
 ## Định giá
 
 P/E **10,1**, P/B **0,86**. Vốn hóa 7.095 tỷ. Thanh khoản **0,2 tỷ đồng mỗi phiên**. Sàn UPCOM.
@@ -73,7 +101,7 @@ Thanh khoản 0,2 tỷ đồng mỗi phiên trên vốn hóa 7.095 tỷ khiến 
 
 ## Một số lưu ý
 
-- **Không có tỷ lệ nợ xấu nhóm 3–5** — đáng tiếc khi chi phí dự phòng đang ăn 46–50% lợi nhuận trước dự phòng.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Chưa bóc được phần tài sản ngoài dư nợ đã tăng thêm 20 nghìn tỷ trong ba năm; đây là nguyên nhân trực tiếp của việc biên lãi trên tổng tài sản giảm.
 - Chưa xác định được các dòng ngoài lãi đóng góp vào mức tăng tổng thu nhập quý 3–4/2025 là gì.
 - Chưa tách được cơ cấu dư nợ theo ngành và nhóm khách hàng.

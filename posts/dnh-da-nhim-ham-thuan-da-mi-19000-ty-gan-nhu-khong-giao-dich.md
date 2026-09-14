@@ -57,6 +57,31 @@ Nguyên nhân gần như chắc chắn là cơ cấu sở hữu: đây là doanh
 
 Với nhà đầu tư cá nhân, hệ quả rất cụ thể: có thể phân tích DNH như một bài tập hay, nhưng khó biến phân tích đó thành một vị thế có ý nghĩa.
 
+## 642,5 MW và 248 người
+
+Thủy điện Đa Nhim – Hàm Thuận – Đa Mi có công suất lắp đặt **642,5 MW**, vận hành bởi **248 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **642,5 MW** |
+| Nguyên giá tài sản cố định | **15.507 tỷ** |
+| **Suất đầu tư mỗi MW** | **24,1 tỷ đồng** |
+| Hao mòn lũy kế | 11.216 tỷ (**72%**) |
+| **MW / nhân viên** | **2,59** |
+| Phải thu khách hàng | 710 tỷ |
+
+**2,59 MW trên mỗi nhân viên** là mức cao nhất trong nhóm thủy điện niêm yết — Đa Nhim vận hành nhiều công suất nhất với ít người nhất tương đối.
+
+Suất đầu tư **24,1 tỷ đồng mỗi MW** để so sánh với các nhà máy khác trong nhóm: Thác Mơ 22,2 tỷ, Sông Ba Hạ 19,6 tỷ, Cần Đơn 18,8 tỷ, và Sê San 4A 22,2 tỷ.
+
+Nhưng dòng quan trọng nhất là hao mòn **72%**.
+
+Với thủy điện, đây là con số quyết định. Nhà máy đã khấu hao gần ba phần tư nguyên giá, nghĩa là **chi phí khấu hao còn phải trích mỗi năm ngày càng nhỏ** trong khi sản lượng điện không đổi — nước vẫn chảy như cũ.
+
+Đó là lý do biên lợi nhuận của thủy điện tăng dần theo tuổi nhà máy, ngược với hầu hết các ngành khác.
+
+Mặt còn lại: khi khấu hao hết, doanh nghiệp không còn lá chắn thuế từ khấu hao, và tài sản vật lý thì vẫn cần bảo trì.
+
 ## Một số lưu ý
 
 - Em không có sản lượng điện theo triệu kWh, giá bán bình quân và số liệu thủy văn của ba nhà máy. Không có chúng thì không tách được doanh thu đổi vì nước hay vì giá.

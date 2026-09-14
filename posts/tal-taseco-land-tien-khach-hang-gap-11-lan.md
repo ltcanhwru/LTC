@@ -60,6 +60,27 @@ Ghép lại: doanh nghiệp vay tiền xây dự án, và một phần ba giá t
 
 Đó là mô hình đang chạy đúng chu kỳ — khác hẳn [PDR](post.html?p=pdr-hai-quy-loi-nhuan-loi-am-tai-chinh-bu-vao) (tồn kho 16.715 tỷ, đặt cọc 238 tỷ) hay [NVL](post.html?p=nvl-bon-nam-lai-134-ty-tien-ra-22789-ty) (153.324 tỷ và 20.353 tỷ).
 
+## 679 người và tỷ lệ đặt cọc 33%
+
+Taseco Land có **679 nhân viên**.
+
+| Khoản mục cuối 2025 | Giá trị |
+|---|---:|
+| Hàng tồn kho | 7.306 tỷ |
+| **Người mua trả tiền trước** | **2.446 tỷ** |
+| **Tỷ lệ đã đặt cọc** | **33%** |
+| Xây dựng cơ bản dở dang | 1.017 tỷ |
+| Trả trước cho người bán | 1.212 tỷ |
+| Tồn kho / nhân viên | 10,8 tỷ |
+
+Tỷ lệ đã đặt cọc **33%** thuộc nhóm cao trong ngành — cao hơn Nam Long (30%) và cao hơn rất nhiều so với Khang Điền (2,8%) hay Phát Đạt (1,4%).
+
+Với một chủ đầu tư, đây là chỉ số đáng tin hơn doanh thu quý: nó cho biết sản phẩm có bán được không, trước khi doanh thu được ghi nhận.
+
+Khoản **1.017 tỷ xây dựng cơ bản dở dang** là nguồn cung tiếp theo, và nó bằng 14% hàng tồn kho hiện có.
+
+Tồn kho trên mỗi nhân viên 10,8 tỷ — gần gấp đôi mức bình quân ngành, cho thấy bộ máy gọn so với quy mô dự án.
+
 ## Định giá
 
 P/E **12,7**, P/B **1,99**, ROE **15%**. Vốn hóa 11.164 tỷ. Thanh khoản **4,0 tỷ đồng mỗi phiên**.

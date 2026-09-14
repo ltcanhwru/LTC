@@ -72,6 +72,34 @@ Thu nhập lãi thuần tăng đều sáu quý liền: 2.164 → 2.525 tỷ. CIR
 
 Và chi phí dự phòng hai quý là 1.394 tỷ, cao hơn cùng kỳ (1.012 tỷ) — nên mức tăng lợi nhuận này là thật.
 
+## 6.944 người, dư nợ trên mỗi người thứ 22
+
+OCB vận hành **57 chi nhánh** với **6.944 nhân viên**.
+
+| Chỉ số 2025 | OCB | Bình quân 28 NH | Vị trí |
+|---|---:|---:|---|
+| **Dư nợ / nhân viên** | **28,6 tỷ** | 48,1 tỷ | **22/28** |
+| TOI / nhân viên | 1.669 tr | 2.518 tr | 20/28 |
+| Chi phí hoạt động / nhân viên | 605 tr | — | thấp |
+| **LNTT / nhân viên** | **723 tr** | 1.203 tr | **18/28** |
+
+Dư nợ trên mỗi nhân viên **28,6 tỷ** đứng thứ 22 trong 28 ngân hàng, và thu nhập trên mỗi người 1.669 triệu đứng thứ 20.
+
+Ngân hàng giữ chi phí thấp — 605 triệu mỗi nhân viên, thuộc nhóm tiết kiệm nhất — nhưng nền thu nhập mỏng khiến phần còn lại vẫn dưới mức bình quân ngành.
+
+Dư nợ trên mỗi chi nhánh: **3.487 tỷ**.
+
+Chất lượng tài sản thuộc nhóm cần theo dõi:
+
+| | OCB | Vị trí trong 28 NH |
+|---|---:|---|
+| **Tỷ lệ nợ xấu** | **3,17%** | **cao thứ tư** |
+| **Tỷ lệ bao phủ** | **47%** | **thấp thứ tư** |
+
+Nợ xấu 3,17% cao thứ tư và bao phủ 47% thấp thứ tư — OCB nằm ở nửa dưới của cả hai cột.
+
+Đây là bối cảnh quan trọng cho nội dung chính của bài: khi trái phiếu chiếm 30% nguồn vốn, ngân hàng vừa chịu chi phí vốn cao hơn, vừa có tấm đệm mỏng cho phần tài sản mà nguồn vốn đó tài trợ.
+
 ## Định giá
 
 P/E **7,0**, P/B **0,87**. Vốn hóa 31.238 tỷ. Thanh khoản 29 tỷ đồng mỗi phiên.
@@ -86,7 +114,7 @@ Rủi ro đối trọng nằm ở cấu trúc nguồn vốn: LDR 132% và 30% ng
 
 ## Một số lưu ý
 
-- **Không có tỷ lệ nợ xấu nhóm 3–5.** Tỷ lệ dự phòng trên dư nợ 1,80% chỉ cho biết mức ngân hàng chọn trích.
+- **Tỷ lệ nợ xấu và tỷ lệ bao phủ ở phần trên lấy từ công bố của ngân hàng, không cùng thời điểm với bảng cân đối dùng trong bài** — phần lớn là cuối 2024, riêng VCB, CTG, BID, MBB và VPB là 2025. Không có cơ cấu theo nhóm 3, 4, 5, nên chưa biết bao nhiêu trong số đó là nợ có khả năng mất vốn.
 - Không có kỳ hạn bình quân của 64.671 tỷ giấy tờ có giá, nên chưa đánh giá được áp lực tái tài trợ — thông tin quan trọng nhất còn thiếu với một ngân hàng có 30% nguồn vốn từ thị trường.
 - Chưa tách được cơ cấu dư nợ theo ngành; tỷ trọng cho vay bất động sản của OCB là rủi ro thường được nhắc và nó không có trong bảng cân đối chuẩn.
 - Không có CASA — chỉ số giải thích vì sao tiền gửi khách hàng chỉ tăng 5,3% trong năm 2025.

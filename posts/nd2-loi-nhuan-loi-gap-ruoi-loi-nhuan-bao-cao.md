@@ -50,6 +50,28 @@ Chính dòng tiền đó đang được dùng để trả nợ và chia cổ t�
 
 Tiền và đầu tư tài chính chỉ 107 tỷ, bằng 6% vốn hóa 1.640 tỷ — thấp, đúng với một doanh nghiệp đang ưu tiên trả nợ thay vì tích tiền.
 
+## 156 MW và 83 người
+
+Đầu tư và Phát triển Điện Miền Bắc 2 vận hành các nhà máy với công suất lắp máy **72 MW** và **84 MW**, với **83 nhân viên**.
+
+| Chỉ số cuối 2025 | Giá trị |
+|---|---:|
+| Công suất | **≈ 156 MW** |
+| Nguyên giá tài sản cố định | 2.142 tỷ |
+| **Suất đầu tư mỗi MW** | **≈ 13,7 tỷ đồng** |
+| **Hao mòn lũy kế** | 908 tỷ (**42%**) |
+| MW / nhân viên | **1,88** |
+
+Hai con số nổi bật theo hai hướng khác nhau.
+
+**Suất đầu tư 13,7 tỷ đồng mỗi MW là thấp nhất** trong nhóm thủy điện của loạt bài — thấp hơn Đa Nhim (24,1 tỷ) gần một nửa.
+
+Và **hao mòn chỉ 42%**, thấp nhất nhóm. Nhà máy còn trẻ, còn hơn một nửa vòng đời khấu hao phía trước.
+
+Hai điều đó kết hợp lại tạo ra một hồ sơ khác hẳn các thủy điện cũ: chi phí khấu hao mỗi năm vẫn còn lớn, nên biên lợi nhuận kế toán thấp hơn — nhưng tài sản mới hơn, ít rủi ro bảo trì lớn, và dòng tiền thực cao hơn lợi nhuận kế toán đáng kể.
+
+Với 83 nhân viên cho 156 MW, mức tự động hóa tương đương các nhà máy lớn hơn nhiều.
+
 ## Định giá
 
 P/E 8,3, P/B 2,62, cổ tức 4,6%. Thanh khoản 0,06 tỷ đồng mỗi phiên.

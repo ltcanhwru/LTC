@@ -68,6 +68,29 @@ Bốn năm cộng lại: lợi nhuận sau thuế 17.728 tỷ, tiền thuần t�
 
 Con số đó thấp bất thường cho mô hình này. Bảng số tổng hợp không cho biết nguyên nhân; nó có thể liên quan đến các giao dịch với bên liên quan trong tập đoàn, hoặc đến việc phân loại các khoản đầu tư.
 
+## 2.224 người và 27.231 tỷ bất động sản đầu tư
+
+Vincom Retail có **2.224 nhân viên**, và bảng cân đối của doanh nghiệp này khác hẳn mọi mã còn lại trong nhóm:
+
+| Khoản mục cuối 2025 | VRE | Chủ đầu tư nhà ở điển hình |
+|---|---:|---|
+| **Bất động sản đầu tư** | **27.231 tỷ** | vài trăm tỷ |
+| **Hàng tồn kho** | **236 tỷ** | hàng chục nghìn tỷ |
+| Xây dựng cơ bản dở dang | 267 tỷ | |
+| Người mua trả tiền trước | 309 tỷ | |
+
+Hàng tồn kho **236 tỷ** — bằng 0,15% Novaland.
+
+Toàn bộ giá trị nằm ở **27.231 tỷ bất động sản đầu tư**: các trung tâm thương mại đang cho thuê.
+
+Đây không phải doanh nghiệp phát triển bất động sản. Đây là doanh nghiệp **cho thuê mặt bằng bán lẻ** — mô hình có doanh thu định kỳ hàng tháng, hợp đồng nhiều năm, và không phụ thuộc vào chu kỳ bán nhà.
+
+Hệ quả: mọi chỉ số đặc trưng của ngành bất động sản — vòng quay tồn kho, tỷ lệ người mua trả trước, dòng tiền âm do tích đất — đều **không áp dụng được** cho VRE.
+
+Với 2.224 nhân viên vận hành khối tài sản 27.231 tỷ, mỗi người phụ trách khoảng 12,2 tỷ đồng mặt bằng cho thuê.
+
+Đó là con số nên dùng để đánh giá VRE, thay cho các chỉ số của nhóm chủ đầu tư.
+
 ## Định giá
 
 P/E **8,0**, P/B **1,22**, ROE **15%**. Vốn hóa 58.171 tỷ. Thanh khoản 142 tỷ đồng mỗi phiên.
